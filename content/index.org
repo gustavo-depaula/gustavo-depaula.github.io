@@ -1,0 +1,162 @@
+#+TITLE: Gustavo de Paula
+
+* About me
+Hello, it's nice to have you here!
+
+*I solve problems by writing software and talking to people!*
+
+My primary background is building client-side applications with Javascript.
+Lately I've also been doing server-side applications with Django and Python. I'm
+also studying to specialize in Machine Learning & Artificial Intelligence.
+Currently, I'm an Engineering Manager, so I'm also learning quite a lot about
+that.
+
+👨‍💻 Leading a small team [[https://www.loggi.com/][@ Loggi]] \\
+👨‍🎓 Studying Computer Science [[https://london.ac.uk/courses/computer-science][@ University of London]] \\
+🏡 Living in  🇧🇷Brazil 🇧🇷
+
+* Q&A
+** Where can I follow you?
+(please don't follow me in real life)
+
+You can send me a DM at Linkedin: https://www.linkedin.com/in/gustavo-depaula/ \\
+Follow my art page at twitter: https://twitter.com/ClassicalCharm \\
+Let's play chess: https://www.chess.com/member/dpgu \\
+Here's my Github: https://github.com/gustavo-depaula
+
+** Why do you use Comic Sans?
+Because it's the best font ever invented, for everything. And because I know
+nothing about typography.
+
+I also use it for coding and love it: https://github.com/dtinth/comic-mono-font
+
+Wholeheartedly recommend trying it. For me, it helped with me stopping
+misreading words and swapping letters/words.
+
+There's also an interesting side-effect. People tend to unfairly ridiculize
+Comic Sans. So the content you write on it needs to be really good to
+breakthrough this initial prejudice.
+
+** Do you have any hobbies?
+I do! Glad you asked!
+
+Here's a list of topics I'm interested in:
+- Chess (add me on chess.com!)
+- Language learning (currently learning 🇫🇷French 🇫🇷)
+- Board Games, I really like these ones:
+  + [[https://boardgamegeek.com/boardgame/220/high-society][High Society]]
+  + [[https://boardgamegeek.com/boardgame/237182/root][Root]]
+- Digital Games
+  + [[https://www.factorio.com/][Factorio]]
+  + [[https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/][Civilization VI]]
+- Walking in the park
+- Finance/Investing
+- Discovering classical art through https://artvee.com/
+- Music
+  + recently, I've bought a vynil of Future Nostalgia, by Dua Lipa
+  + let's do a [[https://techcrunch.com/2021/08/31/spotify-officially-launches-blend-allowing-friends-to-match-their-musical-tastes-and-make-playlists-together/][Spotify Blend!]]
+
+** What's your favorite piece of (neo-)classical art?
+*"When The Heart Is Young" (1902)* \\
+John William Godward (1861-1922) 🇬🇧
+
+[[./images/godward.jpg]]
+
+Download it here: https://artvee.com/dl/when-the-heart-is-young/
+
+** Have you watched Hamilton?
+Yes. Yes. YES. Absolutely loved it.
+
+Here's a list of some of my favorite lines:
+#+begin_quote
+Hamilton doesn't hesitate \\
+He exhibits no restraint \\
+He takes and he takes and he takes \\
+And he keeps winning anyway \\
+He changes the game \\
+He plays and he raises the stakes \\
+#+end_quote
+
+#+begin_quote
+Why do you write like you're running out of time? \\
+Write day and night like you're running out of time? \\
+#+end_quote
+
+#+begin_quote
+And when my time is up \\
+Have I done enough?
+#+end_quote
+
+#+begin_quote
+Eliza, I don't have a dollar to my name \\
+An acre of land, a troop to command, a dollop of fame \\
+All I have's my honor, a tolerance for pain \\
+A couple of college credits and my top-notch brain \\
+#+end_quote
+
+#+begin_quote
+You have no control who lives, who dies, who tells your story \\
+I know that we can win \\
+I know that greatness lies in you \\
+But remember from here on in, history has its eyes on you \\
+#+end_quote
+
+Here's also a list of things you should see after you've watched the musical:
+- [[https://www.youtube.com/watch?v=WNFf7nMIGnE][Lin-Manuel Miranda Performs at the White House Poetry Jam: (8 of 8)]]
+- [[https://www.youtube.com/watch?v=ZPrAKuOBWzw][Hamilton cast performs "Alexander Hamilton" at White House]]
+  + (also watch the follow-ups: [[https://www.youtube.com/playlist?list=PLKV-NbgfXV0n71jqug5xZhjAUfqaTuau_]] . I
+    was not able to find all the songs, if you find it, PLEASE send it to me.)
+- [[https://www.youtube.com/watch?v=yWK1B1EiQ7U][Hamilton and Motifs: Creating Emotional Paradoxes]]
+- [[https://www.youtube.com/watch?v=EZkANYGycNU][All deleted songs from Hamilton]]
+
+Recommended readings:
+- [[https://www.vox.com/2015/11/28/9801376/hamilton-election-of-1800-burr-jefferson][The real-life election of 1800 was even wilder than Hamilton the musical lets
+  on]]
+- [[https://www.ushistory.org/us/18b.asp][Hamilton's Financial Plan]]
+- [[https://constitutioncenter.org/interactive-constitution][Interactive Constitution]]
+- [[https://en.wikipedia.org/wiki/Federalist_No._10][Federalist No. 10]]
+- [[https://www.monticello.org/][The Jefferson Monticello]]
+  + especially [[https://www.monticello.org/paradox/][Paradox of Liberty]]
+- [[https://en.wikipedia.org/wiki/Elizabeth_Schuyler_Hamilton][Elizabeth Schuyler Hamilton]]
+  + a sad story: [[https://en.wikipedia.org/wiki/Angelica_Hamilton][Angelica Hamilton]]
+- [[https://en.wikipedia.org/wiki/Gilbert_du_Motier,_Marquis_de_Lafayette][Gilbert du Motier, Marquis de Lafayette]]
+
+** Where did you study?
+I did high school at the Technical School of the Federal University of Minas
+Gerais (Coltec-UFMG). There, I graduated in Technician in Systems Development.
+I'm grateful I had the opportunity to go there and glad I made the choice (one
+of the best I made in my life!).
+
+Currently, I'm doing BSc Computer Science in a distance learning program in
+Goldsmiths, University of London.
+
+** When will you graduate from your university?
+Please don't ask.
+
+** What languages do you speak?
+Currently:
+- 🇧🇷 Portuguese
+- 🇺🇸 English
+
+Learning:
+- 🇫🇷 French
+
+Want to learn:
+- 🇪🇸 Spanish
+
+Maybe:
+- 🇩🇪 German
+- 🇮🇹 Italian
+- 🇱🇻 Lettish
+- 🇰🇷 Korean
+
+** By any chance, have you taken a photo of a majestic duck?
+Yes, I do! This one was found in "Parque da Água Branca", São Paulo.
+
+[[./images/majestic-duck.jpeg]]
+
+** What's your political position?
+Peace & the pursuit of happines.
+
+** What do you think about X?
+I have not studied enough about X to utter a thoughtful position.
