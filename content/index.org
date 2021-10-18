@@ -101,6 +101,20 @@ I know that greatness lies in you \\
 But remember from here on in, history has its eyes on you \\
 #+end_quote
 
+#+begin_quote
+Love doesn't discriminate
+Between the sinners and the saints
+It takes and it takes and it takes
+And we keep loving anyway
+#+end_quote
+
+#+begin_quote
+Death doesn't discriminate
+Between the sinners and the saints
+It takes and it takes and it takes
+And we keep living anyway
+#+end_quote
+
 Here's also a list of things you should see after you've watched the musical:
 - [[https://www.youtube.com/watch?v=WNFf7nMIGnE][Lin-Manuel Miranda Performs at the White House Poetry Jam: (8 of 8)]]
 - [[https://www.youtube.com/watch?v=ZPrAKuOBWzw][Hamilton cast performs "Alexander Hamilton" at White House]]
