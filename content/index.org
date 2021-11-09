@@ -102,16 +102,16 @@ But remember from here on in, history has its eyes on you \\
 #+end_quote
 
 #+begin_quote
-Love doesn't discriminate
-Between the sinners and the saints
-It takes and it takes and it takes
+Love doesn't discriminate \\
+Between the sinners and the saints \\
+It takes and it takes and it takes \\
 And we keep loving anyway
 #+end_quote
 
 #+begin_quote
-Death doesn't discriminate
-Between the sinners and the saints
-It takes and it takes and it takes
+Death doesn't discriminate \\
+Between the sinners and the saints \\
+It takes and it takes and it takes \\
 And we keep living anyway
 #+end_quote
 
