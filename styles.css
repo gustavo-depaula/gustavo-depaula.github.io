@@ -1,16 +1,28 @@
+@font-face {
+  font-family: heal;
+  src: url(fonts/heal-the-web/HealTheWebA-Regular.otf);
+}
+
 body {
   margin: 0;
   display: flex;
   justify-content: center;
-  background-color: #8cb8ff;
+  background-color: #d1e8ff;
 }
 
 .content {
   width: 90%;
   max-width: 700px;
+}
+
+main {
   background: #fff;
 }
 
 #site-title {
+  /* https://fontmeme.com/fonts/heal-the-web-font/ */
   font-family: 'heal', 'arial';
+  font-size: 3.5em;
+  text-shadow: rgb(255, 255, 255) 5px 5px 0px;
+  color: #1466b8;
 }
