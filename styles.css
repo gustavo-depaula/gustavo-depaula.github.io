@@ -52,7 +52,7 @@ body {
   font-family: Comic Sans;
 }
 
-.content {
+body > div {
   width: 90%;
   max-width: 860px;
 }
@@ -62,14 +62,17 @@ main {
   background: #fffbfc;
   padding: 10px;
   /* https://htmlcolorcodes.com/colors/shades-of-blue/ */
-  border: 5px double #013f91;
+  border: 7px double #013f91;
 
   color: #000;
 }
 
+main > * {
+  padding: 10px 20px;
+}
+
 section {
   margin: 10px;
-  padding: 10px 20px;
   border: 2px dotted #1466b8;
 }
 
@@ -77,7 +80,7 @@ header {
   margin: 1em 0;
   padding: 0 30px;
   background-color: #d1e8ff;
-  border: 5px double #013f91;
+  border: 7px double #013f91;
 }
 
 a {
@@ -119,7 +122,22 @@ a.page {
 h1,
 h2,
 h3 {
-  color: #013f91;
+  color: #1466b8;
+}
+
+h1 {
+  font-size: 2em;
+  font-family: "heal";
+  margin: 0.5em 0;
+}
+h2 {
+  font-size: 1.5em;
+  font-family: "heal";
+  margin: 0.5em 0;
+}
+
+img {
+  max-width: 100%;
 }
 
 #site-title {
@@ -133,4 +151,10 @@ h3 {
 
 #site-title a:hover {
   color: #3798fa;
+}
+
+.page-title {
+  font-family: heal;
+  color: #1466b8;
+  font-size: 3em;
 }
