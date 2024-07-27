@@ -5,7 +5,7 @@
 
 @font-face {
   font-family: Comic Sans;
-  src: url(comic-sans-ms/COMIC.TTF);
+  src: url(fonts/COMIC.TTF);
 }
 
 body {
@@ -61,6 +61,7 @@ main {
   font-size: 1.1em;
   background: #fffbfc;
   padding: 10px;
+  /* https://htmlcolorcodes.com/colors/shades-of-blue/ */
   border: 5px double #013f91;
 
   color: #000;
@@ -108,6 +109,11 @@ a:not(#site-title a) {
 a:not(#site-title a):hover {
   background-size: 100% auto;
   background-position: left;
+}
+
+a.page {
+  color: #013f91;
+  font-family: "heal";
 }
 
 h1,
