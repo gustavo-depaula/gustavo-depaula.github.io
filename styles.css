@@ -12,6 +12,9 @@ body {
   margin: 0;
   display: flex;
   justify-content: center;
+  align-items: center;
+  padding-bottom: 20px;
+  flex-direction: column;
   /* https://projects.verou.me/css3patterns/#half-rombes */
   background: #37c;
   background:
