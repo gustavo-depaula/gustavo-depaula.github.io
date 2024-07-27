@@ -12,24 +12,42 @@ body {
   margin: 0;
   display: flex;
   justify-content: center;
- // background-color: #064d94;
- /* https://projects.verou.me/css3patterns/#half-rombes */
- background: #37c;
-background:
-linear-gradient(115deg, transparent 75%, rgba(255,255,255,.8) 75%) 0 0,
-linear-gradient(245deg, transparent 75%, rgba(255,255,255,.8) 75%) 0 0,
-linear-gradient(115deg, transparent 75%, rgba(255,255,255,.8) 75%) 7px -15px,
-linear-gradient(245deg, transparent 75%, rgba(255,255,255,.8) 75%) 7px -15px,
-#36c;
-background-size: 15px 30px;
+  /* https://projects.verou.me/css3patterns/#half-rombes */
+  background: #37c;
+  background:
+    linear-gradient(115deg, transparent 75%, rgba(255, 255, 255, 0.8) 75%) 0 0,
+    linear-gradient(245deg, transparent 75%, rgba(255, 255, 255, 0.8) 75%) 0 0,
+    linear-gradient(115deg, transparent 75%, rgba(255, 255, 255, 0.8) 75%) 7px -15px,
+    linear-gradient(245deg, transparent 75%, rgba(255, 255, 255, 0.8) 75%) 7px -15px,
+    #36c;
+  background-size: 15px 30px;
 
-background:
-radial-gradient(circle, transparent 20%, lightblue 20%, lightblue 80%, transparent 80%, transparent),
-radial-gradient(circle, transparent 20%, lightblue 20%, lightblue 80%, transparent 80%, transparent) 50px 50px,
-linear-gradient(#37c 8px, transparent 8px) 0 -4px,
-linear-gradient(90deg, #37c 8px, transparent 8px) -4px 0;
-background-color: lightblue;
-background-size:100px 100px, 100px 100px, 50px 50px, 50px 50px;
+  background:
+    radial-gradient(
+      circle,
+      transparent 20%,
+      lightblue 20%,
+      lightblue 80%,
+      transparent 80%,
+      transparent
+    ),
+    radial-gradient(
+        circle,
+        transparent 20%,
+        lightblue 20%,
+        lightblue 80%,
+        transparent 80%,
+        transparent
+      )
+      50px 50px,
+    linear-gradient(#37c 8px, transparent 8px) 0 -4px,
+    linear-gradient(90deg, #37c 8px, transparent 8px) -4px 0;
+  background-color: lightblue;
+  background-size:
+    100px 100px,
+    100px 100px,
+    50px 50px,
+    50px 50px;
 
   font-family: Comic Sans;
 }
@@ -44,7 +62,8 @@ main {
   background: #fffbfc;
   padding: 10px;
   border: 5px double #013f91;
-  color: 	#0047AB;
+
+  color: #000;
 }
 
 section {
@@ -81,7 +100,9 @@ a:not(#site-title a) {
   background: linear-gradient(to right, #b8faff, #b8faff) no-repeat right;
   background-size: 0% auto;
 
-  transition: background-size 0.3s, background-position 0s;
+  transition:
+    background-size 0.3s,
+    background-position 0s;
 }
 
 a:not(#site-title a):hover {
@@ -89,6 +110,11 @@ a:not(#site-title a):hover {
   background-position: left;
 }
 
+h1,
+h2,
+h3 {
+  color: #013f91;
+}
 
 #site-title {
   /* https://fontmeme.com/fonts/heal-the-web-font/ */
@@ -102,4 +128,3 @@ a:not(#site-title a):hover {
 #site-title a:hover {
   color: #3798fa;
 }
-
