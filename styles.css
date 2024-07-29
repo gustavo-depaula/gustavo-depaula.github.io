@@ -28,16 +28,8 @@ body {
   align-items: center;
   padding-bottom: 20px;
   flex-direction: column;
-  /* https://projects.verou.me/css3patterns/#half-rombes */
-  background: #37c;
-  background:
-    linear-gradient(115deg, transparent 75%, rgba(255, 255, 255, 0.8) 75%) 0 0,
-    linear-gradient(245deg, transparent 75%, rgba(255, 255, 255, 0.8) 75%) 0 0,
-    linear-gradient(115deg, transparent 75%, rgba(255, 255, 255, 0.8) 75%) 7px -15px,
-    linear-gradient(245deg, transparent 75%, rgba(255, 255, 255, 0.8) 75%) 7px -15px,
-    #36c;
-  background-size: 15px 30px;
 
+  /* https://projects.verou.me/css3patterns/#cross */
   background:
     radial-gradient(circle,
       transparent 20%,
