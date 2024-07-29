@@ -8,6 +8,19 @@
   src: url(fonts/COMIC.TTF);
 }
 
+html,
+body {
+  font-size: 16px;
+}
+
+@media (max-width: 768px) {
+
+  html,
+  body {
+    font-size: 18px;
+  }
+}
+
 body {
   margin: 0;
   display: flex;
@@ -26,23 +39,18 @@ body {
   background-size: 15px 30px;
 
   background:
-    radial-gradient(
-      circle,
+    radial-gradient(circle,
       transparent 20%,
       lightblue 20%,
       lightblue 80%,
       transparent 80%,
-      transparent
-    ),
-    radial-gradient(
-        circle,
-        transparent 20%,
-        lightblue 20%,
-        lightblue 80%,
-        transparent 80%,
-        transparent
-      )
-      50px 50px,
+      transparent),
+    radial-gradient(circle,
+      transparent 20%,
+      lightblue 20%,
+      lightblue 80%,
+      transparent 80%,
+      transparent) 50px 50px,
     linear-gradient(#37c 8px, transparent 8px) 0 -4px,
     linear-gradient(90deg, #37c 8px, transparent 8px) -4px 0;
   background-color: lightblue;
@@ -55,22 +63,24 @@ body {
   font-family: Comic Sans;
 }
 
-body > div {
+body>div {
   width: 90%;
   max-width: 860px;
 }
 
 main {
-  font-size: 1.1em;
+  font-size: 1.1rem;
   background: #fffbfc;
   padding: 10px;
   /* https://htmlcolorcodes.com/colors/shades-of-blue/ */
   border: 7px double #013f91;
 
   color: #000;
+
+  word-wrap: break-word;
 }
 
-main > * {
+main>* {
   padding: 10px 20px;
 }
 
@@ -129,12 +139,13 @@ h3 {
 }
 
 h1 {
-  font-size: 2em;
+  font-size: 2rem;
   font-family: "heal";
   margin: 0.5em 0;
 }
+
 h2 {
-  font-size: 1.5em;
+  font-size: 1.5rem;
   font-family: "heal";
   margin: 0.5em 0;
 }
@@ -146,7 +157,7 @@ img {
 #site-title {
   /* https://fontmeme.com/fonts/heal-the-web-font/ */
   font-family: "heal", "arial";
-  font-size: 3.5em;
+  font-size: 3.5rem;
   text-shadow: rgb(255, 255, 255) 5px 5px 0px;
   color: #1466b8;
   margin-bottom: 30px;
@@ -159,5 +170,5 @@ img {
 .page-title {
   font-family: heal;
   color: #1466b8;
-  font-size: 3em;
+  font-size: 3rem;
 }
