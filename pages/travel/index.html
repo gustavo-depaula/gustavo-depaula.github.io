@@ -1,0 +1,82 @@
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Travel</title>
+
+  <link rel="stylesheet" href="/styles.css" />
+
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+
+<body>
+  <div class="content">
+    <header></header>
+
+    <main>
+      <h1 class="page-title">Travel</h1>
+
+      <section>
+        <div id="map" style="height: 600px;"></div>
+      </section>
+    </main>
+  </div>
+
+  <script src="/script.js"></script>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+
+  <script>
+    const map = L.map('map').setView([49.098006, 0.917411], 8);
+
+    // const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    //   maxZoom: 19,
+    //   attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+    // }).addTo(map);
+
+    // https://leaflet-extras.github.io/leaflet-providers/preview/
+    L.tileLayer('https://tiles.stadiamaps.com/tiles/osm_bright/{z}/{x}/{y}{r}.{ext}', {
+      minZoom: 0,
+      maxZoom: 20,
+      attribution: '&copy; <a href="https://www.stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+      ext: 'png'
+    }).addTo(map);;
+
+    const marker = L.marker([48.873082, 2.347135]).addTo(map)
+      .bindPopup('<b>Hello world!</b><br />I am a popup.')
+
+    // const circle = L.circle([51.508, -0.11], {
+    //   color: 'red',
+    //   fillColor: '#f03',
+    //   fillOpacity: 0.5,
+    //   radius: 500
+    // }).addTo(map).bindPopup('I am a circle.');
+
+    // const polygon = L.polygon([
+    //   [51.509, -0.08],
+    //   [51.503, -0.06],
+    //   [51.51, -0.047]
+    // ]).addTo(map).bindPopup('I am a polygon.');
+
+
+    // const popup = L.popup()
+    //   .setLatLng([51.513, -0.09])
+    //   .setContent('I am a standalone popup.')
+    //   .openOn(map);
+
+    function onMapClick(e) {
+      popup
+        .setLatLng(e.latlng)
+        .setContent(`You clicked the map at ${e.latlng.toString()}`)
+        .openOn(map);
+    }
+
+    map.on('click', onMapClick);
+  </script>
+</body>
+
+</html>
