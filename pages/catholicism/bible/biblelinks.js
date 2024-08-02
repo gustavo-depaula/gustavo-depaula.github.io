@@ -1,7 +1,6 @@
-window.BGLinks = (function () {
+window.BGLinks = (function() {
   var that = {};
 
-  console.log("Asdf");
   // can be set like BGLinks.parameter
   that.version = "NIV";
   that.clickTooltip = false;
@@ -28,7 +27,7 @@ window.BGLinks = (function () {
   var apoc_books =
     "|Tobit?|To?b|Judi(?:th?)?|Jdt|(?:1|2) ?Mac(?:cabees)?|(?:1|2) ?Ma?|Wi(?:sdom)?|Wi?s|Sir(?:ach)?|Ba(?:ruc?h)?|Ba?r";
 
-  that.linkVerses = function () {
+  that.linkVerses = function() {
     updateURLs();
     insertBiblerefs(document.body);
     if (that.showTooltips === true) {
@@ -37,13 +36,13 @@ window.BGLinks = (function () {
     setup();
   };
 
-  var updateURLs = function () {
+  var updateURLs = function() {
     bgHost = "https://" + that.host;
     toolsHost = bgHost + "/share/tooltips/data";
     cdHost = bgHost + "/public/link-to-us/tooltips";
   };
 
-  var insertBiblerefs = function (node) {
+  var insertBiblerefs = function(node) {
     var new_nodes;
     if (node.nodeType === 3) {
       new_nodes = searchNode(node, 0);
@@ -64,7 +63,7 @@ window.BGLinks = (function () {
     return null;
   };
 
-  var searchNode = function (node, inserted_nodes) {
+  var searchNode = function(node, inserted_nodes) {
     var newTxtNode;
     var apoc_string = that.apocrypha === true ? apoc_books : "";
     var unicode_space =
@@ -131,7 +130,7 @@ window.BGLinks = (function () {
           "&src=tools";
         newLinkNode.innerHTML = matched[1];
         if (that.clickTooltip === true) {
-          newLinkNode.onclick = function () {
+          newLinkNode.onclick = function() {
             return false;
           };
         }
@@ -156,7 +155,7 @@ window.BGLinks = (function () {
     return inserted_nodes;
   };
 
-  var addBiblerefListeners = function () {
+  var addBiblerefListeners = function() {
     var links = document.getElementsByTagName("a");
     for (var i = 0; i < links.length; i++) {
       var link = links[i];
@@ -172,7 +171,7 @@ window.BGLinks = (function () {
     }
   };
 
-  var addListener = function (listen_object, action, callback) {
+  var addListener = function(listen_object, action, callback) {
     if (listen_object.addEventListener) {
       if (action == "mouseover") {
         listen_object.addEventListener("mouseover", callback, false);
@@ -200,7 +199,7 @@ window.BGLinks = (function () {
     }
   };
 
-  var toggleTooltip = function (e) {
+  var toggleTooltip = function(e) {
     if (!e) {
       e = window.event;
     }
@@ -224,7 +223,7 @@ window.BGLinks = (function () {
     }
   };
 
-  var showTooltip = function (e, link) {
+  var showTooltip = function(e, link) {
     if (!e) {
       e = window.event;
     }
@@ -258,7 +257,7 @@ window.BGLinks = (function () {
     }
   };
 
-  var hideTooltip = function (e) {
+  var hideTooltip = function(e) {
     if (!e) {
       e = window.event;
     }
@@ -280,40 +279,40 @@ window.BGLinks = (function () {
     }
   };
 
-  var hideAllTooltips = function () {
+  var hideAllTooltips = function() {
     var divs = container.children;
     for (var i = 0; i < divs.length; i++) {
       divs[i].style.display = "none";
     }
   };
 
-  var linkMouseover = function (e) {
+  var linkMouseover = function(e) {
     if (!e) {
       e = window.event;
     }
     var target = e.currentTarget || e.target;
     if (target.nodeName.toLowerCase() == "a") {
       window.clearTimeout(showTimer);
-      showTimer = window.setTimeout(function () {
+      showTimer = window.setTimeout(function() {
         showTooltip(e, target);
       }, delay);
     }
   };
 
-  var linkMouseout = function (e) {
+  var linkMouseout = function(e) {
     if (!e) {
       e = window.event;
     }
     if (e.target.nodeName.toLowerCase() == "a" && showTimer) {
       window.clearTimeout(showTimer);
       window.clearTimeout(hideTimer);
-      hideTimer = window.setTimeout(function () {
+      hideTimer = window.setTimeout(function() {
         hideTooltip(e);
       }, delay);
     }
   };
 
-  var tooltipMouseover = function (e) {
+  var tooltipMouseover = function(e) {
     if (!e) {
       e = window.event;
     }
@@ -337,7 +336,7 @@ window.BGLinks = (function () {
     window.clearTimeout(hideTimer);
   };
 
-  var tooltipMouseout = function (e) {
+  var tooltipMouseout = function(e) {
     if (!e) {
       e = window.event;
     }
@@ -358,18 +357,18 @@ window.BGLinks = (function () {
     )
       return;
     window.clearTimeout(hideTimer);
-    hideTimer = window.setTimeout(function () {
+    hideTimer = window.setTimeout(function() {
       hideAllTooltips(e);
     }, delay);
   };
 
-  var createContainer = function () {
+  var createContainer = function() {
     container = document.createElement("div");
     container.id = "bg_popup-container";
     document.body.appendChild(container);
   };
 
-  var getTooltip = function (reference, link) {
+  var getTooltip = function(reference, link) {
     var tooltip = document.createElement("div");
     tooltip.style.display = "none";
     tooltip.className = "bg_popup bg_popup-outer";
@@ -418,7 +417,7 @@ window.BGLinks = (function () {
     return tooltip;
   };
 
-  that.updateTooltip = function (tooltip_content) {
+  that.updateTooltip = function(tooltip_content) {
     var id;
     id = "bg_popup-" + tooltip_content.reference.replace(/:/g, "_");
     id = id.replace(/ |\+|[^\x00-\x80]/g, "");
@@ -462,7 +461,7 @@ window.BGLinks = (function () {
     addCloseButton(tooltip);
   };
 
-  var addCloseButton = function (tooltip) {
+  var addCloseButton = function(tooltip) {
     var divs = tooltip.getElementsByTagName("div");
     for (var i = 0; i < divs.length; i++) {
       if (divs[i].className == "bg_popup-header_right") {
@@ -471,7 +470,7 @@ window.BGLinks = (function () {
     }
   };
 
-  var tooltipLocation = function (link) {
+  var tooltipLocation = function(link) {
     var width, height;
 
     var tooltip_height = 234;
@@ -538,7 +537,7 @@ window.BGLinks = (function () {
     return display_loc;
   };
 
-  var getOffsetPos = function (linkObj) {
+  var getOffsetPos = function(linkObj) {
     var topPos, leftPos;
     topPos = leftPos = 0;
     do {
@@ -552,7 +551,7 @@ window.BGLinks = (function () {
     return { topPos: topPos, leftPos: leftPos };
   };
 
-  var setup = function () {
+  var setup = function() {
     if (!setupRun) {
       if (that.showTooltips === true) {
         addListener(document, "click", hideAllTooltips);
