@@ -7,3 +7,10 @@ for (var links = document.links, i = 0, a; (a = links[i]); i++) {
     a.target = "_blank";
   }
 }
+
+var analyticsScript = document.createElement('script')
+analyticsScript.src = 'https://scripts.withcabin.com/hello.js'
+analyticsScript.async = true
+analyticsScript.defer = true
+
+document.body.appendChild(analyticsScript)
