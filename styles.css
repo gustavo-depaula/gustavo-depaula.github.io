@@ -185,3 +185,7 @@ img {
   color: #1466b8;
   font-size: 3rem;
 }
+
+.divider {
+  border-top: 2px dotted #1466b8;
+}
