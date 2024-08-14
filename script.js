@@ -8,9 +8,15 @@ for (var links = document.links, i = 0, a; (a = links[i]); i++) {
   }
 }
 
-var analyticsScript = document.createElement('script')
-analyticsScript.src = 'https://scripts.withcabin.com/hello.js'
-analyticsScript.async = true
-analyticsScript.defer = true
+// add favicon
+var link = document.createElement("link");
+link.rel = "icon";
+link.href = "/favicon/favicon.png";
+document.head.appendChild(link);
 
-document.body.appendChild(analyticsScript)
+var analyticsScript = document.createElement("script");
+analyticsScript.src = "https://scripts.withcabin.com/hello.js";
+analyticsScript.async = true;
+analyticsScript.defer = true;
+
+document.body.appendChild(analyticsScript);

@@ -15,7 +15,6 @@ body {
 }
 
 @media (max-width: 768px) {
-
   html,
   body {
     font-size: 18px;
@@ -32,18 +31,23 @@ body {
 
   /* https://projects.verou.me/css3patterns/#cross */
   background:
-    radial-gradient(circle,
+    radial-gradient(
+      circle,
       transparent 20%,
       lightblue 20%,
       lightblue 80%,
       transparent 80%,
-      transparent),
-    radial-gradient(circle,
-      transparent 20%,
-      lightblue 20%,
-      lightblue 80%,
-      transparent 80%,
-      transparent) 50px 50px,
+      transparent
+    ),
+    radial-gradient(
+        circle,
+        transparent 20%,
+        lightblue 20%,
+        lightblue 80%,
+        transparent 80%,
+        transparent
+      )
+      50px 50px,
     linear-gradient(#37c 8px, transparent 8px) 0 -4px,
     linear-gradient(90deg, #37c 8px, transparent 8px) -4px 0;
   background-color: lightblue;
@@ -56,7 +60,7 @@ body {
   font-family: Comic Sans;
 }
 
-body>div {
+body > div {
   width: 99%;
   max-width: 860px;
 }
@@ -73,12 +77,13 @@ main {
   word-wrap: break-word;
 }
 
-main>* {
+main > * {
   padding: 10px 20px;
 }
 
 section {
   margin: 10px;
+  padding: 10px 20px;
   border: 2px dotted #1466b8;
 }
 
@@ -97,7 +102,6 @@ section {
 
   display: flex;
   justify-content: center;
-
 
   width: 90%;
   max-width: 810px;
@@ -185,6 +189,14 @@ img {
   font-family: heal;
   color: #1466b8;
   font-size: 3rem;
+}
+
+.page-description {
+  margin-top: -30px;
+  font-family: heal;
+  color: #1466b8;
+  font-size: 1.5rem;
+  font-weight: normal;
 }
 
 .divider {
