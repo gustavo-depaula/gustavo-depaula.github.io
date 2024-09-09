@@ -1,0 +1,199 @@
+@font-face {
+  font-family: heal;
+  src: url(/fonts/heal-the-web/HealTheWebA-Regular.otf);
+}
+
+@font-face {
+  font-family: Comic Sans;
+  src: url(/fonts/COMIC.TTF);
+}
+
+html,
+body {
+  cursor: cell;
+  font-size: 16px;
+}
+
+@media (max-width: 768px) {
+  html,
+  body {
+    font-size: 18px;
+  }
+}
+
+body {
+  height: 100%;
+  width: 100%;
+  max-width: 100%;
+  max-height: 100%;
+
+  margin: 0;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  /* https://projects.verou.me/css3patterns/#cross */
+  background:
+    radial-gradient(
+      circle,
+      transparent 20%,
+      lightblue 20%,
+      lightblue 80%,
+      transparent 80%,
+      transparent
+    ),
+    radial-gradient(
+        circle,
+        transparent 20%,
+        lightblue 20%,
+        lightblue 80%,
+        transparent 80%,
+        transparent
+      )
+      50px 50px,
+    linear-gradient(#37c 8px, transparent 8px) 0 -4px,
+    linear-gradient(90deg, #37c 8px, transparent 8px) -4px 0;
+  background-color: lightblue;
+  background-size:
+    100px 100px,
+    100px 100px,
+    50px 50px,
+    50px 50px;
+
+  font-family: Comic Sans;
+}
+
+.notes {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 100%;
+  overflow-y: auto;
+}
+
+.note {
+  box-sizing: border-box;
+  height: 100%;
+  overflow-y: auto;
+  font-size: 1.1rem;
+  background: #fffbfc;
+  padding: 10px 10px;
+  /* https://htmlcolorcodes.com/colors/shades-of-blue/ */
+  border: 7px double #013f91;
+
+  color: #000;
+
+  word-wrap: break-word;
+
+  width: 600px;
+}
+
+.note > * {
+  padding: 10px 20px;
+}
+
+section {
+  margin: 10px;
+  padding: 10px 20px;
+  border: 2px dotted #1466b8;
+}
+
+header {
+  width: 100%;
+  background-color: #d1e8ff;
+  box-sizing: border-box;
+  border: 7px double #013f91;
+  padding: 0 30px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  color: inherit;
+}
+
+a:not(#site-title a) {
+  text-decoration: none;
+  color: #0f7afc;
+
+  position: relative;
+  z-index: 1;
+  padding: 3px;
+  margin: -3px;
+
+  /* background: #78b5ff; */
+  background: linear-gradient(to right, #b8faff, #b8faff) no-repeat right;
+  background-size: 0% auto;
+
+  transition:
+    background-size 0.3s,
+    background-position 0s;
+}
+
+a:not(#site-title a):hover {
+  background-size: 100% auto;
+  background-position: left;
+}
+
+a.page {
+  color: #013f91;
+  font-family: "heal";
+}
+
+h1,
+h2,
+h3 {
+  color: #1466b8;
+}
+
+h1 {
+  font-size: 2rem;
+  font-family: "heal";
+  margin: 0.5em 0;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-family: "heal";
+  margin: 0.5em 0;
+}
+
+img {
+  width: 100%;
+  max-width: 100%;
+}
+
+#site-title {
+  /* https://fontmeme.com/fonts/heal-the-web-font/ */
+  font-family: "heal", "arial";
+  font-size: 3.5rem;
+  text-shadow: rgb(255, 255, 255) 5px 5px 0px;
+  color: #1466b8;
+  margin-bottom: 30px;
+}
+
+#site-title a:hover {
+  color: #3798fa;
+}
+
+.page-title {
+  font-family: heal;
+  color: #1466b8;
+  font-size: 3rem;
+}
+
+.page-description {
+  margin-top: -30px;
+  font-family: heal;
+  color: #1466b8;
+  font-size: 1.5rem;
+  font-weight: normal;
+}
+
+.divider {
+  border-top: 2px dotted #1466b8;
+}

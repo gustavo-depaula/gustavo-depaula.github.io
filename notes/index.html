@@ -1,0 +1,31 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Gustavo's notes</title>
+
+    <link rel="stylesheet" href="./notes.css" />
+  </head>
+
+  <body>
+    <div style="width: 100%; max-width: 100%">
+      <header></header>
+    </div>
+
+    <div class="notes">
+      <div class="note"></div>
+    </div>
+
+    <script src="/script.js"></script>
+    <script src="/libs/showdown.min.js"></script>
+    <script>
+      const converter = new showdown.Converter();
+      fetch("/notes/hey.md")
+        .then((response) => response.text())
+        .then((text) => {
+          document.querySelector(".note").innerHTML = converter.makeHtml(text);
+        });
+    </script>
+  </body>
+</html>
