@@ -183,9 +183,13 @@ a:visited {
 .page {
   @media all and (max-width: $fullPageWidth) {
     margin: 0 auto;
-    padding: 0 1rem;
+    padding: 0 0.2rem;
     max-width: $pageWidth;
   }
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 
   & article {
     & > h1 {
@@ -214,29 +218,31 @@ a:visited {
   }
 
   & > #quartz-body {
-    width: 100%;
+    /* width: 100%; */
     display: flex;
+    flex-direction: row;
+    align-items: start;
+    gap: 1rem;
 
     @media all and (max-width: $fullPageWidth) {
       flex-direction: column;
+      align-items: stretch;
     }
 
     & .sidebar {
-      flex: 1;
       display: flex;
       flex-direction: column;
       gap: 2rem;
-      top: 0;
       width: $sidePanelWidth;
       margin-top: $topSpacing;
       box-sizing: border-box;
       padding: 1rem 2rem;
-      position: fixed;
       @media all and (max-width: $fullPageWidth) {
-        position: initial;
+        /* position: initial; */
         flex-direction: column;
         /* padding: 0; */
-        width: initial;
+        /* width: initial; */
+        width: 100%;
         margin-top: 2rem;
       }
 
@@ -277,13 +283,6 @@ a:visited {
     }
   }
 
-  & .center {
-    margin: $topSpacing auto 0 auto;
-    @media all and (max-width: $fullPageWidth) {
-      margin-top: 2rem;
-    }
-  }
-
   & .center,
   & footer {
     background-color: var(--contentBackground);
@@ -297,6 +296,14 @@ a:visited {
       width: initial;
       margin-left: 0;
       margin-right: 0;
+    }
+  }
+
+  & .center {
+    margin: $topSpacing auto 0 auto;
+    @media all and (max-width: $fullPageWidth) {
+      padding: 0.5rem 1.5rem;
+      margin-top: 2rem;
     }
   }
 
