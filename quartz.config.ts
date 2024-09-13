@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Gustavo's webpages",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -22,8 +22,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Heal",
+        body: "Comic Sans",
         code: "IBM Plex Mono",
       },
       colors: {
@@ -37,6 +37,9 @@ const config: QuartzConfig = {
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#fff23688",
+
+          crossBlue: "#37c",
+          backgroundBlue: "lightblue",
         },
         darkMode: {
           light: "#161618",
@@ -48,6 +51,9 @@ const config: QuartzConfig = {
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#b3aa0288",
+
+          backgroundBlue: "#37c",
+          crossBlue: "lightblue",
         },
       },
     },

@@ -1,6 +1,13 @@
 @use "./variables.scss" as *;
 @use "./syntax.scss";
 @use "./callouts.scss";
+@use "./fonts.scss";
+
+html,
+body {
+  cursor: cell;
+  font-size: 16px;
+}
 
 html {
   scroll-behavior: smooth;
@@ -14,9 +21,36 @@ section {
   margin: 0;
   max-width: 100%;
   box-sizing: border-box;
-  background-color: var(--light);
   font-family: var(--bodyFont);
   color: var(--darkgray);
+
+  /* https://projects.verou.me/css3patterns/#cross */
+  background:
+    radial-gradient(
+      circle,
+      transparent 20%,
+      var(--backgroundBlue) 20%,
+      var(--backgroundBlue) 80%,
+      transparent 80%,
+      transparent
+    ),
+    radial-gradient(
+        circle,
+        transparent 20%,
+        var(--backgroundBlue) 20%,
+        var(--backgroundBlue) 80%,
+        transparent 80%,
+        transparent
+      )
+      50px 50px,
+    linear-gradient(var(--crossBlue) 8px, transparent 8px) 0 -4px,
+    linear-gradient(90deg, var(--crossBlue) 8px, transparent 8px) -4px 0;
+  background-color: var(--backgroundBlue);
+  background-size:
+    100px 100px,
+    100px 100px,
+    50px 50px,
+    50px 50px;
 }
 
 .text-highlight {
@@ -40,7 +74,7 @@ ol,
 ul,
 .katex,
 .math {
-  color: var(--darkgray);
+  color: var(--textColor);
   fill: var(--darkgray);
   hyphens: auto;
 }
@@ -107,6 +141,27 @@ a {
   }
 }
 
+a:visited {
+  color: inherit;
+}
+
+.page-title {
+  font-size: 3.5rem;
+  /* text-shadow: rgb(255, 255, 255) 5px 5px 0px; */
+  margin-bottom: 30px;
+  margin: 0;
+
+  & a {
+    &:hover {
+      /* color: #3798fa !important; */
+      /* filter: lighten(, 85%); */
+      color: inherit !important;
+      filter: brightness(1.4) !important;
+      transition: filter 0.2s ease;
+    }
+  }
+}
+
 .desktop-only {
   display: initial;
   @media all and (max-width: $fullPageWidth) {
@@ -157,6 +212,7 @@ a {
   & > #quartz-body {
     width: 100%;
     display: flex;
+
     @media all and (max-width: $fullPageWidth) {
       flex-direction: column;
     }
@@ -170,7 +226,7 @@ a {
       width: $sidePanelWidth;
       margin-top: $topSpacing;
       box-sizing: border-box;
-      padding: 0 4rem;
+      padding: 1rem 2rem;
       position: fixed;
       @media all and (max-width: $fullPageWidth) {
         position: initial;
@@ -179,11 +235,14 @@ a {
         width: initial;
         margin-top: 2rem;
       }
+
+      background-color: var(--contentBackground);
+      border: 7px double var(--contentBorder);
     }
 
     & .sidebar.left {
       z-index: 1;
-      left: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
+      left: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth - 1rem);
       @media all and (max-width: $fullPageWidth) {
         gap: 0;
         align-items: center;
@@ -191,7 +250,7 @@ a {
     }
 
     & .sidebar.right {
-      right: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
+      right: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth - 2rem);
       flex-wrap: wrap;
       & > * {
         @media all and (max-width: $fullPageWidth) {
@@ -212,7 +271,7 @@ a {
     }
   }
 
-  & .page-header {
+  & .center {
     margin: $topSpacing auto 0 auto;
     @media all and (max-width: $fullPageWidth) {
       margin-top: 2rem;
@@ -221,14 +280,22 @@ a {
 
   & .center,
   & footer {
+    background-color: var(--contentBackground);
+    border: 7px double var(--contentBorder);
     margin-left: auto;
     margin-right: auto;
     width: $pageWidth;
+    padding: 0.5rem 3rem;
+    box-sizing: border-box;
     @media all and (max-width: $fullPageWidth) {
       width: initial;
       margin-left: 0;
       margin-right: 0;
     }
+  }
+
+  & footer {
+    margin-top: 1rem;
   }
 }
 
@@ -284,7 +351,7 @@ h5,
 h6,
 thead {
   font-family: var(--headerFont);
-  color: var(--dark);
+  color: var(--headerColor);
   font-weight: revert;
   margin-bottom: 0;
 
@@ -316,7 +383,7 @@ h6 {
 
 // typography improvements
 h1 {
-  font-size: 1.75rem;
+  font-size: 2rem;
   margin-top: 2.25rem;
   margin-bottom: 1rem;
 }
@@ -433,7 +500,12 @@ code {
 tbody,
 li,
 p {
-  line-height: 1.6rem;
+  font-size: 1.1rem;
+  /* line-height: 1.6rem; */
+}
+
+.article-title {
+  font-size: 3rem;
 }
 
 .table-container {

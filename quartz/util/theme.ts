@@ -52,9 +52,19 @@ ${stylesheet.join("\n\n")}
   --highlight: ${theme.colors.lightMode.highlight};
   --textHighlight: ${theme.colors.lightMode.textHighlight};
 
+  --crossBlue: ${theme.colors.lightMode.crossBlue};
+  --backgroundBlue: ${theme.colors.lightMode.backgroundBlue};
+
   --headerFont: "${theme.typography.header}", ${DEFAULT_SANS_SERIF};
   --bodyFont: "${theme.typography.body}", ${DEFAULT_SANS_SERIF};
   --codeFont: "${theme.typography.code}", ${DEFAULT_MONO};
+
+  --contentBackground: #fffbfc;
+  --contentBorder: #013f91;
+
+  --headerColor: #1466b8;
+
+  --textColor: black;
 }
 
 :root[saved-theme="dark"] {
@@ -67,6 +77,19 @@ ${stylesheet.join("\n\n")}
   --tertiary: ${theme.colors.darkMode.tertiary};
   --highlight: ${theme.colors.darkMode.highlight};
   --textHighlight: ${theme.colors.darkMode.textHighlight};
+
+  --crossBlue: ${theme.colors.darkMode.crossBlue};
+  --backgroundBlue: ${theme.colors.darkMode.backgroundBlue};
+  --backgroundBlue: #333333;
+
+ /* #143154; */
+  --contentBackground: #666666;
+  --contentBorder: lightblue;
+
+  --headerColor: var(--crossBlue);
+  --headerColor: white;
+
+  --textColor: white;
 }
 `
 }
