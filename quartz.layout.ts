@@ -5,7 +5,18 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.Comments({
+      provider: "giscus",
+
+      options: {
+        repo: "gustavo-depaula/gustavo-depaula.github.io",
+        repoId: "MDEwOlJlcG9zaXRvcnk2ODg0MzcxMA==",
+        category: "Page Comments",
+        categoryId: "DIC_kwDOBBp4vs4ChSXT",
+      },
+    }),
+  ],
   footer: Component.Footer({
     links: {},
   }),
@@ -18,6 +29,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+    Component.BibleLinks(),
   ],
   left: [
     Component.PageTitle(),

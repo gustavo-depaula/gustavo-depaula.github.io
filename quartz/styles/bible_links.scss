@@ -1,0 +1,204 @@
+a.bible_ref {
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+.bg_popup div {
+  margin: 0;
+}
+.bg_popup {
+  left: 40px;
+  position: absolute;
+  top: 40px;
+  z-index: 9999999;
+  background-image: none;
+  font-family: sans-serif;
+  font-size: 15px;
+  font-style: normal;
+  margin: 0;
+  padding: 0;
+  width: 362px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px #000;
+  background-color: transparent;
+  direction: ltr;
+  letter-spacing: 0;
+  margin: 0;
+  text-align: left;
+  line-height: normal;
+  text-decoration: none;
+  text-indent: 0;
+  text-transform: none;
+  white-space: normal;
+  word-spacing: 0;
+  font-family: sans-serif;
+}
+.bg_popup-header_title {
+  color: #000;
+}
+.bg_popup-content-related p {
+  color: #002b61;
+}
+.bg_popup a {
+  text-decoration: underline;
+  color: #651300;
+}
+
+.bg_popup a:visited {
+  text-decoration: underline;
+  color: #651300;
+}
+.bg_popup-header {
+  font-family: heal;
+  background-color: #1466b8;
+  height: 28px;
+  overflow: hidden;
+  padding: 2px 10px 0px;
+  z-index: 9999999;
+  border: none;
+}
+.bg_popup-header_title {
+  margin: 0;
+  padding: 0;
+  border: 0px;
+  z-index: 2;
+  line-height: 28px;
+  color: white;
+}
+.bg_popup-header_left {
+  background: transparent url(images/tools/StaticSprites.png) no-repeat scroll 0 -40px;
+  background: red none;
+  border: medium none;
+  height: 35px;
+  width: 48px;
+  padding: 0;
+  position: absolute;
+  top: 6px;
+  left: 0;
+  display: block;
+}
+.arrow-left .bg_popup-header_left {
+  background: transparent url(images/tools/StaticSprites.png) repeat scroll 0 -75px;
+  background: red none;
+  height: 41px;
+  width: 48px;
+  top: 0;
+}
+.bg_popup-header_right {
+  background: transparent url(images/tools/StaticSprites.png) no-repeat scroll -48px -40px;
+  background: orange none;
+  border: medium none;
+  height: 35px;
+  left: 311px;
+  padding: 0;
+  position: absolute;
+  top: 6px;
+  width: 49px;
+  display: block;
+}
+.arrow-right .bg_popup-header_right {
+  background: transparent url(images/tools/StaticSprites.png) repeat scroll -48 -75px;
+  background: orange none;
+  height: 41px;
+  width: 48px;
+  top: 0;
+}
+.bg_popup-header_middle {
+  background: transparent url(images/tools/TopSprites.png) repeat scroll 0 2px;
+  background: yellow none;
+  border: medium none;
+  height: 42px;
+  left: 48px;
+  padding: 0;
+  position: absolute;
+  top: 2px;
+  width: 263px;
+}
+.bg_popup-larrow {
+  background: transparent url(images/tools/StaticSprites.png) repeat scroll 0 -75px;
+  background: lime none;
+  border: medium none;
+  height: 41px;
+  width: 48px;
+  padding: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: none;
+}
+.bg_popup-rarrow {
+  background: transparent url(images/tools/StaticSprites.png) repeat scroll -48px -75px;
+  background: dodgerblue none;
+  border: medium none;
+  height: 41px;
+  width: 51px;
+  padding: 0;
+  position: absolute;
+  top: 0;
+  left: 311px;
+  display: none;
+}
+.bg_popup-small_bible_color {
+  background-color: transparent;
+  background-image: url(images/tools/bible.png);
+  border: medium none;
+  height: 20px;
+  width: 22px;
+  padding: 0;
+  position: absolute;
+  top: 5px;
+  left: 10px;
+}
+.bg_popup-content {
+  font-family: Comic Sans;
+  background-color: #fff;
+  background-image: none;
+  padding: 10px;
+  position: relative;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+}
+.bg_popup-content-bible {
+  background-color: transparent;
+  background-image: none;
+  border-width: 0;
+  min-height: 150px;
+  position: static;
+  line-height: 1.3em;
+}
+.bg_popup-content p {
+  margin: 3px 0;
+}
+.bg_popup-content sup {
+  vertical-align: text-top;
+  line-height: normal;
+}
+.bg_popup-content a {
+  text-decoration: none;
+  font-weight: bold;
+}
+.bg_popup-footer {
+  background-color: #651300;
+  clear: both;
+  border: none;
+  display: none;
+}
+.bg_popup-bglogo {
+  background: transparent url(/public/link-to-us/tooltips/theme/images/tools/BGLogoWhite.png?v2)
+    no-repeat scroll 0 0;
+  height: 21px;
+  left: 10px;
+  padding: 0;
+  margin: 0;
+  width: 113px;
+  border: none;
+  display: block;
+}
+.bg_popup-spinner img {
+  margin: 60px 0 0 158px;
+}
+.bg_popup-spinner {
+  border: none;
+  min-height: 150px;
+}
