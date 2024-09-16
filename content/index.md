@@ -12,7 +12,10 @@ I am building this site to share my ideas and talk about things that I like. It 
 
 ## Pages
 
-- [[Catholicism]]
+- [[essays]]
+- [[catholicism]]
+- [[wiki]]
+- [[books]]
 
 ## About Me
 
