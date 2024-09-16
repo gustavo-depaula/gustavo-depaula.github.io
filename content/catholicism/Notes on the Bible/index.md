@@ -4,7 +4,6 @@ description: Reading, studying, and sharing my knowledge about Sacred Scriptures
 image: catholicism/images/saintjerome.jpg
 ---
 
-
 ![[saintjerome.jpg]]
 I'm reading the Bible with the help of the amazing ["Bible In A Year"](https://media.ascensionpress.com/category/ascension-podcasts/bibleinayear/) podcast by the incredible Fr. Mike Schmitz. He reads the Sacred Scriptures not in the order of the books, but divided in a way where passages of multiple books are read each day in a way that the readings are in-context, making the narrative easier to follow.
 
