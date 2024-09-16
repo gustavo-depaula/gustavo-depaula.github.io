@@ -1,4 +1,4 @@
-window.BGLinks = (function () {
+function makeBGLinks() {
   var that = {}
 
   // can be set like BGLinks.parameter
@@ -28,6 +28,7 @@ window.BGLinks = (function () {
     "|Tobit?|To?b|Judi(?:th?)?|Jdt|(?:1|2) ?Mac(?:cabees)?|(?:1|2) ?Ma?|Wi(?:sdom)?|Wi?s|Sir(?:ach)?|Ba(?:ruc?h)?|Ba?r"
 
   that.linkVerses = function () {
+    console.log("linking verses")
     updateURLs()
     insertBiblerefs(document.body)
     if (that.showTooltips === true) {
@@ -531,10 +532,7 @@ window.BGLinks = (function () {
   }
 
   return that
-})()
-
-BGLinks.version = "RSVCE"
-BGLinks.linkVerses()
+}
 
 // Missal
 function extractReference(text) {
@@ -596,6 +594,11 @@ document.addEventListener("nav", () => {
   const isMissal = document.getElementById("introit-antiphon")
 
   console.log(isMissal)
+  console.log("hey")
+
+  window.BGLinks = makeBGLinks()
+  BGLinks.version = "RSVCE"
+  BGLinks.linkVerses()
 
   if (!isMissal) {
     return
