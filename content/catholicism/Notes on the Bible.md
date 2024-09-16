@@ -17,12 +17,3 @@ These are my notes, thoughts, interpretations and questions about the Bible. I'm
 If you hover over the Bible references, you'll see the text of the verse. If you click on it, you'll be taken to the Bible passage in [Bible Gateway](https://www.biblegateway.com/).
 
 I’m using the Ignatius Study Bible, that uses the RSV-2CE translation, with excellent footnotes and essays that explain how the Bible and Catholic Tradition and Magisterium make sense together.
-
-Notes:
-- [[Day 1 - Creation]]
-- [[Day 2 - The Fall]]
-- [[Day 3 - Noah's Ark]]
-- [[Day 4 - The Flood]]
-- [[Day 5 - Tower of Babel]]
-- [[Day 6 - Trust in the Lord]]
-- [[Day 7 - God’s Covenant with Abram]]
