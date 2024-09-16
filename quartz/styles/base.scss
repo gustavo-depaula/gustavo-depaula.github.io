@@ -110,10 +110,19 @@ a {
   font-weight: $semiBoldWeight;
   text-decoration: none;
   transition: color 0.2s ease;
-  color: var(--crossBlue);
+  color: #0f7afc;
 
-  &:hover {
-    color: var(--tertiary) !important;
+  background: linear-gradient(to right, #b8faff, #b8faff) no-repeat right;
+  background-size: 0% auto;
+
+  transition:
+    background-size 0.3s,
+    background-position 0s;
+
+  &:not(.page-title a):hover {
+    /* color: var(--tertiary) !important; */
+    background-size: 100% auto;
+    background-position: left;
   }
 
   &.internal {
@@ -146,7 +155,7 @@ a {
 }
 
 a:visited {
-  color: inherit;
+  /* color: inherit; */
 }
 
 .page-title {
