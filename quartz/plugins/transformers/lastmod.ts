@@ -12,7 +12,7 @@ const defaultOptions: Options = {
   priority: ["frontmatter", "git", "filesystem"],
 }
 
-function coerceDate(fp: string, d: any): Date {
+function coerceDate(fp: string, d: any): Date | undefined {
   const dt = new Date(d)
   const invalidDate = isNaN(dt.getTime()) || dt.getTime() === 0
   if (invalidDate && d !== undefined) {
@@ -23,7 +23,7 @@ function coerceDate(fp: string, d: any): Date {
     )
   }
 
-  return invalidDate ? new Date() : dt
+  return invalidDate ? undefined : dt
 }
 
 type MaybeDate = undefined | string | number
@@ -89,9 +89,9 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
 declare module "vfile" {
   interface DataMap {
     dates: {
-      created: Date
-      modified: Date
-      published: Date
+      created: Date | undefined
+      modified: Date | undefined
+      published: Date | undefined
     }
   }
 }

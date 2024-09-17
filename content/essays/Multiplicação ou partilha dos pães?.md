@@ -3,8 +3,9 @@ title: Multiplicação ou partilha dos pães?
 description: Explorando a Fé e a Reverência na Missa à Luz da Teologia Católica.
 image: /images/multiplicacao.jpg
 url: https://dpgu.me/pages/blog/001-2024-08-11-multiplicacao-ou-partilha.html
+publishDate: 2024-08-13T00:00:00
 ---
- 
+
 ## Explorando a Fé e a Reverência na Missa à Luz da Teologia Católica.
 
 ---
