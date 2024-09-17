@@ -2,12 +2,46 @@
 Esse livro foi-me recomendando pelo meu Diretor Espiritual após eu terminar “A Fé Explicada”, o livro que li durante meu processo de conversão. A Fé Explicada, que é um ótimo catecismo, é um livro mais focado na parte doutrinal, enquanto o Reflexões Espirituais foca mais nas praticais espirituais e ascéticas.
 
 Gostei bastante e recomendo. Os Capítulos são curtos e fáceis de compreender, mas sem sacrificar profundidade e sabedoria. O que vem a seguir são minhas anotações para cada capítulo. Os blocos de citação são trechos verbatim extraídos por mim.
-
-# Ao leitor
 # Jesus, o amigo
+Se quisermos, podemos ser amigos de Jesus. Essa amizade é cultivada assim como outras amizades são cultivadas: aproximando, conhecendo, sendo íntimos e amando. A mensagem cristã é uma mensagem de alegria, paz, e esperança.
+
+Há alguns, porém que tentam roubar à vida cristã do sorriso de Cristo. Alguns reduzindo Cristo a uma figura histórica. Outros, reduzindo o cristianismo a um sistema de regras: um conjunto de proibições e pesadas responsabilidades. Fazem ver na (verdadeira) religião apenas o que custa esforço, o que pesa. Vêem o cristianismo com uma mentalidade de máquina de calcular.
+
+Como aproximar-te de Jesus? Como ganhar essa intimidade necessária para conhecê-lo?
+* No Evangelho: meditando-o, contemplando-o, amando-o, seguindo-o;
+* Na leitura espiritual: estudando e aprofundando a ciência de Deus;
+* Na Santíssima Eucaristia: adorando-o, desejando-o, recebendo-o;
+
+> *“A amizade de Jesus é uma amizade que leva longe: acharemos a felicidade e a tranquilidade, saberemos sempre, com critério seguro, como comportar-nos; encaminhar-nos-emos para casa do Pai e seremos, cada um de nós, **alter Christus**, outro Cristo. Foi por isso que Jesus Cristo se fez homem: **Deus fit homo ut homo fieret Deus**, Deus se fez homem para que o homem se fizesse Deus.”*
+
 # A Nossa Vocação Cristã
+Há um chamado universal à Santidade. É a vocação de todos os cristãos serem Santos. Mas infelizmente, os cristãos tem medo da santidade. Acham que a santidade é algo apenas para àqueles que tem uma vocação religiosa - padres, freiras.
+
+Precisamos eliminar essa mentalidade de nossas mentes. Deus quer que nós, homens e mulheres do mundo, sejamos santos. A vocação Cristã é a vocação da santidade. Sem distinção, todos devemos ser santos. Os primeiros cristãos tinham plena consciência de sua vocação - e obrigação - e se chamavam de santos.
+
+Sim, é uma obrigação de todo cristão de ser santo. Todos estão obrigados a seguir o primeiro mandamento, uma ideia simples e clara, amar a Deus sobre todas as coisas: *“Amarás o Senhor teu Deus com todo teu coração, com toda tua mente, com toda tua alma e com todas as tuas forças.”*
+
 # Um Ideal para a vida
+A santidade é o que mais importa em nossa vida. Nada adianta ganharmos o mundo e perdermos nossa alma. Não é preciso porém abandonar o seu caminho no mundo para procurar a Deus. Se Deus não te deu uma vocação religiosa, o seu caminho de santidade será pelo mundo. Você santificará o seu trabalho, ocupação e responsabilidades, e através deles você será santificado.
+
+Após termos sido expostos ao diamante brilhante da ideia de santidade, precisamos mover da ideia para a convicção. E da convicção para a decisão. Devemos nos convencer profundamente de que é a santidade é para nós e que a única derrota da vida cristã é desistirmos dela. É ela que importa antes de todas as outras coisas e a fundação que assentaremos nossa vida.
+
+Deseja, convence-te, decida-te!
+
+>*”Sabes perfeitamente que a santidade não consiste em graças extraordinárias de oração, nem em mortificações e penitências insustentáveis; menos ainda é a herança exclusiva das solidões longínquas do mundo. A santidade consiste no cumprimento amoroso e fiel dos deveres pessoais, na aceitação gozosa e humilde da vontade de Deus, na união com Ele no trabalho de cada dia, em saber fundir a religião e a vida em harmoniosa fecunda unidade, e em tantas outras coisas pequenas e habituais que tu conheces.”*
 # Vida Interior
+O caminho da santidade tem como fundação a vida interior. Cada coração é um presépio onde Cristo renasce e cresce conforme o desejo daqueles que o recebem. Os nossos pensamentos, desejos e afetos são a nossa parte mais íntima e é nela que se mede a nossa união com Deus.
+
+É apenas tendo uma profunda vida interior, unindo-nos a Deus nos nossos pensamentos, desejos e afetos que Cristo crescerá em nós, e nós poderemos ser *alter Christus*, um outro Cristo.
+
+Através do crescimento da nossa vida interior, nossas obras exteriores passarão a revelar os frutos do Espírito Santo em nossa vida. Nossas obras terão a presença do Senhor e revelarão o nosso amor por Ele. A vida interior também é alma de todo apostolado. Um apóstolo de muita vida interior com uma palavra espontânea vale mais do que um de pouca vida interior mas de muitas palavras intelectuais.
+
+As grandes batalhas de Deus acontecem no coração. É nele, no seu interior, que te levará para longe dele ou para perto dele, se assim o desejar e não pôr obstáculos a sua ação. É dentro do seu coração que será instalado por Ele o seu reino: o reino de justiça, amor e paz.
+
+Mas *“o reino dos céus é conquistado à força”*. O caminho para o reino interior de Deus é um caminho de sacrifício e purificação. É preciso purificar nossos pensamentos, afetos e desejos para unirmos-nos a Deus.
+
+> *“Para que dês mais fruto, para que a tua união com o Senhor se fortaleça, é necessária a poda, a purificação. Não tenhas medo do cutelo do podador: Meu Pai é o agricultor. Com a poda, o Senhor purificará a tua inteligência e a tua vontade, o teu coração e a tua memória. Não podes avançar um passo na vida de união com Deus, sem necessariamente dares um primeiro passo na via da purificação. Para isso, é preciso que colabores com o Senhor quando chegar o momento da poda: deixa-o agir! E quando vires caírem os ramos e as folhas, alegra-te, pensando nos novos e próximos frutos que essa poda promete.”*
+
 # Guarda do coração
 # O caminho real
 # A esperança Cristã
