@@ -1,5 +1,7 @@
 # Introdução
+Esse livro foi-me recomendando pelo meu Diretor Espiritual após eu terminar “A Fé Explicada”, o livro que li durante meu processo de conversão. A Fé Explicada, que é um ótimo catecismo, é um livro mais focado na parte doutrinal, enquanto o Reflexões Espirituais foca mais nas praticais espirituais e ascéticas.
 
+Gostei bastante e recomendo. Os Capítulos são curtos e fáceis de compreender, mas sem sacrificar profundidade e sabedoria. O que vem a seguir são minhas anotações para cada capítulo. Os blocos de citação são trechos verbatim extraídos por mim.
 
 # Ao leitor
 # Jesus, o amigo
