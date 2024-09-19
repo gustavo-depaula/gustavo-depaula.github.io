@@ -1,53 +1,84 @@
 # Introdução
+
 Esse livro foi-me recomendando pelo meu Diretor Espiritual após eu terminar “A Fé Explicada”, o livro que li durante meu processo de conversão. A Fé Explicada, que é um ótimo catecismo, é um livro mais focado na parte doutrinal, enquanto o Reflexões Espirituais foca mais nas praticais espirituais e ascéticas.
 
 Gostei bastante e recomendo. Os Capítulos são curtos e fáceis de compreender, mas sem sacrificar profundidade e sabedoria. O que vem a seguir são minhas anotações para cada capítulo. Os blocos de citação são trechos verbatim extraídos por mim.
+
+---
 # Jesus, o amigo
+
 Se quisermos, podemos ser amigos de Jesus. Essa amizade é cultivada assim como outras amizades são cultivadas: aproximando, conhecendo, sendo íntimos e amando. A mensagem cristã é uma mensagem de alegria, paz, e esperança.
 
 Há alguns, porém que tentam roubar à vida cristã do sorriso de Cristo. Alguns reduzindo Cristo a uma figura histórica. Outros, reduzindo o cristianismo a um sistema de regras: um conjunto de proibições e pesadas responsabilidades. Fazem ver na (verdadeira) religião apenas o que custa esforço, o que pesa. Vêem o cristianismo com uma mentalidade de máquina de calcular.
 
 Como aproximar-te de Jesus? Como ganhar essa intimidade necessária para conhecê-lo?
-* No Evangelho: meditando-o, contemplando-o, amando-o, seguindo-o;
-* Na leitura espiritual: estudando e aprofundando a ciência de Deus;
-* Na Santíssima Eucaristia: adorando-o, desejando-o, recebendo-o;
 
-> *“A amizade de Jesus é uma amizade que leva longe: acharemos a felicidade e a tranquilidade, saberemos sempre, com critério seguro, como comportar-nos; encaminhar-nos-emos para casa do Pai e seremos, cada um de nós, **alter Christus**, outro Cristo. Foi por isso que Jesus Cristo se fez homem: **Deus fit homo ut homo fieret Deus**, Deus se fez homem para que o homem se fizesse Deus.”*
+- No Evangelho: meditando-o, contemplando-o, amando-o, seguindo-o;
+- Na leitura espiritual: estudando e aprofundando a ciência de Deus;
+- Na Santíssima Eucaristia: adorando-o, desejando-o, recebendo-o;
+
+> _“A amizade de Jesus é uma amizade que leva longe: acharemos a felicidade e a tranquilidade, saberemos sempre, com critério seguro, como comportar-nos; encaminhar-nos-emos para casa do Pai e seremos, cada um de nós, **alter Christus**, outro Cristo. Foi por isso que Jesus Cristo se fez homem: **Deus fit homo ut homo fieret Deus**, Deus se fez homem para que o homem se fizesse Deus.”_
 
 # A Nossa Vocação Cristã
+
 Há um chamado universal à Santidade. É a vocação de todos os cristãos serem Santos. Mas infelizmente, os cristãos tem medo da santidade. Acham que a santidade é algo apenas para àqueles que tem uma vocação religiosa - padres, freiras.
 
 Precisamos eliminar essa mentalidade de nossas mentes. Deus quer que nós, homens e mulheres do mundo, sejamos santos. A vocação Cristã é a vocação da santidade. Sem distinção, todos devemos ser santos. Os primeiros cristãos tinham plena consciência de sua vocação - e obrigação - e se chamavam de santos.
 
-Sim, é uma obrigação de todo cristão de ser santo. Todos estão obrigados a seguir o primeiro mandamento, uma ideia simples e clara, amar a Deus sobre todas as coisas: *“Amarás o Senhor teu Deus com todo teu coração, com toda tua mente, com toda tua alma e com todas as tuas forças.”*
+Sim, é uma obrigação de todo cristão de ser santo. Todos estão obrigados a seguir o primeiro mandamento, uma ideia simples e clara, amar a Deus sobre todas as coisas: _“Amarás o Senhor teu Deus com todo teu coração, com toda tua mente, com toda tua alma e com todas as tuas forças.”_
 
 # Um Ideal para a vida
+
 A santidade é o que mais importa em nossa vida. Nada adianta ganharmos o mundo e perdermos nossa alma. Não é preciso porém abandonar o seu caminho no mundo para procurar a Deus. Se Deus não te deu uma vocação religiosa, o seu caminho de santidade será pelo mundo. Você santificará o seu trabalho, ocupação e responsabilidades, e através deles você será santificado.
 
 Após termos sido expostos ao diamante brilhante da ideia de santidade, precisamos mover da ideia para a convicção. E da convicção para a decisão. Devemos nos convencer profundamente de que é a santidade é para nós e que a única derrota da vida cristã é desistirmos dela. É ela que importa antes de todas as outras coisas e a fundação que assentaremos nossa vida.
 
 Deseja, convence-te, decida-te!
 
->*”Sabes perfeitamente que a santidade não consiste em graças extraordinárias de oração, nem em mortificações e penitências insustentáveis; menos ainda é a herança exclusiva das solidões longínquas do mundo. A santidade consiste no cumprimento amoroso e fiel dos deveres pessoais, na aceitação gozosa e humilde da vontade de Deus, na união com Ele no trabalho de cada dia, em saber fundir a religião e a vida em harmoniosa fecunda unidade, e em tantas outras coisas pequenas e habituais que tu conheces.”*
+> _”Sabes perfeitamente que a santidade não consiste em graças extraordinárias de oração, nem em mortificações e penitências insustentáveis; menos ainda é a herança exclusiva das solidões longínquas do mundo. A santidade consiste no cumprimento amoroso e fiel dos deveres pessoais, na aceitação gozosa e humilde da vontade de Deus, na união com Ele no trabalho de cada dia, em saber fundir a religião e a vida em harmoniosa fecunda unidade, e em tantas outras coisas pequenas e habituais que tu conheces.”_
+
 # Vida Interior
+
 O caminho da santidade tem como fundação a vida interior. Cada coração é um presépio onde Cristo renasce e cresce conforme o desejo daqueles que o recebem. Os nossos pensamentos, desejos e afetos são a nossa parte mais íntima e é nela que se mede a nossa união com Deus.
 
-É apenas tendo uma profunda vida interior, unindo-nos a Deus nos nossos pensamentos, desejos e afetos que Cristo crescerá em nós, e nós poderemos ser *alter Christus*, um outro Cristo.
+É apenas tendo uma profunda vida interior, unindo-nos a Deus nos nossos pensamentos, desejos e afetos que Cristo crescerá em nós, e nós poderemos ser _alter Christus_, um outro Cristo.
 
 Através do crescimento da nossa vida interior, nossas obras exteriores passarão a revelar os frutos do Espírito Santo em nossa vida. Nossas obras terão a presença do Senhor e revelarão o nosso amor por Ele. A vida interior também é alma de todo apostolado. Um apóstolo de muita vida interior com uma palavra espontânea vale mais do que um de pouca vida interior mas de muitas palavras intelectuais.
 
 As grandes batalhas de Deus acontecem no coração. É nele, no seu interior, que te levará para longe dele ou para perto dele, se assim o desejar e não pôr obstáculos a sua ação. É dentro do seu coração que será instalado por Ele o seu reino: o reino de justiça, amor e paz.
 
-Mas *“o reino dos céus é conquistado à força”*. O caminho para o reino interior de Deus é um caminho de sacrifício e purificação. É preciso purificar nossos pensamentos, afetos e desejos para unirmos-nos a Deus.
+Mas _“o reino dos céus é conquistado à força”_. O caminho para o reino interior de Deus é um caminho de sacrifício e purificação. É preciso purificar nossos pensamentos, afetos e desejos para unirmos-nos a Deus.
 
-> *“Para que dês mais fruto, para que a tua união com o Senhor se fortaleça, é necessária a poda, a purificação. Não tenhas medo do cutelo do podador: Meu Pai é o agricultor. Com a poda, o Senhor purificará a tua inteligência e a tua vontade, o teu coração e a tua memória. Não podes avançar um passo na vida de união com Deus, sem necessariamente dares um primeiro passo na via da purificação. Para isso, é preciso que colabores com o Senhor quando chegar o momento da poda: deixa-o agir! E quando vires caírem os ramos e as folhas, alegra-te, pensando nos novos e próximos frutos que essa poda promete.”*
+> _“Para que dês mais fruto, para que a tua união com o Senhor se fortaleça, é necessária a poda, a purificação. Não tenhas medo do cutelo do podador: Meu Pai é o agricultor. Com a poda, o Senhor purificará a tua inteligência e a tua vontade, o teu coração e a tua memória. Não podes avançar um passo na vida de união com Deus, sem necessariamente dares um primeiro passo na via da purificação. Para isso, é preciso que colabores com o Senhor quando chegar o momento da poda: deixa-o agir! E quando vires caírem os ramos e as folhas, alegra-te, pensando nos novos e próximos frutos que essa poda promete.”_
 
 # Guarda do coração
+
+> _"_ Fecisti nos, Domine, ad te, et inquietum est cor nostrum, donec requiescat in Te, _fizestes-nos, Senhor, para Ti, e o nosso coração está inquieto enquanto não descansar em Ti"_
+
+O coração do homem foi feito para a felicidade e posse, e não para o sacrifício e renúncia. E a felicidade é uma realidade que não precisa aguardar nossa entrada no paraíso. Portanto, se o coração do homem foi feito para a felicidade, e a felicidade reside em Deus, o caminho para a felicidade aqui na terra é a _guarda do coração_.
+
+Guardar o coração significa conservar o coração para Deus, viver de modo que o nosso coração seja reinado por Ele. Significa amar àqueles quem devemos amar e excluir as invejas, ciúmes e inquietações, que são causas de desordem no amor.
+
+A guarda do coração é feita de lutas e renúncias, mas sempre orientado para o fim da felicidade. O objetivo da guarda do coração é atingir a pureza do coração, onde Deus Nosso Senhor habita nossa alma em todas suas potências: memória, inteligência e vontade.
+
 # O caminho real
+
+> _“O que é que te custa mais esforço no seu dia-a-dia? É essa a cruz do redentor para ti. Essas tentações poderosas que te assaltam, a tua saúde periclitante, o teu trabalho duro, extenuante, os defeitos do caráter que te humilham, os defeitos das pessoas que vivem à sua volta e que te fazem sofrer… Adquire visão sobrenatural! Essa é a Cruz de Cristo para ti. Propõe-ti firmemente reconhece-la e abraçá-la, quando surgir no teu caminho de cada dia.”_
+
+O cristão carrega sua cruz alegre e feliz, pois descobriu que a verdadeira felicidade é a participação na felicidade de Deus. A cruz não faz vítimas, faz santos, pois é na cruz que morre o pecado, o único inimigo da santidade.
+
+A única vítima da cruz é Jesus Cristo, que morreu abandonado por todos nós. Só quando aprendermos a reconhecer isso, e o valor da cruz de Cristo para nós, poderemos amá-la e abraçá-la diariamente, escondida dos olhares de terceiros, atrás de um sorriso generoso.
+
 # A esperança Cristã
 
-> *“O que é que te custa mais esforço no seu dia-a-dia? É essa a cruz do redentor para ti. Essas tentações poderosas que te assaltam, a tua saúde periclitante, o teu trabalho duro, extenuante, os defeitos do caráter que te humilham, os defeitos das pessoas que vivem à sua volta e que te fazem sofrer… Adquire visão sobrenatural! Essa é a Cruz de Cristo para ti. Propõe-ti firmemente reconhece-la e abraçá-la, quando surgir no teu caminho de cada dia.”*
+A esperança cristã, como virtude teologal, se difere da esperança humana ou mundana pois coloca na fonte de esperança o próprio Deus, ao invés do mundo material. As esperanças humanas não são ruins, mas elas estão hierarquicamente "subordinadas" à esperança cristã.
+
+A esperança cristã cria firmeza na nossa vida, tirando a instabilidade de sermos presunçosos na felicidade extrema quando tudo corre bem e termos de carregar o peso do desespero paralisante quando nossas expectativas forem frustradas.
+
+A esperança cristã será nosso impulso quando todos as esperanças humanas se esvaírem, pois confiamos na Misericórdia Divina e na Providência. A esperança cristã também é o remédio contra o desalento e pessimismo que esterilizam a vida do apostolado, que exige esforço contínuo e perseverança.
+
 # Humildade
+
 Tudo que você tem, recebestes. Não só isso, mas você abusou diversas vezes das graças concedidas por Deus, seja por malícia, seja por fraqueza.
 
 Mesmo não sendo nada e vivendo o pecado, ainda possui vaidade e orgulho… Orgulho de ser nada e pecado.
@@ -55,16 +86,21 @@ Mesmo não sendo nada e vivendo o pecado, ainda possui vaidade e orgulho… Orgu
 Todas as qualidades e virtudes que você possui na alma foram dadas por Deus e ele te cobrará por elas, portanto, faça com que elas deem frutos.
 
 A alma humilde abandona os desejos excessivos de estima própria e dos outros que causa tantas inquietações e perturbações, e se entrega a Deus, aquele que merece glória, e onde o coração residirá em paz.
+
 # Mansidão 
+
 Se queremos o bem das almas que vivem ao nosso redor, se quisermos salva-las, vamos precisar que nossas palavras fiquem em suas inteligências. Mas nossas palavras só poderão chegar em sua inteligência caso nós tenhamos os corações abertos dessas pessoas que estão ao nosso redor.
 
 Nossa palavra e atitude precisa ser mansa - amável, amigável, alegre. O nosso rastro daquele que nos encontra precisa ser um rastro de alegria, serenidade e bom humor, e não um rastro de animosidade, amargura e feridas.
 
-  > *“Se souberes falar sem ferir, sem ofender, mesmo que devas corrigir ou repreender, os corações não se fecharão”*
+> _“Se souberes falar sem ferir, sem ofender, mesmo que devas corrigir ou repreender, os corações não se fecharão”_
+
 # As humilhações 
+
 As humilhações - o descobrir de um defeito ou um fracasso exterior - são o melhor caminho para a humildade. Agradeça a Deus por suas humilhações. É melhor ver o que não se via antes, e agora você está em ótimas condições para se melhorar. Deus repreende aqueles que Ele ama.
 
 # O itinerário do orgulho
+
 O orgulho é a estima desmedida e desordenada que temos de nós mesmos. O itinerário do orgulho começa na vida interior, a atribuição de todas as qualidades e tudo o que temos a nós mesmos, exclusivamente.
 
 O itinerário do orgulho então continua para o mundo exterior. Sem capacidade de olhar além de si mesmo e suas qualidades, se afunda no ensimesmamento.
@@ -74,6 +110,7 @@ Não conseguindo olhar para além de si mesmo, exclui qualquer horizonte de outr
 O itinerário do orgulho progride para a inveja e inimizade. Como não suporta qualquer outro superior, começa a invejar e desprezar qualquer outro que tenha alguma qualidade superior à própria.
 
 Por fim, o itinerário do orgulho termina no fingimento e hipocrisia. Tem que se fingir ser aquilo que não é e exagerar o que possui. Tudo é permitido, desde que o interessado seja a própria pessoa e sua imagem na estima dos outros.
+
 # Celibato e castidade
 
 Sem a castidade, não temos o ambiente propício à vida espiritual. O homem impuro é prisioneiro da carne e de seus sentidos. O amor à carne ocupa o lugar do amor a Deus e das alegrias espirituais.
@@ -85,15 +122,19 @@ A castidade perfeita é uma renúncia, mas não uma mutilação. A castidade per
 A castidade é possível para todos, não por nossas limitadas forças, mas mediante a graça de Deus. Para defender e crescer nessa virtude é preciso vigiar e orar. Vigilância para fugir das ocasiões e perigos, para ter sinceridade no exame de consciência, e para mortificar os sentidos e a imaginação. A oração e os sacramentos, a amizade com Jesus Cristo e devoção à Virgem Maria, são necessários para proteger essa virtude e para que Deus a conceda.
 
 # Verdadeiras e falsas virtudes
+
 As verdadeiras virtudes são construídas com esforço e tempo, no meio de provas e lutas, batalhas e derrotas. A insistência dos atos virtuosos no meio das dificuldades, da aparente não eficácia, é o que constrói as verdadeiras e frutíferas virtudes.
 
 As verdadeiras virtudes dão unidade à vida de uma pessoa, enquanto as falsas virtudes causam uma divisão entre as práticas de piedade e a vida do dia-a-dia. As falsas virtudes são incapazes de irrigar a vida completa de uma pessoa.
+
 # A serenidade
+
 A serenidade é a virtude que nos permite ver as coisas de forma objetiva, de ver as coisas estabelecidas em seus lugares. Assim como vemos as coisas em seus lugares no passado, a serenidade nos permite não ser afligidos pelo presente e pelo futuro. A serenidade é campo fértil para o equilíbrio, objetividade, realismo e bom senso.
 
 A pessoa serena não é aquela que só vê pormenores ou aquela que só pensa em problemas gerais. É a que consegue ver o conjunto e os detalhes e extrair um plano eficaz e concreto.
 
 # A “crítica”
+
 Nossa inteligência e sensibilidade medem todas as coisas que nós temos contato. Porém, é preciso ter bons limites em quando devemos expressar esse juízo que fazemos constantemente. Uma crítica virtuosa, do homem honesto, do amigo e do cristão, é sempre construtiva, amável, oportuna e santificante.
 
 A reta crítica deve sempre ser caridosa para com o criticado. Deve sempre ter conhecimento daquilo que critica, da pessoa, e de suas intenções.
@@ -102,9 +143,10 @@ A reta crítica deve sempre ser caridosa para com o criticado. Deve sempre ter c
 
 Também devemos saber ignorar a crítica ligeira, invejosa e superficial. E uma preocupação excessiva com críticas não pode nos paralisar ou inibir. Tipicamente, só aquele que constrói algo é criticado, a omissão é raramente criticada.
 
-> *“Muitas vezes encontrarás na tua vida este paradoxo: deves fazer-te perdoar, no que fizeste de bom e no que realizaste com o teu suor, por todos aqueles que não fizeram nada de bom ou nunca trabalharam.”*
+> _“Muitas vezes encontrarás na tua vida este paradoxo: deves fazer-te perdoar, no que fizeste de bom e no que realizaste com o teu suor, por todos aqueles que não fizeram nada de bom ou nunca trabalharam.”_
 
 # Tentações
+
 As tentações, quando não provenientes de procuras imprudentes, são instrumentos Divinos para o fortalecimento espiritual da alma e de suas virtudes. Não há virtude autêntica sem provação!
 
 As tentações, e as vitórias nessas batalhas, também ajudam no trabalho apostólico, de surgir, ajudar, e consolar almas atribuladas por tentações.
@@ -115,8 +157,10 @@ As tentações também nos permitem crescer em humildade e conhecimento próprio
 
 A maior das tentações é o desalento, o achar que não é possível vencer a tentação, e desistir. A vitória é sempre possível, e Deus nunca dá uma tentação maior do que é possível resistir. A graça de Deus nunca será negada àqueles que fazem o que está ao seu alcance para conseguirem derrotar a tentação.
 
-> *“Mas não te esqueças, meu amigo, de que precisas de armas para vencer nesta batalha espiritual. Tuas armas serão: a oração contínua, a sinceridade e franqueza com teu diretor espiritual, a Santíssima Eucaristia e o Sacramento da Penitência, um generoso espírito de mortificação cristã — que te levará a fugir das ocasiões e a evitar a ociosidade -, a humildade de coração e uma devoção terna e filial à Santíssima Virgem Consoladora dos aflitos e Refúgio dos pecadores. Dirige-te a Ela com confiança. Mater mea, fiducia mea. Minha mãe, minha esperança.”*
+> _“Mas não te esqueças, meu amigo, de que precisas de armas para vencer nesta batalha espiritual. Tuas armas serão: a oração contínua, a sinceridade e franqueza com teu diretor espiritual, a Santíssima Eucaristia e o Sacramento da Penitência, um generoso espírito de mortificação cristã — que te levará a fugir das ocasiões e a evitar a ociosidade -, a humildade de coração e uma devoção terna e filial à Santíssima Virgem Consoladora dos aflitos e Refúgio dos pecadores. Dirige-te a Ela com confiança. Mater mea, fiducia mea. Minha mãe, minha esperança.”_
+
 # Imaginação 
+
 Para servirmos a Deus, precisamos de uma calma serena. Uma calma serena que não é possível atingir se não estamos sob controle e domínio de nossa imaginação.
 
 A tirania da imaginação cria cruzes imaginárias que nos atormentam, oprimem com seu peso. As cruzes inventadas são tão pesadas e nos enfraquecem pois nossa cruel imaginação aumenta, deforma e distorce os nossos problemas e sofrimentos.
@@ -126,11 +170,15 @@ Além dos fantasmas dos problemas atuais, também admitimos fantasmas dos males 
 É normal que hoje não sejamos capazes de derrotar cruzes imaginárias. A vida espiritual tem base em um realismo sereno e objetivo.
 
 # Exame de consciência
+
 Nossa vida é um livro em branco que estamos todo dia escrevendo uma página. Se não pararmos para refletir sobre o que estamos escrevendo, corremos o sério risco de repetir erros ou de não prosseguir com virtudes.
 
 O exercício diário do exame de consciência nos permite ler esse livro que estamos escrevendo, para continuamente nos conhecermos melhor e melhorarmos a nossa história - e não sermos surpreendidos no dia do juízo particular ou envergonhados na publicação dele no juízo final.
+
 # Na presença do Pai
+
 Viver na presença de Deus é ter pureza de intenções. Todas as nossas ações tendo Deus como princípio e fim. Tendo Nosso Senhor presente em todas as nossas intenções, livraremos o nosso coração de impedimentos terrenos e, com Jesus Cristo reinando as nossas ações, nós nos santificaremos no meio do mundo.
+
 # O pão da vida
 
 Estar perto de uma boa pessoa exerce uma boa influência em nossa vida. De um santo, mais ainda. E não há influência melhor do que estar perto de Jesus Cristo, substancialmente, corpo, sangue, alma e divindade na Santa Eucaristia.
@@ -146,22 +194,26 @@ Se suas misérias te afastarem da Eucaristia, lembre-se das palavras do centuri�
 A oração é o fundamento da nossa santidade pessoal. Também é a base do apostolado, que se propõe a compartilhar as coisas contempladas.
 
 Os inimigos da oração:
+
 - A imaginação, que distrai e perturba
 - Ausência de preparação remota, que faz com que te encontres longe de Deus no início da oração
 - Coração pouco mortificado, pouco purificado que suja as asas do sua alma e impede de subir a uma maior intimidade com Deus
 - Falta de esforço e autêntico interesse nos momentos a sós com o Senhor
+
 # A morte e a vida
+
 A morte, quando pensada cristãmente, não deve levar à tristeza ou desespero, e sim em alegria. A alegria de finalmente estar com Deus no céu. O corpo morre, mas a vida não nos é arrancada, apenas muda-se.
 
 A contemplação da morte também é necessária para nos guiar em como agimos em vida. Em nossa última hora, quando olharmos para trás, estaremos serenos e desprendidos, ou estaremos angustiados por termos vivido uma vida esquecida do que realmente importa, sentindo obrigados a fazer em meia-hora o que deveríamos ter feito pela vida toda?
 
-> *“Sugiro-te uma norma de conduta: que pensarias desta pes-soa, como julgarias aquela outra, como resolverias este grave problema, se estivesses para morrer hoje e, imediatamente depois, tivesses de prestar contas a Deus daquele juízo, daquela decisão? Ora bem, atua sempre como atuarias naquele momento. Pergunta-te sempre a ti mesmo: Qual é o valor disto para a eternidade?*
-> 
-> *Breve e caduca é a nossa vida, como as flores do campo — sicut fios agri, dizem as Escrituras — e como uma sombra que passa rapidamente: Umbra quae transit est vita hominis.*
-> 
-> *Como empregamos, tu e eu, esta vida tão breve, esta migalha de tempo que temos para viver cá embaixo? Se nos chegasse agora o último momento, estaríamos satisfeitos com o uso feito do nosso tempo e dos dons recebidos de Deus?”*
+> _“Sugiro-te uma norma de conduta: que pensarias desta pes-soa, como julgarias aquela outra, como resolverias este grave problema, se estivesses para morrer hoje e, imediatamente depois, tivesses de prestar contas a Deus daquele juízo, daquela decisão? Ora bem, atua sempre como atuarias naquele momento. Pergunta-te sempre a ti mesmo: Qual é o valor disto para a eternidade?_
+>
+> _Breve e caduca é a nossa vida, como as flores do campo — sicut fios agri, dizem as Escrituras — e como uma sombra que passa rapidamente: Umbra quae transit est vita hominis._
+>
+> _Como empregamos, tu e eu, esta vida tão breve, esta migalha de tempo que temos para viver cá embaixo? Se nos chegasse agora o último momento, estaríamos satisfeitos com o uso feito do nosso tempo e dos dons recebidos de Deus?”_
 
 # A correção fraterna
+
 Nós temos o dever de, fraternalmente, corrigir os nosso irmãos, a sós, quando eles tiverem cometido um erro ou estiver prestes a tal.
 
 Essa correção precisa ser caridosa, movida pelo espírito evangélico, e não por amor próprio. Ela tem que ser desinteressada de interesses pessoais. É preciso também, passar por cima da barreira da complacência e do desconforto pessoal de possivelmente magoar o próximo.
@@ -177,9 +229,11 @@ A parábola do banquete do rei e seus convidados que cordialmente recusam o conv
 Uma outra maneira de dizer é que devemos ter cuidados para não criar ídolos, isto é, não colocar outra coisa no lugar de Deus. A arte, estudos, cultura, lazer, comércio, política, relações, entre outros, não são coisas ruins em si, mas são terríveis quando elevadas ao estado da coisa mais importante em nossa vida.
 
 Os cristãos deveriam diariamente considerar as omissões e negligências praticadas naquele dia em função de seu fim último (a santidade; a vida eterna). Não com a intenção de desanimar, mas para vigiar que seus deveres não fiquem descuidados ou injustamente suplantados.
+
 # O joio e o trigo
 
 Assim como na parábola do joio e do trigo, os vícios e os pecados podem nascer e crescer entre o bem, e sobre o bem. Sempre temos que vigiar a retidão de nossas ações para que o bem realizado não seja abafado pelo mal que sobrevém. É fácil ver com exemplos:
+
 - Comum ver o mal do orgulho e desprezo aos outros surgindo em meio ao terreno de uma vida honesta e sacrificada ou sobre o belo terreno da castidade;
 - O mal da vaidade surgindo entre aqueles que fazem penitências;
 - A caridade que tem ponto de partida o egoísmo do que pode ser ganho com aquele ato;
@@ -189,8 +243,10 @@ Assim como na parábola do joio e do trigo, os vícios e os pecados podem nascer
 - O amor pela nossa Mãe Igreja se torna em impaciência com os pecadores;
 
 Para evitar que o mal sufoque e mate o bem da nossa alma, dois conselhos:
-* Vigiar: muitas vezes, assim como na parábola o inimigo semeia o joio pois os trabalhadores dormem, o mal entre na nossa vida por distração e negligência.
-* Paciência, conosco e com os outros. Paciência é o preço último da nossa santidade. Paciência é sempre humildade, sabedoria e vontade para não substituir os planos de Deus pelos nossos próprios planos.
+
+- Vigiar: muitas vezes, assim como na parábola o inimigo semeia o joio pois os trabalhadores dormem, o mal entre na nossa vida por distração e negligência.
+- Paciência, conosco e com os outros. Paciência é o preço último da nossa santidade. Paciência é sempre humildade, sabedoria e vontade para não substituir os planos de Deus pelos nossos próprios planos.
+
 # Na luz de Belém
 
 Um dos fatos mais grandiosos da história, o nascimento de Nosso Senhor, não aconteceu em circunstâncias extraordinárias. Pelo contrário, a Providência guiou para que no caminho a Belém, por causa de um recenseamento ditado pelo Imperador Romano, nasce Jesus. No frio e no silêncio de uma noite, numa gruta, com palhas, animais, nasce o Filho de Deus. Os pastores da proximidade que são escolhidos para serem os primeiros adoradores de Deus, são simples, humildes e pobres, cumprindo o seu dever pela noite fora.
@@ -199,6 +255,8 @@ A contemplação do nascimento na manjedoura é importante para que possamos com
 
 A virtude do desprendimento é sobre pobreza afetiva, o desapego dos afetos e paixões desordenadas e, na medida do conveniente, efetiva, sempre tentando distinguir o que é necessidade do que é supérfluo, para podermos sempre cumprirmos com os nossos deveres para com os pobres.
 
-> *“O desprendimento do coração relativamente aos bens da terra inunda a alma de paz e ensina a usar bem riquezas, quando se possuem, desenvolvendo a virtude da generosidade. O desprendimento confere, além disso, com a serenidade do coração, a perfeita liberdade interior.”*
+> _“O desprendimento do coração relativamente aos bens da terra inunda a alma de paz e ensina a usar bem riquezas, quando se possuem, desenvolvendo a virtude da generosidade. O desprendimento confere, além disso, com a serenidade do coração, a perfeita liberdade interior.”_
 
 ---
+
+
