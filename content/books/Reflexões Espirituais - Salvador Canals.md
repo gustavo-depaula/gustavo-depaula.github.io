@@ -170,6 +170,35 @@ Corrigir o próximo e saber ouvir correções eleva a relação ao nível de ami
 
 # O Perigo das coisas boas
 
+Temos que estar atento a um perigo muito real e muito comum: tratar a nossa santificação como só mais uma responsabilidade entre muitas; a tentação de relegar os deveres de nossa vida cristã para quando tivermos tempo e disposição para cumpri-los.
+
+A parábola do banquete do rei e seus convidados que cordialmente recusam o convite mostra justamente isso, o banquete simbolizando a vida eterna, mostra os convidados recusando e sacrificando o principal pelo secundário, mesmo que estes convidados tenham boas desculpas e motivos razoáveis.
+
+Uma outra maneira de dizer é que devemos ter cuidados para não criar ídolos, isto é, não colocar outra coisa no lugar de Deus. A arte, estudos, cultura, lazer, comércio, política, relações, entre outros, não são coisas ruins em si, mas são terríveis quando elevadas ao estado da coisa mais importante em nossa vida.
+
+Os cristãos deveriam diariamente considerar as omissões e negligências praticadas naquele dia em função de seu fim último (a santidade; a vida eterna). Não com a intenção de desanimar, mas para vigiar que seus deveres não fiquem descuidados ou injustamente suplantados.
 # O joio e o trigo
 
+Assim como na parábola do joio e do trigo, os vícios e os pecados podem nascer e crescer entre o bem, e sobre o bem. Sempre temos que vigiar a retidão de nossas ações para que o bem realizado não seja abafado pelo mal que sobrevém. É fácil ver com exemplos:
+- Comum ver o mal do orgulho e desprezo aos outros surgindo em meio ao terreno de uma vida honesta e sacrificada ou sobre o belo terreno da castidade;
+- O mal da vaidade surgindo entre aqueles que fazem penitências;
+- A caridade que tem ponto de partida o egoísmo do que pode ser ganho com aquele ato;
+- A atividade do apostolado levando a omitir a oração ou a esquecer as nossas responsabilidades pessoais;
+- A atitude de respeito e obediência a um superior suprimindo a responsabilidade pessoal;
+- O amor pela verdade e pelo bem não pode se transformar em fanatismo que é incapaz de discernir o pecado do pecador, o erro daqueles que o cometem;
+- O amor pela nossa Mãe Igreja se torna em impaciência com os pecadores;
+
+Para evitar que o mal sufoque e mate o bem da nossa alma, dois conselhos:
+* Vigiar: muitas vezes, assim como na parábola o inimigo semeia o joio pois os trabalhadores dormem, o mal entre na nossa vida por distração e negligência.
+* Paciência, conosco e com os outros. Paciência é o preço último da nossa santidade. Paciência é sempre humildade, sabedoria e vontade para não substituir os planos de Deus pelos nossos próprios planos.
 # Na luz de Belém
+
+Um dos fatos mais grandiosos da história, o nascimento de Nosso Senhor, não aconteceu em circunstâncias extraordinárias. Pelo contrário, a Providência guiou para que no caminho a Belém, por causa de um recenseamento ditado pelo Imperador Romano, nasce Jesus. No frio e no silêncio de uma noite, numa gruta, com palhas, animais, nasce o Filho de Deus. Os pastores da proximidade que são escolhidos para serem os primeiros adoradores de Deus, são simples, humildes e pobres, cumprindo o seu dever pela noite fora.
+
+A contemplação do nascimento na manjedoura é importante para que possamos compreender a virtude do desprendimento. É muito comum sempre querermos o extravagante, novidades, novas necessidades e ânsias. E quando finalmente conseguimos essas extravagâncias, percebemos que logo nos encontraremos de coração vazio e pedindo mais.
+
+A virtude do desprendimento é sobre pobreza afetiva, o desapego dos afetos e paixões desordenadas e, na medida do conveniente, efetiva, sempre tentando distinguir o que é necessidade do que é supérfluo, para podermos sempre cumprirmos com os nossos deveres para com os pobres.
+
+> *“O desprendimento do coração relativamente aos bens da terra inunda a alma de paz e ensina a usar bem riquezas, quando se possuem, desenvolvendo a virtude da generosidade. O desprendimento confere, além disso, com a serenidade do coração, a perfeita liberdade interior.”*
+
+---
