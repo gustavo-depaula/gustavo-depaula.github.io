@@ -12,7 +12,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "cabin",
     },
     locale: "en-US",
     baseUrl: "dpgu.me",
