@@ -648,3 +648,7 @@ iframe.pdf {
 .graph {
   max-width: 100%;
 }
+
+::highlight(highlight-party) {
+  background: rgba(52, 199, 89, 0.3);
+}

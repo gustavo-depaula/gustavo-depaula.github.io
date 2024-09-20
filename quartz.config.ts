@@ -18,6 +18,9 @@ const config: QuartzConfig = {
     baseUrl: "dpgu.me",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "published",
+    cursorParty: {
+      username: "gustavo-depaula",
+    },
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,

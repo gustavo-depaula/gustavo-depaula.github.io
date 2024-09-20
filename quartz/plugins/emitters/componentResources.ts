@@ -164,6 +164,14 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
       document.dispatchEvent(event)
     `)
   }
+
+  if (cfg.cursorParty) {
+    componentResources.afterDOMLoaded.push(`
+      const cursorPartyScript = document.createElement("script")
+      cursorPartyScript.src = "https://cursor-party.${cfg.cursorParty.username}.partykit.dev/cursors.js"
+      document.body.appendChild(cursorPartyScript)
+    `)
+  }
 }
 
 // This emitter should not update the `resources` parameter. If it does, partial

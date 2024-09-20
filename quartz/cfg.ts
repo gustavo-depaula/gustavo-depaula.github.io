@@ -39,6 +39,10 @@ export type Analytics =
       host?: string
     }
 
+export type CursorParty = {
+  username: string
+}
+
 export interface GlobalConfiguration {
   pageTitle: string
   /** Whether to enable single-page-app style rendering. this prevents flashes of unstyled content and improves smoothness of Quartz */
@@ -65,6 +69,11 @@ export interface GlobalConfiguration {
    * Region Codes: https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
    */
   locale: ValidLocale
+
+  /**
+   * Cursor Party configuration
+   * Configure it first here: https://github.com/genmon/interconnected-cursor-party */
+  cursorParty?: CursorParty
 }
 
 export interface QuartzConfig {
