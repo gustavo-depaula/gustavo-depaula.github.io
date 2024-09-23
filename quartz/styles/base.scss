@@ -24,7 +24,8 @@ section {
   overflow: overlay;
 
   margin: 0;
-  max-width: 100%;
+  box-sizing: border-box;
+  background-color: var(--light);
   font-family: var(--bodyFont);
   color: var(--darkgray);
 
@@ -177,29 +178,21 @@ a:visited {
 
 .desktop-only {
   display: initial;
-  @media all and (max-width: $fullPageWidth) {
+  @media all and ($mobile) {
     display: none;
   }
 }
 
 .mobile-only {
   display: none;
-  @media all and (max-width: $fullPageWidth) {
+  @media all and ($mobile) {
     display: initial;
   }
 }
 
 .page {
-  @media all and (max-width: $fullPageWidth) {
-    margin: 0 auto;
-    padding: 0 0.2rem;
-    max-width: $pageWidth;
-  }
-
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-
+  max-width: calc(#{map-get($breakpoints, desktop)} + 300px);
+  margin: 0 auto;
   & article {
     & > h1 {
       font-size: 2rem;
@@ -227,90 +220,128 @@ a:visited {
   }
 
   & > #quartz-body {
-    /* width: 100%; */
-    display: flex;
-    flex-direction: row;
-    align-items: start;
-    gap: 1rem;
-
-    @media all and (max-width: $fullPageWidth) {
-      flex-direction: column;
-      align-items: stretch;
+    display: grid;
+    grid-template-columns: #{map-get($desktopGrid, templateColumns)};
+    grid-template-rows: #{map-get($desktopGrid, templateRows)};
+    column-gap: #{map-get($desktopGrid, columnGap)};
+    row-gap: #{map-get($desktopGrid, rowGap)};
+    grid-template-areas: #{map-get($desktopGrid, templateAreas)};
+    @media all and ($desktop) {
+      grid-template-columns: #{map-get($tabletGrid, templateColumns)};
+      grid-template-rows: #{map-get($tabletGrid, templateRows)};
+      column-gap: #{map-get($tabletGrid, columnGap)};
+      row-gap: #{map-get($tabletGrid, rowGap)};
+      grid-template-areas: #{map-get($tabletGrid, templateAreas)};
+    }
+    @media all and ($mobile) {
+      grid-template-columns: #{map-get($mobileGrid, templateColumns)};
+      grid-template-rows: #{map-get($mobileGrid, templateRows)};
+      column-gap: #{map-get($mobileGrid, columnGap)};
+      row-gap: #{map-get($mobileGrid, rowGap)};
+      grid-template-areas: #{map-get($mobileGrid, templateAreas)};
     }
 
-    & .sidebar {
-      display: flex;
-      flex-direction: column;
-      gap: 2rem;
-      width: $sidePanelWidth;
-      margin-top: $topSpacing;
-      box-sizing: border-box;
-      padding: 1rem 2rem;
-      @media all and (max-width: $fullPageWidth) {
-        /* position: initial; */
-        flex-direction: column;
-        /* padding: 0; */
-        /* width: initial; */
-        width: 100%;
-        margin-top: 2rem;
-      }
+    @media all and ($desktop) {
+      padding: 0 1rem;
+    }
+    @media all and ($mobile) {
+      margin: 0 auto;
+    }
 
+    & > * {
       background-color: var(--contentBackground);
       border: 7px double var(--contentBorder);
     }
 
+    & .sidebar {
+      gap: 2rem;
+      margin: $topSpacing auto 0 auto;
+      box-sizing: border-box;
+      padding: 2rem;
+      display: flex;
+      height: 100vh;
+      position: sticky;
+    }
+
     & .sidebar.left {
       z-index: 1;
-      left: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth - 1rem);
-      @media all and (max-width: $fullPageWidth) {
-        gap: 1rem;
+      grid-area: sidebar-left;
+      flex-direction: column;
+      @media all and ($mobile) {
+        gap: 0;
         align-items: center;
-        justify-items: center;
+        position: initial;
+        display: flex;
+        height: unset;
+        flex-direction: row;
+        padding: 0;
+        padding-top: 2rem;
       }
     }
 
     & .sidebar.right {
-      right: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth - 2rem);
-      flex-wrap: wrap;
-      & > * {
-        @media all and (max-width: $fullPageWidth) {
+      grid-area: sidebar-right;
+      margin-right: 0;
+      flex-direction: column;
+      @media all and ($mobile) {
+        margin-left: inherit;
+        margin-right: inherit;
+      }
+      @media all and ($desktop) {
+        position: initial;
+        height: unset;
+        width: 100%;
+        flex-direction: row;
+        padding: 0;
+        & > * {
           flex: 1;
-          min-width: 140px;
+        }
+        & > .toc {
+          display: none;
         }
       }
     }
-  }
-
-  & .page-header,
-  & .page-footer {
-    width: $pageWidth;
-    max-width: 100%;
-    margin-top: 1rem;
-
-    @media all and (max-width: $fullPageWidth) {
-      width: initial;
+    & .page-header,
+    & .page-footer {
+      margin-top: 1rem;
     }
-  }
 
-  & .center,
-  & footer {
-    background-color: var(--contentBackground);
-    border: 7px double var(--contentBorder);
-    margin-left: auto;
-    margin-right: auto;
-    width: $pageWidth;
-    padding: 0.5rem 3rem;
-    box-sizing: border-box;
-    @media all and (max-width: $fullPageWidth) {
-      width: initial;
+    & .page-header {
+      grid-area: page-header;
+      margin: $topSpacing 0 0 0;
+      @media all and ($mobile) {
+        margin-top: 0;
+        padding: 0;
+      }
+    }
+
+    & .center > article {
+      grid-area: page-center;
+    }
+
+    & .page-footer {
+      grid-area: page-footer;
+    }
+
+    & .center,
+    & footer {
+      margin-left: auto;
+      margin-right: auto;
+      @media all and ($desktop) {
+        margin-right: 0;
+      }
+      @media all and ($mobile) {
+        margin-left: 0;
+      }
+    }
+    & footer {
       margin-left: 0;
-      margin-right: 0;
     }
   }
 
   & .center {
     margin: $topSpacing auto 0 auto;
-    @media all and (max-width: $fullPageWidth) {
+    @media all and (max-width: $pageWidth) {
       padding: 0.5rem 1.5rem;
       margin-top: 2rem;
     }
