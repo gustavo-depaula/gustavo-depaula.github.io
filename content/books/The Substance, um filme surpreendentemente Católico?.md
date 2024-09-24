@@ -58,7 +58,7 @@ Tudo se aprofunda mais ainda quando Elisabeth, já em um corpo que aparenta ter 
 
 Elisabeth deixa a casa destruída, dezenas de pratos e panelas de comida espalhados pela cozinha e a sala. Ela também a janela que dava vista para o outdoor com a imagem de Sue com papel de jornal. Sue então acorda da troca, vê a casa nesse estado terrível e decide que basta daquela situação. Ela decide que nunca mais irá fazer a troca, e extrai o máximo de fluido estabilizador do corpo de Elisabeth até que o fluido acaba e não há mais possibilidades se não a troca para sobreviver. Interessante que quando isso acontece, ela tem um homem em seu apartamento e tudo isso acontece logo antes dela ir para a cama com ele. Novamente a associação do pecado contra a castidade.
 
-Elisabeth acorda da troca totalmente horrorosa. Careca, fraca, já não parece mais uma mulher. E nesse ponto, ela decide terminar o experimento da substância. 
+Elisabeth acorda da troca totalmente horrorosa. Careca, fraca, já não parece mais uma mulher. E nesse ponto, ela olha para o espelho, vê o seu estado, e decide terminar o experimento da substância. Vejo isso como um breve impulso da alma que tenta sobreviver. Ela então pega a injeção de término do experimento, levanta a mão
 
 tentativa de terminar = breve grito da alma tentando sobreviver
 tentativa de ressucitar = orgulho é mais forte, o pecado está tao infudido em sua alma que ela não vê identidade sem o pecado
