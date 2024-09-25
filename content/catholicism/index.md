@@ -2,4 +2,3 @@
 title: Catholicism
 ---
 
-# Catholicism
