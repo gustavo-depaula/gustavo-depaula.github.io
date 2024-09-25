@@ -4,7 +4,7 @@ Para começar: 20 minutos, todos os dias:
 - Esses 20 minutos não te pertencem, é o seu dever estar esse tempo com Deus;
 - Grandes coisas raramente mudam nossas vidas, pequenas coisas feitas com constância e dedicação mudam;
 
-##  Præparatio (Preparação)
+#  Præparatio (Preparação)
 
 1. Vá para um lugar reservado, onde você possa se concentrar e ter um diálogo com Deus
 2. Tenha em mãos:
@@ -42,7 +42,7 @@ Invocações do Espírito Santo:
 > 
 > *Oremos: Ó Deus, que instruístes os corações dos vossos fiéis com a luz do Espírito Santo, concedei-nos que, pelo mesmo Espírito, saibamos o que é reto e gozemos sempre de Suas consolações. Por Cristo, Senhor nosso. Amém.*
 
-## Lectio (Leitura)
+# Lectio (Leitura)
 
 > ***"O que o texto diz?"***
 
@@ -57,7 +57,7 @@ O objetivo da leitura é entender e interpretar o texto no seu sentido literal. 
 5. Grife as partes mais importantes
 6. ---- aquele vídeo lá de como tomar notas
 
-## Meditatio (Meditação)
+# Meditatio (Meditação)
 
 > ***"O que Deus está me dizendo por meio deste texto?"***
 
@@ -71,7 +71,7 @@ A meditação é o ato de interiorizar e assimilar o texto lido. Não de forma a
 	2. E rememorando-o várias vezes durante o dia, a fim de assimilá-lo melhor
 6. Confronte como esse trecho se relaciona com você e sua vida
 
-## Oratio (Oração)
+# Oratio (Oração)
 
 > ***"O que eu quero dizer a Deus em resposta a esta Palavra?"***
 
@@ -84,7 +84,7 @@ A oração é uma resposta à mensagem de Deus que foi ouvida na leitura e medit
 	4. Desabafe com Deus. Se você estiver irritado ou com sentimentos negativos para com uma pessoa, permita que Deus escute as primeiras palavras, que tendem a ser as piores, que faltam caridade.
 2. Escreva quais propósitos, afetos ou inspirações foram comunicados para você durante esse tempo de oração.
 
-## Contemplatio (Contemplação)
+# Contemplatio (Contemplação)
 
 > ***"Permitirei a Deus a me transformar através desta Palavra."***
 
