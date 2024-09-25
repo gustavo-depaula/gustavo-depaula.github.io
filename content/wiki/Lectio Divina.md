@@ -55,7 +55,6 @@ O objetivo da leitura é entender e interpretar o texto no seu sentido literal. 
 3. Leia as notas de rodapé
 4. Constraste e faça conexões do texto com outras passagens que você lembre
 5. Grife as partes mais importantes
-6. ---- aquele vídeo lá de como tomar notas
 
 # Meditatio (Meditação)
 
