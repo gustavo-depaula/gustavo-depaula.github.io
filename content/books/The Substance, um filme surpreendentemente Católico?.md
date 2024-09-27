@@ -1,5 +1,5 @@
 ---
-image: books/attachments/thesubstance/thesubstance-article-cover
+image: books/attachments/thesubstance/thesubstance-article-cover.png
 description: Explorando a profundidade espiritual de "The Substance", de Coralie Farge
 ---
 Ontem (20 de setembro), um querido amigo meu convidou-me a assistir um filme de horror que estava estreando naquele dia. Confesso que não sou cinéfilo, e nem me proponho a ser. Se tiver assistido mais de quatro filmes esse ano será muito. Portanto, aceitei pelo rolê e pela companhia, e que bom que o fiz, que filme excepcional. Daqueles de explodir a cabeça e te deixarem extático. Saí da sala de cinema até com vontade de assistir mais filmes.
@@ -66,7 +66,7 @@ Ela então se arruma, passa maquiagem, uma roupa sexy e está muito bonita. Mas 
 
 ![[thesubstance-elisabeth-makeup.png]]
 ![[thesubstance-elisabeth-makeup2.png]]
-![[thesubstance-window.avif]]
+![[thesubstance-window.png]]
 
 É claro que o problema não é a sua aparência real, mas a visão desordenada que ela tem dela mesmo. Isso fica claro quando ela está quase saindo de casa, mas desiste quando vê e contempla sua aparência distorcida no reflexo da maçaneta: é como ela está se enxergando. Ela desconta sua raiva e frustração na gula (outro pecado). A sua imagem desordenada de si mesmo leva ela a uma desordem na comida, que faz ela comer um frango inteiro.
 
