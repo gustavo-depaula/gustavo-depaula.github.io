@@ -1,6 +1,7 @@
 ---
 image: books/attachments/thesubstance/thesubstance-article-cover.png
 description: Explorando a profundidade espiritual de "The Substance", de Coralie Farge
+permalink: /15c04861
 ---
 Ontem (20 de setembro), um querido amigo meu convidou-me a assistir um filme de horror que estava estreando naquele dia. Confesso que não sou cinéfilo, e nem me proponho a ser. Se tiver assistido mais de quatro filmes esse ano será muito. Portanto, aceitei pelo rolê e pela companhia, e que bom que o fiz, que filme excepcional. Daqueles de explodir a cabeça e te deixarem extático. Saí da sala de cinema até com vontade de assistir mais filmes.
 
