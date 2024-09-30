@@ -38,6 +38,10 @@ export type Analytics =
       provider: "cabin"
       host?: string
     }
+  | {
+      provider: "clarity"
+      projectId?: string
+    }
 
 export type CursorParty = {
   username: string
