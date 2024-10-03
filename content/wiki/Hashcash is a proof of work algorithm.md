@@ -1,5 +1,3 @@
-# Table of Contents
-
 Hashcash was created by Adam Back to prevent spam and other similar types of
 abuses of internet resources where you don't have to pay for the marginal use of
 that resource.
@@ -25,35 +23,36 @@ expensive it is to compute the token.
 
 Hashcash is an example of a _proof-of-work_ algorithm.
 
-Here&rsquo;s a simple implementation of it:
+Here's a simple implementation of it:
+```python
+import hashlib
 
-    import hashlib
-
-
-    def leading_zeros(message):
-        for i in range(len(message)):
-            if message[i] != "0":
-                return i
-            ++i
-        return len(message)
-
-
-    def hash(message):
-        return hashlib.sha256(message.encode()).hexdigest()
+def leading_zeros(message):
+	for i in range(len(message)):
+		if message[i] != "0":
+			return i
+		++i
+	return len(message)
 
 
-    def make_token(message, collision_size):
-        i = 0
-        token = ""
-        while True:
-            token = format(i, "x")
-            result = hash(message + token)
-            if leading_zeros(result) >= collision_size:
-                print(f"Made {i} iterations")
-                return token
-            i += 1
+def hash(message):
+	return hashlib.sha256(message.encode()).hexdigest()
 
 
-    def verify_token(message, token, collision_size):
-        result = hash(message + token)
-        return leading_zeros(result) <= collision_size
+def make_token(message, collision_size):
+	i = 0
+	token = ""
+	while True:
+		token = format(i, "x")
+		result = hash(message + token)
+		if leading_zeros(result) >= collision_size:
+			print(f"Made {i} iterations")
+			return token
+		i += 1
+
+
+def verify_token(message, token, collision_size):
+	result = hash(message + token)
+	return leading_zeros(result) <= collision_size
+```
+
