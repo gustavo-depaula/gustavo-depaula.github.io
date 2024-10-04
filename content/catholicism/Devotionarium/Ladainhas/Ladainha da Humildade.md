@@ -1,53 +1,53 @@
 ![[Signum Crucis#Sinal da Cruz]]
 
-*Senhor,* **tende piedade de nós.**
-*Cristo,* **tende piedade de nós.**
-*Senhor,* **tende piedade de nós.**
+_Senhor,_ **tende piedade de nós.**  
+_Cristo,_ **tende piedade de nós.**  
+_Senhor,_ **tende piedade de nós.**
 
-***Invoque Jesus para ouvir suas petições.***
+**_Invoque Jesus para ouvir suas petições._**
 
-*Jesus manso e humilde de coração:* **ouvi-nos.**  
-*Jesus manso e humilde de coração:* **atendei-nos.**
-*Jesus manso e humilde de coração:* **fazei o nosso coração semelhante ao Vosso.**
+_Jesus manso e humilde de coração:_ **ouvi-nos.**  
+_Jesus manso e humilde de coração:_ **atendei-nos.**  
+_Jesus manso e humilde de coração:_ **fazei o nosso coração semelhante ao Vosso.**
 
-***Peça a Jesus para livrá-lo do desejo de que as pessoas o vejam de uma maneira ou luz particular.***
+**_Peça a Jesus para livrá-lo do desejo de que as pessoas o vejam de uma maneira ou luz particular._**
 
-*Do desejo de ser estimado,* **livrai-me, Jesus!**
-*Do desejo de ser amado,*
-*Do desejo de ser procurado,*
-*Do desejo de ser louvado,*
-*Do desejo de ser honrado,*
-*Do desejo de ser preferido,*
-*Do desejo de ser consultado,*
-*Do desejo de ser aprovado,*
-*Do desejo de ser adulado,*
+_Do desejo de ser estimado,_ **livrai-me, Jesus!**  
+_Do desejo de ser amado,_  
+_Do desejo de ser procurado,_  
+_Do desejo de ser louvado,_  
+_Do desejo de ser honrado,_  
+_Do desejo de ser preferido,_  
+_Do desejo de ser consultado,_  
+_Do desejo de ser aprovado,_  
+_Do desejo de ser adulado,_
 
-***Peça a Jesus para libertá-lo dos medos que o impedem de viver a vida com compaixão por Deus, pelos outros e por si mesmo.***
+**_Peça a Jesus para libertá-lo dos medos que o impedem de viver a vida com compaixão por Deus, pelos outros e por si mesmo._**
 
-*Do temor de ser humilhado,*
-*Do temor de ser desprezado,*
-*Do temor de ser rejeitado,*
-*Do temor de ser caluniado,*
-*Do temor de ser esquecido,*
-*Do temor de ser ridicularizado,*
-*Do temor de ser escarnecido,*
-*Do temor de ser injuriado,*
+_Do temor de ser humilhado,_  
+_Do temor de ser desprezado,_  
+_Do temor de ser rejeitado,_  
+_Do temor de ser caluniado,_  
+_Do temor de ser esquecido,_  
+_Do temor de ser ridicularizado,_  
+_Do temor de ser escarnecido,_  
+_Do temor de ser injuriado,_
 
-***Peça a Jesus para guiá-lo no sentido de amar o próximo antes de amar a si mesmo.***
+**_Peça a Jesus para guiá-lo no sentido de amar o próximo antes de amar a si mesmo._**
 
-*Que os outros sejam mais amados do que eu* **– Ó Jesus, concedei-me a graça de desejá-lo!**  
-*Que os outros sejam mais estimados do que eu*
-*Que os outros possam crescer na opinião do mundo e que eu possa diminuir*
-*Que aos outros seja concedida mais confiança no seu trabalho e que eu seja deixado de lado*
-*Que os outros sejam louvados e eu esquecido*  
-*Que os outros possam ser preferidos a mim em tudo*
-*Que os outros possam ser mais santos do que eu, contanto que eu pelo menos me torne santo como puder*
+_Que os outros sejam mais amados do que eu_ **– Ó Jesus, concedei-me a graça de desejá-lo!**  
+_Que os outros sejam mais estimados do que eu_  
+_Que os outros possam crescer na opinião do mundo e que eu possa diminuir_  
+_Que aos outros seja concedida mais confiança no seu trabalho e que eu seja deixado de lado_  
+_Que os outros sejam louvados e eu esquecido_  
+_Que os outros possam ser preferidos a mim em tudo_  
+_Que os outros possam ser mais santos do que eu, contanto que eu pelo menos me torne santo como puder_
 
-***Peça por intercessão de Nossa Senhora, São José, e São Miguel***
+**_Peça por intercessão de Nossa Senhora, São José, e São Miguel_**
 
-*Ó Maria, Mãe dos humildes,* **rogai por nós!**
-*São José, protetor das almas humildes,
-*São Miguel, que fostes o primeiro a lutar contra o orgulho e o primeiro a abatê-lo,*
-*Ó justos todos, santificados a partir do espírito de humildade,*
+_Ó Maria, Mãe dos humildes,_ **rogai por nós!**  
+_São José, protetor das almas humildes,_  
+_São Miguel, que fostes o primeiro a lutar contra o orgulho e o primeiro a abatê-lo,_  
+_Ó justos todos, santificados a partir do espírito de humildade,_
 
 ![[Signum Crucis#Sinal da Cruz]]
