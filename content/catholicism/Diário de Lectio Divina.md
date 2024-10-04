@@ -54,7 +54,7 @@ Se é a partir do sim de Nossa Senhora que o Salvador vem ao mundo e nos transfo
 
 O quão reconfortante é saber que no nosso tempo de oração, podemos conversar de nossos sofrimentos com alguém que sabe o que é sofrer? Deus, eu entrego o meu sofrimento a você. Aceito lidar com a cruz que você me entrega diariamente, dai-me forças e graças para carrega-la com um sorriso no rosto, pois sei que esse é o meu caminho de santificação. Com a sua iluminação, tudo se encaixará em seu lugar.
 
-Recitarei o cântico do Glória 3 vezes hoje, para sempre lembrar do presente que Jesus é.
+Recitarei o cântico do [[Gloria in Excelsis Deo|Glória]] 3 vezes hoje, para sempre lembrar do presente que Jesus é.
 
 # 30/09/2024 - Lucas 1:57-80
 ***“Bendito seja o Senhor, Deus de Israel, porque visitou e resgatou o seu povo”***
@@ -92,5 +92,5 @@ Será que eu estou depositando essa confiança no Senhor? Em frente às minhas d
 
 Tenho sentido muitos sentimentos negativos, Senhor. E eu não entendo o que, e se tem algo, que você está me comunicando. Por favor, Senhor, fortaleça a minha fé para que eu possa ser com minha mãe Maria. Ilumine meu coração para lidar com meus aflitos com mansidão e humildade.
 
-Eu rezarei um cântico Magnificat para que Maria ajude-me no meu caminho, e rogue por mim, para que o Espírito Santo ilumine meu coração e esclaresça todas as coisas no seu devido tempo.
+Eu rezarei um cântico [[Magnificat]] para que Maria ajude-me no meu caminho, e rogue por mim, para que o Espírito Santo ilumine meu coração e esclaresça todas as coisas no seu devido tempo.
 
