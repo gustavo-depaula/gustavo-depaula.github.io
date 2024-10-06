@@ -1,3 +1,19 @@
+# 05/10/2024 - Lucas 4:14-44
+***“Em verdades vos digo: nenhum profeta é bem aceito em sua pátria”***
+
+Nessa passagem, Jesus após passar um tempo em Cafarnaum, vai a Nazaré pregar as boas novas. Em Nazaré, recusam-o, pois não conseguem crer que Jesus, o carpinteiro, filho de José é realmente aquele que veio a cumprir as profecias.
+
+Meu querido leitor, o quão triste é essa realidade. Quantos missionários saem pelo mundo, convertem muitas almas, mas não são capazes de converter as almas mais amadas por eles. Ou, mais mundanamente, quantas vezes alguém que está próximo de nós repetia um ponto várias vezes, mas apenas quando alguém aleatório fala a mesma coisa e só aí damos importância.
+
+Ao mesmo tempo, para nós que almejamos a Santidade e queremos realizar um bom apostolado aqui nessa vida, o quão libertadora é essa verdade! Se nem os grandes profetas como Elias e Eliseu foram bem recebidos; se nem Jesus, o próprio Cristo, Deus Filho, o Cordeiro de Deus que tira o pecado do mundo, é bem recebido e muitos rejeitam a escutá-lo e não se convertem, por que comigo, que não sou nada, seria melhor?
+
+O tempo de meu apostolado não é longo, mas já percebi uma verdade. Em toda a minha vida pré-morte, eu não converterei ninguém — assim como ”ninguém” me converteu. É claro, tive boas influências, boas referências. Mas ultimamente, eu fui à Santa Igreja porque algo em mim me chamou a ir. Hoje é fácil ver que foi uma ação do Espírito Santo, que é sempre descrita como um sopro, pela sua suavidade. E a partir disso, meu único trabalho foi abrir o meu coração, remover todo o lixo que impedia Deus de pousar em minha alma. Mas a conversão é assim: não é uma montanha que precisamos de maximizar nosso esforço para subir, que lutamos para chegar no topo. Ultimamente, quem converte e santifica é o Espírito Santo. Quando o nosso apostolado dá bons frutos, é apenas porque permitimos-nos ser instrumentos do Espírito Santo. 
+
+Como, então, posso ser um instrumento efetivo para o Espírito Santo? Ou mais importante ainda, como posso não atrapalhar a sua ação?
+- Testemunho: o poder do exemplo. Alguém hoje está aprendendo o que é ser Cristão olhando para mim. Para muitos, principalmente nesse mundo tão hostil a Cristo e à sua Santa Igreja, eu serei o exemplo de Cristão e Católico que eles terão. O que eles verão?
+- Oração: o poder da vida interior. Todo apostolado tem que ser fundamentado em uma profunda [[Reflexões Espirituais - Salvador Canals#Vida Interior|vida interior]], pois são essas raízes firmes que trarão as virtudes necessárias para a gestação de bons frutos. Como cuido da minha vida interior?
+- Palavra: o poder da comunicação. Finalmente, terão pessoas interessadas sobre a nossa Fé. E é somente nesse momento, quando há uma via de comunicação aberta que ganhamos a oportunidade de mostrar um pouco além do superficial da nossa Fé. E nesse momento, é importante que saibamos um pouco de teologia, filosofia e apologética para demonstrarmos que nossa Fé não é superstição. Que nossa Fé não é superficial. Que nossa Fé não é irracional. Então, sempre com [[Reflexões Espirituais - Salvador Canals#Mansidão|mansidão]], poderemos fazer uma defesa da nossa Fé, que talvez seja a semente que o Espírito Santo usará para semear a vida em mais uma alma. Quando falo da minha Fé, os corações, mentes e ouvidos se abrem ou se fecham?
+
 # 04/10/2024 - Lucas 4:1-13
 ***"Não só de pão vive o homem, mas de toda a palavra de Deus"***
 
