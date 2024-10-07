@@ -1,3 +1,14 @@
+# 06/10/2024 - Lucas 5:1-26
+
+***“Subiu a uma das barcas que era de Simão”***
+***“Jesus disse a Simão: Não temas; doravante serás pescador de homens”***
+
+Jesus usa a barca de Simão (Pedro) para transmitir a Palavra para o povo de Genesaré. Que linda prefiguração e imagem da Santa Igreja. Una essa passagem com São Mateus 16:16-19 onde Jesus funda sua Igreja sobre Pedro e sua confissão de fé. Também é incrível ver a tão grande fé de Pedro em Jesus, onde ele não duvida de Jesus quando ele fala para jogar as redes, sendo que passaram a noite inteira (o horário propício a pesca) e não pescaram nada.
+
+A Santa Igreja é Santa pois foi fundada pelo próprio Cristo. Mas o reino de Israel também foi designado por Deus, e isso não impediu que terríveis reis se sucedessem após Davi. Portanto, virão tempestades, heresias, corrupções e muitas misérias entre nossa Igreja, até mesmos nos nossos pastores que deveriam nos guiar, assim como já aconteceu no passado. Mas a Igreja sobreviverá, pois temos a promessa do Cristo, de que os portões do Inferno não prevalecerão!
+
+Rezarei hoje pelo Papa, pelas intenções do Papa, e pelo todo o Clero de nossa Igreja para que eles possam salvar e guiar todas as almas que vivem. Também rezarei pelos Pastores e pelo Clero de nossos irmãos separados (Ortodoxos, Ortodoxos Não-Calcedonianos, Protestantes, Velhos Católicos).
+
 # 05/10/2024 - Lucas 4:14-44
 ***“Em verdades vos digo: nenhum profeta é bem aceito em sua pátria”***
 
