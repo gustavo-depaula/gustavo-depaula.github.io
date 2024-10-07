@@ -1,3 +1,22 @@
+# 07/10/2024 - Lucas 5:27-39
+
+***"Não vim chamar à conversão os justos, mas sim os pecadores"***
+
+O amor, a misericórdia e o estender as mãos para ajudar aqueles que cometeram graves faltas não deve ser visto como uma tolerância ao comportamento. É sim necessário a [[Reflexões Espirituais - Salvador Canals#A correção fraterna|correção fraterna]], mas também devemos tomar muito cuidado ao cortar relações. O perdão, e a nossa presença quando aquele que nos ofendeu perceber e arrepender-se é a atitude difícil, mas autenticamente cristã.
+
+Claro, sempre tem que haver prudência e temperança na aplicação desses princípios. A própria Igreja, por exemplo, reconhece como legítima a separação da convivência em casos onde a segurança de um dos esposos e das crianças está em perigo.
+
+***"Ninguém põe vinho novo em odres velhos"***
+
+Nessa parábola, o vinho novo e o pano novo são analogias para a nova relação pessoal, de amor que os homens tem que ter com Deus na Nova Aliança. Enquanto os panos velhos e os odres velhos representam a velha lei ritual da Antiga Aliança que impedia os fariseus e seus escribas de cultivarem uma profunda relação com Deus.
+
+Práticas de devoção, oração, jejuns, e atos de caridade são bons. Mas é importante entender que tem tempo para eles, e tem tempo onde fazê-los seria errado, como por exemplo jejuar em tempos onde se comemora a presença do Senhor, como nos domingos.
+
+Ao mesmo tempo, essas práticas e ritos tem que ajudar a cultivar e serem manifestações externas de uma relação pessoal com Deus, e não uma substituição. Não é performando certas ações calculadas que ganhamos méritos para nossa salvação, já que nada que venha puramente de nós será capaz de pagar as nossas desobediências.
+
+As práticas religiosas tem que seguir e só fazem sentido quando temos um relacionamento pessoal com Cristo. Temos que fazer nossa experiência de Deus, deixar-nos sermos amados e transformados por Seu infinito amor. 
+
+Rezarei a [[Ladainha do Amor de Deus]] para lembrar do poder transformativo do amor Divino.
 # 06/10/2024 - Lucas 5:1-26
 
 ***“Subiu a uma das barcas que era de Simão”***
