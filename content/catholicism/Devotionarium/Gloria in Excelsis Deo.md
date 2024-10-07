@@ -1,21 +1,27 @@
 ### Glória a Deus nas Alturas
 
 Glória a Deus nas alturas,  
-e paz na terra aos homens de boa vontade.  
-Nós vos louvamos, nós vos bendizemos,  
-nós vos adoramos, nós vos glorificamos,  
-nós vos damos graças por vossa imensa glória,  
-Senhor Deus, Rei dos céus,  
+e paz na terra aos homens por ele amados.  
+Senhor Deus, rei dos céus,  
 Deus Pai todo-poderoso.  
-Senhor, Filho Unigênito, Jesus Cristo,  
-Senhor Deus, Cordeiro de Deus, Filho de Deus Pai,  
-vós que tirais o pecado do mundo, tende piedade de nós;  
-vós que tirais o pecado do mundo, acolhei a nossa súplica.  
+Nós vos louvamos,  
+nós vos bendizemos,  
+nós vos adoramos,  
+nós vos glorificamos,  
+nós vos damos graças por vossa imensa glória.  
+
+Senhor Jesus Cristo, Filho Unigênito,  
+Senhor Deus, Cordeiro de Deus, Filho de Deus Pai.  
+Vós que tirais o pecado do mundo, tende piedade de nós.  
+Vós que tirais o pecado do mundo, acolhei a nossa súplica.  
 Vós que estais à direita do Pai, tende piedade de nós.  
-Porque só vós sois o Santo, só vós, o Senhor,  
+
+Só vós sois o Santo,  
+só vós, o Senhor,  
 só vós, o Altíssimo, Jesus Cristo,  
-com o Espírito Santo,  
-na glória de Deus Pai. Amém.  
+com o Espírito Santo, na glória de Deus Pai.  
+
+Amém.
 
 ### Gloria in Excelsis Deo
 
