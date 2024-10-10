@@ -1,5 +1,30 @@
-# 07/10/2024 - Lucas 5:27-39
+# 09/10/2024 - Lucas 6:20-49
+***"Sede misericordiosos, como também vosso Pai é misericordioso"***
 
+O cristão não é só chamado a ter uma relação pessoal com Deus. É pedido do cristão ter uma comunhão profunda com Deus. E ter uma comunhão profunda com Deus é ser um reflexo de Deus com as outras pessoas. Um reflexo que sempre será imperfeito e falho, claro. Mas a santidade é um chamado para "ser perfeito como vosso Pai celestial é perfeito" (São Mateus 5:48).
+
+Esse conceito é muito relacionado ao conceito de "Theosis", muito presente nos cristãos orientais. Theosis ou divinização é o processo pelo qual a graça Divina transforma a pessoa, aumentando-a em santidade e comunhão, de forma que a pessoa participa da natureza Divina. Não é que nos tornaremos Deus, mas como diz São Paulo: "não sou eu quem vive, e sim Cristo que vive em mim".
+
+Ser misericordioso não é fácil. Pois primeiro é necessário a caridade, para podermos ler a situação da melhor forma possível. E segundo, se nós fomos realmente feridos, precisamos perdoar. Nós não perdoamos pelas nossas próprias forças, e sim porque Deus fortalece a nossa virtude da caridade e, pela fé, nos concede a graça necessária para fazer o que é certo.
+
+Ser misericordioso é além de ser justo. Pois somos justos quando damos ao outro o que ele merece. Somos misericordiosos quando damos ao outro o que ele precisa, motivados pelo amor.
+
+**"Por que me chamais: Senhor, senhor... e não fazeis o que eu digo?"**
+
+E prossegue a dizer que aquele que vai ao Senhor e pratica é como um homem que edificou sua casa em uma profunda fundação e pôs alicerces na rocha. Enquanto aquele que não pratica tem a sua casa destruída na primeira torrente que aparece.
+
+Novamente vemos que a [[Reflexões Espirituais - Salvador Canals#Vida Interior|vida interior]] é a fundação necessária para sermos árvores que dão bons frutos. Nós só seremos capazes de sermos misericordiosos como Nosso Senhor nos pede se tivermos uma profunda vida interior que nos sustente nessa difícil tarefa.
+
+Vou procurar leituras e práticas que ajudem-me a ter uma vida interior e devota.
+# 08/10/2024 - Lucas 6:1-19
+***"Todo o povo procurava tocá-lo, pois saía dele uma força que os curava a todos."***
+
+Eu gostaria de agradecer Senhor, toda a cura que você já realizou em minha alma. Realmente é poderosa a Sua Palavra que é capaz de transformar tão profundamente nossa alma. É capaz de trazer paz para os momentos de stress, mansidão em momentos de ira, e sabedoria em momentos de dúvida.
+
+Transforma-nos não só individualmente, mas como nós nos relacionamos com todos, principalmente aqueles que nós amamos. A Sua Palavra é capaz de revelar belezas ocultas e verdades não ditas. É capaz de aprofundar e ressignificar laços tão profundos e de curar os rompimentos que geramos de nossas imperfeições.
+
+Rezarei agradecendo e clamando pela cura santificante do Senhor, pois só com ela é possível deixar para trás tudo que atrapalha nosso caminho de virtude e santidade.
+# 07/10/2024 - Lucas 5:27-39
 ***"Não vim chamar à conversão os justos, mas sim os pecadores"***
 
 O amor, a misericórdia e o estender as mãos para ajudar aqueles que cometeram graves faltas não deve ser visto como uma tolerância ao comportamento. É sim necessário a [[Reflexões Espirituais - Salvador Canals#A correção fraterna|correção fraterna]], mas também devemos tomar muito cuidado ao cortar relações. O perdão, e a nossa presença quando aquele que nos ofendeu perceber e arrepender-se é a atitude difícil, mas autenticamente cristã.
