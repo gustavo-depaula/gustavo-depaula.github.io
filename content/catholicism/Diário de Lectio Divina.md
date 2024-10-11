@@ -1,3 +1,23 @@
+# 10/10/2024 - Lucas 7:1-30
+***"Senhor, não te incomodes tanto assim, porque não sou digno de que entreis em minha casa; por isso nem me achei digno de chegar-me a ti, mas dize somente uma palavra e o meu servo será curado"***
+
+Essa frase é dita por um centurião, que é um comandante militar do exército romano que lidera 100 soldados. E após dizer isso, ele faz uma conexão com o seu próprio trabalho, onde com apenas o dizer de uma palavra ele da ordens para um homem.
+
+***"Bem-aventurado é aquele para quem eu não for ocasião de queda"***
+
+E essa analogia que o centurião faz é muito adequada, pois a fé não deve ser só uma submissão intelectual, ou uma crença indiferente a Deus. Como refletido ontem, a fé precisa ser operante. Não adianta que chamemos ao nome do senhor e não fazemos o que ele nos pede. Se não submetermos nossa inteligência e vontade ao Senhor, nós cairemos.
+
+***"Ide anunciar a João o que tendes vistos e ouvido"***
+
+No contexto de que enviados de João Batista pergunta para Jesus se ele é o esperado (o Messias), ele manda os homens falarem sobre suas obras. Isso conecta com dois pontos interessantes.
+
+O primeiro é uma lição muito repetida pelos evangelhos de que pela fruta se conhece a árvore. E a segunda demonstra o porque Jesus realiza milagres. Ele não realiza milagres primariamente pela cura. Os milagres são formas de demonstrar credibilidade na palavra dele.
+
+Isso fica evidente na passagem onde Jesus perdoa os pecados de um cadeirante e quando os fariseus questionam em seu coração, ele cura o cadeirante como forma de demonstrar que sim, a palavra dele é A Palavra.
+
+Jesus foi enviado por Deus, e nós sabemos que é realmente Deus que está falando conosco por causa dos milagres operados e das promessas que ele cumpre. Esses são *motivos de credibilidade*. Motivos de credibilidade são sinais dados por Deus para mostrar que o assentimento da fé está de acordo com a razão. Outros motivos de credibilidade são o reconhecimento da sublimidade, coerência, beleza e a verdade nos ensinamentos de Cristo transmitidos pela Igreja, e também a fecundidade e resiliência da instituição por Ele fundada. 
+
+Como aplicação prática, estudarei melhor o que são os Motivos de Credibilidade.
 # 09/10/2024 - Lucas 6:20-49
 ***"Sede misericordiosos, como também vosso Pai é misericordioso"***
 
@@ -43,7 +63,6 @@ As práticas religiosas tem que seguir e só fazem sentido quando temos um relac
 
 Rezarei a [[Ladainha do Amor de Deus]] para lembrar do poder transformativo do amor Divino.
 # 06/10/2024 - Lucas 5:1-26
-
 ***“Subiu a uma das barcas que era de Simão”***
 ***“Jesus disse a Simão: Não temas; doravante serás pescador de homens”***
 
