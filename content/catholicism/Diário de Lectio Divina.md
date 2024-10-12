@@ -1,3 +1,16 @@
+# 11/10/2024 - Lucas 7:31-50
+***“Por isso te digo: seus numerosos pecados foram perdoados, porque ela tem demonstrado muito amor. Mas ao que pouco se perdoa, pouco ama”***
+
+O quão ao mesmo tempo é intuitivo ou contraintuitivo é esse ensinamento. Aquele que tem uma dívida maior e é perdoado, é aquele que mais ama. Ao mesmo tempo, como reconciliar isso com a vida dos grandes Santos: pessoas que amavam profundamente a Deus, e muitas delas não tiveram vidas muito pecadoras como a de Santo Agostinho.
+
+Acredito eu que a chave para isso é a autoconsciência dos nossos pecados, das nossas próprias dívidas que temos. Jesus nessa passagem usa a metáfora de um credor que tem dois devedores. Um deve 50 denários e o outro 500 denários. Se o credor perdoar as duas dívidas, qual será mais grato? A resposta mais plausível é aquele que deve mais. Porém, e se o que deve mais não tiver noção do tamanho da dívida que ele tinha? Será que ele se sentiria tão grato?
+
+Portanto, os Santos amam profundamente a Deus, muitas vezes mais do que outras pessoas que pecam mais pois eles tem uma consciência profunda de seus pecados, de sua gravidade e da misericórdia Divina. E no processo de santificação, a pessoa começa a também ver falhas menores que ela não via antes, que são pecados veniais, e passa a pedir perdão por eles também.
+
+Essa visão também é demonstrada pelo texto quando diz que os pecados da mulher foram perdoados pois ela demonstrou muito amor. E, como um ciclo virtuoso, o perdão dos pecados faz a mulher amar mais.
+
+Estudarei o exercício espiritual de “Exame particular de consciência” de Santo Inácio de Loyola para ter mais consciência dos meus pecados.
+
 # 10/10/2024 - Lucas 7:1-30
 ***"Senhor, não te incomodes tanto assim, porque não sou digno de que entreis em minha casa; por isso nem me achei digno de chegar-me a ti, mas dize somente uma palavra e o meu servo será curado"***
 
