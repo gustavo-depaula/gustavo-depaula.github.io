@@ -1,3 +1,23 @@
+# 13/10/2024 - Lucas 8:1-25
+***“A vós foi dado conhecer os mistérios do Reino de Deus; aos outros, porém, em parábolas, a fim de que vejam sem ver e ouçam sem entender”***
+
+Essa frase de Jesus vem após os seus discípulos pedirem explicações sobre o que significava a parábola do semeador. Inicialmente, parece muito estranha, como se a intenção do falar em parábolas fosse para esconder os ensinamentos das multidões. Porém, isso não parece fazer muito sentido, porque 1. Por que falar para multidões então? 2. Por que usar histórias que trazem elementos do dia-a-dia das pessoas justamente para elas conseguirem entender melhor?
+
+Bom, certamente será uma passagem que retornarei no futuro, pois não é fácil. Ela aparece em Marcos também e os dois apontam para Isaías 6:9-10. Para mim, a explicação mais plausível no momento parece ser mais relacionado à disposição interna do ouvinte, que, não sendo humilde de coração, torna-se incapaz de se aprofundar no significado espiritual da Palavra. Isso é corroborado pela própria parábola do semeador que a precede.
+
+***“A que caiu na terra boa são os que ouvem a palavra com coração reto e bom, retêm-na e dão fruto pela perseverança”***
+
+Sobre a parábola do semeador, tiro lição tanto imaginando-me como semente e também como semeador. Jesus explica que a semente é A Palavra. E cada um de nós somos sementes e o terreno onde a semente cai são nossas disposições internas.
+
+O quanto estou eu criando um terreno fértil e um coração aberto para conseguir ouvir, entender e interiorizar A Palavra? O quanto minha vida interior está enraizada suficientemente bem para aguentar as futuras dificuldades que virão? Afinal, é nossa salvação que está em jogo, cristianismo não é um *“lifestyle”* que podemos simplesmente abandonar quando as coisas ficarem difíceis. E elas *ficarão*.
+
+Na outra perspectiva, em nosso apostolado somos semeadores da Palavra. Então temos que saber que ao semear, a maioria das sementes cairão em terrenos não férteis, almas não preparadas para receber a Palavra. Mas nas almas que tiverem prontas, produzirão frutos *”cem por um”*! E deveríamos alegrar-nos com esse fato. E paciência para com as que não estão prontas.
+
+Hoje mesmo ouvi duas reflexões interessantes e tangenciais a esse assunto. A fé é como um músculo: não podemos esperar que nós mesmos e os outros, fracos e sedentários, consigamos carregar 500kg no leg press no primeiro dia de academia. Com a fé não é diferente: quando começamos, é tudo muito estranho, tudo muito estrangeiro. Mas com calma, e paciência, e se houver uma disposição interna favorável, Deus ilumina o caminho daquela alma, e em um momento futuro talvez ele esteja mais disposta a trilhar o caminho da fé. E partir daí, ela se torna terreno fértil e passa a conseguir ir construindo essa músculo da fé.
+
+E esse músculo da fé é a [[Reflexões Espirituais - Salvador Canals#Vida Interior|vida interior]]. E estendendo a analogia, como músculo também, da resultados exteriores. É lindo e feliz ser cristão. E nossa transformação interior feita pelo Espírito Santo quando abrimos nosso coração e o sorriso generoso que estendemos ao próximo é a mais importante apologética que podemos fazer.
+
+Como aplicação, continuarei fazendo a Lectio Divina diariamente. É uma parte muito boa do meu dia e que gosto bastante.
 # 11/10/2024 - Lucas 7:31-50
 ***“Por isso te digo: seus numerosos pecados foram perdoados, porque ela tem demonstrado muito amor. Mas ao que pouco se perdoa, pouco ama”***
 
