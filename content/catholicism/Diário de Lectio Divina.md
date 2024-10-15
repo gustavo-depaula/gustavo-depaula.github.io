@@ -1,3 +1,24 @@
+# 14/10/2024 - Lucas 8:26-56
+***“Volta para casa, e conta quanto Deus te fez”***
+
+Essa fala de Jesus acontece na passagem em que Ele liberta um homem de Gerasa que estava possuído por uma legião de demônios. Após isso acontecer, todo o povo da cidade, por temor, pede para que Jesus se retirasse da cidade, que era pagã. O homem liberto então pede para ficar com Jesus, mas Ele despede-o, dizendo para ele voltar para casa.
+
+Essa ordem de Jesus é muito instrutiva sobre vocações. Algumas pessoas, como o *jovem rico* na passagem do último Domingo, foram chamadas a seguirem *fisicamente* Jesus, enquanto outras não.
+
+Assim deve ser. Nós, a Igreja, somos o corpo místico de Cristo. Do que valeria um corpo com coração sem mãos para trabalhar? E qual seria o fim do trabalho que não é guiado pelo coração?
+
+Podemos não saber o nome deste homem, a ele não foi dado a vocação de ser um dos doze apóstolos ou um conhecido santo. Mas ele também é santo, *pois cumpriu o que Deus pediu dele*.
+
+É um exemplo de um *”santo invisível”*. Ele não é venerado. Mas é santo também, pois cumpriu o que Deus pediu dele. E mesmo que não seja reconhecido por nós, todo aquele que aceita sua vocação é santo e fortalece o corpo místico de Cristo.
+
+A conclusão que se segue é que toda vocação é nobre, pois toda vocação é um chamado de Deus, e Ele sabe do que eu preciso e o que a Igreja precisa. E sem esse papel individual sendo cumprido, a Igreja fica mais fraca, pior e deficiente.
+
+Meditarei sobre o que Deus me pede para que eu faça com todas as bençãos que Ele me concede.
+
+*Deus, ilumine o meu caminho, permita-me ver o que não vejo sozinho.*  
+*Entrego-me em suas mãos, para que eu cumpra a minha vocação.*  
+*No meu caminho de santidade, vejo beleza e deslumbro a felicidade.*  
+*Transforme o ouro em minhas mãos no tesouro do Seu coração!*  
 # 13/10/2024 - Lucas 8:1-25
 ***“A vós foi dado conhecer os mistérios do Reino de Deus; aos outros, porém, em parábolas, a fim de que vejam sem ver e ouçam sem entender”***
 
