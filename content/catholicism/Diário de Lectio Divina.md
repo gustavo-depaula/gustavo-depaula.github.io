@@ -1,3 +1,25 @@
+# 15/10/2024 - Lucas 9:1-27
+***“Se alguém quer vir após mim, renegue-se a si mesmo, tome cada dia sua cruz e siga-me”***
+
+Faço uma conexão forte com a meditação de ontem que fiz sobre vocação. Muitas vezes é nossa vocação a nossa cruz de cada dia. A tarefa chata e repetitiva do meu trabalho é a minha cruz. O ter uma rotina disciplinada, dormir e acordar no horário certo, é minha cruz. São pequenas coisas, é claro. Mas temos que ter visão sobrenatural mesmo para as pequenas coisas. Nós nos santificamos pela nossa vida no mundo, especialmente os que não são chamados à vida religiosa.
+
+Fiz um pequeno exercício mental para fortalecer essa visão sobrenatural dos sacrifícios do dia-a-dia.
+
+Tenho recentemente sido indisciplinado com minha rotina e procrastinado no meu trabalho. Eu durmo em horários diferentes todos os dias. Acordo em horários diferentes baseado em quando durmo. O que tenho trabalhado recentemente no trabalho não é o que eu diria ser intelectualmente estimulante. Tenho que fazer minhas orações a noite, pois sempre saio atrasado de casa.
+
+Passar pelos dias assim tem sido difícil, cansativo. Acordar é um sacrifício. Trabalhar tem sido um sacrifício. Dormir tem sido um sacrifício. Essas coisas me custam um tremendo esforço.
+
+Penso então sobrenaturalmente. O que mais me custa no meu dia é a cruz que Cristo quer que eu tome no meu dia-a-dia. Ele me ama, portanto, Se Ele quer que eu tome a minha cruz, é porque Ele sabe que isso é bom para mim.
+
+Eu vejo a minha responsabilidade no trabalho. Temos uma grande empresa a construir, e dezenas de projetos a serem feitos, aos quais eu tenho um impacto direto e concreto no sucesso ou falha deles. Se essa empresa der certo, muitas pessoas e muitas famílias ficarão em melhor estado. Se essa empresa der errado, os clientes ficarão sem o serviço que eles precisam. Talvez os funcionários dos clientes fiquem sem o pagamento deles. Eu e todos os meus colegas de trabalho serão demitidos. Eu sou responsável por isso, e as pessoas contam comigo.
+
+Além disso, Cristo deu-me a vocação do matrimônio. Portanto, o meu trabalho não é apenas sobre dinheiro ou realização pessoal, é também como eu vou prover para a minha família, que é o caminho de minha santificação. Eu vejo o exemplo de São José, e como ele fielmente trabalhou para prover para a Sagrada Família. Eu também sei que esses sacrifícios são ultimamente ridículos, pequenos, quase nada. E que com certeza os sacrifícios de criar uma família serão muito maiores, mais importantes e mais difíceis. Serão diversas noites sem dormir, será o trabalho repetitivo de educar e disciplinar os muitos filhos, será a monotonia de uma rotina disciplinada que a casa necessitará.
+
+Isso me revela que essas dores de agora são feitas para que eu possa construir as virtudes necessárias para ser o santo que Deus me pede para ser e que eu quero ser. E com isso, eu passo a amar mais a Deus, pois Ele sabe que eu preciso disso agora.
+
+Obrigado Deus por essa cruz que você me deu. Eu agora aprecio melhor a beleza dela. Vejo que não devo evitar a cruz, pois é na cruz que o pecado morre. Sei que serão sacrifícios, mas peço que Você me dê graças para que eu tenha o sorriso generoso do cristão enquanto faço esses sacrifícios. E ao domingo, quando assistir à Santa Missa, eu oferecei esses sacrifícios que eu fiz durante a semana a Você, unindo-os ao sacrifício supremo do Cordeiro de Deus que tira o pecado do mundo.
+
+Acordarei às 6h da manhã como a rotina que eu já tinha planejado diz para eu fazer.
 # 14/10/2024 - Lucas 8:26-56
 ***“Volta para casa, e conta quanto Deus te fez”***
 
