@@ -1,3 +1,18 @@
+# 16/10/2024 - Lucas 9:28-50
+***“Pedro e seus companheiros tinham-se deixado vencer pelo sono; ao despertarem, viram a glória de Jesus”***
+
+Realmente, o quão bom é despertar depois de passar tempo tendo-nos deixado levar pelo o que ocorre ao nosso redor sem pensar muito. É irônico essa passagem neste momento, pois eu estou com tamanho sono que dificulta bastante esse tempo de oração. Sinto-me como os discípulos se sentiam ao não entender o aviso que Você deu para eles sobre Sua entrega nas mãos dos homens. Hoje tenho dificuldades para entender o que Você fala comigo através de uma passagem tão significativa como a da Transfiguração. Mas farei diferente dos discípulos que tinham medo de perguntar quando não entenderam Sua mensagem: Ajuda-me meu Deus!
+
+*Meu Senhor,*  
+*Faça por sua Palavra o meu coração elevar*  
+*Ensina-me para que em meu orar transborde o meu amar*  
+*E sempre dá-me graças para trilhar o caminho que Você iluminar*  
+
+***“Ó geração incrédula e perversa, até quando estarei convosco e vos aturarei?”***
+
+Creio que a resposta aqui seria: *para sempre*. Parece-me que toda geração faz o trabalho de abolir algumas perversidades e também faz o trabalho de criar ou fortalecer outras perversidades. A nossa mãe Igreja parece sempre estar em uma crise diferente em todas as gerações. Algumas piores que as outras, é claro. Mas, Cristo, nós temos sua garantia de que as portas do inferno não prevalecerão.
+
+Não trago nenhum propósito novo para hoje, reforçarei o de continuar orando através das Sagradas Escrituras todos os dias e acordando às 6h.
 # 15/10/2024 - Lucas 9:1-27
 ***“Se alguém quer vir após mim, renegue-se a si mesmo, tome cada dia sua cruz e siga-me”***
 
