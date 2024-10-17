@@ -1,3 +1,20 @@
+# 17/10/2024 - Lucas 9:51-62
+***“O Filho do Homem não veio para perder as vidas dos homens, mas para salvá-las”***  
+***“Aquele que põe a mão no arado e olha para trás, não é apto para o Reino de Deus”***
+
+Eu creio que essas duas frases encapsulam tanto do que é o Cristianismo. É um alto padrão moral, sem dúvidas, mas unido de uma infinita misericórdia e graças para fazer diferente. Hoje o mundo ensina-nos a ver padrões morais como repressão, algo que infringe em nossa liberdade.
+
+Esse pensamento não poderia estar mais longe da verdade. A real liberdade é se libertar dos vícios. Ser capaz de auto-controle, não deixar que os instintos mais animalescos tomem a direção. Um pai que proíbe o filho adolescente de usar cocaína não está oprimindo a liberdade do filho, está preservando-a. É fácil ver isso quando falamos do vício e da razão de queda que não é a nossa.
+
+Por isso, espanta-me muito esse tipo de religião moderna que não pede a seus seguidores um alto padrão moral. Ainda mais quando dizem aceitar o Santo Evangelho. Deixe-me entender, você aceita Jesus Cristo como seu Senhor e Salvador, mas você vive uma vida que alguém sem Deus pode viver tranquilamente? Triste são as almas que contaminadas pelo espírito modernista e secular buscam um Cristianismo aguado e morno para terem o sentimento de salvação sem que parem de viver vidas de perdição.
+
+É uma proposta tentadora, Cristo, ter as recompensas e méritos que Você ganhou para nós sem que isso nos custe algo. Mas assim como todos os golpes de dinheiro ou emagrecimento rápido, eu sei que isso é mentira. Só Você é o caminho da liberdade, pois sua Palavra é verdade. E o caminho deixado por você é a Igreja instituída por você: una, santa, católica, e apostólica. Instituída sobre a pedra que é Pedro e sua confissão de fé.
+
+Não é fácil a vida de construção de virtudes, mas também podemos aprender a amar o caminho. Assim como também é doloroso ir para a academia, mas também é prazeroso. Eu só agradeço, Jesus, que quando eu falho e olho para trás, não sou transformado na estátua de sal como a mulher de Ló, pois é isso que eu mereceria, pois sozinho não sou apto para o Seu Reino. 
+
+Obrigado pelos sacramentos que Você instituiu e que são preservados na Igreja fundada por Você, principalmente o da Confissão e da Eucaristia, que nos permite religarmos com Você quando caímos.
+
+Irei à Santa Missa além do Domingo essa semana, para agradecer que Você nunca nos abandona, visivelmente pela Igreja e não visivelmente em nossas almas.
 # 16/10/2024 - Lucas 9:28-50
 ***“Pedro e seus companheiros tinham-se deixado vencer pelo sono; ao despertarem, viram a glória de Jesus”***
 
