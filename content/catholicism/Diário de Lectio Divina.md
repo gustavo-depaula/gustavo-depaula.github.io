@@ -1,3 +1,15 @@
+# 18/10/2024 - Lucas 10:1-22
+***“Ide; eis que vos envio como cordeiros entre lobos”***
+
+Nessa passagem, Jesus envia 72 dos seus discípulos para anunciarem o Reino de Deus. Ele compara seus discípulos como operários em uma colheita (messe). Além disso, a instrução para os discípulos quando eles chegarem em uma casa é dizer *“Paz a esta casa!”* e se, e apenas se, ali houver um homem pacífico, sobre aquela casa repousará a paz.
+
+É bem interessante pois mostra qual a função do apostolado. Não somos nós que fazemos o semeio, a plantação, a irrigação, adubação, poda, etc… O trabalho missionário só tem frutos após a ação do Espírito Santo que prepara o coração daquelas pessoas e a partir da livre aceitação da pessoa quando recebe a Palavra. Sem essas duas coisas, não há o que se colher.
+
+***“Contudo, não vos alegreis porque os espíritos vos estão sujeitos, mas alegrai-vos de que os vossos nomes estejam escritos nos céus”***
+
+E quando, qualquer trabalho der fruto, é importante ser feliz pelos motivos certos. Até o trabalho mais santificante do mundo pode ter o seu valor arruinado se for feito por orgulho. Todo trabalho de apostolado que fazemos é Você agindo através nós, Senhor. Acredito que esse é o pensamento mais importante para manter o orgulho distante.
+
+*“Que tens tu que não tenhas recebido?”* (1 Cor 4:7). Portanto, como eu posso utilizar os bens e graças que eu recebi de Ti, meu Deus? Ilumine-me para que eu compreenda como utilizar meus dons e talentos a Seu serviço, sempre; para que o que eu recebi seja fonte de transformação do meu redor; para que, cada vez mais, pedacinhos da terra se aproximem do céu.
 # 17/10/2024 - Lucas 9:51-62
 ***“O Filho do Homem não veio para perder as vidas dos homens, mas para salvá-las”***  
 ***“Aquele que põe a mão no arado e olha para trás, não é apto para o Reino de Deus”***
