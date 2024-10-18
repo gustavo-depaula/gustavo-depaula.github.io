@@ -226,7 +226,7 @@ a:visited {
     column-gap: #{map-get($desktopGrid, columnGap)};
     row-gap: #{map-get($desktopGrid, rowGap)};
     grid-template-areas: #{map-get($desktopGrid, templateAreas)};
-    @media all and ($desktop) {
+    @media all and ($tablet) {
       grid-template-columns: #{map-get($tabletGrid, templateColumns)};
       grid-template-rows: #{map-get($tabletGrid, templateRows)};
       column-gap: #{map-get($tabletGrid, columnGap)};
@@ -241,17 +241,17 @@ a:visited {
       grid-template-areas: #{map-get($mobileGrid, templateAreas)};
     }
 
-    /* @media all and ($desktop) { */
-    /*   padding: 0 1rem; */
-    /* } */
-    /* @media all and ($mobile) { */
-    /*   margin: 0 auto; */
-    /* } */
-
     & > * {
       background-color: var(--contentBackground);
       border: 7px double var(--contentBorder);
     }
+
+    /* @media all and not ($desktop) { */
+    /*   padding: 0 1rem; */
+    /* } */
+    /* @media all and ($mobile) { */
+    /*   margin: 0 auto; */
+    /*   } */
 
     & .sidebar {
       gap: 2rem;
@@ -287,7 +287,7 @@ a:visited {
         margin-left: inherit;
         margin-right: inherit;
       }
-      @media all and ($desktop) {
+      @media all and not ($desktop) {
         position: initial;
         height: unset;
         width: 100%;
@@ -329,10 +329,11 @@ a:visited {
       min-width: 100%;
       margin-left: auto;
       margin-right: auto;
-      @media all and ($desktop) {
+      @media all and ($tablet) {
         margin-right: 0;
       }
       @media all and ($mobile) {
+        margin-right: 0;
         margin-left: 0;
       }
     }
