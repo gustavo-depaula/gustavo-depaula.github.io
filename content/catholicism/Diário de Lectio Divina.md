@@ -1,3 +1,34 @@
+# 20/10/2024 - Lucas 10:38-42
+
+***“Marta, Marta, andas muito inquieta e te preocupas com muitas coisas; no entanto, uma só coisa é necessária”*** 
+
+Meu Senhor, confesso que caio em distrações frequentemente ao longo do dia. Quantas vezes pequenas coisas ao longo do dia viram longas cadeias de pensamento que levam ao ressentimento para com o próximo. Dificilmente ajo sobre esses pensamentos, mas meus pensamentos são terrenos férteis para a desordem e tristeza. Nesses momentos, *orar sem cessar* se torna difícil, mas vejo que seria bem frutífero, pois permitiria essa recentralização no que realmente importa.
+
+O que realmente importa, evidentemente, é a salvação, é a santidade. Nesse aspecto, meu Deus, vejo necessário a minha melhora no tempo de oração. Tenho muita dificuldade no diálogo sincero, que é necessário para ter esse trato de amizade que Santa Teresa fala sobre.
+
+Também é preciso bastante cuidado para não cometer o outro erro de Marta nessa passagem: se colocar na posição de demandar a Deus que seja feito o seu desejo. Perseverar na oração, mas sempre com humildade, e sabendo que se for para o meu bem, será concedido.
+
+Pesquisarei e farei revisões gerais dos meus dias para entender com o que ando me preocupando, e como posso melhorar.
+# 19/10/2024 - Lucas 10:23-37
+***“Aquele que usou de misericórdia para com ele”***
+
+Essa passagem conta famosa parábola do Bom Samaritano. Doutores da lei perguntam a Jesus “quem é o próximo” que eles devem amar como amam a si mesmo, como diz o mandamento. Essa pergunta vem de um contexto onde os diferentes grupos de judeus da época interpretavam “próximo” de forma diferente: alguns por etnia, outros por grupo político, religioso, etc… 
+
+Jesus resolve então a disputa usando a parábola do bom samaritano. Um homem indo de Jericó a Jerusalém é assaltado por ladrões que o deixam severamente ferido. Um doutor da lei e um levita passam por ele, mas não o ajudam, enquanto um samaritano ajuda o homem com suas feridas e o carrega até uma hospedaria que ele também paga. Jesus então pergunta aos doutores da lei quem foi o próximo daquele que precisava de ajuda. Os doutores então respondem: “aquele que usou de misericórdia para com ele”. Jesus então fala aos doutores: “Vai, e faze tu o mesmo”.
+
+A primeira parte interessante dessa parábola é a importância do magistério. Os judeus daquela época, divididos em diferentes grupos (fariseus, saduceus, essênios, etc…) não tinham um magistério capaz de resguardar as verdades de fé de interpretações erradas. De certa forma, sofriam do mesmo problema existente com o Protestantismo e suas milhares de divisões. Felizmente, Cristo fundou sua Igreja com um magistério composto por um papa e os bispos em comunhão com ele que tem a função de interpretar e resguardar a fé, guiados pelo Espírito Santo que os impedem de falhar em ensinamentos definitivos de fé e moral.
+
+Voltando-se agora para o principal mensagem da passagem, vemos um tema recorrente nas Sagradas Escrituras: misericórdia ao próximo. Quem é o próximo? Aquele que necessita da nossa misericórdia. O próximo pode ser de qualquer etnia, local de origem, e até mesmo classe social se estendermos nossas obras de misericórdia para além das obras corporais.
+
+Questões mais complexas surgem quando aplicamos na prática esse princípio. Quais são os limites? Grande parte de nós vive em grandes cidades e somos confrontados diariamente com a pobreza e pessoas em estados de necessidade. Não é incomum que um trabalhador ao longo de seu dia passe por várias pessoas pedindo por ajuda. Ele, como bom cristão deve ajudar a todos? A resposta natural é “sim”. Mas até que ponto? Até o ponto do dinheiro que sobra no mês? Devo ter um *budget* no mês e nada além disso? Devo ter um mínimo? Devo ter um máximo? Devo sacrificar o meu padrão de vida para ajudar as outras pessoas? Como fica guardar dinheiro para o futuro nessa situação?
+
+Se formos na internet, poderíamos passar dias olhando sites de doações e encontrando pessoas com necessidade para ajudar. Parece-me às vezes que um voto de pobreza radical como os que as ordens religiosas fazem seriam os únicos que realizem plenamente esses princípios. Enfim, boas perguntas, não tenho resposta para elas. A resposta começa no fato de que precisamos ser capazes de que, ao ver o outro em necessidade, eu posso ser o próximo. E a fé aumenta a minha caridade (a virtude do amor).
+
+Esses problemas práticos nunca podem ser motivo paralítico de começarmos a ser pessoas caridosas. Até eles chegarem, a minha ação caridosa, por menor e sutil que seja, já tornou o meu redor melhor. Pois na ação caridosa, eu posso ser uma pequena imitação de Cristo na terra.
+
+Ser misericordioso, como Você é misericordioso, meu Deus, é o que precisamos ser.
+
+Vou procurar respostas sobre como ser prudente na realização de obras de misericórdia.
 # 18/10/2024 - Lucas 10:1-22
 ***“Ide; eis que vos envio como cordeiros entre lobos”***
 
