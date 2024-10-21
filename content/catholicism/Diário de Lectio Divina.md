@@ -1,5 +1,14 @@
-# 20/10/2024 - Lucas 10:38-42
+# 21/10/2024 - Lucas 11:1-28
+***“Senhor, ensina-nos a rezar”***
 
+E Você, Senhor, ensinou a seus discípulos o tão conhecido Pai Nosso. Meu Deus, confesso que tenho tido bastante dificuldade de rezar orações vocais que antes eram parte de minha rotina, como o terço. E quando comecei a fazer a oração mental a partir da Lectio Divina, a maior profundidade que tenho fazendo esse exercício me levou a negligenciar a oração vocal.
+
+Mas ao ler essa passagem, eu percebi que a oração vocal é importante também. Só de ter sido ensinada diretamente por Você já seria o suficiente para convencer-me de mudar o meu comportamento. Mas uma segunda coisa que percebi é que sem a oração vocal, parei fazer os meus pedidos ao Pai celestial.
+
+E o Pai Nosso é uma ótima didática do que uma rotina de oração deve ter: adoração, agradecimentos, preces, e penitências.
+
+Formarei uma pequena rotina de orações vocais que rezarei todos os dias.
+# 20/10/2024 - Lucas 10:38-42
 ***“Marta, Marta, andas muito inquieta e te preocupas com muitas coisas; no entanto, uma só coisa é necessária”*** 
 
 Meu Senhor, confesso que caio em distrações frequentemente ao longo do dia. Quantas vezes pequenas coisas ao longo do dia viram longas cadeias de pensamento que levam ao ressentimento para com o próximo. Dificilmente ajo sobre esses pensamentos, mas meus pensamentos são terrenos férteis para a desordem e tristeza. Nesses momentos, *orar sem cessar* se torna difícil, mas vejo que seria bem frutífero, pois permitiria essa recentralização no que realmente importa.
