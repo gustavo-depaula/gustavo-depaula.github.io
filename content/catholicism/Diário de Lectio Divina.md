@@ -1,3 +1,15 @@
+# 22/10/2024 - Lucas 11:29-54
+***“Não se acende uma lamparina para tê-la escondida, mas põe-se no candelabro, para que os que entram vejam a luz”***
+
+Todas as ações de Deus são perfeitas, mas a lente pela qual enxergamos o mundo é embaçada pelo pecado, o que nos torna impotentes para compreender. O povo, em frente ao próprio Filho de Deus, vendo-o, ouvindo seus ensinamentos e presenciando seus milagres clamam por sinais. Soberbos, assumindo uma posição de superioridade, demandam que eles precisam ser convencidos.
+
+Jesus então fala do exemplo dos Ninevitas, uma cidade pagã, sem conhecimento prévio dos mandamentos de Deus que fez penitência quando Jonas, um profeta com má vontade, apresentou a Palavra para eles. Também cita o exemplo da Rainha que viaja para conhecer Salomão e beber de sua sabedoria.
+
+Complementando, Jesus diz: *“O olho fornece luz para todo o corpo. Se teu olhar é generoso, o corpo inteiro será luminoso; porém, se é mesquinho, todo o teu corpo será tenebroso”*. Com isso, entendemos o porque Jesus diz que não será concedido outro sinal. Deus não nos forçará a amá-lo, pois se fizesse, não seria amor. Então do que adianta mais sinais se o coração é fechado?
+
+E não é essa a experiência quase universal de conversão? A pessoa abre um pouco o seu coração, começa a ter vida espiritual, começa a ver os frutos em sua vida e cada vez mais abre mais o seu coração, e começa a pecar menos, construir algumas virtudes… Baby steps. E a cada passinho, sua fé, esperança e caridade vão aumentando. E quanto mais sua fé é fortalecida, mais a pessoa é capaz de enxergar as verdades da fé. Fica cada vez menos embaçada a lente pelo qual vemos a Deus e a sua criação.
+
+Como aplicação, farei Lectio Divina sobre o livro do profeta Jonas.
 # 21/10/2024 - Lucas 11:1-28
 ***“Senhor, ensina-nos a rezar”***
 
