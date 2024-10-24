@@ -1,3 +1,31 @@
+# 23/10/2024 - Lucas 12:1-34
+***“Pois onde estiver o vosso tesouro, ali estará também o vosso coração”***
+
+Sabedoria Divina - literalmente. Nessa frase Você, meu Senhor, encapsula tanto de um pensamento contínuo que tenho entretido nas últimas semanas sobre propósito de vida. Não é de se espantar quantos corações perdidos nós encontramos por aí, quando foi tirado das pessoas o fim último e verdadeiro da vida delas - o único possível: Deus.
+
+Na falta de um propósito verdadeiro, as pessoas erguem falsas alternativas como o tesouro delas. Entram ídolos que nunca serão capazes de satisfazê-las: dinheiro, fama, carreira de sucesso, prestígio acadêmico, poder, sexo, prazer, entre outros. A razão da infelicidade na busca desses ídolos é simples: o desejo pela felicidade é infinito, enquanto qualquer coisa desse mundo é finita. Consequência lógica são corações frustrados, perdidos e sem esperança.
+
+Nessa passagem, temos menções ao tema da caridade e da esmola. Mas de uma perspectiva diferente: que nós devemos radicalmente confiar na Providência nesse mundo. Deus alimenta até os corvos que não são capazes de semear e colher, então o quanto mais Nosso Pai celeste fará por nós? Não devemos nos preocupar com o que comer e beber. Não devemos andar com “vãs preocupações”.
+
+Palavras difíceis! Muito difícil levar para o coração nessa era que tanto valoriza a independência individual e autossuficiência como ideias absolutos. Dúvidas semelhantes aparecem aqui como apareceram no tema da caridade e ajuda ao próximo, de como é uma aplicação prudente desse princípio moral.
+
+Ao invés de pensar muito nessas nuances, meditei sobre a minha relação com o dinheiro. Nesse meu pouco tempo de carreira, fui abençoado com uma progressão rápida de cargos e salários. E sempre tive uma personalidade muito poupadora. Desde antes de começar a trabalhar, já quando era criança, sempre guardava dinheiro, e sempre me interessei por investimentos. Mas nunca tive muito um objetivo do porquê guardava aquele dinheiro. Além disso, grandes compras, mesmo que por bons motivos, como pagar um curso de línguas por exemplo, traziam grande ansiedade.
+
+Para ilustra a história, lembro de uma vez que quando tinha uns 13 anos ganhei 50 reais. Perguntei para o meu tio qual era o melhor investimento a se fazer com aquele dinheiro. A resposta dele foi muito sábia: *“Leva uma menina para tomar sorvete e ir ao cinema”*. Hoje vejo que deveria ter ouvido, era realmente um uso melhor do que o que fiz. O que fiz? Não me lembro, mas devo ter guardado aquela nota. Sei que não levei nenhuma garota para tomar sorvete naquela época.
+
+Após a pandemia, quando passei um tempo na França, tive as minhas primeiras férias de verdade. Antes, férias para mim era um tempo de descanso quando já estava esgotado de cansaço. Sempre poupava as minhas férias e o RH obrigava-me a tirar férias. Nesse momento, o dinheiro passou a ter uma nova perspectiva: é ok, saudável e bom gastar o dinheiro para ter experiências incríveis. Não me tornei gastador, continuava poupando, mas dentro do orçamento do mês (uns 50% do salário líquido), era tudo bem usar o dinheiro. Fiquei mais relaxado com gastos e passei a apreciar essas novas portas abertas.
+
+Minha conversão mais uma vez mudou essa relação com o dinheiro. Agora, o dinheiro tem uma nova capacidade: a caridade. Caridade, a virtude do amor, vai além da filantropia. Não é só ajudar o próximo. É, motivado pelo seu amor a Deus, ajudar a construir o reino de Deus aqui na Terra, para o bem do seu próximo, pois você quer amá-lo e ser misericordioso com ele assim como Nosso Senhor é misericordioso.
+
+A construção das obras de misericórdia é algo profundamente significativo: une a felicidade natural através da empatia de ver o próximo bem com a felicidade sobrenatural de saber que você está fazendo a vontade de Deus, e deixando Cristo viver através de você. É lindo ser cristão e poder ter essa visão sobrenatural das coisas.
+
+Dinheiro, viagens, restaurantes incríveis e outras experiências são boas. Uma boa carreira, prestígio, sucesso são excelentes. Mas são bens secundários, que nunca devem assumir o lugar do bem primário que é Deus. Quando essas coisas se tornam a coisa mais importante da sua vida, elas se tornam ídolos, e você escravo delas.
+
+Toda essa trajetória ajudou-me a desenvolver um *desprendimento responsável* com o dinheiro. Aprendi como é importante poupar e como poupar. Aprendi como é importante ganhar mais e como ganhar mais. Aprendi como é importante saber usá-lo da forma certa e o que vale a pena gastar com.
+
+Demorei até chegar aqui, mas vejo que tudo se encaixou no final. Talvez se não tivesse tido esse escrúpulo de poupar dinheiro, não seria capaz de conseguir ter o que doar hoje. *Certamente, um belo trabalho da Providência*. Obrigado, Nosso Senhor.
+
+Agradecerei pelo que tenho e pedirei para ser iluminado de como posso melhor ainda usá-lo em prol do meu caminho de santidade.
 # 22/10/2024 - Lucas 11:29-54
 ***“Não se acende uma lamparina para tê-la escondida, mas põe-se no candelabro, para que os que entram vejam a luz”***
 
