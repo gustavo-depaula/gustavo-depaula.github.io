@@ -1,6 +1,6 @@
 # Genesis 18-19; Job 7-8; Proverbs 2:1-5
 
-Commentary on Genesis 18-19:
+**Commentary on Genesis 18-19:**
 1. God and two angels appear to Abraham passing in front of his tent.
 2. Abraham, as a model of hospitality, arranges water, rest and food for the visitors.
 3. God reaffirms the promise that Sarah will get pregnant.
@@ -34,3 +34,17 @@ The Origin of the Moabites and Ammonites story (Gen 19:30-38) repeats the patter
 
 The Sodomites’ sexual sin is not only sexual depravity and perversion because of the abuse they were about to commit, but also because of homosexuality. The rejection of the offer to take Lot’s daughters demonstrate the disordered preference, by the men of Sodom, for men over women.
 
+**Commentary on Job 7-8:**
+In Chapter 7, Job continues his speech, responding to Eliphaz:
+1. But now, he doesn't have any hope of being recovered. (Job 7:7)
+2. Job expects his life to end shortly, and because of that, he will continue to complain and speak about his pain. (Job 7:11)
+3. Job asks why God pays so much attention to men, but differently from other parts of the Bible where this is cherished (like the Psalms), the pain and suffering clouds Job's judgment, and can only see God looking at men to punish their sins. (Job 7:17)
+4. Job still inquiries God on what he did to justify his suffering (Job 7:20)
+
+In Chapter 8, another friend of Job speaks, Bildad:
+1. Bildad reprehends Job's words.
+2. Bildad makes basically the same point as Eliphaz, saying that God would not let a truly upright and blameless man suffer.
+3. Bildad, though, offers a little piece of hope, saying that Job will recover and his latter days will be great, and he'll have laughter once again.
+
+**Commentary on Proverbs 2:1-5:**
+Not that much to say, really. Wisdom is the antidote of the way of evil, of men with *"perverted speech"* (lying, giving false witness, incentivizing others to commit sin), of men that walk in the path of darkness
