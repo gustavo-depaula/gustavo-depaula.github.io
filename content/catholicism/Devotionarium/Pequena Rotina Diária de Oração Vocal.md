@@ -66,13 +66,13 @@ Por fim, peço que conceda-me uma restauradora noite de descanso e que eu possa 
 
 Agradeço pela contínua intercessão de Maria, minha Mãe Imaculada e da proteção de meu Anjo da Guarda.
 
-Santa Mônica, reze por mim e pela conversão de *(…)*  
-Santo Agostinho e São Tomás de Aquino, rezem por mim para que eu cada dia mais conheça melhor a Deus  
-São Paulo, reze por mim para que eu saiba defender minha fé  
-Santa Teresa d’Ávila, Santo Inácio de Loyola e São Francisco de Sales, rezem por mim para que possa crescer na minha vida de oração  
-Santa Teresinha, reze por mim para que eu cresça no meu amor a Deus  
+**Santa Mônica**, reze por mim e pela conversão de *(…)*  
+**Santo Agostinho e São Tomás de Aquino**, rezem por mim para que cada dia eu conheça melhor a Deus  
+**São Paulo**, reze por mim para que eu saiba defender minha fé  
+**Santa Teresa d’Ávila, Santo Inácio de Loyola e São Francisco de Sales**, rezem por mim para que possa crescer na minha vida de oração  
+**Santa Teresinha**, reze por mim para que eu cresça no meu amor a Deus  
 
-Maria Santíssima, mãe de Deus e minha mãe, rogai sempre por mim.
+Maria Santíssima, mãe de Deus e minha mãe, rogai sempre por mim.  
 *Infinitas graças vos damos…*  
 *Salve Rainha…*  
 
