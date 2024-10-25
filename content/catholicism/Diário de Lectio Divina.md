@@ -1,3 +1,17 @@
+# 25/10/2024 - Lucas 13:1-35
+
+***“Eis que três anos há que venho procurando fruto nesta figueira e não o acho. Corta-a; para que ainda ocupa inutilmente o terreno? Mas o viticultor respondeu: Senhor, deixa-a ainda este ano; eu lhe cavarei em redor e lhe deitarei adubo. Talvez depois disto dê frutos. Caso contrário, contá-la-ás.”***
+
+Na parábola do viticultor, há uma figueira entre a vinha que não da frutos. O dono insiste em cortá-la, mas o viticultor pede que se dê mais uma chance. Assim como é conosco. Fora de Cristo somos como árvores que não dão frutos. O Espírito Santo é como o adubo que o viticultor deita ao redor da figueira. Ainda assim, é necessário que a planta aceite esse adubo, assim como nós precisamos aceitar a Palavra. Deus não nos forçará a amá-lo. Sem escolha, não há amor.
+
+***“Procurai entrar pela porta estreita;”***  
+***“Comemos e bebemos contigo e tu ensinastes em nossas praças. Ele, porém, vos dirá: Não sei de onde sois; apartai-vos de mim todos vós que sois malfeitores”***
+
+Na passagem da porta estreita, Nosso Senhor nos esclarece que não é o quanto se sabe, mas o quanto se ama. Voltando a parábola do viticultor e da figueira, não adianta ouvirmos e sabermos muito do que Deus fala, se não aceitamos o convite do Espírito Santo em nossos corações e permiti-Lo a nos transformar.
+
+Recentemente tenho focado mais em estudar a crescer na devoção e na vida espiritual do que na apologética. Creio que os dois são importantes, mas vejo que há um perigo espiritual na apologética. Distrairmos-nos nos debates intelectuais e negligenciar-mos nossas almas.
+
+Continuarei fazendo a Lectio Divina diariamente e também continuarei lendo [[Filoteia - São Francisco de Sales]].
 # 24/10/2024 - Lucas 12:35-59
 ***“A quem muito se deu, muito se pedirá; a quem muito se confiou, muito se exigirá”***
 
