@@ -1,3 +1,11 @@
+# 24/10/2024 - Lucas 12:35-59
+***“A quem muito se deu, muito se pedirá; a quem muito se confiou, muito se exigirá”***
+
+O pecado de um cristão é sempre pior do que um pecado de um ateu, pois ao cristão muito foi dado. Devemos odiar o pecado, pois não há bom filho que fique feliz em desrespeitar, ignorar e decepcionar seu pai.
+
+Aos santos Deus confia seu reino. Que rei não se importaria com aquele que cuida de suas possessões? Portanto, o caminho de santidade passa pela alta e firme exigência de Nosso Senhor, que também é infinitamente misericordioso.
+
+Meu propósito é continuar fazendo revisões diárias do que agradecer e pedir perdão a Deus.
 # 23/10/2024 - Lucas 12:1-34
 ***“Pois onde estiver o vosso tesouro, ali estará também o vosso coração”***
 
