@@ -1,3 +1,36 @@
+# 30/10/2024 - Lucas 14:1-35
+***”Porque eu vos digo que nenhum daqueles que foram convidados provará minha ceia”***
+
+Na parábola do banquete, cada convidado rejeita o convite por razões mundanas: a compra de um terreno, compra e experimento de juntas de boi, e um casamento. Nenhuma dessas coisas são ruins, mas se tornam ocasião de queda para esses convidados. O convite de Cristo não é só um mero reconhecimento intelectual, mas um convite de pôr Deus no lugar de absoluto. E estando Deus nesse lugar, nada mais pode tomar maior prioridade. E feliz será aquele que aceita o convite: *“Bem aventurado o que participar do banquete no Reino de Deus”*.
+
+É difícil sermos tentados por coisas que são ruins. O inimigo tipicamente usa coisas que são boas, coisas que dão felicidade, e que não há nada de errado com elas em si próprias. Mas o erro é o desejo desordenado por estas coisas. E a desordem vem de não submeter as coisas boas ao fim último de nossa existência que é Deus.
+
+Ó Senhor, eu me machuco e Te desobedeço quando tenho minhas prioridades fora de lugar. Tenha misericórdia de mim, pois sem Você eu não consigo.
+
+***“Porque qual de vós, querendo edificar uma torre, não se assenta primeiro para calcular a despesa e ver se tem com que a acabar?”***
+
+A jornada espiritual é o edificar de uma torre. A vida interior, devota, é o planejamento que nos permite entender o que precisamos fazer. Sem uma vida interior forte, seremos pegos de surpresa pelas tentações e dificuldades que encontramos pelo caminho. 
+
+Peço Deus que sua palavra seja alimento espiritual para minha vida devota.
+
+***“Assim, pois, qualquer de vós que não renuncia tudo o que possui não pode ser meu discípulo”***
+
+Esse comentário de São Beda ilumina tanto como o cristão deve se comportar frente aos bens materiais: *“Há uma diferença entre renunciar a todas as coisas e abandonar todas as coisas: Abandonar todas as coisas, isto é, deixar para trás os cuidados com o mundo, pertence aos poucos que atingiram a perfeição; Já renunciar a todas as coisas, isto é, deter posse das coisas do mundo sem ser por elas detido no mundo, isto é dever de todos os fiéis.”*
+
+Novamente, é pela vida devota que vamos exercitar esse músculo do desapego para com as coisas finitas. Talvez uma boa ideia seja fazer uma obra de misericórdia junto com uma prática interior de mortificação.
+
+Dai-me, Cristo, a sabedoria de ser o senhor de minhas posses e não o contrário. Livrai-me, Jesus, de todo apego ao pecado.
+
+***“O que tem ouvidos para ouvir, ouça”***
+
+Por fim, devemos pôr em prática tudo o que nós aprendemos, mesmo que o que tenhamos aprendido seja limitado pela nossa sabedoria. Nós seremos julgados pela nossa disposição de querer aprender e aptidão de pôr em prática o que fomos capazes de entender.
+
+- Aceite o convite de Cristo pondo suas prioridades em ordem;
+- Cultive uma vida interior devota, que será sua bússola em suas ações;
+- Renuncie a tudo; abandone aquilo que atente contra o seu fim;
+- Aceite o convite de Cristo de aumentar sua sabedoria ouvindo o que Ele tem a dizer;
+- Ponha em prática aquilo que aprendeu;
+
 # 25/10/2024 - Lucas 13:1-35
 
 ***“Eis que três anos há que venho procurando fruto nesta figueira e não o acho. Corta-a; para que ainda ocupa inutilmente o terreno? Mas o viticultor respondeu: Senhor, deixa-a ainda este ano; eu lhe cavarei em redor e lhe deitarei adubo. Talvez depois disto dê frutos. Caso contrário, contá-la-ás.”***
