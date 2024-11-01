@@ -1,3 +1,25 @@
+# 31/10/2024 - Lucas 15:1-32
+***“Pequei contra o céu e contra ti; já não sou digno de ser chamado teu filho”***
+
+Que excelente catequese sobre o pecado e o sacramento da reconciliação. É de uma genialidade absurda conseguir expressar tantos pontos importantes dentro de uma pequena história.
+
+É muito fácil ver as consequências das ações do filho mais novo e pensar que o erro dele foi ter desperdiçado a herança dele. É uma clara falta de prudência não saber administrar a herança para viver bem. Mas o pecado vem antes. O grande pecado é na quebra da relação filial. Quando o filho pede a herança do pai vivo, ele quer remover toda a dependência que tem do pai. E implicitamente, esse pedido enquanto o pai está vivo é um desejo de morte ao pai.
+
+E em traços simples, não é essa a definição mais pura do que é o pecado? É uma rejeição de Nosso Pai. Performaticamente, quando pecamos, estamos rejeitando a Deus assim como o filho mais novo rejeita seu pai. Ele diz *“dá-me a parte da herança que me toca”*; Nós dizemos *“dá-me o poder de decidir o que é o bem e o que é o mal”*. Quando escrito assim, fica evidenciado a arrogância do pecado. E como o pai da parábola, Deus não nos força a amá-lo; pois não é amor se é forçado. Portanto, Ele permite a nossa rejeição e fuga.
+
+E então, quando chega a conta da auto-exclusão, da rejeição do amor, fica fácil perceber o erro. Mas nem sempre. Algumas pessoas passam vidas inteiras sofrendo com os efeitos do pecado, mas sua indisposição não as permite provar e ver a verdade.
+
+A parábola evidencia que não é ruim, porém, a contrição imperfeita, onde nos arrependemos não por puro e sincero amor, mas por medo de punição ou procura de recompensas. O simples e sincero arrependimento e vontade de fazer diferente já é suficiente para que Deus venha com sua infinita misericórdia até nós.
+
+Essa parábola evidencia outro fato: os mandamentos de Deus não são regras arbitrárias de um tirano. É um manual de instruções para o nosso bem. Isso se encaixa tão bem com o conselho de duas confissões recentes que tive.
+
+Em uma delas, parte da penitência é *odiar o pecado*. Tarefa mais difícil do que se parece. Mas impossível se não se entende o que de fato **é** o pecado. E para odiar o pecado não basta odiar as consequências do pecado. É preciso meditar no coração a essência do pecado para que assimilemos que o pecado é pior do que ofender uma pessoa que nós amamos, pois é uma rejeição daquilo que devia ser objeto maior de nosso amor.
+
+Na outra, o padre falou sobre entender o valor das virtudes. É preciso assimilar muito bem o valor que a virtude traz para a nossa vida, e como elas são lindas e precisam ser cativadas. E na outra face, trazer para o coração como o vício e o pecado geram destruição e nos tornam escravos das nossas fraquezas.
+
+Castidade, paciência, fé, esperança, caridade, temperança, prudência, e todas as outras virtudes são boas e precisam ser reconhecidas no coração como tal. Não podemos ter vícios e pecados de estimação.
+
+Vou agradecer a Deus pelo sacramento da confissão e por sua infinita misericórdia. Vou meditar sobre o pecado, o vício e as virtudes.
 # 30/10/2024 - Lucas 14:1-35
 ***”Porque eu vos digo que nenhum daqueles que foram convidados provará minha ceia”***
 
