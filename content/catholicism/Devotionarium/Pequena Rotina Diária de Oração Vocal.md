@@ -1,7 +1,26 @@
 
 # Manhã
 
+![[Signum Crucis#Signum Crucis]]
 
+Agradeço-te Deus por me conceder mais um dia. Leve-me até o final dele com segurança. Dai-me graças e forças para cumprir com dedicação todas minhas responsabilidades e construir boas obras. Que este dia seja mais um passo no meu caminho de santidade que você tem para mim.
+
+Meu Senhor, te ofereço todas as obras que construir hoje. Use toda a felicidade e sofrimento deste dia para o meu bem. 
+
+*Pai Nosso…*  
+*Santo Anjo do Senhor, meu zeloso…*  
+*Angelus…*  
+
+Anjo de minha Guarda e São Miguel Arcanjo, protegei-me de todas as tentações, livre-me do mal, e iluminem o meu caminho neste dia e sempre. Santíssima Virgem Maria, intercedei por mim.
+
+*São Miguel Arcanjo, defendei-nos no combate.*  
+*Sede o nosso refúgio contra as maldades e ciladas do demônio.*  
+*Que Deus manifeste o seu poder sobre ele. Eis a nossa humilde súplica.*  
+*E vós, Príncipe da Milícia Celeste, com o poder que Deus vos conferiu,*  
+*precipitai no inferno Satanás e os outros espíritos malignos,*  
+*que andam pelo mundo tentando as almas. Amém.*
+
+![[Gloria Patri#Gloria Patri]]
 
 # Noite
 
