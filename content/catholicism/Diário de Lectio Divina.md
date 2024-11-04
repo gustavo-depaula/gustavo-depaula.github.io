@@ -1,3 +1,21 @@
+# 4/11/2024 - Lucas 15:11-32
+***“Filho, tu estás sempre comigo, e tudo que é meu é teu.”***
+
+O irmão mais velho fica indignado com a celebração do pai ao ver o filho mais novo retornar para casa. A indignação dele é porque *“há tantos anos que te sirvo, sem jamais transgredir ordem alguma tua, e nunca me deste um cabrito para festejar com os meus amigos”*.
+
+Deus e sua Santa Igreja declaram algo pecado pois reconhecem naquilo algo destrutivo e que torna a pessoa infeliz. Então, não é aquele ato ser pecado que o torna ruim, é o contrário, é aquilo ser ruim que o torna pecado. E não quer dizer que a pessoa vai ser infeliz cometendo o pecado, a maioria dos pecados dão prazer no momento que são cometidos.
+
+Um pai proíbe o filho de usar drogas, pois ele ama o filho, e vê naquele ato algo destrutivo e que irá causar infelicidade no filho, mesmo que, no momento em que o filho se drogar, o filho se sentirá feliz. E se o filho usar drogas, ele estará cometendo dois erros: o da auto-destruição intrínseca do erro dele e também a desobediência.
+
+Então, o filho mais velho na parábola representa aqueles fiéis que vêem nos mandamentos não um olhar amoroso de um pai que se importa com os filhos, mas leis tirânicas que todo mundo precisa seguir, e sofrer para seguir.
+
+E essa segunda visão é um terreno fértil para julgamento dos outros, que é o que o filho mais velho faz. Se a lei é vista como pesadas obrigações sem um sentido positivo, é fácil se vitimizar achando que aquela situação é injusta pois o outro não carrega o mesmo peso.
+
+O Senhor nos convida para um olhar amoroso sobre os mandamentos. *Tudo que é meu é teu.* Mesmo que custe caro a abdicação de vícios mundanos, e seja difícil reconhecer o valor das virtudes, temos a garantia da maior recompensa de todas que é o Reino de Deus.
+
+O Senhor também nos convida para um olhar misericordioso sobre os nossos irmãos. Principalmente aqueles que vivem em vida de pecados mortais, pois estão em um caminho de infelicidade e de auto-mutilação. Nosso olhar deve ser piedoso acima de tudo. Difícil, pois nossa propensão é muito rápida para o julgamento e reclamação, principalmente quando alguém peca contra nós.
+
+A aplicação aqui é tentar se resguardar de julgamentos, principalmente públicos, mas também privados com poucas pessoas e dentro do coração. Rezarei por pessoas que me irritaram ou cometeram transgressões contra mim em minha oração antes de dormir.
 # 31/10/2024 - Lucas 15:1-32
 ***“Pequei contra o céu e contra ti; já não sou digno de ser chamado teu filho”***
 
