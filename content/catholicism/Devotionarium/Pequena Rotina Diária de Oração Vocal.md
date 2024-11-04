@@ -59,12 +59,21 @@ Peço-te perdão Deus, de todos os pecados, desobediências, e ocasiões de risc
 
 Também te peço perdão, Cristo, de todos os outros pecados que sou muito cego e defeituoso para ver. 
 
-Santo Anjo do Senhor,  
-Eu, pecador, confesso a Deus todo-poderoso, à Santíssima Virgem Maria, ao Arcanjo São Miguel, a São João Baptista, aos Santos apóstolos Pedro e Paulo, a todos os santos e a vós, meu Anjo da Guarda, que pequei muitas vezes por pensamentos e palavras, atos e omissões.
+Eu tão grande pecador,  
+Machado pelo pecado original,  
+Culpado do meu pecado pessoal,  
+Lavado e restaurado pelo batismo,  
 
-Por minha culpa, minha culpa, minha tão grande culpa.
+Confesso a Deus todo-poderoso,  
+E a você, meu Santo Protetor Anjo da Guarda,  
 
-E peço à Virgem Maria, ao Arcanjo S. Miguel, a S. João Baptista, aos santos apóstolos Pedro e Paulo, a todos os santos e a você, Anjo de Minha Guarda, que rogueis por mim a Deus, nosso Senhor.
+Que pequei muitas vezes,  
+por pensamentos e palavras,  
+atos e omissões,  
+
+por minha culpa, minha culpa, minha tão grande culpa.
+
+E peço à Santíssima Virgem Maria, a todos os anjos e santos, e a você, Anjo de minha guarda, que rogueis por mim a Deus, nosso Senhor.
 
 Que Deus onipotente se amerceie de mim, que me perdoe os pecados e me conduza à vida eterna.
 
