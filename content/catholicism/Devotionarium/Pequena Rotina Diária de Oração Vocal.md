@@ -3,7 +3,7 @@
 
 ![[Signum Crucis#Signum Crucis]]
 
-Agradeço-te Deus por me conceder mais um dia. Leve-me até o final dele com segurança. Dai-me graças e forças para cumprir com dedicação todas minhas responsabilidades e construir boas obras. Que este dia seja mais um passo no meu caminho de santidade que você tem para mim.
+Agradeço-te Deus por me conceder mais um dia. Leve-me até o final dele com segurança. Dai-me graças e forças para cumprir com dedicação todas minhas responsabilidades e construir boas obras. Que este dia seja mais um passo no meu caminho de santidade que Você tem para mim.
 
 Meu Senhor, te ofereço todas as obras que construir hoje. Use toda a felicidade e sofrimento deste dia para o meu bem. 
 
@@ -73,7 +73,7 @@ atos e omissões,
 
 por minha culpa, minha culpa, minha tão grande culpa.
 
-E peço à Santíssima Virgem Maria, a todos os anjos e santos, e a você, Anjo de minha guarda, que rogueis por mim a Deus, nosso Senhor.
+E peço à Santíssima Virgem Maria, a todos os anjos e santos, apóstolos e mártires, e a você, Anjo de minha guarda, que rogueis por mim a Deus, nosso Senhor.
 
 Que Deus onipotente se amerceie de mim, que me perdoe os pecados e me conduza à vida eterna.
 
@@ -99,6 +99,7 @@ Agradeço pela contínua intercessão de Maria, minha Mãe Imaculada e da prote�
 **São Paulo**, reze por mim para que eu saiba defender minha fé  
 **Santa Teresa d’Ávila, Santo Inácio de Loyola e São Francisco de Sales**, rezem por mim para que possa crescer na minha vida de oração  
 **Santa Teresinha**, reze por mim para que eu cresça no meu amor a Deus  
+**São José de Anchieta**, reze pela nossa cidade São Paulo e pelo nosso país Brasil  
 
 Maria Santíssima, mãe de Deus e minha mãe, rogai sempre por mim.  
 *Infinitas graças vos damos…*  
