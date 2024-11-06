@@ -1,3 +1,13 @@
+# 5/11/2024 - Lucas 16:1-31
+***“Granjeai amigos com a riqueza da iniquidade”***
+
+Não há vida cristã sem esmola. Depois de tantas falas de Nosso Senhor sobre a importância da esmola, do desprendimento das riquezas terrestres e de ajudar o próximo é impossível negar esse fato.
+
+***“para que, quando vierdes a precisar, vos recebam nos tabernáculos eternos”***
+
+Ou seja, não só a esmola é necessária pois ela é a coisa certa a se fazer, ela nos engrandece da real riqueza que são os bens eternos. A esmola é caminho de santificação. E Nosso Senhor ainda adiciona que quem não é justo e fiel com as *riquezas iníquas* não será justo e fiel com as *riquezas verdadeiras*. Em outras palavras, se não fizermos boas obras com os bens terrestres que temos, não teremos frutos espirituais. Se não somos capazes de construir boas obras com as pequenas riquezas, porque deveríamos ser confiados com as riquezas mais importantes?
+
+Vou repensar minhas obras de misericórdia. Acredito que tem muito potencial bloqueado por inação. Também penso de fazer o propósito de ano que vem realizar todas as obras de misericórdia corporais e espirituais pelo menos uma vez cada uma. Algumas são mais complicadas como enterrar os mortos e visitar os presos. As outras são mais tranquilas e várias já são hábitos.
 # 4/11/2024 - Lucas 15:11-32
 ***“Filho, tu estás sempre comigo, e tudo que é meu é teu.”***
 
