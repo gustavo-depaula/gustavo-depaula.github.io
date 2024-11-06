@@ -1,3 +1,17 @@
+# 6/11/2024 - Lucas 17:1-19
+***“Se teu irmão pecar contra ti, repreende-o; e se ele se arrepender, perdoa-lhe. E se pecar sete vezes no dia contra ti, e sete vezes no dia vier ter contigo, dizendo: ’Estou arrependido’: perdoa-lhe sempre”***
+
+O que é perdoar? Honestamente, difícil dizer.
+
+É agir como aquilo não tivesse acontecido? Parece-me que sim, pois não é assim que acontece no sacramento da confissão? Nossos pecados são perdoados e somos recebidos plenamente na graça Divina. Ao mesmo tempo parece-me que pode ser imprudente. Se alguém te causa um mal físico ou espiritual, repetidas vezes, seria errado se afastar? Ainda há, claro, o dever de perdoar, mas será que há a obrigação de agir como agiria se aquilo não tivesse acontecido?
+
+Talvez é não guardar ressentimentos e mágoas? Parece-me uma boa resposta também. Mas também reconheço que esses são sentimentos. Sentimentos férteis para nutrir ódio e pensamentos de vingança, mas é possível conceber que uma pessoa sinta sem consentir com esses sentimentos.
+
+Não se vingar, isto é, não desejar e fazer o mal para aquela pessoa? Isso com certeza, mas será que é só isto?
+
+Outra questão é a questão do arrependimento. Nosso Senhor parece colocar a contrição do pecado como condição do perdão, mas Ele pediu o perdão daqueles que o crucificaram, mesmo sem o arrependimento deles. 
+
+Ensina-me a perdoar, Senhor. E dá-me graças para conseguir fazê-lo.
 # 5/11/2024 - Lucas 16:1-31
 ***“Granjeai amigos com a riqueza da iniquidade”***
 
