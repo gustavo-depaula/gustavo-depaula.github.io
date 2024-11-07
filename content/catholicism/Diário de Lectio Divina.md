@@ -1,3 +1,15 @@
+# 7/11/2024 - Lucas 17:20-37
+***“Nesse dia quem estiver no terraço e tiver os seus móveis em casa, não desça a tomá-los”***
+
+É uma passagem bem densa onde Nosso Senhor faz um discurso escatológico (das coisas finais) sobre a segunda vinda. É sempre importante que tenhamos claro que a religião nesta vida não é sobre viver confortavelmente e ter bens materiais, como pregado pela ”teologia da prosperidade”. 
+
+É importante lembrar disso, pois Ele nos diz que nós passaremos por tribulações e sofrimentos. E nesses momentos, é importante que nossa carne e o mundo iníquo em que estamos não seja motivo de queda para nós. Que nós não procuremos no pecado refúgio ou esperança. Que quando estivermos no caminho da santidade, não olhemos para trás como fez a mulher de Ló.
+
+Então diz o Senhor, que quando Ele vier pela segunda vez, quem estiver no terraço (quem estiver alto na prática das virtudes) não desça para tomar os móveis (volte a cair e se preocupar com coisas terrestres).
+
+E como acontece com Jó, nós nunca seremos capazes de compreender totalmente o porquê do nosso sofrimento. Então, que nesses momentos, voltemos ao Senhor. *”The Lord gave, and the Lord has taken away; Blessed be the name of the Lord”* (Job 1:21)
+
+Eu não gosto de sofrer, Senhor. É pesado, não sinto que aguento. E se eu mal aguento estes sofrimentos que não são nada, o que seria de mim se tivesse que passar pelo o que eu realmente mereço? Sou grato pela sua cruz, meu Senhor, pois Você carregou o meu peso por mim. Eu confio em Você, meu Deus. Usa toda essa tristeza, angústia e mal que se encontram instalados em mim para o meu bem, para minha santidade. Ajuda-me! Eu não consigo sozinho carregar a minha cruz. Peço que afaste tudo isto de mim, mas faça-se a Sua vontade e não a minha. 
 # 6/11/2024 - Lucas 17:1-19
 ***“Se teu irmão pecar contra ti, repreende-o; e se ele se arrepender, perdoa-lhe. E se pecar sete vezes no dia contra ti, e sete vezes no dia vier ter contigo, dizendo: ’Estou arrependido’: perdoa-lhe sempre”***
 
