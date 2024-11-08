@@ -1,3 +1,19 @@
+# 8/11/2024 - Lucas 18:1-30
+***“Orar sempre e não deixar de o fazer”***
+
+Nessa passagem, Cristo conta duas passagens relacionadas a oração: a do juiz e a viúva, e a do fariseu e o publicano. São duas parábolas que atentam a dois problemas comuns: orar pouco e orar mal.
+
+Na primeira, Jesus diz que se até um juiz que não se importa com as pessoas e com Deus é capaz de entregar justiça para a viúva só para ela parar de importuná-lo, o quanto mais Nosso Pai não atenderá nossas orações?
+
+Deveríamos pedir coisas pequenas a Deus? Eu digo que sim. Devemos pedir tudo a Deus. Tudo. É o que nos coloca em um melhor lugar espiritual de humildade, pois ao pedir tudo que precisamos estamos reconhecendo que não somos capazes de conquistar nada sem Ele. Ao mesmo tempo, é necessário ter perspectiva e senso de prioridade. Nenhum pedido é mais importante que nossa salvação e santificação.
+
+Na segunda parábola, Jesus descreve a oração de um fariseu e de um publicano. A do fariseu é cheia de soberba, de auto-engrandecimento. A do publicano é humilde, pede misericórdia, e parece demonstrar um estado de fragilidade que ele está passando naquele momento.
+
+Não são nos momentos mais frágeis que reconhecemos a nossa própria insuficiência? Nos momentos mais difíceis que fazemos as orações mais profundas, pois neles reconhecemos que precisamos de ajuda. Nessas orações nós lembramos que o amor dEle zela por nós. Continuando o tema de ontem, talvez é um dos melhores uso desses tempos difíceis, lembrar-nos que não somos nada sem Ele. Se Ele esquecesse de nós por um só instante, deixaríamos de existir.
+
+E isso volta para a importância da humildade. A virtude da humildade, saber reconhecer o nosso lugar, nossas limitações e dependências, e reconhecer que nossas fortalezas são bençãos de Deus, permite-nos acessar essa oração mais profunda.
+
+Rezarei a ladainha da humildade e procurarei o sacramento da confissão.
 # 7/11/2024 - Lucas 17:20-37
 ***“Nesse dia quem estiver no terraço e tiver os seus móveis em casa, não desça a tomá-los”***
 
