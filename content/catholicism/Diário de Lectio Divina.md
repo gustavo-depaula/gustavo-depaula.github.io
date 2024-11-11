@@ -1,3 +1,13 @@
+# 9/11/2024 - Lucas 18:31-43
+***“Senhor, que eu veja”***
+
+*“Senhor, que eu veja”* disse o cego de Jericó quando Jesus pergunta o que ele deseja. É um pedido carregado de forte sentido anagógico: esse deve ser o nosso maior pedido. Nós não podemos ver à luz sem a ajuda da Graça.
+
+Outra lição a ser tirada é a da necessidade da vontade e da perseverança. O cego clama: *“Jesus, filho de Davi, tem piedade de mim”* e quando o pedem para calar-se, ele faz o contrário, grita mais alto. O cego ainda não vê, mas deseja-o, e persevera em seu pedido. Se o cego não desejasse ver, Cristo não obrigaria-o a ver. Mesmo que sua cegueira fosse curada, o cego sempre teria a opção de permanecer com seus olhos fechados.
+
+Deus deseja a salvação de todos, e assim como o cego de Jericó, ele irá ao socorro daqueles que sinceramente se abrem e perseveram no seu desejo de ver a luz, mesmo que seja um desejo imperfeito e defeituoso.
+
+Assim como o cego faz sua profissão de fé, farei a minha recitando o Credo Niceno-Constatinoplano para levá-lo ao meu coração, pedindo a Deus que eu possa ver.
 # 8/11/2024 - Lucas 18:1-30
 ***“Orar sempre e não deixar de o fazer”***
 
