@@ -2,46 +2,46 @@
 
 ---
 
-**Senhor, tende piedade de nós.**  
-**Cristo, tende piedade de nós.**  
-**Senhor, tende piedade de nós.**  
+_Senhor,_ **tende piedade de nós.**  
+_Cristo,_ **tende piedade de nós.**  
+_Senhor,_ **tende piedade de nós.**
 
-**Cristo, ouvi-nos.**  
-**Cristo, atendei-nos.**  
+_Cristo,_ **ouvi-nos.**  
+_Cristo,_ **atendei-nos.**
 
-**Deus Pai do Céu, tende piedade de nós.**  
-**Deus Filho, Redentor do mundo, tende piedade de nós.**  
-**Deus Espírito Santo, tende piedade de nós.**  
-**Santíssima Trindade, que sois um só Deus, tende piedade de nós.**  
+*Deus Pai do Céu,* **tende piedade de nós.**  
+*Deus Filho, Redentor do mundo,*  
+*Deus Espírito Santo,*  
+*Santíssima Trindade, que sois um só Deus,*  
 
-**Santa Maria, rogai por nós.**  
-**Santa Mãe de Deus, rogai por nós.**  
-**Virgem Imaculada, que nunca conheceu o pecado, rogai por nós.**  
-**São Miguel Arcanjo, defensor contra as ciladas do demônio, rogai por nós.**  
-**São José, modelo de pureza e justiça, rogai por nós.**  
-**São João Batista, pregador do arrependimento, rogai por nós.**  
-**São Pedro e São Paulo, exemplos de conversão, rogai por nós.**  
-**Todos os santos anjos e santos de Deus, rogai por nós.**  
+*Santa Maria,* **rogai por nós.**  
+*Santa Mãe de Deus,*  
+*Virgem Imaculada, que nunca conheceu o pecado,*  
+*São Miguel Arcanjo, defensor contra as ciladas do demônio,*  
+*São José, modelo de pureza e justiça,*  
+*São João Batista, pregador do arrependimento,*  
+*São Pedro e São Paulo, exemplos de conversão,*  
+*Todos os santos anjos e santos de Deus,*  
 
-**Contra toda tentação ao pecado, livrai-nos, Senhor.**  
-**Do apego ao pecado e ao vício, livrai-nos, Senhor.**  
-**Da cegueira e da dureza de coração, livrai-nos, Senhor.**  
-**Do orgulho que nos afasta da graça, livrai-nos, Senhor.**  
-**Do ódio, da inveja e do egoísmo, livrai-nos, Senhor.**  
-**Da ganância e da busca desordenada dos bens, livrai-nos, Senhor.**  
-**Do desespero e da falta de confiança em Vós, livrai-nos, Senhor.**  
-**Da preguiça espiritual e da negligência na oração, livrai-nos, Senhor.**  
-**De toda palavra, pensamento e ação que ofenda a Deus, livrai-nos, Senhor.**  
+*Contra toda tentação ao pecado,* **livrai-nos, Senhor.**  
+*Do apego ao pecado e ao vício,*  
+*Da cegueira e da dureza de coração,*  
+*Do orgulho que nos afasta da graça,*  
+*Do ódio, da inveja e do egoísmo,*  
+*Da ganância e da busca desordenada dos bens,*  
+*Do desespero e da falta de confiança em Vós,*  
+*Da preguiça espiritual e da negligência na oração,*  
+*De toda palavra, pensamento e ação que ofenda a Deus,*  
 
-**Para que odiemos o pecado e amemos a virtude, ouvi-nos, Senhor.**  
-**Para que nos afastemos das ocasiões de pecado, ouvi-nos, Senhor.**  
-**Para que nosso coração se una cada vez mais ao Vosso, ouvi-nos, Senhor.**  
-**Para que tenhamos horror ao pecado, como Vós o tendes, ouvi-nos, Senhor.**  
-**Para que nossa vida seja um testemunho de santidade, ouvi-nos, Senhor.**  
+*Para que odiemos o pecado e amemos a virtude,* **ouvi-nos, Senhor.**  
+*Para que nos afastemos das ocasiões de pecado,*  
+*Para que nosso coração se una cada vez mais ao Vosso,*  
+*Para que tenhamos horror ao pecado, como Vós o tendes,*  
+*Para que nossa vida seja um testemunho de santidade,*  
 
-**Cordeiro de Deus, que tirais o pecado do mundo, perdoai-nos, Senhor.**  
-**Cordeiro de Deus, que tirais o pecado do mundo, ouvi-nos, Senhor.**  
-**Cordeiro de Deus, que tirais o pecado do mundo, tende piedade de nós.**  
+*Cordeiro de Deus, que tirais o pecado do mundo,* **perdoai-nos, Senhor.**  
+*Cordeiro de Deus, que tirais o pecado do mundo,* **ouvi-nos, Senhor.**  
+*Cordeiro de Deus, que tirais o pecado do mundo,* **tende piedade de nós.**  
 
 ---
 

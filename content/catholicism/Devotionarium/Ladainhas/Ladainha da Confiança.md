@@ -6,8 +6,8 @@ _Senhor,_ **tende piedade de nós.**
 
 **_Invoque Jesus para ouvir suas petições._**
 
-_Cristo:_ **ouvi-nos.**  
-_Cristo:_ **atendei-nos.**
+_Cristo,_ **ouvi-nos.**  
+_Cristo,_ **atendei-nos.**
 
 **Peça a Jesus para libertá-lo dos vários medos e inseguranças que nos impedem de confiar plenamente nele.**
 
