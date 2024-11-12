@@ -19,6 +19,7 @@ const config: QuartzConfig = {
     baseUrl: "dpgu.me",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "published",
+    generateSocialImages: false,
     cursorParty: {
       username: "gustavo-depaula",
     },
