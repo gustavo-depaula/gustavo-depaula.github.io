@@ -1,1 +1,2 @@
-https://github.com/jackyzha0/quartz/commit/c36551310d223b204e39dc29e53723e03c238719
+f24a1472765e0752bcf158a3db53a717b8dc2191
+https://github.com/jackyzha0/quartz/commit/f24a1472765e0752bcf158a3db53a717b8dc2191
