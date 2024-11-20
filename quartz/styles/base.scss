@@ -307,7 +307,7 @@ a:visited {
 
     & .page-header {
       grid-area: grid-header;
-      margin: $topSpacing 0 0 0;
+      /* margin: $topSpacing 0 0 0; */
       @media all and ($mobile) {
         margin-top: 0;
         padding: 0;
@@ -324,7 +324,7 @@ a:visited {
 
     & .center,
     & footer {
-      /* padding: 1rem 2rem; */
+      padding: 1rem 2rem;
       max-width: 100%;
       min-width: 100%;
       margin-left: auto;
