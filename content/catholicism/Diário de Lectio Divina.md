@@ -1,3 +1,36 @@
+# 19/11/2024 - Lucas 19:1-28
+***“a todo aquele que tiver, se lhe dará; ams ao que não tem será tirado ainda mesmo o que tem”***
+
+A Providência nunca falha mesmo. Estava ontem conversando sobre uma apatia que venho desenvolvendo no que diz respeito ao esforço de converter outras pessoas. Um cansaço desenvolvido ao perceber como o mundo é ativamente hostil ao Evangelho.
+
+Mesmo entre àqueles que se auto-denominam cristãos a situação não é muito diferente. Dentre estes, há três grandes problemas que vejo rotineiramente. O primeiro é a heresia do indiferentismo: diluem a religião e o cristianismo como apenas mais uma forma, dentre várias outras, de ser uma boa pessoa. O segundo é a negação da cruz: cometem o mesmo erro de São Pedro em São Mateus 16:23, onde São Pedro nega a necessidade de Jesus passar por tamanho sofrimento. Querem uma religião sem cruz! O terceiro problema é o modernismo: negam a divindade da Igreja e acreditam que a Igreja que tem que se adequar ao século, se *modernizar*; Como se Deus fosse imperfeito, e tivesse nos dado uma moral relativa que precisa “melhorar” ao longo do tempo.
+
+Ao ser confrontado com essa realidade, é fácil se desanimar com os prospectos da evangelização e retrair-se para uma posição auto-centrada de que o que importa é a salvação pessoal.
+
+A parábola do Rei e dos três servos (11-27) é uma refutação dura e adequada para esses tortos e mesquinhos pensamentos. Em reflexões anteriores, conversei muito sobre a importância de usar as vantagens materiais para fazer boas obras. Mas essa passagem nos lembra de uma coisa: O dom mais importante que temos é a Fé, a virtude teologal mais importante. Logo depois, as outras duas virtudes teologais: a esperança e a caridade.
+
+E Deus, aquele que dá e infunde essas virtudes nos cobrará pelo que fizemos com essas virtudes, assim como faz o rei com seus servos. O recado é claro: o servo mau pega o que foi dado para ele e embrulha-o em um lenço; os servos bons multiplicam os marcos que foram dados a eles. E o que é feito com o servo mau, por causa de sua apática ociosidade? Perde tudo aquilo que tem.
+
+Santo Agostinho diz (trechos extraídos da Catena Áurea):
+> Os servidores enaltecidos por terem feito frutificar o quanto lhes fora confiado simbolizam os fiéis, no futuro, a dar conta do bom emprego que fizeram dos talentos que lhes haviam sido confiados, ao multiplicarem as riquezas do Senhor, isto é, o número que n’Ele crêem. Aqueles, ao contrário, incapazes de prestar contas são figurados aqui pelo servidor que preferiu guardar o marco embrulhado num lenço. *Senhor, eis teu marco que guardei embrulhado num lenço*. Há, em verdade, quem caia no erro culpável de pensar que a cada um basta dar conta de si mesmo. De que serve, dizem estes, pregar aos homens e trabalhar pela sua salvação e ter de assumir diante de Deus a responsabilidade dos outros?
+
+São Beda:
+> Quem, com efeito, recebe da boca dos pregadores do Evangelho, com fé, a pecúnia da Palavra de Deus, deve pagar com juros a dívida contraída — seja com boas obras, seja buscando, a partir do que lhe foi ensinado, compreender o que permaneceu não explicado. 
+
+Santo Agostinho:
+> Podemos perder os dons divinos se os possuímos sem os possuir de fato, ou seja, se dar-lhes boa aplicação. Quando, ao contrário, possuímo-los verdadeiramente, isto é, empregando-os devidamente, frutificam.
+
+Teofilacto:
+> *mas ao que não tem, será tirado ainda mesmo o que tem* \[…\]
+> Essa verdade não se aplica só à pregação e ao ensino, mas à prática das virtudes morais. Por estas, com efeito, o Senhor nos recompensa com suas graças, dando a este a graça de jejuar, àquele a da oração, a um terceiro a da mansidão e humildade. Se nos esforçamos para delas obter lucro, lograremos a multiplicá-las; se, porém, lhe ficarmos indiferentes, havemos de perdê-las para sempre.
+
+Ouch. Como sempre, Nosso Senhor traz as palavras de vida eterna. Palavras duras, mas para onde iremos? E também, como sempre, nossos grandes santos são nossos guias que iluminam o caminho até Ele.
+
+O trecho de Teofilacto toca em outra ferida importante. As virtudes morais são presentes e músculos a serem exercitados. De modo que, aquele que carrega pecados não arrependidos e não faz uma conversão de vida e de sua vontade, corre sério risco de perder também sua fé.
+
+Esse tempo de oração foi um grande “wake-up call” sobre essa ociosidade apática que estava crescendo em mim, e substituindo a generosidade combativa necessária para salvar as almas e pagar os juros dessa impagável dívida que tenho. Além disso, fortalece o ódio ao pecado necessário para trilhar esse caminho.
+
+E apenas pior do que não dar frutos com os dons recebidos é usá-los para roubar os de terceiros, levando à perdição de suas almas. Ai daqueles pastores que conduzem suas ovelhas ao precipício através das heresias, do indiferentismo, do modernismo e da negação da cruz, ultimamente. *Estes serão levados até o Rei, e degolados em Sua presença.*
 # 9/11/2024 - Lucas 18:31-43
 ***“Senhor, que eu veja”***
 
