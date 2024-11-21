@@ -3,6 +3,10 @@
 .toc {
   display: flex;
   flex-direction: column;
+
+  @media all and ($mobile) {
+    max-height: 300px;
+  }
 }
 
 button#toc {
