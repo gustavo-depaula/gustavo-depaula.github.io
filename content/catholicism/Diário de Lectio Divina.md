@@ -1,3 +1,15 @@
+# 21/11/2024 - Lucas 19:29-48
+***“Por que soltais vós esse jumentinho?” “Porque o Senhor tem necessidade dele.”***
+
+Mas Nosso Senhor, estritamente, não tem *necessidade* dele. O jumentinho representa nós, que somos desatados dos nós do pecado que nos amarram e chamados a servir o Senhor. Pois é servindo ao Senhor que compartilhamos de sua natureza amorosa.
+
+Os discípulos que vão desatar e levar o jumentinho ao Senhor também somos nós, mas no trabalho de apostolado. Os discípulos transmitem para o dono as exatas palavras que Jesus os comunicou. O que representa que, no nosso trabalho de apostolado, nossa missão é transmitir a Palavra de Deus, pois ela é a palavra que transforma e converte.
+
+Nós fomos criados para compartilhar da natureza bondosa e amorosa de Deus. E portanto, todas as ações contrárias a este fim devem ser banidas de nossas vidas. Devemos nos entristecer por aqueles que vivem sem um propósito de vida, ou acreditam em falsos propósitos como juntar riquezas ou maximizar o prazer da carne. 
+
+***“Fecisti nos, Domine, ad Te, et inquietum est cor nostrum donec requiescat in Te.”*** **“Fizeste-nos, Senhor, para Ti, e o nosso coração está inquieto enquanto não repousar em Ti.”**
+
+Desamarre, Senhor, os nós que ainda amarram nosso coração ao afeto pelo pecado. Esteja sempre, Deus, em nossos pensamentos, palavras e no nosso coração para que saibamos transmitir o amor divino para os nossos próximos. Ajude-nos, Santo Espírito, a sempre cumprir nossas responsabilidades do dia-a-dia com um generoso sorriso no rosto.
 # 19/11/2024 - Lucas 19:1-28
 ***“a todo aquele que tiver, se lhe dará; ams ao que não tem será tirado ainda mesmo o que tem”***
 
