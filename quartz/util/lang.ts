@@ -3,7 +3,7 @@ export function capitalize(s: string): string {
 }
 
 export function classNames(
-  displayClass?: "mobile-only" | "desktop-only",
+  displayClass?: "mobile-only" | "desktop-only" | "tablet-only",
   ...classes: string[]
 ): string {
   if (displayClass) {

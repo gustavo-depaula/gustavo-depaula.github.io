@@ -155,21 +155,17 @@ a {
   }
 }
 
-a:visited {
-  /* color: inherit; */
-}
-
 .page-title {
   font-size: 3.5rem;
-  /* text-shadow: rgb(255, 255, 255) 5px 5px 0px; */
   margin-bottom: 30px;
   margin: 0;
 
+  text-align: center;
+
   & a {
+    color: inherit !important;
+    transition: filter 0.2s ease;
     &:hover {
-      /* color: #3798fa !important; */
-      /* filter: lighten(, 85%); */
-      color: inherit !important;
       filter: brightness(1.4) !important;
       transition: filter 0.2s ease;
     }
@@ -177,9 +173,16 @@ a:visited {
 }
 
 .desktop-only {
-  display: initial;
-  @media all and ($mobile) {
-    display: none;
+  display: none;
+  @media all and ($desktop) {
+    display: initial;
+  }
+}
+
+.tablet-only {
+  display: none;
+  @media all and ($tablet) {
+    display: initial;
   }
 }
 
@@ -191,8 +194,15 @@ a:visited {
 }
 
 .page {
+  padding: 40px 20px;
+
+  @media all and ($mobile) {
+    padding: 20px 5px;
+  }
+
   max-width: calc(#{map-get($breakpoints, desktop)} + 300px);
   margin: 0 auto;
+
   & article {
     & > h1 {
       font-size: 2rem;
@@ -220,25 +230,13 @@ a:visited {
   }
 
   & > #quartz-body {
-    display: grid;
-    grid-template-columns: #{map-get($desktopGrid, templateColumns)};
-    grid-template-rows: #{map-get($desktopGrid, templateRows)};
-    column-gap: #{map-get($desktopGrid, columnGap)};
-    row-gap: #{map-get($desktopGrid, rowGap)};
-    grid-template-areas: #{map-get($desktopGrid, templateAreas)};
-    @media all and ($tablet) {
-      grid-template-columns: #{map-get($tabletGrid, templateColumns)};
-      grid-template-rows: #{map-get($tabletGrid, templateRows)};
-      column-gap: #{map-get($tabletGrid, columnGap)};
-      row-gap: #{map-get($tabletGrid, rowGap)};
-      grid-template-areas: #{map-get($tabletGrid, templateAreas)};
-    }
+    display: flex;
+    align-items: flex-start;
+    transition: all 0.2s ease;
+    gap: 10px;
+
     @media all and ($mobile) {
-      grid-template-columns: #{map-get($mobileGrid, templateColumns)};
-      grid-template-rows: #{map-get($mobileGrid, templateRows)};
-      column-gap: #{map-get($mobileGrid, columnGap)};
-      row-gap: #{map-get($mobileGrid, rowGap)};
-      grid-template-areas: #{map-get($mobileGrid, templateAreas)};
+      flex-direction: column;
     }
 
     & > * {
@@ -246,59 +244,43 @@ a:visited {
       border: 7px double var(--contentBorder);
     }
 
-    /* @media all and not ($desktop) { */
-    /*   padding: 0 1rem; */
-    /* } */
-    /* @media all and ($mobile) { */
-    /*   margin: 0 auto; */
-    /*   } */
-
     & .sidebar {
+      display: flex;
+
+      min-width: 350px;
+      width: 350px;
+
+      @media all and ($mobile) {
+        width: 100%;
+      }
+
       gap: 2rem;
-      margin: $topSpacing auto 0 auto;
       box-sizing: border-box;
       padding: 2rem;
-      display: flex;
-      height: 100vh;
+      /* height: 100vh; */
       position: sticky;
+
+      /* overflow: scroll; */
     }
 
     & .sidebar.left {
       z-index: 1;
-      grid-area: grid-sidebar-left;
       flex-direction: column;
       @media all and ($mobile) {
-        gap: 0;
+        gap: 12px;
         align-items: center;
         position: initial;
         display: flex;
         height: unset;
-        flex-direction: row;
-        padding: 0;
-        padding-top: 2rem;
+        flex-direction: column;
+        padding: 1.5rem 0;
       }
     }
 
     & .sidebar.right {
-      grid-area: grid-sidebar-right;
-      margin-right: 0;
       flex-direction: column;
-      @media all and ($mobile) {
-        margin-left: inherit;
-        margin-right: inherit;
-      }
-      @media all and not ($desktop) {
-        position: initial;
-        height: unset;
-        width: 100%;
-        flex-direction: row;
-        padding: 0;
-        & > * {
-          flex: 1;
-        }
-        & > .toc {
-          display: none;
-        }
+      @media all and ($tablet) {
+        display: none;
       }
     }
     & .page-footer {
@@ -306,53 +288,26 @@ a:visited {
     }
 
     & .page-header {
-      grid-area: grid-header;
-      /* margin: $topSpacing 0 0 0; */
       @media all and ($mobile) {
         margin-top: 0;
         padding: 0;
       }
     }
 
-    & .center > article {
-      grid-area: grid-center;
-    }
-
-    & footer {
-      grid-area: grid-footer;
-    }
-
-    & .center,
-    & footer {
+    & .center {
       padding: 1rem 2rem;
-      max-width: 100%;
-      min-width: 100%;
-      margin-left: auto;
-      margin-right: auto;
-      @media all and ($tablet) {
-        margin-right: 0;
-      }
-      @media all and ($mobile) {
-        margin-right: 0;
-        margin-left: 0;
-      }
-    }
-    & footer {
-      margin-left: 0;
+      max-width: 850px;
     }
   }
+}
 
-  & .center {
-    margin: $topSpacing auto 0 auto;
-    @media all and (max-width: $pageWidth) {
-      padding: 0.5rem 1.5rem;
-      margin-top: 2rem;
-    }
-  }
-
-  & footer {
-    margin-top: 1rem;
-  }
+footer {
+  margin: 0 auto;
+  margin-top: 1rem;
+  background-color: var(--contentBackground);
+  border: 7px double var(--contentBorder);
+  padding: 1rem 2rem;
+  max-width: 850px;
 }
 
 .footnotes {

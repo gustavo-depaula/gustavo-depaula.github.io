@@ -16,6 +16,7 @@ import Backlinks from "./Backlinks"
 import Search from "./Search"
 import Footer from "./Footer"
 import DesktopOnly from "./DesktopOnly"
+import TabletOnly from "./TabletOnly"
 import MobileOnly from "./MobileOnly"
 import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
@@ -40,6 +41,7 @@ export {
   Search,
   Footer,
   DesktopOnly,
+  TabletOnly,
   MobileOnly,
   RecentNotes,
   NotFound,
