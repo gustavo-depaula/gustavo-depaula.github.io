@@ -15,7 +15,6 @@ const observer = new IntersectionObserver((entries) => {
 })
 
 function toggleToc(this: HTMLElement) {
-  console.log("TOGGLE")
   this.classList.toggle("collapsed")
   this.setAttribute(
     "aria-expanded",
@@ -23,22 +22,17 @@ function toggleToc(this: HTMLElement) {
   )
   const content = this.nextElementSibling as HTMLElement | undefined
   if (!content) return
-  console.log("CONTENT", content)
   content.classList.toggle("collapsed")
 }
 
 function setupToc() {
   const toc = document.getElementById("toc")
   if (toc) {
-    console.log("HAS TOC")
     const collapsed = toc.classList.contains("collapsed")
     const content = toc.nextElementSibling as HTMLElement | undefined
     if (!content) return
-    console.log("HAS CONTENT")
     toc.addEventListener("click", toggleToc)
     window.addCleanup(() => toc.removeEventListener("click", toggleToc))
-  } else {
-    console.log("NO TOC")
   }
 }
 

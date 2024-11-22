@@ -3,15 +3,15 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 export default ((component?: QuartzComponent) => {
   if (component) {
     const Component = component
-    const DesktopOnly: QuartzComponent = (props: QuartzComponentProps) => {
+    const TabletOnly: QuartzComponent = (props: QuartzComponentProps) => {
       return <Component displayClass="tablet-only" {...props} />
     }
 
-    DesktopOnly.displayName = component.displayName
-    DesktopOnly.afterDOMLoaded = component?.afterDOMLoaded
-    DesktopOnly.beforeDOMLoaded = component?.beforeDOMLoaded
-    DesktopOnly.css = component?.css
-    return DesktopOnly
+    TabletOnly.displayName = component.displayName
+    TabletOnly.afterDOMLoaded = component?.afterDOMLoaded
+    TabletOnly.beforeDOMLoaded = component?.beforeDOMLoaded
+    TabletOnly.css = component?.css
+    return TabletOnly
   } else {
     return () => <></>
   }
