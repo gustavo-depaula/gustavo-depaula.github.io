@@ -1,3 +1,19 @@
+# 26/11/2024 - Lucas 20:1-18
+***“Todo aquele que cair sobre aquela pedra será quebrado e, sobre quem ela cair, será esmagado”***
+
+Na parábola dos vinhateiros, um homem planta uma vinha e arrenda-a para viajar. Em certo momento, o homem envia servos para colher frutos de sua vinha. Mas os vinhateiros recusam-se a dar ao dono os frutos e batem nos servos que o dono envia. Ultimamente, o dono envia o seu filho, ao qual os vinhateiros matam para roubarem-lhe a herança.
+
+Esta parábola e suas figuras representam simultaneamente vários significados. Um deles é o da graça e do pecado. A vinha é o dom da vida e as graças ofertadas por Deus a nós. Nós, sendo meras criaturas contingentes, não somos capazes de existir por nossa própria força. Mas Deus todo-poderoso e amoroso concede-nos o dom da existência.
+
+O pecado, portanto, é feito de duas partes observadas na parábola. A primeira é a recusa de fazer o que é certo, caracterizado pela desobediência dos vinhateiros, de devolver aquilo que é de direito do dono. E a segunda é a rejeição ativa da conexão com o próprio Deus, através de sua palavra, caracterizada pelos servos e o que acontece com eles.
+
+Deus envia ao longo de nossa vida repetidas vezes graças e misericórdia que podemos aceitar ou não. Os três servos representam esses dons que são enviados a todos, que são suficientes para a salvação de cada indivíduo, mas, em última instância, nós, os vinhateiros, precisamos decidir o que faremos com os servos e com o herdeiro da vinha. Caso aceitamos a mensagem que nos é comunicada, continuaremos a ter os dons e a vida eternamente. Caso não, perderemos os dons que nos foram dados.
+
+Essa parábola é muito boa em demonstrar também a realidade do céu e do inferno. A alma que pena no inferno é como os vinhateiros que brutalizam os servos e matam os herdeiros: não há vontade alguma de estar perto do dono da vinha. A alma no inferno tomou a decisão de que não quer estar perto de Deus. Nosso Senhor humildemente respeita a livre decisão dela de querer ficar longe. Por fim, Nosso Senhor é a pedra angular, desprezada por tantos. O pecado em vida quebra, o pecador que morre sem arrependimento é esmagado pela pedra angular.
+
+Tenho pensado em quão difícil é a confissão. Especialmente para faltas que se repetem. Creio que há de ser difícil mesmo. Somos forçados a examinarmos-nos internamente e ver a situação quebrada que nossa alma se encontra, o quanto desgraçadamente jogamos no lixo as graças dadas a nós. E que nós nunca poderíamos realizar nada que tem mérito o suficiente para pagar o peso de nossos crimes.
+
+A parábola também nos alerta para o pecado da presunção. É grave assumirmos que podemos só nos arrepender depois de cometer pecados. É um abuso contra a misericórdia divina e também corremos o risco de endurecer o nosso coração a um ponto que rejeitaremos A chance de nossa salvação.
 # 21/11/2024 - Lucas 19:29-48
 ***“Por que soltais vós esse jumentinho?” “Porque o Senhor tem necessidade dele.”***
 
