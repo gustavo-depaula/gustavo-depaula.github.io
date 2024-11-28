@@ -1,4 +1,12 @@
-# 26/11/2024 - Lucas 20:1-18
+# 27/11/2024 - Lucas 20-27-47
+***“Guardai-vos dos escribas”***
+
+Pois os escribas eram homens de grande conhecimento das escrituras, mas de pouco exercício das virtudes. Eles usavam seu conhecimento vanglória pessoal e exploração dos mais necessitados como as viúvas.
+
+Que isto sirva de lição para mim que tenho interesse em estudar a palavra, na teologia, filosofia e na apologética. Falar com Deus é mais importante do que falar de Deus. E também sirva para ressaltar a importância da humildade, que é a virtude pilar para podermos usar nossos dons com reta intenção.
+
+Criarei o hábito de sempre rezar antes e depois do estudos. Procurarei um exame de consciência que tenha foco na humildade. Procurarei visitar alguma instituição de caridade, que eu apoie ou não.
+# 26/11/2024 - Lucas 20:1-26
 ***“Todo aquele que cair sobre aquela pedra será quebrado e, sobre quem ela cair, será esmagado”***
 
 Na parábola dos vinhateiros, um homem planta uma vinha e arrenda-a para viajar. Em certo momento, o homem envia servos para colher frutos de sua vinha. Mas os vinhateiros recusam-se a dar ao dono os frutos e batem nos servos que o dono envia. Ultimamente, o dono envia o seu filho, ao qual os vinhateiros matam para roubarem-lhe a herança.
