@@ -1,3 +1,23 @@
+# 02/12/2024 - Lucas 21:1-38
+***“Velai sobre vós mesmos, para que os vossos corações não se tornem pesados com o excesso do comer, coma embriaguez e com as preocupações da vida”***
+
+Os discursos escatológicos (relativos às coisas finais) naturalmente nos colocam a meditar sobe o nosso futuro pós-morte. Em conversas com amigos não-crentes, é comum haver questionamentos da seguinte linha: *“Não seria melhor se converter ao final da vida? Deste jeito você vive os prazeres do mundo e depois se confessa e vai para o céu.”*. O que tem de errado com este pensamento?
+
+O motivo mais óbvio de porque esse pensamento está errado é uma questão simples e prática: você não sabe quando irá morrer. O próprio Cristo nos diz para vigiar e orar, pois não sabemos quando chegará o nosso tempo, portanto, é melhor estarmos preparados para nos *“apresentar de pé diante do Filho do Homem”*.
+
+A confissão é uma declaração que você está arrependido. Não basta dizer que você está arrependido, você precisa *estar* arrependido. E assumir que você pode cometer um pecado pois será perdoado, sem um arrependimento sincero, é o pecado da presunção. É um abuso da misericórdia divina, e um endurecimento do coração do pecador que o comete, pois se torna confortável em ofender a Deus. Portanto, cometer pecados junto com a presunção arrisca que você mate os dons da fé que você tem, impedindo um futuro sincero arrependimento que te permitiria gozar do sacramento da confissão.
+
+A felicidade que se encontra no céu é a presença de Deus. Se aqui na terra você odeia a Deus, não suporta estar em Sua presença através da Igreja e da Liturgia, e escolhe não ter uma relação pessoa com Ele, porque gostaria de passar a eternidade face a face com Ele?
+
+Penso numa analogia da fé e a eternidade com os hábitos de saúde: se não desenvolvermos os bons hábitos de alimentação e exercício, nunca apreciaremos os benefícios da vida saudável. Nunca apreciaremos viver uma vida de exercícios físicos diários e de uma boa alimentação, e odiaríamos estar cercado desse assunto. E, ao mesmo tempo, sofreremos as consequências negativas da nossa própria escolha.
+
+Por último, perde totalmente o ponto da religião. Religião, do latin *religare*, vem dessa vontade de nos religar com o Nosso Criador. É sobre amá-lo como Ele nos ama, pois Ele nos criou para que pudéssemos compartilhar de Sua amorosa existência. E essa é uma realidade que já se encontra aqui na terra. Deus existe, está presente aqui, nos vê, nos ouve e quer ter essa relação pessoal e íntima conosco.
+
+Por isso é tão importante descobrirmos essa realidade o mais cedo possível. A religião, tão desprezada nos tempos modernos, é a coisa mais importante na vida de cada um de nós. O agnosticismo que não se importa em chegar a uma conclusão sobre a maior questão de nossas vidas é talvez a maior doença espiritual do nosso século.
+
+E se eu chego a conclusão que Deus existe e me ama, porque eu gostaria de quebrar essa relação com Ele, através do pecado? Considere um marido que trai a esposa pois sabe que ela, com muita dor no peito, o perdoará. Não se pode dizer que isso é um ato de amor. Do mesmo modo, mesmo que se soubesse a data da morte, que se soubesse que seria perdoado, e de que o coração não endureceria, a resposta é não, não quero viver os prazeres do mundo se isso significa que estou rompendo essa relação de amor.
+
+E sim, o cristão tem que fazer renúncias em sua vida. Renúncias que são absurdos para os que não tem fé. Mas toda relação, seja de amizade, familiar ou romântica requer renúncias e. sacrifícios. Nossa esperança reside no maior sacrifício, que o próprio Deus incarnado, nos ofereceu de livre vontade para nos salvar. O cristão não deve ter medo das renúncias, pois escolhemos um bem muito maior. Também não deve ter medo dos sacrifícios, pois carregar a nossa cruz purifica nossa alma, constrói virtudes e destrói os vícios e desejos desordenados.
 # 27/11/2024 - Lucas 20-27-47
 ***“Guardai-vos dos escribas”***
 
