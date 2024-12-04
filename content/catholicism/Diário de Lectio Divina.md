@@ -1,3 +1,29 @@
+# 04/12/2024 - Lucas 22:1-23
+***”Isto é o meu corpo, que é dado por vós“ “Este cálice é a nova Aliança em meu sangue, que é derramado por vós”***
+
+Hoje, no mundo inteiro, há uma crise de catequese entre os católicos sobre o que é a Missa. Entre os católicos de berço, que constituem a maior parte dos “não-praticantes”, o conhecimento da presença real de Cristo na Eucaristia é lamentável. Segundo uma pesquisa nos Estados Unidos conduzida pela Pew Research, [apenas um terço dos católicos acreditam que a Eucaristia é o real corpo e sangue de Cristo.](https://www.pewresearch.org/short-reads/2019/08/05/transubstantiation-eucharist-u-s-catholics/) No Brasil, deve ser o mesmo ou pior.
+
+Mas mesmo entre aqueles que sabem e concordam com a presença real, poucos conhecem um conceito essencial que é o Sacrifício da Missa. Em síntese, esse conceito diz que toda Santa Missa é uma reapresentação a Deus do sacrifício da cruz. Como pode ser isso?
+
+**O que é um sacrifício?** O sacrifício é a forma mais pura de adoração a Deus, onde algo material é destruído para demonstrar o domínio absoluto de Deus sobre todas as coisas. Um sacrifício possui um ofertante e uma vítima. A vítima passa pela imolação, o ato de destruir a vítima no sacrifício, e a oblação, o oferecimento da vítima a Deus como ato de adoração.
+
+Para relembrar a saída do Egito, os judeus comemoravam a Páscoa, onde um cordeiro era sacrificado no templo de Jerusalem. O sacerdote era o ofertante e o cordeiro a vítima. A imolação é todo o procedimento descrito no pentateuco e envolvia o corte do pescoço, o deixar sangrar sobre o altar e depois a preparação do corpo do cordeiro, assando-o sobre o fogo. A oblação era o oferecimento daquele sacrifício a Deus como ação de graças pela libertação do povo. Depois, ainda como parte do ritual de sacrifício, as famílias levam o cordeiro para casa, e o comiam em comunhão, como participação naquele sacrifício.
+
+A páscoa era um memorial, mas no contexto judaico, um memorial (*zikkarion*) não é apenas uma lembrança, mas sim um ritual que torna presente um evento passado. O memorial une as gerações futuras com o ato histórico da libertação dos judeus, refletindo a crença que as ações libertadoras de Deus transcendem o tempo, e envolvem diretamente essas gerações que não existiam ainda. ***“Não apenas o Santo, bendito seja Ele, redimiu nossos antepassados, mas também nos redimiu com eles.”***, diz o Haggadah, um dos textos litúrgicos usados pelos judeus na Páscoa.
+
+A instituição da eucaristia que acontece em São Lucas 22 é de suma importância para entender o sacrifício na cruz, pois é na Última Ceia que Cristo oferece-se como vítima, sendo Ele tanto ofertante (Cristo Sacerdote) quanto vítima (Cristo, o Cordeiro Pascoal). É pela instituição da Eucaristia que a crucificação de Cristo nos é revelada como um sacrifício, e não apenas uma execução injusta. **O calvário completa e consuma o sacrifício ofertado na Santa Ceia.** 
+
+A Santa Missa não repete ou recria o sacrifício de Cristo, ela *reapresenta* de forma não sangrenta. A Missa é o mesmo sacrifício da cruz pois é o mesmo sacerdote (Cristo) e a mesma vítima oferecida (Cristo) que oferecem o sacrifício a Deus. E ela é um memorial (*“fazei isto em memória de mim”*) no sentido de tornar presente a realidade do sacrifício de Cristo para nós, pois nós nos unimos hoje, dois milênios após o fato histórico, ao sacrifício da Cruz, e aquele evento nos envolve diretamente, perdoa nossos pecados e nos comunica graça.
+
+Que Cristo é a vítima oferecida é mais fácil de entender, mas como assim Cristo é o sacerdote e ofertante da Missa? O padre quando consagra as hóstias não o faz pela sua própria autoridade, mas fa-lo como instrumento de Cristo. Nós dizemos que ele age *in persona Christi* durante os sacramentos. Pois Cristo é O e único Sumo Sacerdote (Hebreus 7:24-27) e trabalha através dos padres como um instrumento visível. E é por isso que as mesmas palavras de Cristo durante a Santa Ceia são as palavras usadas na Missa.
+
+Uma analogia seria como um rei que envia um diplomata para outro reino com presentes e uma carta com as exatas palavras que o diplomata tem que dizer. Neste exemplo, não há contradição em dizer que é o rei que comunica aquelas palavras e oferta aqueles presentes ao outro.
+
+E a ressurreição é essencial pois é através dela que Cristo hoje está vivo e tem um corpo glorificado. Sem a ressurreição, não haveria Cristo vivo para estar realmente e substancialmente presente na Eucaristia sob as aparências pão e vinho. E pela instituição da Eucaristia por Nosso Senhor, nós ganhamos este grande presente que é o Santíssimo Sacramento.
+
+E fechando círculo, nós, os fiéis, participamos do oferecimento deste sacrifício para a remissão de nossos pecados pela comunhão do corpo de Cristo, que é o nosso cordeiro pascoal, o *cordeiro de Deus que tira o pecado do mundo*. Perceba que as ações não são dissimilares ao ritual da Páscoa judaica, pois o Páscoa e os sacrifícios do antigo testamento foram uma prefiguração do novo.
+
+Religião sem sacrifício é basicamente uma invenção moderna. Todas as religiões ofereciam sacrifícios para divindades pois o sacrifício é a forma pura de adoração, é a demonstração pura que aquela divindade é soberana. Por isso não é oferecido sacrifícios para os Santos, nem mesmo a Santa Maria, uma vez que apenas Deus é soberano. E essa é a grande barreira que difere a veneração dos Santos para a adoração, que só é devida a Deus. Por isso quando os protestantes acabam com os sacrifícios, eles acabam com a real adoração. E sem real adoração, eles se tornam incapazes de venerar os Santos, pois venerar através da oração, é a única coisa que eles tem para ofertar a Deus.
 # 02/12/2024 - Lucas 21:1-38
 ***“Velai sobre vós mesmos, para que os vossos corações não se tornem pesados com o excesso do comer, coma embriaguez e com as preocupações da vida”***
 
