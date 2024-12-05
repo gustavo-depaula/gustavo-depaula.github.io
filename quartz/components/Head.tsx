@@ -38,7 +38,7 @@ const extension = "webp"
 
 const defaultOptions: SocialImageOptions = {
   colorScheme: "lightMode",
-  width: 1200,
+  width: 630,
   height: 630,
   imageStructure: defaultImage,
   excludeRoot: false,
@@ -186,6 +186,8 @@ export default (() => {
           </>
         )}
         <meta property="og:image:url" content={ogImagePath} />
+        <meta property="og:image:width" content="300" />
+        <meta property="og:image:height" content="300" />
         {cfg.baseUrl && (
           <>
             <meta name="twitter:image" content={ogImagePath} />

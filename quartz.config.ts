@@ -24,7 +24,7 @@ const config: QuartzConfig = {
       username: "gustavo-depaula",
     },
     theme: {
-      fontOrigin: "googleFonts",
+      fontOrigin: "local",
       cdnCaching: true,
       typography: {
         header: "Heal",
