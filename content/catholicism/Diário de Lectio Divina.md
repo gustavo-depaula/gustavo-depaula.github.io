@@ -1,3 +1,11 @@
+# 05/12/2024 - Lucas 22:24-46
+***“ajoelhando-se, orava: Pai, se é de teu agrado, afasta de mim este cálice! Não se faça, todavia, a minha vontade, mas sim a tua”***
+
+Senhor, eu agradeço o seu santo sacrifício, onde você entregou a sua vida para que eu possa viver. Você decidiu tornar-se humano para me salvar. Você continua a me amar mesmo nos meus defeitos e nas misérias de minha infidelidade que são meus pecados. Eu não sou digno, mas Você transborda o seu amor em mim.
+
+Você sofreu toda essa agonia em antecipação, como eu também sofro. E ao orar, o Pai te consolou e te deu forças para continuar, como Ele também faz comigo. Ó Senhor, eu agradeço todas as vezes que Você também me consola quando eu estou machucado, sofrendo e desesperado.
+
+Eu quero ter uma fé em Ti como a de Jó, que, ao perder tudo, voltou-se para Ti, depositando toda sua confiança. Para isso, eu seguirei, Senhor, a sua fala aos apóstolos: eu levantarei e orarei, para não cair em tentação. E pedirei consolação e forças para prosseguir em todas as dificuldades que encontrar.  
 # 04/12/2024 - Lucas 22:1-23
 ***”Isto é o meu corpo, que é dado por vós“ “Este cálice é a nova Aliança em meu sangue, que é derramado por vós”***
 
