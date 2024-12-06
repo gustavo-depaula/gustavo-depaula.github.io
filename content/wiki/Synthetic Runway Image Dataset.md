@@ -32,13 +32,13 @@ The paper **Runway Detection and Localization in Aerial Images Using Deep Learni
 
 A hard problem in building a dataset in general is evaluating the quality of this dataset. Ideally, the best way would be to train a runway detection and segmentation model on this new dataset and evaluating the performance of this dataset. Because of time constraints, this won't be covered in this paper. But training a simple model to detect if there's a runway in the image can be a helpful proxy to the quality of the dataset.
 # References
-\[1] - https://arxiv.org/pdf/2304.09938
-\[2] - https://www.researchgate.net/publication/379082680_An_image-based_runway_detection_method_for_fixed-wing_aircraft_based_on_deep_neural_network
-\[3] - https://arxiv.org/abs/2210.12922
-\[4] - https://www.mdpi.com/2072-4292/16/12/2161
-\[5] - https://ieeexplore.ieee.org/document/8945889
+\[1] - https://arxiv.org/pdf/2304.09938  
+\[2] - https://www.researchgate.net/publication/379082680_An_image-based_runway_detection_method_for_fixed-wing_aircraft_based_on_deep_neural_network  
+\[3] - https://arxiv.org/abs/2210.12922  
+\[4] - https://www.mdpi.com/2072-4292/16/12/2161  
+\[5] - https://ieeexplore.ieee.org/document/8945889  
 
-
+\[6] - https://arxiv.org/abs/2404.07771  
 
 
 ## Stable Diffusion
