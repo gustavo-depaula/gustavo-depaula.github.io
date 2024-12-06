@@ -1,3 +1,29 @@
+# 06/12/2024 - Lucas 22:47-71
+***“Também tu és um deles. Pedro respondeu: Não, eu não sou”***
+
+São Pedro, a pedra em que Cristo contrói sua Igreja, nega sua fé. Nega a Cristo, pecando gravemente contra o primeiro mandamento. Ele não tinha a intenção de pecar contra Nosso Senhor, a quem ele intimamente conhecia. Não era um problema de “falta de argumentos intelectuais” para convencê-lo que Jesus era o Cristo. Ele teve a experiência de caminhar com o Senhor e ver sua vida transformada com aquele contato. Ele teve medo, assim como nós também temos. E naquele momento, ele deixou seu medo ser maior do que sua confiança em Deus.
+
+É muito bonito ler as histórias do Santos. É inspirador ver que eles eram pessoas como nós. E que nós também podemos responder ao chamado universal a santidade que Nosso Senhor nos faz, apesar de nossos defeitos e misérias.
+
+**O Santo não é aquele que pouco peca, mas sim aquele que muito aceita a misericórdia e o amor Divinos e, bem os recebendo em seu coração, permite a transformação pela Graça.** *(eu que pensei nessa frase, gostei bastante dela)*
+
+***”Voltando-se o Senhor, olhou para Pedro.”***
+
+O Senhor já sabia que isto aconteceria, mas ele *olha* para Pedro. Aquele olhar misericordioso e amoroso que está pronto para recebê-lo de volta. Que o **quer** de volta, assim como o pai corre em direção ao filho pródigo. 
+
+É com este mesmo olhar que o Senhor nos chama ao longo de nossa vida, múltiplas vezes. É um olhar sublime, um convite suave. E vem de diferentes formas: um afeto, uma inspiração,  uma conversa, uma pessoa, uma vontade de experimentar, um impulso que não sabemos muito explicar…
+
+São olhares difíceis de reconhecer com nossa visão embaçada pelo pecado, e que depois se tornam claros a luz da fé. Mas mesmo sem a totalidade da fé, podemos meditar em nosso coração aquele momento, identificá-lo, e responder do nosso jeito, dentro do nosso coração. E esse pequeno passo, defeituoso e incompleto, ajudará a abrir o nosso coração.
+
+Pois nosso coração é duro. Temos dificuldade em aceitar que podemos ser perdoados e que alguém quer nos amar. Somos traumatizados dos erros que cometemos e das faltas cometidas contra nós. Somos indignos de sermos perdoados, pois nossas faltas causam danos irreparáveis a quem está do nosso lado, a quem nós mais profundamente amamos. Mas o amor supera o que é digno e justo e ele junto com a misericórdia, que sempre o acompanha, nos liberta.
+
+***“Então Pedro se lembrou da palavra do Senhor: \[…]. Saiu dali e chorou amargamente.”***
+
+São Pedro então é inundado pelo amor de Cristo no seu mais profundo interior, e como uma pessoa que percebe a falta contra o outro que ele ama, ele se entristece. E Nosso Senhor, em sua infinita bondade, dá a Pedro seu amor e misericórdia, a quem Ele sempre entrega para quem os quer receber. O arrependimento dói, mas é nele que surgem as lágrimas que nos lavam de nossas faltas, e que nos permite entregar nosso coração.
+
+Do que você tem medo?  
+O que te faz rejeitar o amor e o perdão?  
+Por que fecha os olhos frente ao olhar de Cristo que transformará o seu coração?  
 # 05/12/2024 - Lucas 22:24-46
 ***“ajoelhando-se, orava: Pai, se é de teu agrado, afasta de mim este cálice! Não se faça, todavia, a minha vontade, mas sim a tua”***
 
