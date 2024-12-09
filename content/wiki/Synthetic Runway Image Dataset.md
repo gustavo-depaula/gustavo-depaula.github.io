@@ -61,6 +61,7 @@ The emergence of diffusion models for image generation creates a golden opportun
 
 To evaluate the hypothesis, a Python project using the [_Diffusers_](https://huggingface.co/docs/diffusers/en/index) library will be written. The first part of the project will evaluate what main techniques can be used to generate suitable images: Unconditional image generation, text-to-image generation and image-to-image generation.
 
+Secondary to the issue of image generation is the question if diffusion models are able to generate diverse, specific and complex scenarios, such as scenes that vary in relation to runway orientation, weather conditions (e.g., fog, rain, snow), lighting (e.g., dusk, dawn, night, heavy overcast), and background scenery (e.g., airport buildings, natural terrain, distant cityscapes),
 ##### Unconditional image generation
 
 Unconditional image generation is a good starting point because it allows generation of images that look like those in the training dataset in a simple manner. In the context of generating runway images, we can train models using two approaches:
@@ -91,38 +92,76 @@ Image-to-image generation is similar to text-to-image, but in addition to passin
 1. **ControlNet**: provides structural guidance to shape the generation of an image. It can be a pose skeleton or segmentation masks, for example, that will have their information retained and use to guide de de-noising process. ControlNet can be used to generate images in a way where the specific position of the runway is determined beforehand.
 2. **Inpainting**: Inpainting modifies an existing image. It takes a mask that shows where the model should change the image. The model then tries to generate the content in the masked out area consistent with the surrounding pixels and the given prompt. It can be used to transform a scenery image into a runway image.
 
-Another technique that could be further developed in following projects would be to use image-to-image generation to extend existing datasets. For example, the LARD datasets doesn't have different weather conditions for the images. Thus, we could use image-to-image generation to add different weather conditions (e.g., fog, rain, snow).
-
 And because image-to-image also uses text-to-image, there's the possibility to use techniques such as Prompt weighting, textual inversion and DreamBooth alongside ControlNet and Inpainting for better performance.
 
-Inpainting
-
-Add runways to scenery image
-
-Customize image with runway
-
-- What techniques that use diffusion models are able to generate suitable images? Techniques to evaluate:
-  - Unconditional image generation
-  - Text-to-Image generation
-- Can diffusion models generate diverse, specific and complex scenarios? Such as scenes that vary in
-  - Runway orientation
-  - Weather conditions (e.g., fog, rain, snow)
-  - Lighting (e.g., dusk, dawn, night, heavy overcast)
-  - Background scenery (e.g., airport buildings, natural terrain, distant cityscapes)
-- Can image-to-image generation using diffusion models be used to improve existing datasets by creating variations on the images tweaking weather conditions and lighting?
-
-- ~~Explain the domain and users of the project. Who is the project for? What is the domain of the project (e.g. music game, history education, therapy for phobias, narrative films)?~~
-- Justify your design choices based on the needs of users/the requirements of the domain
-- The overall structure of the project (this could be the architecture of a software project, the story of a VR project, the visual interface of a mobile app or the research question and methods of a data science project)
-- Identification of the most important technologies and methods you will be using in the project
+Another technique that could be further developed in another project would be to use image-to-image generation to extend existing datasets. For example, the LARD datasets doesn't have different weather conditions for the images. Thus, we could use image-to-image generation to add different weather conditions (e.g., fog, rain, snow).
 
 ## Evaluation
 
-- A plan for how you will test and evaluate your project.
+The evaluation of the synthetic runway image dataset will be both qualitative and quantitative, focusing on the key characteristics defined in the report: realism, detectability by existing models, data diversity, and potential to improve model performance.
+
+**Human-Judged Realism**:
+1. **Approach**: Conduct a small-scale human evaluation. Recruit a few peers to rate the realism of a random sample of generated images compared to a sample of images from established datasets (e.g., LARD or BARS).
+2. **Metrics:** Rate images on a Likert scale (1–5) for realism.
+3. **Feasibility:** Small-scale user study with at least 5 evaluators, each rating at least 20 images.
+
+**Detection by Existing Models**:
+1. **Approach**: Take a pre-trained runway detection model (e.g., a model pre-trained on LARD or a simple ResNet50 classifier) and test it on a subset of the synthetic dataset.
+2. **Metrics**: Accuracy, Precision, Recall, and F1-score for runway detection on the synthetic images.
+3. **Feasibility**: This could be done by fine-tuning a lightweight classifier if no pre-trained model is readily available.
+
+**Data Diversity**
+1. **Approach:** Qualitatively check scenarios: generate images under different conditions (weather, lighting, background) and visually inspect variety.
+2. **Metrics**: Define a small taxonomy of conditions to be covered such as weather (Clear, Fog, Rain, Snow), lighting (Day, Dusk/Dawn, Night), and background (Urban, Rural, Coastal, Mountainous) and report the number of images in each category.
+
+If time permits, there could be a quantitative metric:
+1. **Approach:** Use embedding-based diversity metrics (e.g., CLIP embeddings) to measure intra-dataset variability.
+2. **Metrics**: Calculate mean pairwise similarity between image embeddings; lower similarity implies greater diversity.
+
+
+**Model Performance Improvement Potential**:
+1. **Approach**: (If time permits) Train or fine-tune a basic runway detection model using a combination of the synthetic data and a small set of real images. Compare performance against using only real images.
+2. **Metrics**: Improvement in test-set accuracy or segmentation metrics compared to baseline models trained exclusively on existing datasets.
+3. **Feasibility**: Due to time constraints, this may be done at a small scale.
 
 ## Project timeline
 
-- A plan of your work. This should include the major tasks and when you will do them laid out visually (for example in a Gantt chart)
+| Week | Start Date | Tasks                                                                                                    | Due Dates                      |
+| ---- | ---------- | -------------------------------------------------------------------------------------------------------- | ------------------------------ |
+| 1    | 13/10      | Choose project idea                                                                                      |                                |
+| 2    | 20/10      | Pitch rough project idea                                                                                 |                                |
+| 3    | 27/10      | Work on project proposal;<br>Study research ethics                                                       |                                |
+| 4    | 3/11       | Work on project proposal;<br>Study previous work                                                         |                                |
+| 5    | 10/11      | Start Literature Review                                                                                  | Project Proposal - 11/11       |
+| 6    | 17/11      | Finish Literature Review                                                                                 |                                |
+| 7    | 24/11      | Start working in project design                                                                          |                                |
+| 8    | 1/12       | Work on evaluation plan;<br>Finish project desing                                                        |                                |
+| 9    | 8/12       | Prototype on Unconditional Image Generation;<br>Start working on prototype;<br>Record video of prototype |                                |
+| 10   | 15/12      | Start working on text-to-image generation;<br>Prompt engineering and weighting;                          | Preliminary Report - 16/12     |
+| 11   | 22/12      | Recess                                                                                                   |                                |
+| 12   | 29/12      | Recess                                                                                                   |                                |
+| 13   | 5/1        | Work on text-to-image generation;<br>Textual Inversion;                                                  |                                |
+| 14   | 12/1       | Work on text-to-image generation;<br>DreamBooth;                                                         |                                |
+| 15   | 19/1       | Start working on evaluation;<br>Simple Runway classifier model                                           |                                |
+| 16   | 26/1       | Finish classifier model;<br>Start working on image-to-image model;<br>ControlNet                         | Draft Report - 27/01           |
+| 17   | 2/2        | Work on image-to-image model;<br>Inpainting                                                              |                                |
+| 18   | 9/2        | Start generating final dataset                                                                           |                                |
+| 19   | 16/2       | Generate final dataset                                                                                   |                                |
+| 20   | 23/2       | Evaluate final dataset                                                                                   |                                |
+| 21   | 2/3        | Recess                                                                                                   |                                |
+| 22   | 9/3        | Finish project report                                                                                    | Exam - 10/3                    |
+| 23   | 16/3       | Review final report                                                                                      |                                |
+| 24   | 23/3       |                                                                                                          | Final Report submission - 24/3 |
+
+# Implementation
+*This should describe the implementation of the project. This should follow the style of the topic 6 peer review (but greatly expanded to cover the entire implementation), describing the major algorithms/techniques used, explanation of the most important parts of the code and a visual representation of the results (e.g. screenshots or graphs).*
+
+# Evaluation
+*Describe the evaluation carried out (e.g. user studies or testing on data) and give the results. This should give a critical evaluation of the project as a whole making clear successes, failures, limitations and possible extensions.*
+# Conclusion
+*This can be a short summary of the project as a whole but it can also bring out any broader themes you would like to discuss or suggest further work.*
+
+
 
 # References
 
@@ -133,14 +172,9 @@ Customize image with runway
 \[5] - https://ieeexplore.ieee.org/document/8945889  
 \[6] - https://arxiv.org/abs/2209.00796
 
-\[6] - https://arxiv.org/abs/2404.07771
 
-## Stable Diffusion
 
-https://arxiv.org/abs/2112.10752
-https://arxiv.org/abs/2302.05543
-https://arxiv.org/abs/2307.01952
 
 tutorial / library: https://huggingface.co/docs/diffusers/en/index
 
-https://arxiv.org/abs/2209.00796
+
