@@ -13,6 +13,12 @@ How to engage an agnostic? Have a list of arguments memorized:
 - God is the best explanation for the historical facts concerning Jesus of Nazareth
 - God can be personally known and experienced
 
+What to do with people with no spiritual interest? Those who are apathetic/don't care about religious or spirituality:
+- Draw upon insights of atheistic existentialist writer themselves to show that if God doesn't exist life is ultimately absurd, no ultimate meaning, no ultimate value, and no ultimate purpose.
+- This view is filled with despair and impossible to live consistently with this worldview and be happy.
+- If the atheist lived according to their beliefs, they would be in despair with filled with depression.
+- If they are happy, is only because they do not carry out their beliefs to their logical conclusion.
+
 [Evidence for the Resurrection](https://www.youtube.com/watch?v=Z8lkuuhVkOI)
 
 The fundamental facts that support the resurrection of Jesus:
