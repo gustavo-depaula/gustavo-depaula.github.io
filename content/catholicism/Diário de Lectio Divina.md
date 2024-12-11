@@ -1,3 +1,11 @@
+# 10/12/2024 - Lucas 23:1-32
+***“Porque, se isto se faz no lenho verde, o que se fará no seco?”***
+
+Jesus se compara ao lenho verde, pois Ele possui a seiva da força divina, vivificante, e nos compara a madeira seca, porque temos senão nossa frágil humanidade. Eis então a transformação da vida santa: o Espírito Santo nos transforma de lenho seco em verde, ele nos dá a vida e nos santifica.
+
+E a mensagem de Cristo não é acabar com o sofrimento. A vida santa também tem sofrimento, mas somos chamados a carregar nossa Cruz. Deus não falhará em sua promessa e sempre nos dará a força necessária para lidarmos com os sofrimentos quando eles acontecerem.
+
+O Espírito Santo, porém, nos liberta do sofrimento espiritual, aquele que é assolado pela ansiedade, ressentimento e rancor que nos corrompem por dentro. O Espírito nos alivia e nos tira das prisões deste mundo que nós nos auto-impomos. Ele traz a paz, resolve as contradições e ilumina nosso caminho. Ele coloca tudo onde deve ir e nos guia para a real felicidade que é compartilhar do amor e do amar de Deus.
 # 06/12/2024 - Lucas 22:47-71
 ***“Também tu és um deles. Pedro respondeu: Não, eu não sou”***
 
