@@ -1,3 +1,30 @@
+# 11/12/2024 - Lucas 23:33-56
+***“ali o crucificaram”***
+
+Por que Cristo precisou morrer? Eusébio elenca os seguintes motivos:
+1. Provar que sua humanidade e seu corpo eram reais e não apenas uma ilusão.
+	1. A morte prova a natureza humana de Cristo.
+2. Dar a conhecer a sua natureza divina.
+	1. Era comum deificar homens que morriam cercados de glória, nomeando-os heróis ou deuses.
+	2. Nosso Senhor nos ensina que só deve ser chamado de Deus verdadeiro aquele que morto, triunfa sobre a própria morte.
+3. Oferecer-se como vítima sacrificial por todo o gênero humano.
+	1. Para mim, essa parte é a mais difícil de entender: por que Deus escolheu redimir os nossos erros através de um sacrifício? (o seguinte também é parte de minha pesquisa e não o que Eusébio disse)
+	2. Deus não precisava de um sacrifício para perdoar a humanidade. Deus poderia ter perdoado a humanidade de qualquer forma que Ele quisesse, uma vez que ele é todo-poderoso. Quis fazer desta forma pois ela não contradiz a sua justiça perfeita, ao mesmo tempo que concilia a sua justiça perfeita com sua infinita misericórdia.
+	3. O homem por si só não poderia fazer nada para reparar essa ofensa de tamanho infinito que é o pecado. Deus-filho então se incarna para poder oferecer um sacrifício que tenha valor. Por ser verdadeiro homem, ele é capaz de fornecer um real sacrifício no sentido mais puro de destruir algo (no caso o seu corpo, a sua natureza humana) e oferecer a Deus. Por ser verdadeiro Deus, o sacrifício de Cristo tem valor infinito.
+	4. Através da morte de Cristo, Deus não apenas perdoa os pecados, mas o transforma. Ele entra no sofrimento causado pelo pecado e o redime, transformando o maior mal (a crucificação de Cristo) no maior bem (a salvação de todo o gênero humano).
+	5. A morte de Cristo não é sobre Deus “precisar” de algo de nós, e sim entregar-se para nós de uma forma profunda. Na Cruz, Jesus livremente oferece sua vida por amor, demonstrando a extensão da solidariedade divina conosco.
+	6. A morte de Cristo também é um ensinamento sobre a seriedade do pecado e o custo do amor. Mostra que o amor requer sacrifício e que uma real reconciliação requer confrontar as feridas e rachaduras que foram causadas e não ignorá-las.
+4. Fazer os discípulos testemunhas de sua ressurreição, reanimando a fé e a esperança.
+	1. E ao mesmo tempo, preparando-os para o apostolado sem temer a morte.
+
+***“Jesus dizia: ‘Pai, perdoa-lhes, porque não sabem o que fazem’”***
+
+Destila-se então, um dos principais ensinamentos do Cristianismo: o perdão. O Cristão demonstra ser verdadeiro seguidor de Cristo quando perdoa aquele que tenha feito um mal contra ele da mesma forma que ele é perdoado por Deus, quando pede perdão para ele e pelas pessoas que ele ama. Quando perdoamos um mal feito contra nós, carregamos nossa cruz como Simão Cirineu carregou a cruz atrás de Jesus.
+
+Meu Senhor, obrigado por carregar o preço da minha miséria por mim. Obrigado por iluminar minha vida com a fé para ser capaz de contemplar a verdade e os mistérios divinos. Ensina-me todo dia a perdoar, assim como peço perdão dos meus pecados diariamente.
+
+*Deus, in adiutorium meum intende. Domine, ad adiuvandum me festina.*
+
 # 10/12/2024 - Lucas 23:1-32
 ***“Porque, se isto se faz no lenho verde, o que se fará no seco?”***
 
