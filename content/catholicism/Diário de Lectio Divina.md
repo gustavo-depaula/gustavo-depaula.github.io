@@ -1,3 +1,11 @@
+# 12/12/2024 - Lucas 24:1-12
+***“Por que buscais entre os mortos aquele que está vivo?”***
+
+Sem a ressurreição, nossa fé e esperança é vã. Mas Ele verdadeiramente ressuscitou. Ele vive, e é porque Ele vive que nós podemos ter a experiência de estar com Ele como os seus discípulos tiveram. Nossa religião não é sobre seguir um conjunto de regras que um ”bom mestre” moral redigiu. É sobre confiar em Cristo que vive e nos acompanha. Que recebe nossos pedidos, que eu converso com Ele.
+
+Eu queria saber, Senhor. Como foi a sensação de ressuscitar? Eu agradeço tanto o sacrifício que Você fez por mim. Como é a sensação de ter um corpo glorificado? O que é um corpo glorificado? Como foi ir ao inferno e ver as almas que lá aguardavam? O que aconteceu com elas, Senhor? Todas elas saíram de lá? Como foi sair do sepulcro? O que foi a primeira coisa que Você pensou? Foi difícil rolar a pedra do sepulcro? Alguém te viu saindo de lá? Como foi enviar o anjo para falar com as mulheres?
+
+Compartilha comigo, Senhor. Compartilha tudo comigo, meu Deus. Eu quero compartilhar do seu amor. A minha cruz às vezes eu acho pesada demais, Jesus. Mas eu vou carregá-la. Mas você pode me ajudar? Eu quero conseguir carregá-la com um sorriso no rosto, um sorriso bem generoso. Porque no final eu sei que não é tão pesada assim, e que a única vítima da Cruz é Você. Eu te seguirei, Senhor. Obrigado por me iluminar com a luz da fé.
 # 11/12/2024 - Lucas 23:33-56
 ***“ali o crucificaram”***
 
