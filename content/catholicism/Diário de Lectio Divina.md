@@ -1,3 +1,26 @@
+# 12/12/2024 - Lucas 24:13-35
+***“Aproximou-se deles o próprio Jesus, e caminhou com eles. Os seus olhos, porém, estavam como que fechados, de modo que não o reconheceram.”***
+
+Pois bem que é assim a todos sem a luz da fé. Não coincidentemente, é no momento em que eles tem uma baixa esperança e que estão tristes que falham em reconhecer o Senhor. E também não é assim conosco? Cristo está caminhando sempre conosco, mas é tão difícil experimentar de Sua presença quando estamos em um estado de vida que nos fechamos para Ele. Nos fechamos para Ele quando faltamos no exercício das virtudes teologais: a fé, esperança e a caridade. São situações como:
+- Estar longe da Igreja, sem cultivar uma vida interior e uma vida de oração (conversar com Deus)
+- Passar por um sofrimento que nos abala a esperança 
+- Cultivar ou deixar levar-se pelo ódio, ressentimento e rancor pelo próximo 
+
+***“Em seguida, começando por Moisés, e discorrendo por todos os profetas, explicava-lhes o que dele se encontrava dito em todas as Escrituras.”***
+
+Toda a escritura é sobre Cristo. Não há Deus do Velho Testamento e um do Novo Testamento, não há “era da ira” e “era da graça”. Só há um Deus, que sempre nos ama e trabalha através de nossas misérias para nos salvar. O Novo encontra-se escondido no Velho, e o Velho realiza-se no Novo.
+
+***“Estando com eles à mesa, tomou o pão, o benzeu, partiu, e lho deu. Abriram-se os seus olhos, e reconheceram-no;”***
+
+Primeira reação: Uau, Jesus acabou de celebrar uma Missa. Com direito a liturgia da palavra (*discorrendo por todos os profetas*) com uma homilia (*explicava-lhes*), e também, claro, com uma liturgia eucarística.
+
+O reconhecimento dos apóstolos no partir do pão é um claro exemplo da presença real de Cristo na Eucaristia. *“eles contaram também o que lhes tinha acontecido no caminho, e como o tinham reconhecido ao partir o pão.”*. Reconheceram-no ao partir o pão pois Ele estava substancialmente presente ali, como ensina-nos a Mãe Igreja.
+
+Um segundo ponto importante é a realidade dos sacramentos: sinais visíveis, instituídos por Cristo, que comunicam graça eficazmente. A Palavra, por mais poderosa que ela seja, com o próprio Cristo como mestre explicando não foi o suficiente para que os olhos dos discípulos fossem abertos. Mas a Eucaristia comunicou a graça suficiente para eles.
+
+Por fim, Cristo demonstra os três pilares da Igreja: Sagradas Escrituras, Sagrada Tradição e o Sagrado Magistério. Usa as Escrituras como fonte de seus ensinamentos, exerce o Magistério dando a correta interpretação das Escrituras e comunica seus ensinamentos (tanto sobre a presença de Cristo nos profetas quanto a repetição da Eucaristia) através da Tradição.
+
+Aqueles discípulos que estavam com Jesus não serem capazes de compreender a presença de Nosso Senhor nas Escrituras e não serem capazes de reconhecê-lo até receberem o sacramento constituem um forte argumento contra as doutrinas protestantes da *Sola Scriptura* e da Perspicuidade das Escrituras.
 # 12/12/2024 - Lucas 24:1-12
 ***“Por que buscais entre os mortos aquele que está vivo?”***
 
