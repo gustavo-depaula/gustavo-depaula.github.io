@@ -29,3 +29,9 @@ O início da vida devota é a purificação da alma. A purificação da alma é 
 # Antes de tudo é necessário que a alma se purifique dos pecados mortais
 Faça uma confissão geral de toda a vida. Use um guia de exame de consciência e anote quais os pecados cometidos. Medite sobre os pecados para detestá-los e ter uma melhor contrição. Lembre que: *"pelo pecado perdeste a graça de Deus, abandonaste os teus direitos sobre o céu, mereceste as penas eternas do inferno e renunciaste a todo o amor de Deus"*
 # Em seguida é necessário purificar a alma de toda a afeição ao pecado
+Para a vida devota, é necessário não só uma contrição sincera e verdadeira, mas um ódio ao mal tremendo que o pecado traz as nossas vidas, de forma que rejeitemos as ocasiões de pecado. 
+
+A purificação do coração também é necessária para não nos tornamos aqueles fiéis que tratam a fé como um fardo pesado, ainda mantendo a vontade dos deleites do pecado.
+
+# Como alcançar este grau de pureza
+É preciso formar uma imagem e levá-la ao coração do mal imenso do pecado. Para isso, há uma série de meditações a serem feitas. Idealmente pela manhã.
