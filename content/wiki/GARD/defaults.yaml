@@ -1,0 +1,11 @@
+output-file: paper.pdf
+filters:
+  - citeproc
+toc: true
+bibliography: references.bib
+csl: acm.csl
+metadata:
+  title: "GARD - Gustavo's Awesome Runway Dataset - A Synthetic Runway Image Dataset built with Diffusion Models"
+  author: "Gustavo de Paula"
+  link-citations: true
+  documentclass: article
