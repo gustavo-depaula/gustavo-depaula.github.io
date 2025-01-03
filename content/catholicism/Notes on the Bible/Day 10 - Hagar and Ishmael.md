@@ -33,5 +33,20 @@ Moral sense:
 1. Job recognizes the omnipotence, wisdom and might of God.
 2. And because of that, he feels impotent, because although he knows he is innocent, how can one says that God is wrong?
 3. Therefore, he can only appeal to his mercy.
-4. Job feels that God is responsible for his suffering, but complaining is useless because there is no one above God to “judge” the cause.
-5. 
+4. Job feels that God is responsible for his suffering, but complaining is useless because there is no one above God to “judge” the cause. He also feels that God is responsible for the suffering and injustices of the world.
+
+Allegorical sense:
+1. Job 9:8 God lordship is shown by his might against the forces of nature, one of them, over the sea: *”trampled the waves of the sea”*. In Matthew, Jesus’ power over the sea culminate in the disciples realizing he was really the Son of God.
+2. Job 10:8-11 Reference to the creation of men by clay.
+
+Moral sense:
+1. God is not the source or cause of suffering, but he does *allow* us to suffer.
+2. In suffering, it’s hard to remember God’s justice and goodness.
+
+Difficult questions to answer later (TODO):
+1. 9:22-24. In view of the many genocidal events of the past century, how would you answer Job's question in v. 24?
+2. 10:2. When it seems that God will not give reasons for the bad things that “happen, what challenges to faith are likely to arise? How can a faithful Christian protect his faith at such a time?
+3. 10:18-22. People suffering from depression may think or speak as Job does here. If reason and persuasion do not lift their spirits, what kind of human interaction might? How would you encourage someone who is going through a "down" spell?
+
+**Commentary on Proverbs 2:6-8:**
+1. God protects the faithful, and gives them salvation.
