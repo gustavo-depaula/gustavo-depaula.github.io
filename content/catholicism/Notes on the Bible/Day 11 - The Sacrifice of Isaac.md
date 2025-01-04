@@ -24,7 +24,9 @@ Sarah dies, and Abraham buys a plot of land to bury her from the Hittites, the d
 
 # Commentary on Job 11-12
 
+Another friend of Job speaks this time, Zophar. Zophar delivers a harsh speech, accusing Job of "babbling" and "mockery". Zophar emphasizes God's limitless might and wisdom, and that not even the scale of creation can be compared to the scale of God's "limits". Zophar doesn't believe Job is blameless and says that God asks of him less than he truly deserves. If Job repents ("set your heart alright"), there will be hope and this all will pass.
 
+Job answers with frustration and sarcasm (Job 12:2). He feels unheard, as his friends treat his claims of innocence as ignorance of wisdom, but he is trained in wisdom just as they are and understand that God is almighty over all creation.
 # Commentary on Proverbs 2:9-15
 
 Seeking knowledge is good, as the wisdom acquired gives you discretion and understanding to walk in the right path.
