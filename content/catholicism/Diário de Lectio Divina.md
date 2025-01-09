@@ -1,3 +1,11 @@
+# 08/01/2025 - São Marcos 6:45-52
+***“Ele viu os discípulos cansados de remar” “Coragem, sou eu! Não tenhais medo!”***
+
+Meu Senhor, acabo de trabalhar por mais de 24 horas seguidas. Você sabe que eu não planejava isso, estou exausto, cansado, quebrou toda minha rotina. A pressão era enorme também, espero que os esforços não tenham sido em vão, que o cliente não nos demita. E no final, não terminou como esperava. Tentamos de tudo. Creio que nunca me esforcei tanto e ainda deu errado.
+
+Mas não me desesperei. Eu aceitei a cruz que foi me enviada, sem reclamar. Eu agradeço pelo meu trabalho, Pai. Não fiz pelas minhas próprias mãos, mas dependendo de Ti, que estava ao meu lado por toda a noite e madrugada, e eu em resposta orei continuamente.
+
+O Senhor dá, o Senhor tira, o Senhor nos muda e o Senhor nos sustenta. Louvado seja o nome do Nosso Senhor.
 # 12/12/2024 - Lucas 24:13-35
 ***“Aproximou-se deles o próprio Jesus, e caminhou com eles. Os seus olhos, porém, estavam como que fechados, de modo que não o reconheceram.”***
 
