@@ -23,9 +23,8 @@ The levirate custom (the brother-in-law marriage) was not a capital offense in t
 
 Since God slew Onan for his offense, it makes much more sense that Onan’s sin was also a sexual transgression, on par with sexual sins that have the death penalty in biblical law.
 
-Onanism is the sin of separating the unitive and procreative ends of the marital act, covering contraception and maturbation.
+Onanism is the sin of separating the unitive and procreative ends of the marital act, covering contraception and masturbation.
 # Commentary on Job 29–30
-
-
+In chapter 29, Job reflects on his past days, when things were better, “when God was with him”. And how he was righteous and wise, and generous with those who needed help. But now, there is only suffering, and all the poor and necessitated now disdain him because of his situation.
 # Commentary on Proverbs 3:28-32
 Treat well your neighbors, don’t cause trouble for no reason. Don’t envy perverse men.
