@@ -8,10 +8,11 @@ Joseph stages this theft to test their brother's love for Benjamin, bringing his
 **Allegorical sense:**
 Benjamin is served five times more bread than the other brothers. In John, the multiplication of bread occurs over 5 pieces of bread and 2 pieces of fish.
 # Commentary on Job 35–36
-
 **Key verses:**
-1.  **Gen 35:6-7** God is not affected by our wickedness nor by our righteousness.
+1. **Gen 35:6-7** God is not affected by our wickedness nor by our righteousness.
 2. **Gen 35:9-16** Elihu argues that God is not indifferent to the cries of the oppressed, it is men that are proud and forgetful of all that God has done to them. If God doesn't answer, it is due to men's lack of trust in God.
+3. **Gen 36:5-15** God uses suffering as a teaching instrument. The just, if they hear and obey God, will be restored and rewarded. Because of this, Job should endure the suffering with patience.
+4. **Gen 36:22-33** God is beyond human understanding, but we can contemplate his greatness and power through creation.
 
 **Moral sense:**
 1. Give praise to God, and not only ask for things.
