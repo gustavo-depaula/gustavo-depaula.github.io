@@ -27,7 +27,7 @@ Elisabeth Sparkles é uma atriz de sucesso. O filme começa mostrando a constru�
 
 Corta para finalmente conhecermos quem é Elisabeth. Elisabeth está com 50 anos, em boa forma e bonita, e apresenta um programa fitness matinal. O programa tem uma estética e vibe “vintage”. Ela termina o programa e vai em direção a seu camarim, passando por um corredor que é uma espécie de hall da fama. As duas paredes do corredor estão cheias de suas imagens como propaganda dos programas que ela apresentou durante sua carreira, e Elisabeth passa pelo corredor admirando a sua própria imagem.
 
-Ao ir ao banheiro, o banheiro feminino está interditado e ela entra no masculino, que está vazio, e ela se tranca em uma cabine. Durante esse tempo, o seu produtor entra no banheiro enquanto fala ao telefone. Logo se percebe que o assunto da ligação é a própria Elisabeth, e o produtor, que é um porco de homem, está falando como eles precisam de uma nova apresentadora, jovem, bonita, gostosa, e superior, e que Elisabeth já estaria acabada demais para o seu papel.
+Ao ir ao banheiro, o banheiro feminino está interditado e ela entra no masculino, que está vazio, e se tranca em uma cabine. Durante esse tempo, o seu produtor entra no banheiro falando ao telefone. Logo se percebe que o assunto da ligação é a própria Elisabeth, e o produtor, que é um porco de homem, está falando como precisam de uma nova apresentadora, jovem, bonita, gostosa, e superior, e que Elisabeth já estaria acabada demais para o seu papel.
 
 ![[thesubstance-outdoor.png]]
 
@@ -37,27 +37,27 @@ Através de um pendrive que o enfermeiro coloca no bolso do casaco de Elisabeth,
 
 ![[thesubstance-magoas.png]]
 
-Elisabeth joga o pendrive no lixo, mas naquela noite ela vai a um bar afogar sozinha suas mágoas em álcool, a ponto de ter que abraçar o vaso para vomitar a meia dúzia de Martinis que ela virou. No breve momento que ele reganha a sua consciência, ela se sente fracassada e envergonhada, sentimentos marca registrada do Satanás que usa esses sentimentos para levar as almas ao pecado e, mais importante, a permanecerem lá. A vergonha foi usada já em Gênesis 3, quando, após comerem o fruto proibido, Adão e Eva se esconderam de Deus. Orgulho, intemperança e vergonha juntos: ocasião de pecado maior nunca foi pensada. Elisabeth então se sujeita revirar seu lixo para procurar o pendrive que horas antes havia jogado fora, e então aceita a proposta.
+Elisabeth joga o pendrive no lixo. Mas naquela noite ela vai sozinha a um bar afogar suas mágoas em álcool, a ponto de ter que abraçar o vaso para vomitar a meia dúzia de Martinis que ela virou. No breve momento que ele reganha a sua consciência, ela se sente fracassada e envergonhada, a marca registrada do Satanás, que usa esses sentimentos para levar as almas ao pecado e, mais importante, a permanecerem lá. A vergonha foi usada em Gênesis 3, quando, após comerem o fruto proibido, Adão e Eva se esconderam de Deus. Orgulho, intemperança e vergonha juntos: ocasião de pecado maior nunca foi pensada. Elisabeth então se sujeita revirar seu lixo para procurar o pendrive que horas antes havia jogado fora, e então aceita a proposta.
 
-Elisabeth se sujeita a todo o processo de coleta do material que é duvidoso que necessita que ela vá a um beco extremamente sujo e destruído e se rasteje para passar pela fresta da porta que se abre.
+Elisabeth se sujeita a todo o processo de coleta do material que é duvidoso e necessita que ela vá a um beco extremamente sujo e destruído e se rasteje para passar pela fresta da porta que se abre.
 
 O funcionamento da Substância possui diversas partes. A primeira é a ativação, que, do corpo “Matriz” surgirá o “Outro eu”. Após ativado, apenas um dos corpos ficará ativo. O outro ficará em um estado de hibernação até acontecer a troca novamente. As regras são bem explícitas da necessidade de sempre trocar de 7 em 7 dias, sem exceção. O “Outro Eu” que é a versão *mais perfeita*, precisa de uma substância estabilizadora que é extraída do corpo Matriz.
 
 ![[thesubstance-bodies.png]]
 
-Ela então injeta a ativação, que diz que só deve ser usado uma única vez, e a partir de seu corpo, emerge um outro corpo, emerge a *Sue*. A primeira coisa que Sue faz é se admirar no espelho. É martelado na tecla de que Elisabeth e Sue são uma pessoa só, ao mesmo tempo, não é claro se elas compartilham uma mesma memória. A *persona* Elisabeth agora representa a sua alma e o seu estado, e Sue é a personificação do seu orgulho e vida de pecado.
+Ela então injeta a ativação (que só deve ser usado uma única vez) e a partir de seu corpo, emerge um outro corpo, emerge a *Sue*. A primeira coisa que Sue faz é se admirar no espelho. É martelado na tecla de que Elisabeth e Sue são uma pessoa só. Ao mesmo tempo, não é claro se elas compartilham uma mesma memória. A *persona* Elisabeth agora representa a sua alma e o seu estado, e Sue é a personificação do seu orgulho e vida de pecado.
 
 ![[thesubstance-sue-emerges.png]]
 ![[thesubstance-sue-elisabeth.webp]]
 
-Sue começa sua jornada participando de uma audiência para selecionar quem será a próxima Elisabeth Sparkles, e é contratada. A estética do filme muda um pouco quando Sue entra em cena. As cores usadas por Sue são mais saturadas e vívidas, suas roupas mais provocantes, a música mais impactante (*punchy*).
+Sue começa sua jornada participando de uma audiência para selecionar quem será a próxima Elisabeth Sparkles, e é contratada. A estética do filme muda um pouco quando Sue entra em cena. As cores usadas por Sue são mais saturadas e vívidas, suas roupas mais provocantes, e a música mais impactante (*punchy*).
 
-Sue então começa o seu programa que se apresenta como um programa fitness matinal, mas na realidade é um *soft-porn*, que explora sua beleza e juventude, tornando-a em nada mais do que um objeto sexual. Mas o orgulho não se importa com isso, pelo contrário, isso alimenta o seu desejo desordenado que adora a atenção, os olhares e estima alheia. Lembre-se do itinerário do orgulho: **Tudo é permitido, desde que o interessado seja a própria pessoa e sua imagem na estima dos outros**.
+Sue então começa o seu programa que se apresenta como um programa fitness matinal, mas na realidade é um *soft-porn*, que explora sua beleza e juventude, tornando-a em nada mais do que um objeto sexual. Mas o orgulho não se importa com isso, pelo contrário, isso alimenta o seu desejo desordenado que adora a atenção e os olhares da estima alheia. Lembre-se do itinerário do orgulho: **Tudo é permitido, desde que o interessado seja a própria pessoa e sua imagem na estima dos outros**.
 
 ![[thesubstance-sue-newvibe.png]]
 ![[thesubstance-softporn.png]]
 
-A primeira semana de Sue continua e ela sai para a farra no último dia antes da troca. Com a má companhia de seus novos amigos, provavelmente também afundados no orgulho, ela vai para a farra, e impulsionada pela bebedeira, ela leva um cara a seu apartamento, pecando contra a castidade.
+A primeira semana de Sue continua e ela sai para a farra no último dia antes da troca. Com a má companhia de seus novos amigos, provavelmente também afundados no orgulho, e impulsionada pela bebedeira, ela leva um cara a seu apartamento, pecando contra a castidade.
 
 Por conta dessa noite, ela atrasa a troca, o que causa consequências visíveis sobre a persona Elisabeth, que tem um dedo de sua mão transformado como se ela tivesse 90 anos, com artrite, feio, desidratado, com falta de movimento. Isso leva Elisabeth ao desespero. Ela se achava velha e é por isso que tomou a substância, mas agora ela realmente e objetivamente tem um traço de uma pessoa velha. O pequeno pecado cometido (por Sue) causa danos reais a sua alma (representada por Elisabeth).
 
