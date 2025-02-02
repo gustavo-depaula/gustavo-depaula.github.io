@@ -1,6 +1,6 @@
 Exodus ; Leviticus ; Psalm ;
-# Commentary on Exodus 
+# Commentary on Exodus 12
 
-# Commentary on Leviticus 
+# Commentary on Leviticus 9
 
-# Commentary on Psalm 
+# Commentary on Psalm 114
