@@ -254,7 +254,7 @@ Questions:
 
 1. If the Pharaoh know that God existed and His power, why did he and the Egyptians worshipped false gods?
 
-### Commentary on Genesis 14:
+# Chapter 14
 
 1. The kings of Sodom, Gomor'rah, Admah, Zebo'im, Be'la (or Zo'ar) used to serve (were vassals to) Chedorlao'mer, the king of E'lam (in Mesopotamia), for twelve years, but in the thirteenth year, they rebelled.
 2. Chedorlao'mer then builds an alliance with loyal kings from Shi'nar, Ella'sar, and Goi'im to fight the rebellion. On their way to fight the five rebel kings, they subdue and plunder the kingdoms and people in-between.
@@ -272,7 +272,7 @@ The tithe payed by Abram prefigures the Levitic law, where the other tribes have
 
 Again, we see how sin leads to brokenness and destruction. Lot, decided to go towards Sodom, and ends up living inside it, a city of wicked man and great sinners (Gen 13:13). His actions leads to his captivity, which brings Abram to enter the war to save him. By Divine Providence (Gen 14:20), Abram is able to conquer the Mesopotamian forces and rescue the captured people and properties.
 
-### Commentary on Genesis 15:
+# Chapter 15
 
 1. God appears to Abram in a vision and promises him, currently in an old age and childless, that he'll have many descendants, as many as stars in the sky. And Abram believes him.
 2. God asks Abram to bring some animals and he brings them and cut them in two.
@@ -281,7 +281,7 @@ Again, we see how sin leads to brokenness and destruction. Lot, decided to go to
 
 The process of passing through a hallway of splitten animals was the sign of making a Covenant in the old times. It signified that if someone broke the agreement, they can be broken like the animals they're passing through are. Interestingly, God is the one who passes through the covenant. Probably because He knew that Abram and his descendants would break the covenant many times.
 
-**Commentary on Genesis 16:**
+# Chapter 16
 
 1. Sarai, troubled by her infertility, decides to have children through her maid.
 2. Abram listens and has relations with Hagar, Sar'ai's Egyptian maid.
@@ -300,7 +300,7 @@ Still, this sin, of not trusting God's plan, of wanting to have God's way in our
 
 The oppression of Hagar will also backfire when the Joseph, Sar'ai's great grandson (Joseph) is taken as a slave in Egypt by the "Ishmael-ites" (Gen 39:1) and the family of Israel that follows him there is "oppressed" by the Egyptians (Ex 1:12, foretold in Gen 15:13).
 
-**Commentary on Genesis 17:**
+# Chapter 17
 
 1. God elevate the previous promise of making Abram the father of a multitude of nations to a Covenant.
 2. God changes his name from Abram ("exalted father") to Abraham ("father of a multitude").
@@ -319,7 +319,7 @@ Circumcision prefigures Baptism, the rite of initiation of the New Covenant. But
 
 This also an interesting argument for _pedobaptism_ (baptism of the children) instead of _credobaptism_ (baptism of adult believers). If Baptism is the rite of initiation in Christian life just as circumcision was the rite of initiation in the Old Covenant, it also makes sense to initiate children just as they did.
 
-**Commentary on Genesis 18-19:**
+# Chapters 18-19
 
 1. God and two angels appear to Abraham passing in front of his tent.
 2. Abraham, as a model of hospitality, arranges water, rest and food for the visitors.
@@ -354,7 +354,7 @@ The Origin of the Moabites and Ammonites story (Gen 19:30-38) repeats the patter
 
 The Sodomites' sexual sin is not only sexual depravity and perversion because of the abuse they were about to commit, but also because of homosexuality. The rejection of the offer to take Lot's daughters demonstrate the disordered preference, by the men of Sodom, for men over women.
 
-**Commentary on Genesis 20:**
+# Chapters 20
 
 1. Abraham goes to Gerar, a territory in southern Palestine, near Gaza.
 2. There, he tells the same lie to the King of Gerar, Abimelech, that he told to the Pharaoh: that Sarah is his sister, and not his wife. Later, we discover that this is a "half-truth". Abraham is Sarah's half-sister, they have the same father but different mothers.
@@ -372,7 +372,7 @@ Moral sense:
 - God intervenes in the world, even in the lives of non-believers, giving us the grace to be protected from sinning.
 - Pray to God to be brave and moral in the face of fear and to be protected from sinning.
 
-**Commentary on Genesis 21:**
+# Chapters 21
 
 1. Sarah conceives and gives birth to Isaac, as the Lord had promised, and he was circumcised when his was eight days old. Isaac means "he laughs".
 2. Sarah tells Abraham to expel Hagar and Ish'mael. God says to do what Sarah says, and not to worry, as God will make a great nation out of Ish'mael.
