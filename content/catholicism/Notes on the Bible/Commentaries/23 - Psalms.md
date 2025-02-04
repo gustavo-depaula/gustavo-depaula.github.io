@@ -72,3 +72,6 @@ The outward signs of religion (sacrifices in this case) must be accompanied by a
 # Psalm 104
 
 # Psalm 136
+
+# Psalm 114
+The Psalmist refers to several miracles performed by God in Israel’s liberation of Egypt, while using a prosopopeia, asking the inanimate objects why they did the miracle.
