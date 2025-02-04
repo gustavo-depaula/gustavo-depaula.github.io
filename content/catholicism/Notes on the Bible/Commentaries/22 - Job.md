@@ -24,7 +24,7 @@ In these series of contests, Satan will talk to God, accusing Job and trying to 
 
 One parallel I found interesting is how Satan tries to make Job sin through his wife (the suggestion of Euthanasia), just like the serpent made Adam sin through Eve (Gen 3:1-6).
 
-*Applications*:
+_Applications_:
 
 - In our suffering, we should turn towards God, because He cares about us, will not abandon us, and will ultimately provide for us. But God will give what we need in the moment He judges is right. We must abandon our pride, persist in our prayers, and God will provide in the right moment, not in the moment that we want.
 - Sin leads to brokenness. We must root out sin from our lives. We can only turn away from sin by strengthening our spiritual lives, acquiring wisdom and knowledge. And the basis of the spiritual lives is faith, and the fear of the Lord.
