@@ -53,26 +53,19 @@ When we pray are we offering our best time, our "first fruits"? Or are we just o
 But God, in his infinite mercy, will forgive our bad offerings and accept us again if we do good (Gen 4:7). And even with all the temptation, we do not have to sin. Not only that, but we need to learn how to control ourselves, master our emotions and choose to not to sin.
 
 Questions:
-
 1. Did God lie? Because they didn't die when they ate the fruit.
-
-1. Their death was spiritual. They committed a mortal sin, losing their holiness and separating themselves from God.
-
-1. Why God says that Adam and Eve have become like them? (Gen 3:22)
-
-1. Before eating the fruit, Adam and Eve had a childlike innocence, and after eating they gained a knowledge about good and evil, which made them more similar to God in this aspect. But this came at the cost of the loss of innocence and the introduction of sin into their lives.
-1. It could also be a somewhat ironic statement. In their quest to become like God, they separated themselves further away from God, achieving the opposite consequence and bringing brokenness into their lives.
-
-1. Who is Cain's wife?
-
-1. It seems that there were other humans, because incest is contrary to natural law.
-1. It can't be other humans because all humans are descendants of Adam and Eve. Furthermore, if there were other humans, they wouldn't be stained by the original sin.
-1. Thus, it has to be that Cain's wife was a sister or niece or grandniece. And that, by some unknown factor, incest was not a biological or moral problem in that specific circumstance.
+	1. Their death was spiritual. They committed a mortal sin, losing their holiness and separating themselves from God.
+3. Why God says that Adam and Eve have become like them? (Gen 3:22)
+	1. Before eating the fruit, Adam and Eve had a childlike innocence, and after eating they gained a knowledge about good and evil, which made them more similar to God in this aspect. But this came at the cost of the loss of innocence and the introduction of sin into their lives.
+	2. It could also be a somewhat ironic statement. In their quest to become like God, they separated themselves further away from God, achieving the opposite consequence and bringing brokenness into their lives.
+4. Who is Cain's wife?
+	1. It seems that there were other humans, because incest is contrary to natural law.
+	2. It can't be other humans because all humans are descendants of Adam and Eve. Furthermore, if there were other humans, they wouldn't be stained by the original sin.
+	3. Thus, it has to be that Cain's wife was a sister or niece or grandniece. And that, by some unknown factor, incest was not a biological or moral problem in that specific circumstance.
 
 # Chapter 5-6
 
 Questions:
-
 1. What these long lifetimes mean?
 2. Did Enoch go to heaven? How if Jesus didn't pay the price for us to go to heaven yet?
 3. Why does the Bible emphasize genealogies so much?
