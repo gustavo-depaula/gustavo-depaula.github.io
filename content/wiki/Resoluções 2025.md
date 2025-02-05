@@ -38,3 +38,23 @@ Nenhuma novidade que me converti no ano passado, e portanto, como devo amar Deus
 1. Realizar, pelo menos uma vez, todas as obras de misericórdia corporais e espirituais.
 2. Encontrar de 2 a 4 projetos de caridade a serem ajudados ao longo do ano, doar XX mil reais ao longo do ano, e estar envolvido o máximo possível neles.
 3. Realizar com frequência caridade através de trabalho manual.
+
+# Progresso
+## Janeiro
+
+Indo bem:
+1. **Receber o sacramento da confirmação**: Comecei o curso!
+2. **Ler a Bíblia**: Estou em dia !
+3. **Fazer 31 visitas ao Santíssimo Sacramento**: Fiz 4 até o momento
+4. **Ir à Santa Missa múltiplas vezes por semana**: Até essa semana (4 fevereiro hoje), consegui fazer Missa diária. 
+5. **Tornar-me acólito de altar**: Comecei o treinamento!
+
+Melhorar:
+1. **Conversar com Deus diariamente**: Tenho que melhorar essa, estou no segundo dia.
+2. **Rezar o terço diariamente**: Também tenho que melhorar, bem inconstante.
+3. Aumento de salário está encaminhado, avaliação *excepcional* no ciclo de performance.
+4. Sobre Caridade, tenho uma nova iniciativa que doei e pretendo continuar doando, a Escola da Sagrada Família de Nazaré fundada pela Paróquia Nossa Senhora do Brasil.
+
+Péssimo:
+1. **Formar-me na faculdade!** Esse tem sido difícil, meu Final Project tem falhado espetacularmente....
+2. Basicamente nada do pessoal consegui. Talvez a rotina diária foi o que melhor consegui acertar, a Missa Diária ajudou muito nisso.
