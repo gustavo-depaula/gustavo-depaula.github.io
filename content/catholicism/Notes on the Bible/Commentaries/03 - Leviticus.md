@@ -30,10 +30,17 @@ When a person sins and knows about it, they need to confess their sin and bring 
 **Key themes:**
 1. Ordination offerings of Aaron and his sons. Profound and extended/long ritual.
 
-# Chapter 9:
+# Chapter 9
 **Key themes:**
 1. Consecration of Aaron as priest, and his offering of sacrifices for him and for the people.
+# Chapter 10
+**Key themes:**
+1. Separation of what is holy and common or unholy. Holy things are set apart from the rest. The punishment is great if holy things are mixed with unholy things: the fire of the Lord consumes Nadab and Abihu after they offered unholy fire.
 
+**Moral sense:**
+2. When you mix holy things with unholy things, you make the holy unholy.
+3. To keep things holy, you need to set them apart, and protect them, and not make them common.
+4. There is a danger in approaching the Divine things, as we can turn them into “routine” and lose the sense of profound mystery.
 # References
 
 **Lv 5:5-6**
@@ -45,3 +52,6 @@ But if he cannot afford two turtledoves or two young pigeons, then he shall brin
 
 **Lv 7:19b-21**
 *All who are clean may eat flesh, but the person who eats of the flesh of the sacrifice of the Lord’s peace offerings while an uncleanness is on him, that person shall be cut off from his people. And if any one touches an unclean thing, whether the uncleanness of man or an unclean beast or any unclean abomination, and then eats of the flesh of the sacrifice of the Lord’s peace offerings, that person shall be cut off from his people.* ^1a92b2
+
+**Lv 10:10**
+*You are to distinguish between the holy and the common, and between the unclean and the clean;*

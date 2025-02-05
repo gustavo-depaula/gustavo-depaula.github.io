@@ -90,9 +90,13 @@ Exodus ; Leviticus ; Psalm ;
 
 **Moral sense:**
 8. **Ex 12:36** *As the Israelites plundered the spoils of Egypt and put them to better use, so believers should not fear to take what is useful and true from pagan learning for the benefit of Christian teaching (St. Augustine, On Christian Doctrine 2, 40, 60).*
+# Chapter 13-14
+
 
 # References
 
 **Ex 12:48**
 *And when a stranger shall sojourn with you and would keep the passover to the Lord, let all his males be circumcised, then he may come near and keep it; he shall be as a native of the land. But no uncircumcised person shall eat of it.* ^c7aecb
 
+**Ex 14:13**
+*And Moses said to the people, "Fear not, stand firm, and see the salvation of the LORD, which he will work for you today; for the Egyptians whom you see today, you shall never see again.*

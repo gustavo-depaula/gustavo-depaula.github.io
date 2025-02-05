@@ -66,9 +66,11 @@ Psalm of praise to God for the liberation of Israel.
 3. Clear prefigurations of heaven and hell, judgement of the souls after death: liberation for the just, privation of the light for the wicked.
 
 # Psalm 50
-
 The outward signs of religion (sacrifices in this case) must be accompanied by an interior act of thanksgiving and prayer, and of following the commandments.
+# Psalm 53
+**Ps 53:1** *The fool says in his heart, “There is no God”.*
 
+The unbelievers are easily corruptible, they work evil without understanding the consequences, and become depraved. God will punish them, for whoever rejects God, God rejects them (Ps 53:5).
 # Psalm 104
 
 # Psalm 136
