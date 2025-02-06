@@ -41,6 +41,17 @@ When a person sins and knows about it, they need to confess their sin and bring 
 2. When you mix holy things with unholy things, you make the holy unholy.
 3. To keep things holy, you need to set them apart, and protect them, and not make them common.
 4. There is a danger in approaching the Divine things, as we can turn them into “routine” and lose the sense of profound mystery.
+# Chapter 11
+**Key themes:**
+1. Laws for unclean and clean animals, and what actions related to animals make you unclean.
+
+**Moral sense:**
+1. Still teaching/preparing the people about holiness.
+2. Natural insight: unclean animals are more dangerous and transmit more diseases. Also teaches quarantine and washing when you touch animal carcass. 
+
+**Allegorical sense:**
+1. **Lv 11:45** *For I am the Lord who brought you up out of the land of Egypt, to be your God; **you shall therefore be holy, for I am holy.***
+2. **Matthew 5:48** *You, therefore, must be perfect, as your heavenly Father is perfect.*
 # References
 
 **Lv 5:5-6**

@@ -71,6 +71,8 @@ The outward signs of religion (sacrifices in this case) must be accompanied by a
 **Ps 53:1** *The fool says in his heart, “There is no God”.*
 
 The unbelievers are easily corruptible, they work evil without understanding the consequences, and become depraved. God will punish them, for whoever rejects God, God rejects them (Ps 53:5).
+# Psalm 71
+Psalm to praise God and deliver your hopes unto God because He is great, and He will not forsake us and will bring us back up. Sufferings and injustice shall not make us stop praising the Lord, because He is great. He is indeed all-powerful and all-just. Who is like Him?
 # Psalm 104
 
 # Psalm 136

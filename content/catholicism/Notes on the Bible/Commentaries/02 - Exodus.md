@@ -91,7 +91,25 @@ Exodus ; Leviticus ; Psalm ;
 **Moral sense:**
 8. **Ex 12:36** *As the Israelites plundered the spoils of Egypt and put them to better use, so believers should not fear to take what is useful and true from pagan learning for the benefit of Christian teaching (St. Augustine, On Christian Doctrine 2, 40, 60).*
 # Chapter 13-14
+**Key themes:**
+1. The Egyptians, with their hardened hard, persecute the Israelites with their army. The Lord then works a miracle through Moses where he opens the Red Sea, allowing Israel to escape, and drowning the Egyptians behind them.
+2. The Israelites don’t trust in God’s providence, and think it would be better to be slaves in Egypt. (Ex 14:10-12)
 
+**Allegorical sense:**
+1. The crossing of the Red Sea is a type of Baptism. St Paul says this in 1 Cor 10:1-2. They bring salvation through water and the power of God, and causes the demise of the enemy (Pharaoh, devil’s tyranny / original sin). The sons of Israel emerges from the sea with a new faith (Ex 14:31), just like Baptism infuses the virtue of faith.
+# Chapter 15-16
+**Key themes:**
+1. The Israelites like to complain, distrust and disobey the commands given by God. God feeds Israel through Manna, a angelic “bread from heaven” that only last for one day.
+
+**Allegorical sense:**
+1. Manna is a prefiguration of the Eucharist. Jesus talks about himself as the bread from heaven Jn 6:30-59, St Paul in 1 Cor 10:1-6 makes the allegorical connection between the crossing of the Red Sea and Manna to Baptism and the Eucharist.
+
+**Moral sense:**
+1. Manna spoiling after a day teaches the people to rely on and trust the Providence.
+2. How many people prefer the slavery to sin than the uncomfortable process of breaking their chains to make them free?
+
+**Questions:**
+3. **Ex 16:34** Aaron placed it before the stone tables of the law, but they have not received it yet…
 
 # References
 
