@@ -52,6 +52,17 @@ When a person sins and knows about it, they need to confess their sin and bring 
 **Allegorical sense:**
 1. **Lv 11:45** *For I am the Lord who brought you up out of the land of Egypt, to be your God; **you shall therefore be holy, for I am holy.***
 2. **Matthew 5:48** *You, therefore, must be perfect, as your heavenly Father is perfect.*
+# Chapter 12
+**Key themes:**
+1. Laws for unclean and clean states regarding giving birth, menstruation, and circumcision.
+
+**Allegorical sense:**
+1. The Holy Family offers two young pigeons in Jesus’ presentation in the temple, as the law requires.
+
+# Chapter 13
+**Key themes:**
+1. Ritual cleanliness laws and procedures for quarantine regarding skin diseases and leprosy. 
+
 # References
 
 **Lv 5:5-6**

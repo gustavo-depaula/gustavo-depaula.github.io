@@ -111,6 +111,25 @@ Exodus ; Leviticus ; Psalm ;
 **Questions:**
 3. **Ex 16:34** Aaron placed it before the stone tables of the law, but they have not received it yet…
 
+# Chapter 17
+**Key themes:**
+1. The people continued to complain and murmur against Moses and the Lord, because they were without water. The Lord instructs Moses to use his rod to a strike a rock, and water comes out of it.
+2. Amalek fights Israel in Rephidim, and every time Moses has his hands up, Israel prevailed, but whenever he lowered it, Amalek prevailed. Aaron and Hur hold Moses’ arms up when he got tired, thus Israel won the battle.
+
+**Allegorical sense:**
+1. Lifting the hands was a common posture for praying. Moses is an intercessor just like the saints are intercessors for us.
+
+**Moral sense:**
+1. Our prayers can change and affect reality. (this is a big question to explore…)
+
+# Chapter 18
+**Key themes:**
+1. Moses is visited by Jethro, his father-in-law, his sons and his wife.
+2. Moses takes heed of the counsel of Jethro and appoints fair and honest men to be rulers to Israel and to be judges on disputes of the people. Hard cases were brought to Moses, but small matters are dealt by the judges.
+
+**Moral sense:**
+1. A good monarch knows how to delegate his responsibilities so that the process is more efficient and everyone is better off.
+
 # References
 
 **Ex 12:48**

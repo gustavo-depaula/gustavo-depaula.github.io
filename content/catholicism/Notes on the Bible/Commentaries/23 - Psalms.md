@@ -73,6 +73,8 @@ The outward signs of religion (sacrifices in this case) must be accompanied by a
 The unbelievers are easily corruptible, they work evil without understanding the consequences, and become depraved. God will punish them, for whoever rejects God, God rejects them (Ps 53:5).
 # Psalm 71
 Psalm to praise God and deliver your hopes unto God because He is great, and He will not forsake us and will bring us back up. Sufferings and injustice shall not make us stop praising the Lord, because He is great. He is indeed all-powerful and all-just. Who is like Him?
+# Psalm 73
+Remembers the book of Job. Questions why the wicked prosper and the just suffer. In the end, the psalmist puts his hope in God, knowing that He will deliver final justice to all.
 # Psalm 104
 
 # Psalm 136
