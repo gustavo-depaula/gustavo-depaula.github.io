@@ -129,6 +129,19 @@ Exodus ; Leviticus ; Psalm ;
 
 **Moral sense:**
 1. A good monarch knows how to delegate his responsibilities so that the process is more efficient and everyone is better off.
+# Chapter 19
+**Key themes:**
+1. God proposes the Sinai covenant, where Israel is elected between the nations to be a “kingdom of priests and a holy nation” (Ex 19:6). To adhere to the covenant, Israel must obey God, by adhering to the Decalogue and the Covenant Code.
+# Chapter 20
+**Key themes:**
+1. God gives the Decalogue (the Ten Commandments) to Israel.
+
+**Literal sense:**
+1. The Decalogue is an expression of the universal law, that binds all people, in all ages, in all circumstances. 
+2. It is, in other words, natural law, objective morality that God has graved in men’s heart.
+3. Fourteen commands are given, but Exodus sets the number of commandments at ten (Ex 34:28). There is two sets of different divisions: The Catholic-Lutheran, based on St Augustine and the Eastern Orthodoxy-Reformed, based on the Greek Fathers.
+4. Love of God - Love of Neighbor
+5. The Ten Commandments: TODO
 
 # References
 

@@ -75,6 +75,8 @@ The unbelievers are easily corruptible, they work evil without understanding the
 Psalm to praise God and deliver your hopes unto God because He is great, and He will not forsake us and will bring us back up. Sufferings and injustice shall not make us stop praising the Lord, because He is great. He is indeed all-powerful and all-just. Who is like Him?
 # Psalm 73
 Remembers the book of Job. Questions why the wicked prosper and the just suffer. In the end, the psalmist puts his hope in God, knowing that He will deliver final justice to all.
+# Psalm 74
+The psalmist is afflicted that the enemies have come and desecrated God’s temple. He knows that God has the power to fix the situation, and pleads for Him to do it. **Ps 74:1** In long afflictions, it is easy to think God has abandoned us.
 # Psalm 104
 
 # Psalm 136
