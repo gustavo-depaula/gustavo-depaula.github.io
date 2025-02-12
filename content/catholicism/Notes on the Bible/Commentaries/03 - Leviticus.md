@@ -63,7 +63,8 @@ When a person sins and knows about it, they need to confess their sin and bring 
 **Key themes:**
 1. Ritual cleanliness laws and procedures for quarantine regarding skin diseases and leprosy. 
 # Chapter 14
-
+**Key themes:**
+1. Continues the law on leprosy, on what to do with garments and the house.
 
 **Lev 14:34** *“When you come into the land of Canaan, which I give you for a possession, **and I put a leprous disease** in a house in the land of your possession,”*
 1. Same question with **“I hardened the Pharaoh’s heart”**. God allows leprosy to happen, but because of God’s sovereignty, His allowance is portrayed as active cause.

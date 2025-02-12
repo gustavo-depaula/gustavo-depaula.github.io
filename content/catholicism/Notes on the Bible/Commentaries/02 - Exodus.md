@@ -142,6 +142,11 @@ Exodus ; Leviticus ; Psalm ;
 3. Fourteen commands are given, but Exodus sets the number of commandments at ten (Ex 34:28). There is two sets of different divisions: The Catholic-Lutheran, based on St Augustine and the Eastern Orthodoxy-Reformed, based on the Greek Fathers.
 4. Love of God - Love of Neighbor
 5. The Ten Commandments: TODO
+# Chapter 21
+**Key themes:**
+1. God gives the Covenant Code, or ordinances. These are laws regarding the governance of the hebrew people. They are not universal laws that apply for everyone, but only in this specific society. In them, we see God not outright forbidding evil but constraining it, in an effort to steer Israel away from the brutish and barbaric practices of the ancient world.
+2. Laws concerning slavery, stealing, murder, physical assault, negligence and others.
+3. God establishes the law of retaliation (Ex 21:23-25): “eye for eye, tooth for tooth, …”. It is not an incentive for vengeance. Rather, it establishes that the punishment should be proportional to the crime committed.
 
 # References
 

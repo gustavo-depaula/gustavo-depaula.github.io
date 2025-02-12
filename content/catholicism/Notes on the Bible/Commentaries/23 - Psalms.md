@@ -77,6 +77,8 @@ Psalm to praise God and deliver your hopes unto God because He is great, and He 
 Remembers the book of Job. Questions why the wicked prosper and the just suffer. In the end, the psalmist puts his hope in God, knowing that He will deliver final justice to all.
 # Psalm 74
 The psalmist is afflicted that the enemies have come and desecrated God’s temple. He knows that God has the power to fix the situation, and pleads for Him to do it. **Ps 74:1** In long afflictions, it is easy to think God has abandoned us.
+# Psalm 75
+A thanksgiving Psalm to God, for He is a just judge, and He will bring justice to the just and to the wicked.
 # Psalm 104
 
 # Psalm 136
