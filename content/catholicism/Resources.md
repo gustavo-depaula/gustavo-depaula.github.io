@@ -13,3 +13,6 @@
 
 [The _Ite ad Thomam_ Out-of-Print Library (ITOPL)](https://iteadthomam.blogspot.com/p/out-of-print-library-itopl.html)
 
+[Haydock's Catholic Bible Commentary, 1859 edition.](https://johnblood.gitlab.io/haydock/index.html)
+
+[Vulgata Online](https://vulgata.online/)

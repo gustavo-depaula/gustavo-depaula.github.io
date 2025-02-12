@@ -147,6 +147,9 @@ Exodus ; Leviticus ; Psalm ;
 1. God gives the Covenant Code, or ordinances. These are laws regarding the governance of the hebrew people. They are not universal laws that apply for everyone, but only in this specific society. In them, we see God not outright forbidding evil but constraining it, in an effort to steer Israel away from the brutish and barbaric practices of the ancient world.
 2. Laws concerning slavery, stealing, murder, physical assault, negligence and others.
 3. God establishes the law of retaliation (Ex 21:23-25): “eye for eye, tooth for tooth, …”. It is not an incentive for vengeance. Rather, it establishes that the punishment should be proportional to the crime committed.
+# Chapter 22
+**Key themes:**
+1. God continues giving the laws for Israel, now, laws of restitution and social and religious laws. Compensation is due to whoever steals, destroys, or borrow and lose property. Prohibition on taking advantage of widows and orphans, the most vulnerable of the society (Ex 22:21-24). Sorcery, bestiality, and idolatry are severe crimes that merit the death penalty (Ex 22:18-20). Prohibition on charging interest when lending money to poor people (Ex 22:25).
 
 # References
 
@@ -155,3 +158,6 @@ Exodus ; Leviticus ; Psalm ;
 
 **Ex 14:13**
 *And Moses said to the people, "Fear not, stand firm, and see the salvation of the LORD, which he will work for you today; for the Egyptians whom you see today, you shall never see again.*
+
+**Ex 22:25**
+*If you lend money to any of my people with you who is poor, you shall not be to him as a creditor, and you shall not exact interest from him.* ^a023e5

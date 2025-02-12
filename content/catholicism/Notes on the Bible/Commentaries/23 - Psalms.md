@@ -79,6 +79,8 @@ Remembers the book of Job. Questions why the wicked prosper and the just suffer.
 The psalmist is afflicted that the enemies have come and desecrated God’s temple. He knows that God has the power to fix the situation, and pleads for Him to do it. **Ps 74:1** In long afflictions, it is easy to think God has abandoned us.
 # Psalm 75
 A thanksgiving Psalm to God, for He is a just judge, and He will bring justice to the just and to the wicked.
+# Psalm 76
+A Psalm admiring God's power and majesty, and how He alone is able to utter judgement and save the oppressed.
 # Psalm 104
 
 # Psalm 136

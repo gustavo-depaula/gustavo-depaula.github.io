@@ -68,6 +68,12 @@ When a person sins and knows about it, they need to confess their sin and bring 
 
 **Lev 14:34** *“When you come into the land of Canaan, which I give you for a possession, **and I put a leprous disease** in a house in the land of your possession,”*
 1. Same question with **“I hardened the Pharaoh’s heart”**. God allows leprosy to happen, but because of God’s sovereignty, His allowance is portrayed as active cause.
+# Chapter 15
+**Key themes:**
+1. Ritual cleanliness laws and procedures for "bodily discharges", menstruation, and semen emissions.
+
+**Questions:**
+1. What are these bodily discharges that are referred?
 # References
 
 **Lv 5:5-6**
