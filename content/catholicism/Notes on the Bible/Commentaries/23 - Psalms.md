@@ -81,6 +81,12 @@ The psalmist is afflicted that the enemies have come and desecrated God’s temp
 A thanksgiving Psalm to God, for He is a just judge, and He will bring justice to the just and to the wicked.
 # Psalm 76
 A Psalm admiring God's power and majesty, and how He alone is able to utter judgement and save the oppressed.
+# Psalm 77
+The psalmist expresses a longing for God. He currently is going through an affliction and wants again the presence of the Lord in his life. He praises the Lord and his deeds, but he is not seeing them in his life right now. He recognizes that the Lord is the greatest and the most powerful.
+
+*Allegorically*, it represents the longing we all have in our hearts for the ultimate happiness, beauty, good, and truth that is God, that moves all people towards religion.
+
+*Morally*, we can be honest to God that we miss Him, and in this time of trouble we can’t feel His presence, but we must always meditate upon His greatness and remember all that He has done for us.
 # Psalm 104
 
 # Psalm 136

@@ -74,6 +74,16 @@ When a person sins and knows about it, they need to confess their sin and bring 
 
 **Questions:**
 1. What are these bodily discharges that are referred?
+# Chapter 16
+**Key themes:**
+1. God establishes a once-a-year ritual for washing the sins away of the people. This is the Yom Kippur, a solemn festival. The consecrated priests offer sacrifices for atonement for him and fot all the people, wearing the holy linen garments.
+
+**Lv 16:22-23** Aaron must put upon a goat all the transgressions and iniquity of Israel, and then the goat bears their iniquities and is let go into the wilderness (to die basically), carrying away the sins of the people. This is the *scapegoat*. Is this a type of Christ? That bears our iniquities for us, cleaning us of our sins?
+
+The procedures with well-defined garments, rituals, and the figure of the priest making sacrifices for himself and the whole people is very similar to how the apostolic churches (Catholic/Orthodox) conduct their liturgical rites today.
+
+**Questions:**
+2. Veil? Mercy seat?
 # References
 
 **Lv 5:5-6**

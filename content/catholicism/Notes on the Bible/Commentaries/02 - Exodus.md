@@ -150,7 +150,14 @@ Exodus ; Leviticus ; Psalm ;
 # Chapter 22
 **Key themes:**
 1. God continues giving the laws for Israel, now, laws of restitution and social and religious laws. Compensation is due to whoever steals, destroys, or borrow and lose property. Prohibition on taking advantage of widows and orphans, the most vulnerable of the society (Ex 22:21-24). Sorcery, bestiality, and idolatry are severe crimes that merit the death penalty (Ex 22:18-20). Prohibition on charging interest when lending money to poor people (Ex 22:25).
+# Chapter 23
+**Key themes:**
+1. God continues giving laws for Israel. He gives laws concerning justice, one may not pervert justice by: uttering a false report, joining with other people to do evil, being partial against poor people (on the basis of them being poor), refusing to help your enemy in a time of need, bribing the judge, oppressing the foreigner.
+2. God establishes three annual feasts: the feast of unleavened bread (Passover), the feast of harvest (first fruits, Pentecost), feast of ingathering (Tabernacles).
+3. God reaffirms the promise of giving Canaan to Israel, and sends an Angel to guide the people in the conquest. Upon entering the canaanites’ lands, the Israelites need to renounce their gods and “break their pillars” (renounce idolatry).
 
+**Questions:**
+1. The origin and what do these feasts represent and maybe are allegorical to. (Passover is known).
 # References
 
 **Ex 12:48**
