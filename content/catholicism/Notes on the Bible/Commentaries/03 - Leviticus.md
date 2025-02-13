@@ -3,13 +3,10 @@ Instructions on how to make burnt offering to the Lord. The burnt offering is a 
 
 **Analogical sense:**
 1. The sacrifice of Jesus is the ultimate sacrifice. The laws concerning sacrifice in Leviticus is continued in the new testament through the Church’s liturgy, that has strict rules on how the sacrifice is represented to God, through the Mass.
-
 # Chapter 2-3
 Rules about cereal offerings and peace offerings.
-
 # Chapter 4
 Rules on sin offerings. Lev 4:28 talks about one of the requirements for mortal sin: full knowledge (_“when the sin which he has committed is made known to him”_).
-
 # Chapter 5
 When a person sins and knows about it, they need to confess their sin and bring and offering so that a priest makes atonement for their sin. (Lv 5:5, Lv 5:6)
 
@@ -20,70 +17,91 @@ When a person sins and knows about it, they need to confess their sin and bring 
 **Key themes:**
 1. Faith is trust, and a sin against your neighbor is a sin against God. Thus, sins like deception or robbery are breaches of faith against the Lord. (Lv 6:2)
 2. Repent requires the intention of amending the negative effects of your sin. (Lv 6:4-5)
-
 # Chapter 7
 **Allegorical sense:**
-1. **Lv 7:19-21** Prefigures the eating of the flesh of the ultimate sacrifice, the Eucharist, and how it is a sacrilege to commune while carrying mortal sins.
-2. Moreover, holy things are separated, dedicated for special uses and should be approached with purity.
-
+3. **Lv 7:19-21** Prefigures the eating of the flesh of the ultimate sacrifice, the Eucharist, and how it is a sacrilege to commune while carrying mortal sins.
+4. Moreover, holy things are separated, dedicated for special uses and should be approached with purity.
 # Chapter 8
 **Key themes:**
 1. Ordination offerings of Aaron and his sons. Profound and extended/long ritual.
-
 # Chapter 9
 **Key themes:**
-1. Consecration of Aaron as priest, and his offering of sacrifices for him and for the people.
+2. Consecration of Aaron as priest, and his offering of sacrifices for him and for the people.
 # Chapter 10
 **Key themes:**
-1. Separation of what is holy and common or unholy. Holy things are set apart from the rest. The punishment is great if holy things are mixed with unholy things: the fire of the Lord consumes Nadab and Abihu after they offered unholy fire.
+3. Separation of what is holy and common or unholy. Holy things are set apart from the rest. The punishment is great if holy things are mixed with unholy things: the fire of the Lord consumes Nadab and Abihu after they offered unholy fire.
 
 **Moral sense:**
-2. When you mix holy things with unholy things, you make the holy unholy.
-3. To keep things holy, you need to set them apart, and protect them, and not make them common.
-4. There is a danger in approaching the Divine things, as we can turn them into “routine” and lose the sense of profound mystery.
+4. When you mix holy things with unholy things, you make the holy unholy.
+5. To keep things holy, you need to set them apart, and protect them, and not make them common.
+6. There is a danger in approaching the Divine things, as we can turn them into “routine” and lose the sense of profound mystery.
 # Chapter 11
 **Key themes:**
-1. Laws for unclean and clean animals, and what actions related to animals make you unclean.
+7. Laws for unclean and clean animals, and what actions related to animals make you unclean.
 
 **Moral sense:**
-1. Still teaching/preparing the people about holiness.
-2. Natural insight: unclean animals are more dangerous and transmit more diseases. Also teaches quarantine and washing when you touch animal carcass. 
+8. Still teaching/preparing the people about holiness.
+9. Natural insight: unclean animals are more dangerous and transmit more diseases. Also teaches quarantine and washing when you touch animal carcass. 
 
 **Allegorical sense:**
-1. **Lv 11:45** *For I am the Lord who brought you up out of the land of Egypt, to be your God; **you shall therefore be holy, for I am holy.***
-2. **Matthew 5:48** *You, therefore, must be perfect, as your heavenly Father is perfect.*
+10. **Lv 11:45** *For I am the Lord who brought you up out of the land of Egypt, to be your God; **you shall therefore be holy, for I am holy.***
+11. **Matthew 5:48** *You, therefore, must be perfect, as your heavenly Father is perfect.*
 # Chapter 12
 **Key themes:**
-1. Laws for unclean and clean states regarding giving birth, menstruation, and circumcision.
+12. Laws for unclean and clean states regarding giving birth, menstruation, and circumcision.
 
 **Allegorical sense:**
 1. The Holy Family offers two young pigeons in Jesus’ presentation in the temple, as the law requires.
-
 # Chapter 13
 **Key themes:**
-1. Ritual cleanliness laws and procedures for quarantine regarding skin diseases and leprosy. 
+2. Ritual cleanliness laws and procedures for quarantine regarding skin diseases and leprosy. 
 # Chapter 14
 **Key themes:**
-1. Continues the law on leprosy, on what to do with garments and the house.
+3. Continues the law on leprosy, on what to do with garments and the house.
 
 **Lev 14:34** *“When you come into the land of Canaan, which I give you for a possession, **and I put a leprous disease** in a house in the land of your possession,”*
-1. Same question with **“I hardened the Pharaoh’s heart”**. God allows leprosy to happen, but because of God’s sovereignty, His allowance is portrayed as active cause.
+4. Same question with **“I hardened the Pharaoh’s heart”**. God allows leprosy to happen, but because of God’s sovereignty, His allowance is portrayed as active cause.
 # Chapter 15
 **Key themes:**
-1. Ritual cleanliness laws and procedures for "bodily discharges", menstruation, and semen emissions.
+5. Ritual cleanliness laws and procedures for "bodily discharges", menstruation, and semen emissions.
 
 **Questions:**
-1. What are these bodily discharges that are referred?
+6. What are these bodily discharges that are referred?
 # Chapter 16
 **Key themes:**
-1. God establishes a once-a-year ritual for washing the sins away of the people. This is the Yom Kippur, a solemn festival. The consecrated priests offer sacrifices for atonement for him and fot all the people, wearing the holy linen garments.
+7. God establishes a once-a-year ritual for washing the sins away of the people. This is the Yom Kippur, a solemn festival. The consecrated priests offer sacrifices for atonement for him and fot all the people, wearing the holy linen garments.
 
 **Lv 16:22-23** Aaron must put upon a goat all the transgressions and iniquity of Israel, and then the goat bears their iniquities and is let go into the wilderness (to die basically), carrying away the sins of the people. This is the *scapegoat*. Is this a type of Christ? That bears our iniquities for us, cleaning us of our sins?
 
 The procedures with well-defined garments, rituals, and the figure of the priest making sacrifices for himself and the whole people is very similar to how the apostolic churches (Catholic/Orthodox) conduct their liturgical rites today.
 
 **Questions:**
-2. Veil? Mercy seat?
+1. Veil? Mercy seat?
+# Chapter 17
+**Key themes:**
+1. Forbids the offering of sacrifices in open field and not for the Lord. Sacrifices should happen at the tent of meeting with a Priest.
+2. Forbids eating blood, as blood is the life of the flesh. Blood was given to make atonement for the souls. (Lv 17:11)
+
+**Allegorical sense:**
+1. The priesthood offers sacrifices, and the priest is the one who, consecrated to God, is the mediator of sacrifices.
+# Chapter 18
+**Key themes:**
+1. Israel should not do as the people of Egypt and Canaan do, they should keep the Lord’s statues.
+2. God establishes rules concerning sexuality, prohibiting:
+	1. Incest (Lv 18:6-18): “near of kin”, father, mother, sister, half-sister, granddaughter, aunt, uncle, sister-in-law.
+	2. Sex during menstruation. (Lv 18:19)
+	3. Adultery (sex with your neighbor’s wife). (Lv 18:20)
+	4. Homosexuality. (Lv 18:22)
+	5. Bestiality. (Lv 18:23)
+
+**Exegesis:**
+3. *“Uncover the nakedness”* = having sexual relationship.
+
+**Moral sense:**
+1. A man is kept on the way of life by keeping the Lord’s commandments. (Lv 18:5)
+
+**Questions:**
+1. **Lv 18:21** *“to devote them by fire to Molech”* what does that mean? Human sacrifice to an idol?
 # References
 
 **Lv 5:5-6**

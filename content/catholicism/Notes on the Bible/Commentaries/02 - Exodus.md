@@ -158,6 +158,19 @@ Exodus ; Leviticus ; Psalm ;
 
 **Questions:**
 1. The origin and what do these feasts represent and maybe are allegorical to. (Passover is known).
+# Chapter 24
+**Key themes:**
+1. Moses gives to the people the “ordinances” (the Covenant Code, that is, aside from the Decalogue, which the people had already heard to). Then sacrifice is made to the Lord, and blood is sprinkled on the altar and on the people to ratify the Covenant.
+2. Then, Moses goes up with Aaron, his sons (Nadab, Abihu) and seventy of the elders of Israel to the mountain, where they see God (a manifestation of God).
+3. Moses goes up into the mountain of God for 40 days. (where in Deuteronomy 9:9 we know that he was fasting)
+
+**Allegorical sense:**
+4. Blood of the sacrifice of the oxen ratified the Mosaic covenant, just as the blood of the Holy Sacrifice of Our Lord ratifies the New and Eternal Covenant (Mt 26:27-28).
+5. The seventy-two are an allegory to the seventy-two disciples that Jesus send to proclaim the word.
+6. Moses fasts for 40 days, just as Jesus fasts for 40 days in the desert.
+
+**Moral sense:**
+7. Be faithful to God, as the people of Israel expressed they would be (not as they did after): (Ex 24:7) *“All The LORD has spoken, we will do, and we will be obedient”*.
 # References
 
 **Ex 12:48**
@@ -168,3 +181,6 @@ Exodus ; Leviticus ; Psalm ;
 
 **Ex 22:25**
 *If you lend money to any of my people with you who is poor, you shall not be to him as a creditor, and you shall not exact interest from him.* ^a023e5
+
+**Ex 24:8**
+*“Behold the blood of the covenant which the LORD has made with you in accordance with all these words.”*

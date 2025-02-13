@@ -87,6 +87,28 @@ The psalmist expresses a longing for God. He currently is going through an affli
 *Allegorically*, it represents the longing we all have in our hearts for the ultimate happiness, beauty, good, and truth that is God, that moves all people towards religion.
 
 *Morally*, we can be honest to God that we miss Him, and in this time of trouble we can’t feel His presence, but we must always meditate upon His greatness and remember all that He has done for us.
+# Psalm 78
+Wow! Great Psalm.
+
+Celebrates God’s might and deeds, and shows how Israel was unfaithful to Him, spite all His glory and all that He has done for them (us). But in His infinite mercy, He accepts our imperfect repentance of our terrible misery.
+
+**Psalm 78:34–38:**
+*34 When he slew them, they sought for him;*
+    *they repented and sought God earnestly.*
+*35 They remembered that God was their rock,*
+    *the Most High God their redeemer.*
+*36 But they flattered him with their mouths;*
+    *they lied to him with their tongues.*
+*37 Their heart was not steadfast toward him;*
+    *they were not true to his covenant.*
+*38 Yet he, being compassionate,*
+    *forgave their iniquity,*
+    *and did not destroy them;*
+    *he restrained his anger often,*
+    *and did not stir up all his wrath.*
+
+**Allegorical sense:**
+1. Attrition / imperfect contrition.
 # Psalm 104
 
 # Psalm 136
