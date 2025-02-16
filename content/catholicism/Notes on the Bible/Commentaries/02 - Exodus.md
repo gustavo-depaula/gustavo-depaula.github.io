@@ -170,7 +170,21 @@ Exodus ; Leviticus ; Psalm ;
 6. Moses fasts for 40 days, just as Jesus fasts for 40 days in the desert.
 
 **Moral sense:**
-7. Be faithful to God, as the people of Israel expressed they would be (not as they did after): (Ex 24:7) *“All The LORD has spoken, we will do, and we will be obedient”*.
+1. Be faithful to God, as the people of Israel expressed they would be (not as they did after): (Ex 24:7) *“All The LORD has spoken, we will do, and we will be obedient”*.
+# Chapter 25
+**Key themes:**
+1. God gives instructions on how to build the sanctuary where He will dwell in. He gives instructions on how to build the Ark of the Covenant, that will have the Mercy Seat and will store the stone tablets of the Decalogue, the jar of Manna and the rod of Aron.
+
+**Allegorical sense:**
+1. Manna itself is already a prefiguration the Eucharist. The Ark of the Covenant is a prefiguration to the modern Eucharistic Tabernacle present in Catholic Churches today. As with the consecrated hosts, God is truly present in a mysterious way in the Ark of the Covenant.
+2. The Ark of the Covenant is also a prefiguration of Mary, the place where by the mystery of incarnation God chose to dwell in.
+
+**Questions:**
+1. What is the mercy seat?
+2. What is the bread of presence?
+# Chapter 26
+**Key themes:**
+1. Instructions on how to build the tabernacle, a portable sanctuary with several different separate parts. It contains altars for sacrifice and incense, the Ark, and the Table of the Bread of Presence. The Ark of the Covenant is placed in the Most Holy Place.
 # References
 
 **Ex 12:48**

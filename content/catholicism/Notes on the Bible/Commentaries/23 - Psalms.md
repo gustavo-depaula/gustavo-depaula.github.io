@@ -115,3 +115,6 @@ Celebrates God’s might and deeds, and shows how Israel was unfaithful to Him, 
 
 # Psalm 114
 The Psalmist refers to several miracles performed by God in Israel’s liberation of Egypt, while using a prosopopeia, asking the inanimate objects why they did the miracle.
+# Psalm 119
+## Verses 1-56
+Damn, this guy *really* loves the Law!!

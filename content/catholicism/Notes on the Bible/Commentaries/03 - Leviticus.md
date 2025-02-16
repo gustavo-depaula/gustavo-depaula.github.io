@@ -102,6 +102,15 @@ The procedures with well-defined garments, rituals, and the figure of the priest
 
 **Questions:**
 1. **Lv 18:21** *“to devote them by fire to Molech”* what does that mean? Human sacrifice to an idol?
+# Chapter 19
+**Key themes:**
+1. Recapitulates the Decalogue and the ordinances of the Covenant.
+
+**Literal sense:**
+1. Some sacrifices/offerings are and must be eaten (Lv 19:5).
+
+**Allegorical sense:**
+1. It is an abomination to eat the offering of a sacrifice outside of the stipulated rules (Lv 19:8), it is an abomination and his offering shall not be accepted. Just as it is a grave sacrilege to commune carrying mortal sins.
 # References
 
 **Lv 5:5-6**
