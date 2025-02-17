@@ -713,3 +713,9 @@ but Jacob/Israel, who is blind, purposefully, blessed Ephraim.
 1. **Gen 47:9** _"The days of my sojourning are …"_. Men are just pilgrims passing through this life. Our final destination is heaven, and after that the final bodily resurrection.
 
 # Chapters 49-50
+
+---
+# Reference
+
+**Genesis 9:22**
+*"And Ham, the father of Canaan, saw the nakedness of his father, and told his two brothers outside."* ^832867

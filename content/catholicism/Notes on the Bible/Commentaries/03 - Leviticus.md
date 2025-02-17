@@ -111,6 +111,13 @@ The procedures with well-defined garments, rituals, and the figure of the priest
 
 **Allegorical sense:**
 1. It is an abomination to eat the offering of a sacrifice outside of the stipulated rules (Lv 19:8), it is an abomination and his offering shall not be accepted. Just as it is a grave sacrilege to commune carrying mortal sins.
+
+# Chapter 20
+**Key themes:**
+1. Punishments for crimes in Chapter 18, basically, death penalty to all of them.
+2. All the ritual laws have the purpose of making Israel *Holy*, not only in the sense of sacredness and sanctity, but to the most basic, that is, *separated*, *set apart* (Ex 20:26).
+
+---
 # References
 
 **Lv 5:5-6**
@@ -125,3 +132,12 @@ But if he cannot afford two turtledoves or two young pigeons, then he shall brin
 
 **Lv 10:10**
 *You are to distinguish between the holy and the common, and between the unclean and the clean;*
+
+**Lv 18:6-8**
+*"None of you shall approach any one near of kin to him to uncover nakedness. I am the Lord. You shall not uncover the nakedness of your father, which is the nakedness of your mother; she is your mother, you shall not uncover her nakedness. You shall not uncover the nakedness of your father’s wife; it is your father’s nakedness."* ^acf9da
+
+**Lv 20:17**
+*"If a man takes his sister, a daughter of his father or a daughter of his mother, and sees her nakedness, and she sees his nakedness, it is a shameful thing, and they shall be cut off in the sight of the children of their people; he has uncovered his sister’s nakedness, he shall bear his iniquity."* ^b4924e
+
+**Lv 20:26**
+*"You shall be holy to me; for I the LORD am holy, and have separated you from the peoples, that you should be mine."* ^2488f5

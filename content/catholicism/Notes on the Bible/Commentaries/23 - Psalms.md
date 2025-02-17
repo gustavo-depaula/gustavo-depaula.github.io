@@ -116,5 +116,13 @@ Celebrates God’s might and deeds, and shows how Israel was unfaithful to Him, 
 # Psalm 114
 The Psalmist refers to several miracles performed by God in Israel’s liberation of Egypt, while using a prosopopeia, asking the inanimate objects why they did the miracle.
 # Psalm 119
-## Verses 1-56
-Damn, this guy *really* loves the Law!!
+**Key themes:**
+1. Damn, this guy *really* loves the Law!!
+2. TODO: I'll have to revisit this Psalm, it is great and profound, and with a quick research I have already seen too much that I need to digest and dig deeper.
+
+
+---
+# Reference
+
+**Ps 119:71**
+*"It is good for me that I was afflicted, that I might learn thy statues"*

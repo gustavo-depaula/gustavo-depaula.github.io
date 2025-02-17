@@ -185,6 +185,21 @@ Exodus ; Leviticus ; Psalm ;
 # Chapter 26
 **Key themes:**
 1. Instructions on how to build the tabernacle, a portable sanctuary with several different separate parts. It contains altars for sacrifice and incense, the Ark, and the Table of the Bread of Presence. The Ark of the Covenant is placed in the Most Holy Place.
+# Chapter 27
+**Key themes:**
+1. Instructions on how to build the altar for burnt offerings, the court, and the oil for the lamp.
+
+Access to the courtyard was open to all worshipers of Israel, priests and laymen.
+# Chapter 28
+**Key themes:**
+1. Instruction of how to make the holy garments the priests shall use. 
+
+**Literal sense:**
+1. The Holy Garments of the priests are a reflection of God's power and perfection. Their garments are made "for glory and for beauty" (Ex 28:2, Ex 28:40). Man is both body and spiritual, thus it is fitting that the holy things manifest God's glory through material means with expensive, beautiful, and well-made objects and places that use gold, bronze, and fine linen. The Catholic Church continues with this rich tradition with beautiful liturgy, churches, works of art, sacred objects and garments that provide a multi-sensory experience to the faithful, and that serve as a "window to the heavens" that makes it easier to lift up their hearts to the sacred mysteries and contemplate God's glory.
+2. The Holy Garments also de-emphasize the priest as an individual and serves as a uniform of the servant of the Lord. 
+3. **Ex 28:21** The breastplate with the twelve stones representing the twelve tribes of Israel signifies the priesthood duty to represent the people before God. When the priest approaches God, he is not approaching as an individual, but a representative that carries his people *in his heart*.
+
+---
 # References
 
 **Ex 12:48**
