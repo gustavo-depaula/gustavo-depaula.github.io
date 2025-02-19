@@ -115,6 +115,8 @@ Celebrates God’s might and deeds, and shows how Israel was unfaithful to Him, 
 
 # Psalm 114
 The Psalmist refers to several miracles performed by God in Israel’s liberation of Egypt, while using a prosopopeia, asking the inanimate objects why they did the miracle.
+# Psalm 115
+Contrasts God's power, that is in heaven and does whatever He wants (Ps 115:3), with the idols that have eyes but do not see, ears but do not hear, etc..., that are impotent, that have no power. And all of the ones that make and trust idols are impotent as them.
 # Psalm 119
 **Key themes:**
 1. Damn, this guy *really* loves the Law!!

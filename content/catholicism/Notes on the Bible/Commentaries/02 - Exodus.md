@@ -206,6 +206,21 @@ Access to the courtyard was open to all worshipers of Israel, priests and laymen
 **Allegorical sense:**
 3. In the rite of ordination, the priests are washed (prefiguration of baptism), clothed with priestly vestments (prefiguration of sacrament of ordination), anointed with oil (prefiguration of chrism), and do a series of offerings (prefiguration of eucharist).
 4. The New Testament elevates the rite of ordination to a Sacrament.
+# Chapter 30
+**Key themes:**
+1. God gives instructions on how to build the Altar of Incense, that stays inside the Holy Place, before the Most Holy Place.
+2. God institutes a annual tax of half a shekel for the maintenance of the tabernacle. Half a shekel for all men, rich and poor.
+
+**Allegorical sense:**
+1. St Bede says that the two altars of the tabernacle represent the two covenants of salvation: The altar of animal sacrifice outside the sanctuary represents the Old Covenant with its fleshly worship and the altar of incense, inside the sanctuary, stands for the more interior and perfect worship of the New Covenant.
+# Chapter 31
+**Key themes:**
+1. God appoints Bezalel of Judah to be chief architect and Oholiab of Dan to be his assistant, fills them with the Spirit of God giving them craftsmanship ability and intelligence to build the tabernacle.
+2. God gives Moses the Tables of the Covenant, two written stone tables with the Decalogue (although not explicitly said here).
+
+**Moral sense:**
+3. Engineering and artistical skills are spiritual gifts to be use in the service of our sanctification.
+4. We need the graces of the Holy Spirit to be capable of doing the plan of God for our lives.
 
 ---
 # References

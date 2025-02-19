@@ -122,6 +122,12 @@ The procedures with well-defined garments, rituals, and the figure of the priest
 
 **Analogical sense:**
 1. Lv 21:15 points to Mary’s perpetual virginity. God chooses the Blessed Virgin Mary to be His spouse and she remains pure and virgin and her lineage remains clean.
+# Chapter 22
+**Key themes:**
+1. No one while in a state of ritual uncleanliness shall eat of the holy offerings, it is a profanity. Sacrifices to God must be of animals without blemish.
+
+**Moral sense:**
+1. Offer what is best to the Lord, not what is left.
 
 ---
 # References
