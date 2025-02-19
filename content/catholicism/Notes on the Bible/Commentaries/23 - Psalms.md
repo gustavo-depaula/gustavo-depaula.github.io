@@ -126,3 +126,6 @@ The Psalmist refers to several miracles performed by God in Israel’s liberatio
 
 **Ps 119:71**
 *"It is good for me that I was afflicted, that I might learn thy statues"*
+
+**Ps 119:176**
+*“I have gone astray like a lost sheep; seek thy servant, for I do not forget thy commandments.“*

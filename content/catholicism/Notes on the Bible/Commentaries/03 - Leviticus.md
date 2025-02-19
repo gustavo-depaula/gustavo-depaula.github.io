@@ -111,11 +111,17 @@ The procedures with well-defined garments, rituals, and the figure of the priest
 
 **Allegorical sense:**
 1. It is an abomination to eat the offering of a sacrifice outside of the stipulated rules (Lv 19:8), it is an abomination and his offering shall not be accepted. Just as it is a grave sacrilege to commune carrying mortal sins.
-
 # Chapter 20
 **Key themes:**
-1. Punishments for crimes in Chapter 18, basically, death penalty to all of them.
-2. All the ritual laws have the purpose of making Israel *Holy*, not only in the sense of sacredness and sanctity, but to the most basic, that is, *separated*, *set apart* (Ex 20:26).
+2. Punishments for crimes in Chapter 18, basically, death penalty to all of them.
+3. All the ritual laws have the purpose of making Israel *Holy*, not only in the sense of sacredness and sanctity, but to the most basic, that is, *separated*, *set apart* (Ex 20:26).
+# Chapter 21
+**Key themes:**
+1. Priests are specially holy (set apart), because of their unique status of being consecrated to the LORD. Thus, they have stricter rule on ritual uncleanliness.
+2. The High Priest have stricter rules. The High Priest shall only marry a woman who is virgin, so that he doesn’t mix his bloodline with the common people. (Lv 21:15)
+
+**Analogical sense:**
+1. Lv 21:15 points to Mary’s perpetual virginity. God chooses the Blessed Virgin Mary to be His spouse and she remains pure and virgin and her lineage remains clean.
 
 ---
 # References
@@ -141,3 +147,6 @@ But if he cannot afford two turtledoves or two young pigeons, then he shall brin
 
 **Lv 20:26**
 *"You shall be holy to me; for I the LORD am holy, and have separated you from the peoples, that you should be mine."* ^2488f5
+
+**Lv 21:14-15**
+*“A widow, or one divorced, or a woman who has been defiled, or a harlot, these he shall not marry; but he shall take to wife a virgin of his own people, that he may not profane his children among his people; for I am the Lord who sanctify him”* ^00a4cc

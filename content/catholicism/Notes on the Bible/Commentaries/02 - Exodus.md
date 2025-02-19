@@ -198,6 +198,14 @@ Access to the courtyard was open to all worshipers of Israel, priests and laymen
 1. The Holy Garments of the priests are a reflection of God's power and perfection. Their garments are made "for glory and for beauty" (Ex 28:2, Ex 28:40). Man is both body and spiritual, thus it is fitting that the holy things manifest God's glory through material means with expensive, beautiful, and well-made objects and places that use gold, bronze, and fine linen. The Catholic Church continues with this rich tradition with beautiful liturgy, churches, works of art, sacred objects and garments that provide a multi-sensory experience to the faithful, and that serve as a "window to the heavens" that makes it easier to lift up their hearts to the sacred mysteries and contemplate God's glory.
 2. The Holy Garments also de-emphasize the priest as an individual and serves as a uniform of the servant of the Lord. 
 3. **Ex 28:21** The breastplate with the twelve stones representing the twelve tribes of Israel signifies the priesthood duty to represent the people before God. When the priest approaches God, he is not approaching as an individual, but a representative that carries his people *in his heart*.
+# Chapter 29
+**Key themes:**
+1. Describes the rite of ordination of priests and the daily offerings / liturgy the priests do.
+2. God reveals that He will dwell in the tent of meeting. (Ex 29:45)
+
+**Allegorical sense:**
+3. In the rite of ordination, the priests are washed (prefiguration of baptism), clothed with priestly vestments (prefiguration of sacrament of ordination), anointed with oil (prefiguration of chrism), and do a series of offerings (prefiguration of eucharist).
+4. The New Testament elevates the rite of ordination to a Sacrament.
 
 ---
 # References
