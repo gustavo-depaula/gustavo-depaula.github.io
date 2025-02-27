@@ -24,3 +24,5 @@ runway segmentation:
 - Vision Based Automatic Landing with Runway Identification and Tracking https://ieeexplore.ieee.org/document/8581208
 
 
+video generation:
+- https://github.com/Wan-Video/Wan2.1
