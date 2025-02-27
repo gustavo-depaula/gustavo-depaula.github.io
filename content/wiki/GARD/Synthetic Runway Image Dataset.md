@@ -1,5 +1,42 @@
 # Introduction
 
+Aviation is regarded as highly safe medium of transportation, and is marked by high-degrees of automation, reducing the biggest cause of accidents, pilot error [Factors associated with pilot error in aviation crashes]. The increase in automation reduces cognitive, fatigue, and inexperience risks for pilots and is and important factor, alongside better training and safety regulations, to the to the rapidly decrease in the fatal accidents rate [Airbus Fatal Accidents].
+
+Although the approach and landing phases of the flight are the minority of the flight time, the constitute the absolute majority of fatalities, this data being corroborated by the two major commercial airplane companies Boeing (https://skybrary.aero/sites/default/files/bookshelf/2990.pdf), and Airbus (Accidents by Flight Phase).
+
+Contributing as a risk-factor, the approach and landing phases are flight parts that require heavy human intervention. This has contributed to an increased interest in the development of autoland systems, which are systems that can autonomously navigate the civil aircraft or UAV (unmanned aerial vehicle, e.g. drones) during the landing procedure. Currently, most autoland systems are based on radio signals that provide guidance to the system, such as ILS (instrument landing system) or PAR (precision approach radar).
+
+Radio-based autonomous landing systems have the advantage of allowing the landing in extremely adverse weather conditions and low visibility, but they have a high-cost of deployment and maintenance, can suffer from electromagnetic and radio interference, and require on-the-ground specialized equipment to support the aircraft (e.g. localizer and glideslope).
+
+The recent advancements in the Computer Vision field have sparked increasing interest (https://www.airbus.com/en/newsroom/press-releases/2020-06-airbus-concludes-attol-with-fully-autonomous-flight-tests) in developing vision-based autoland systems, which use visual navigation to guide the aircraft during the approach and landing phases. In [Vision-Based Autonomous Landing for the UAV: A Review], the authors describe key advantages of vision-based autoland systems for UAV: autonomy, low cost, resistance to interference, and ability to be combined with other navigation methods for higher accuracy. Vision based landing is especially attractive for drones that often need to land in extreme situations when in military use, environmental monitoring, and disaster relief, where runways may not have the necessary equipment for radio-based systems. 
+
+
+
+
+The problem:
+- accidents in approach/landing phase, it is in the most need for human intervention
+- current methods are expensive and have flaws in certain situations
+
+
+
+
+The solution:
+- automated vision based landing
+- what are the parts of a vision based landing system
+	- runway detection / runway segmentation
+
+Challenges for runway detection / segmentation:
+- dataset quality
+
+
+
+
+The main contributions of this paper are as follows:
+- the dataset
+- the method that can be used for data augmentation alongside current datasets
+
+
+
 The template I chose for this project is "Gather your own dataset".
 
 This project intends to use state-of-the-art image generation models such as Latent Diffusion Models popularized by Stable Diffusion to generate a synthetic aircraft runway image dataset to be used in vision-based landing tasks. This approach can greatly increase the availability of runway images to be used in other research projects, and, by sharing the models weights freely, allow other researchers to generate their own synthetic dataset with their own desired characteristics.
