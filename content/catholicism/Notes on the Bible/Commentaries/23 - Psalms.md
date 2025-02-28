@@ -109,6 +109,8 @@ Celebrates God’s might and deeds, and shows how Israel was unfaithful to Him, 
 
 **Allegorical sense:**
 1. Attrition / imperfect contrition.
+# Psalm 79
+A Psalm lamenting the destruction of Jerusalem, and asking for God’s mercy for the people and punishment for the enemies.
 # Psalm 104
 
 # Psalm 136

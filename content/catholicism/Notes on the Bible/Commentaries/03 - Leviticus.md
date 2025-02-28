@@ -128,6 +128,20 @@ The procedures with well-defined garments, rituals, and the figure of the priest
 
 **Moral sense:**
 1. Offer what is best to the Lord, not what is left.
+# Chapter 23
+**Key themes:**
+1. The appointed feasts of the Lord. Each has specificities of what is done, but all of them are solemn days of rest and of holy convocation. They are:
+	1. **Weekly Sabbath**.
+	2. **Passover and unleavened bread**: eat unleavened bread for seven days, present offerings by fire for seven days.
+	3. **Firstfruits**: offer the first harvest to God, after entering the Promised land, present offerings.
+	4. **Weeks (pentecost)**: celebration of wheat harvest.
+		1. Always leave part of the harvest to the poor and the stranger (Lv 23:22).
+	5. **Trumpets (Rosh Hashanah)**: day of rest and trumpet blasts.
+	6. **Atonement (Yom Kippur)**: day of fasting and repentance.
+	7. **Tabernacles (Sukkot)**: celebrates God’s provision in the wilderness.
+
+**Allegorical sense:**
+1. The Church continues this tradition with Holy Days of obligation where the faithful must watch Mass, and usually are holidays.
 
 ---
 # References

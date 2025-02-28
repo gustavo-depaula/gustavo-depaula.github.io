@@ -222,6 +222,22 @@ Access to the courtyard was open to all worshipers of Israel, priests and laymen
 3. Engineering and artistical skills are spiritual gifts to be use in the service of our sanctification.
 4. We need the graces of the Holy Spirit to be capable of doing the plan of God for our lives.
 
+# Chapter 32
+**Key themes:**
+1. While Moses was up in the Mount Sinai, the people of Israel got tired of Moses and begged Aaron to make them “gods”. Aaron gets their gold and makes an idol, a golden calf, and an altar to make offerings to the god.
+2. Moses intercedes for Israel begging God to not destroy them, destroys the idol and gather those who wanted to be on the Lord’s side, which the Levites (sons of Levi) did.
+3. The Levites are ordered to kill their brothers, companions, and neighbors. They obey, and are ordained for the service of the Lord.
+4. God sends a plague as divine discipline for the sin of idolatry.
+
+**Literal sense:**
+1. Aaron might have tried to make the idolatry and apostasy less worse by: only making one idol instead of multiple as the people asked and proclaiming a feast to the Lord (YHWH).
+
+**Allegorical sense:**
+1. Moses acts a type of Christ in offering his own life to spare his people (Ex 32:32). This is similar to what St Paul contemplates in Rom 9:3.
+
+**Anagogical sense:**
+1. **Ex 32:33** God remembers the wicked and their deeds and will punish them in the after life.
+
 ---
 # References
 
