@@ -34,12 +34,6 @@ This approach can greatly increase the availability of runway images to be used 
 
 This new dataset is evaluated both theoretically by measuring the similarity of generated images to real images using metrics such as Fréchet Inception Distance (FID) and Structural Similarity Index (SSIM), and practically by introducing a runway detection and segmentation pipeline based on state-of-the-art models and comparing the performance of the model when training it with an existing dataset and when training with the new dataset.
 
-# Motivation
-
-Currently, there is an increasing interest in autonomous systems in the aerospace field. Commercial airplanes already have autopilot when the aircraft is in cruise mode, but takeoff and landing are still heavily in the pilots' hands. Machine learning models are a promising approach to help in vision-based landing, specially in the runway detection component.
-
-Contemporary machine learning techniques usually require 10s or 100s of thousands of items in a dataset. But there are few open-source datasets of aerial images that can be used in the task of runway detection. Synthetic image dataset generation can be a viable strategy to bridge this gap of data availability.
-
 # Literature Review
 
 In this section, prior work on building a runway dataset is reviewed and critiqued. Four well-known, publicly available runway images datasets are reviewed. Additionally, papers relevant to the methodology are reviewed as well.
