@@ -112,6 +112,10 @@ Both forms of testing are valid and have their trade-offs. Theoretical similarit
 
 # Design
 
+
+
+# Old Design
+
 ## Methodology
 
 The background research has shown the importance of datasets for researchers working on the field of detecting runways for the task of automated aircraft vision-based landing. Real-image datasets are too small to be used in deep-learning model training. Synthetic datasets bridge the gap of data availability and use simulated images from programs such as X-Plane, Microsoft Flight Simulator and Google Earth to generate the runway images.
