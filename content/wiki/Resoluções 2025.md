@@ -58,3 +58,25 @@ Melhorar:
 Péssimo:
 1. **Formar-me na faculdade!** Esse tem sido difícil, meu Final Project tem falhado espetacularmente....
 2. Basicamente nada do pessoal consegui. Talvez a rotina diária foi o que melhor consegui acertar, a Missa Diária ajudou muito nisso.
+
+# Fevereiro
+Escrevendo isso no dia 5 de Março. 
+
+Indo bem:
+1. Aniversário de 3 anos de namoro hoje! (5/3)
+2. Aumento de salário conquistado! Acima do esperado.
+3. **Formar-me na faculdade**: Bem melhor do que no último mês. Fui iluminado pela graça Divina e achei uma solução que permite criar boa imagens. Estou agora escrevendo a parte escrita para depois voltar e terminal a parte prática. [[Synthetic Runway Image Dataset]]. Porém, a maior dedicação para as coisas de faculdade acabaram tomando tempo das outras coisas.
+4. Doações para projetos de caridade.
+5. \[Segredo] está encaminhado.
+
+Melhorar:
+1. Ler a Bíblia. Comecei a ficar atrasado no schedule. Estou no dia 48 e o podcast já está no dia 64.
+
+Péssimo:
+1. Vida de oração, tudo está fora do eixo: orando pouco e orando mal. 
+2. Lá pelo meio de fevereiro também parei de ir à Missa diariamente.
+3. Todo o resto do pessoal e da seção de Caridade que não seja doações.
+
+
+
+
