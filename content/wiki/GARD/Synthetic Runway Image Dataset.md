@@ -112,6 +112,57 @@ Both forms of testing are valid and have their trade-offs. Theoretical similarit
 
 # Design
 
+## Project overview
+
+The literature review has shown the importance of large-scale, public, and diverse datasets for deep-learning projects, specifically, in the field of runway detection and segmentation, where there is currently a lack of a dataset of real images with these characteristics. To address this challenge, previous work on the field has relied on synthetic data, mainly collected from flight simulators, which poses a significant cost barrier to the expansion of these datasets as these simulators are usually paid and closed-source, and the collected images require manual labelling.
+
+At the same time, the emergence of diffusion models as the new state-of-the-art technique in image generation has opened a new window of opportunity in building synthetic datasets. Although this idea of using diffusion models to build synthetic datasets has been explored in other fields, there is no known work applying it to the runway segmentation research field.
+
+This project's primary research question is how can a suitable synthetic image dataset be built for computational vision tasks without the need of images extracted from simulators or similar solutions. To answer this question, the project uses the field of vision-based landing and builds a synthetic runway image dataset.
+
+The primary users of this project are researchers that may use the dataset and techniques provided in this project to build models for runway detection. Secondary users might be researchers interested in synthesizing their own datasets for computational vision tasks such as classification or segmentation.
+
+With these end-users in mind, this projects delivers a two-fold contribution: a novel modular data augmentation pipeline that can increase the diversity of an existing dataset, while maintaining key features and structures; and using this data augmentation pipeline to generate a fully synthetic runway images dataset based on existing public datasets.
+
+The proposed research question begs the question of what constitutes a "suitable synthetic image dataset". Here, we rank the following characteristics that make an image dataset suitable:
+
+1. **Human-judged realism**: humans subjectively judge the images as credible and realistic. When comparing side-by-side the images of the generated dataset with other datasets, the perceived quality of the images are the same or better.
+2. **Detection by existing models**: fine-tuned models on available datasets can detect the presence and segmentation of the desired data (runways in this project) in the images.
+3. **Data diversity**: the dataset has good data diversity, including edge cases and several data variations.
+4. **Model training**: an existing architecture can be trained on the dataset and achieve a reasonable performance or a pre-trained model can be fine-tuned and have their performance improved.
+
+## Data augmentation pipeline
+
+On earlier prototypes, several diffusion techniques such as prompt engineering, prompt weighting, unconditional image generation, inpainting and textual inversion were tried. Most of them failed to, standalone, generate realistic runway images with detailed and accurate markings. The most successful attempt was using ControlNet with an input canny edge, alongside well-crafted prompts to guide the text-to-image model. Because the canny edge was extracted from an existing runway image, the generated image faithfully respected the runway shape, position, markings and texture. Thus, the data augmentation pipeline is based around using a text-to-image diffusion model with ControlNet.
+
+The data augmentation pipeline is composed of five separate modules, that can each be independently developed and improved, or totally replaced without affecting the overall functioning of the pipeline. This modularity and separation of concerns is good software engineering practice and aids on future research developing on this project.
+
+**Template image selection module**: this step selects the "template images" that will be used in the pipeline. The template images are existing images in public datasets that are used to extract the overall structure of the image containing the runway to be used in the image generation step. Ideal template images have clear visibility of the runway and the surrounding background.  The output of this module is a folder with pairs of image files and label files. This module could be automated by using a combination of a runway detection software to filter ambiguous images and image description software to filter bad weather or bad lighting conditions. Or, this module could be done with manual help with a tool that allowed the human to either accept or reject an image.
+
+**Edge extraction module**: this step uses the template images as input, processes them, and outputs canny edge images, to be used as inputs for ControlNet, alongside the according label for that image.
+
+**Base Image generation module**: this step uses as inputs the canny edges, a list of text prompts, and a number of how many images should be generated for each pair of canny edge and prompt. It then uses a text-to-image model with ControlNet to generate base images. These images should be, similarly to the template ones, images with clear visibility of the runway and its surroundings. Thus, although we expect high-quality images as output, it will not be a diverse set of images. This module also outputs the labels for each image, adding metadata of what model, seed, and prompt was used.
+
+**Filtering module**: this step filters out the bad images generated in the previous module. Similarly to the template selection module, it can be done manually or automated by a runway detection tool.
+
+**Variant image generation module**: this module uses as input the filtered base images and a list of "diversity prompts". These diversity prompts are text prompts designed to be an input to an image-to-image model, so that the base dataset generated can be expanded to have more diversity in terms of background scenery, weather, and lighting conditions.
+
+## Evaluation
+
+Following the standards of evaluation of synthetic datasets presented in the literature review, and our definition of what constitutes a suitable synthetic dataset, two types of evaluation will be done on the dataset: intrinsic and experimental evaluation.
+
+Intrinsic evaluation measures the quality of a dataset by its intrinsic characteristics, such as image realism, resolution, diversity, and size. Ideally, to judge human-based realism, a group of subject experts would be assembled to judge the images, but because of time-constraints, this won't be done.
+
+Instead, it will be replaced by metrics of image similarity between template images and the generated base images. Through metrics such as FID (Fréchet Inception Distance) and SSIM (Structural Similarity Index) it is possible to know how similar or different the images are from one another, and if they retain a similar structure such as the runway shape, position, and markings, and a similar background.
+
+Other metrics such as size and image resolution will be reported. Data diversity will also be reported based on the generated images' text prompts. This doesn't guarantee full accuracy as there is a possibility of the model "hallucinating" and not generating a certain desired characteristic (e.g. rain, snow, runway occlusion), but nonetheless allows a good estimate to be reported.
+
+Experimental evaluation is about using the dataset to train one or a collection of models and evaluating their performance empirically. It is an imperfect measurement, as there is a lot of moving parts when training a model, and, as seen on the literature review, a poor performance might be due to the dataset quality or an inherent flaw in the model's architecture. However, this type of evaluation is still widely used and a standard in testing synthetic datasets.
+
+As it is not the focus of this project building a new architecture for runway segmentation, the experimental evaluation will be restricted to training and fine-tuning existing detection and segmentation models, such as YOLO.
+
+Using a pre-trained segmentation model, comparisons will be made between the performance of training on this new synthetic dataset and of existing datasets, and the resulting performance when detecting a real images dataset. Also helping in assessing the realism of the images in the synthetic dataset, the accuracy of a model trained on an existing dataset trying to detect runways on the synthetic dataset will be reported.
+
 
 
 # Old Design
@@ -208,34 +259,7 @@ If time permits, there could be a quantitative metric:
 3. **Feasibility**: Due to time constraints, this may be done at a small scale.
 4. **Critique**: There is the possibility that accuracy metrics decrease when training with the new dataset. If the images in the dataset closely mimic reality, it could be the case that performance decreases because existing models are not suitable for real-world challenges.
 
-## Project timeline
 
-| Week | Start Date | Tasks                                                                                                    | Due Dates                      |
-| ---- | ---------- | -------------------------------------------------------------------------------------------------------- | ------------------------------ |
-| 1    | 13/10      | Choose project idea                                                                                      |                                |
-| 2    | 20/10      | Pitch rough project idea                                                                                 |                                |
-| 3    | 27/10      | Work on project proposal;<br>Study research ethics                                                       |                                |
-| 4    | 3/11       | Work on project proposal;<br>Study previous work                                                         |                                |
-| 5    | 10/11      | Start Literature Review                                                                                  | Project Proposal - 11/11       |
-| 6    | 17/11      | Finish Literature Review                                                                                 |                                |
-| 7    | 24/11      | Start working in project design                                                                          |                                |
-| 8    | 1/12       | Work on evaluation plan;<br>Finish project desing                                                        |                                |
-| 9    | 8/12       | Prototype on Unconditional Image Generation;<br>Start working on prototype;<br>Record video of prototype |                                |
-| 10   | 15/12      | Start working on text-to-image generation;<br>Prompt engineering and weighting;                          | Preliminary Report - 16/12     |
-| 11   | 22/12      | Recess                                                                                                   |                                |
-| 12   | 29/12      | Recess                                                                                                   |                                |
-| 13   | 5/1        | Work on text-to-image generation;<br>Textual Inversion;                                                  |                                |
-| 14   | 12/1       | Work on text-to-image generation;<br>DreamBooth;                                                         |                                |
-| 15   | 19/1       | Start working on evaluation;<br>Simple Runway classifier model                                           |                                |
-| 16   | 26/1       | Finish classifier model;<br>Start working on image-to-image model;<br>ControlNet                         | Draft Report - 27/01           |
-| 17   | 2/2        | Work on image-to-image model;<br>Inpainting                                                              |                                |
-| 18   | 9/2        | Start generating final dataset                                                                           |                                |
-| 19   | 16/2       | Generate final dataset                                                                                   |                                |
-| 20   | 23/2       | Evaluate final dataset                                                                                   |                                |
-| 21   | 2/3        | Recess                                                                                                   |                                |
-| 22   | 9/3        | Finish project report                                                                                    | Exam - 10/3                    |
-| 23   | 16/3       | Review final report                                                                                      |                                |
-| 24   | 23/3       |                                                                                                          | Final Report submission - 24/3 |
 # Prototype
 
 To demonstrate the feasibility of the project, a small-scale dataset is produced using Unconditional Image Generation. Usually, in image generation models, there are inputs that guide the image generation process such as a prompt or initial starting image. This is not the case in unconditional generation, where the model starts from random noise and has no guidance. The result is that after training, the model should output images that look like the dataset it was trained on.
