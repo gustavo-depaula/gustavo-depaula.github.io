@@ -111,6 +111,8 @@ Celebrates God’s might and deeds, and shows how Israel was unfaithful to Him, 
 1. Attrition / imperfect contrition.
 # Psalm 79
 A Psalm lamenting the destruction of Jerusalem, and asking for God’s mercy for the people and punishment for the enemies.
+# Psalm 80
+A Psalm asking for God's mercy in Israel's restoration. It remembers God's deeds in liberating Israel from Egypt, and asks God to do it again.
 # Psalm 104
 
 # Psalm 136

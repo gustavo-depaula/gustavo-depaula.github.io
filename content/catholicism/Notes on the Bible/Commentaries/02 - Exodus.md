@@ -237,6 +237,24 @@ Access to the courtyard was open to all worshipers of Israel, priests and laymen
 
 **Anagogical sense:**
 1. **Ex 32:33** God remembers the wicked and their deeds and will punish them in the after life.
+# Chapter 33
+**Key themes:**
+1. God commands Israel to leave Sinai to go to the promised land, where He will send an angel to drive out the enemies.
+2. Because of Israel's disobedience, He says that He won't go with Israel to the promised land, but concedes to Moses' intercession that asked He to go with the people.
+3. Moses desires to see God's glory, but only is allowed to see God's "back".
+
+# Chapter 34
+**Key themes:**
+1. God renews the Covenant by remaking the two tables of stone, and giving new rules to Moses.
+2. Firstborns now need to be redeemed from the Lord (Ex 34:20), instead of being set apart (Ex 22:29).
+3. Moses' face shone after speaking to the Lord.
+
+**Allegorical sense:**
+1. Moses is the mediator between the Lord and Israel. Moses is a type of Christ, prefiguring THE eternal and perfect mediator.
+
+**Moral sense:**
+1. The people of Israel shall not make a covenant with the people of the land, lest they become like them. Walking with God requires us to act differently than those who don't.
+
 
 ---
 # References
@@ -251,4 +269,7 @@ Access to the courtyard was open to all worshipers of Israel, priests and laymen
 *If you lend money to any of my people with you who is poor, you shall not be to him as a creditor, and you shall not exact interest from him.* ^a023e5
 
 **Ex 24:8**
-*“Behold the blood of the covenant which the LORD has made with you in accordance with all these words.”*
+*“Behold the blood of the covenant which the LORD has made with you in accordance with all these words.”* ^938446
+
+**Ex 34:15**
+*"lest you make a covenant with the inhabitants of the land, and when they play the harlot after their gods and sacrifice to their gods and one invites you, you eat of his sacrifice"* ^e3fc7f

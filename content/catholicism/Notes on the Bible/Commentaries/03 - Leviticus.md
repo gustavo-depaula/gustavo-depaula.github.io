@@ -143,6 +143,11 @@ The procedures with well-defined garments, rituals, and the figure of the priest
 **Allegorical sense:**
 1. The Church continues this tradition with Holy Days of obligation where the faithful must watch Mass, and usually are holidays.
 
+# Chapter 24
+**Key themes:**
+1. Specifications for the lamp and bread for the tabernacle.
+2. Specifies death punishment for blasphemy and homicide. Establishes law of retribution (Lv 24:20).
+
 ---
 # References
 
