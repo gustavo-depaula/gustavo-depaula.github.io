@@ -148,6 +148,12 @@ The procedures with well-defined garments, rituals, and the figure of the priest
 1. Specifications for the lamp and bread for the tabernacle.
 2. Specifies death punishment for blasphemy and homicide. Establishes law of retribution (Lv 24:20).
 
+# Chapter 25
+**Key themes:**
+1. Sabbatical year for the land; God grants a big harvest on the sixth year that lasts for three years.
+2. Establishes Jubilee year.
+
+
 ---
 # References
 

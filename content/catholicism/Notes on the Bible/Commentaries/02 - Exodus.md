@@ -255,6 +255,18 @@ Access to the courtyard was open to all worshipers of Israel, priests and laymen
 **Moral sense:**
 1. The people of Israel shall not make a covenant with the people of the land, lest they become like them. Walking with God requires us to act differently than those who don't.
 
+#  Chapter 35
+**Key themes:**
+1. Repetition of prohibition of working on the Sabbath.
+2. Repetition of command to do the tabernacle and everything that was inside it. 
+3. The tabernacle is done exclusively with donations from the congregation.
+4. Moses proclaims to Israel that Bezalel and Oholiab have been filled with the Spirit of God, gaining knowledge and hand-craftsmanship ability.
+
+# Chapter 36
+**Key themes:**
+1. The people donate much more than is necessary, so Moses says to them to stop donating.
+2. Construction of the tabernacle begins.
+
 
 ---
 # References

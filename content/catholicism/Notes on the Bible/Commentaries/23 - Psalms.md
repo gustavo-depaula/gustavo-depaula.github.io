@@ -113,6 +113,8 @@ Celebrates God’s might and deeds, and shows how Israel was unfaithful to Him, 
 A Psalm lamenting the destruction of Jerusalem, and asking for God’s mercy for the people and punishment for the enemies.
 # Psalm 80
 A Psalm asking for God's mercy in Israel's restoration. It remembers God's deeds in liberating Israel from Egypt, and asks God to do it again.
+# Psalm 81
+Starts as a praise Psalm. Then God speaks, remembering all He has done for Israel, and lamenting how Israel is not listening to His voice, and instead, going their own separate way, and this is causing suffering for the people.
 # Psalm 104
 
 # Psalm 136
