@@ -267,6 +267,9 @@ Access to the courtyard was open to all worshipers of Israel, priests and laymen
 1. The people donate much more than is necessary, so Moses says to them to stop donating.
 2. Construction of the tabernacle begins.
 
+# Chapter 37 & 38
+**Key themes:**
+1. Continued construction of the tabernacle: the ark of the covenant, table of the bread of presence, lampstand, altar of incense, anointing oil and incense, altar of burnt offering, laver and the court. Mostly using gold, and sometimes silver.
 
 ---
 # References

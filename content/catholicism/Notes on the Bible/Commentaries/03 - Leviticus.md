@@ -153,6 +153,21 @@ The procedures with well-defined garments, rituals, and the figure of the priest
 1. Sabbatical year for the land; God grants a big harvest on the sixth year that lasts for three years.
 2. Establishes Jubilee year.
 
+# Chapter 26
+**Key themes:**
+1. Repeats the prohibition of making idols and graven images.
+2. Establishes reward for obedient following of the Lord’s commandments and punishments for disobedience.
+3. One of the punishments is scattering Israel among its enemies’ nations.
+4. If they confess their iniquity (Lv 26:40), God will remember His covenant.
+
+**Literal sense:**
+1. It seems that the rewards/punishments are on a societal/group-level and not individual.
+
+**Allegorical sense:**
+1. **Lv 26:41** *“uncircumcised heart”*, circumcision as a symbol of purity. Circumcision in the new testament is Baptism that washes the soul.
+
+**Questions:**
+1. The catholic/orthodox position on icon veneration is that it was always allowed (and what was not allowed was idols) or that Christ incarnation changes this, as now there is a visible image of God?
 
 ---
 # References

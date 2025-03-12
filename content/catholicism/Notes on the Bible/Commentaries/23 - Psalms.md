@@ -115,6 +115,8 @@ A Psalm lamenting the destruction of Jerusalem, and asking for God’s mercy for
 A Psalm asking for God's mercy in Israel's restoration. It remembers God's deeds in liberating Israel from Egypt, and asks God to do it again.
 # Psalm 81
 Starts as a praise Psalm. Then God speaks, remembering all He has done for Israel, and lamenting how Israel is not listening to His voice, and instead, going their own separate way, and this is causing suffering for the people.
+# Psalm 82
+God, stands up in the divine council (?), and judges the gods (apparently, judges and people in positions in power), because they only judge the weak and the sinners, and not the powerful. But the “gods” will die and fall as normal people.
 # Psalm 104
 
 # Psalm 136
