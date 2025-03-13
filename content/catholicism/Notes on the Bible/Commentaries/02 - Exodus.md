@@ -271,6 +271,16 @@ Access to the courtyard was open to all worshipers of Israel, priests and laymen
 **Key themes:**
 1. Continued construction of the tabernacle: the ark of the covenant, table of the bread of presence, lampstand, altar of incense, anointing oil and incense, altar of burnt offering, laver and the court. Mostly using gold, and sometimes silver.
 
+# Chapter 39 & 40
+**Key themes:**
+1. Making of the priests’ garments.
+2. Tabernacle is finished and erected.
+3. Aaron and his sons are enlisted as a hereditary priesthood.
+4. God was mysteriously, but really, present in the tabernacle through a cloud that abode upon it by day and fire by night, and His glory filled the tabernacle.
+
+**Allegorical sense:**
+1. Connection between the building of the tabernacle and the creation of the universe. Seven sayings/commandments by God; Moses/God “saw” it by the end;
+
 ---
 # References
 

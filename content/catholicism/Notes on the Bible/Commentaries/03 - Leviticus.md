@@ -169,6 +169,12 @@ The procedures with well-defined garments, rituals, and the figure of the priest
 **Questions:**
 1. The catholic/orthodox position on icon veneration is that it was always allowed (and what was not allowed was idols) or that Christ incarnation changes this, as now there is a visible image of God?
 
+# Chapter 27
+**Key themes:**
+1. Deals with voluntary vows and dedication (not mandatory). People could offer their “work value” to the temple as a symbol of offering themselves.
+2. People could dedicate animals (if they weren’t firstborn), houses, and land. And had to pay a fifth more to redeem them.
+3. The tithe was automatically God’s, and had to pay a fifth more to redeem it.
+
 ---
 # References
 
