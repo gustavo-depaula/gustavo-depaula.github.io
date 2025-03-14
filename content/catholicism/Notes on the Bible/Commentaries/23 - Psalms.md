@@ -119,6 +119,8 @@ Starts as a praise Psalm. Then God speaks, remembering all He has done for Israe
 God, stands up in the divine council (?), and judges the gods (apparently, judges and people in positions in power), because they only judge the weak and the sinners, and not the powerful. But the “gods” will die and fall as normal people.
 # Psalm 83
 A plead to God to not keep still and do something about the enemies of Israel that seek to destroy it.
+# Psalm 84
+A Psalm of praise, exalting God, and how good it is to have God’s presence in one’s life. Blessed are the ones who put their strength in God. It is better to be little in the Kingdom of God that big in the world of wickedness.
 # Psalm 104
 
 # Psalm 136
