@@ -13,3 +13,6 @@ It is called Numbers because it starts by numbering the people of Israel. It con
 
 **Questions:**
 1. What do these numbers represent?
+# Chapter 2
+**Key themes:**
+1. Numbering of the tribes of Israel and where they should stay in the camp.
