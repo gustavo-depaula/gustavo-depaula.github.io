@@ -123,6 +123,8 @@ A plead to God to not keep still and do something about the enemies of Israel th
 A Psalm of praise, exalting God, and how good it is to have God’s presence in one’s life. Blessed are the ones who put their strength in God. It is better to be little in the Kingdom of God that big in the world of wickedness.
 # Psalm 85
 Starts by recognizing how the Lord was favorable in the past, restoring the fortunes of Jacob, forgiving iniquity and sin, and withdrawing His wrath. Then, asks for God to do it again, contemplating the good results of it, and ends in a hopeful feeling.
+# Psalm 87
+A Psalm praising Zion, the city of God. I don’t understand “this one was born there”.
 # Psalm 104
 
 # Psalm 136

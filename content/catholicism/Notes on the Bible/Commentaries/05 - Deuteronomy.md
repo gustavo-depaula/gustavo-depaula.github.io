@@ -25,6 +25,10 @@ In structure, it closely resembles the Near Eastern vassal treaty, especially th
 1. We cannot fight our spiritual warfare against sin without God.
 # Chapter 2
 **Key themes:**
-1. Israel wandered in the desert for forty years, and in the mean time, passed through the lands of Esau, Moab, and Ammon. After the whole generation of men fit for war died, God commanded them to take land, starting with Sihon the Amorite, king of Heshbon.
+1. Israel wandered in the desert for forty years, and in the mean time, passed through the lands of Esau, Moab, and Ammon. After the whole generation of men fit for war died, God commanded them to take land, starting with Sihon the Amorite, king of Heshbon, totalling destroying them and destroying every city, men, women, and children.
 2. The Lord has blessed other people and has given them land, which Israel should not take. Esau got Mount Seir; The sons of Lot (Moab) got Ar and the land of the sons of Ammon;
-
+# Chapter 3
+**Key themes:**
+1. The conquest of Og, the King of Bashan, destroying every city, men, women, and children.
+2. Moses gives the conquered land to the Reubenites, the Gadites, and to Manasseh.
+3. Moses asks to God to go to the promised land, but God denies him (do not know the exact reason), but allows him to see the land standing upon a hill, and commands him to not ask anymore.

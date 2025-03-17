@@ -16,3 +16,8 @@ It is called Numbers because it starts by numbering the people of Israel. It con
 # Chapter 2
 **Key themes:**
 1. Numbering of the tribes of Israel and where they should stay in the camp.
+# Chapter 3
+**Key themes:**
+1. God takes the Levites and their cattle in the place of the first-born of Israel. They are set apart to take care of the temple of Israel, and each family takes care of part of the ministerial responsibility, not everyone in the priesthood (only the sons of Aaron).
+2. The Levites are numbered.
+3. Israel should redeem its first-borns by paying God the exceeding, minus the Levites. They pay God by paying Aaron.
