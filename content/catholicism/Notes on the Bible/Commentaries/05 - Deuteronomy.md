@@ -23,3 +23,8 @@ In structure, it closely resembles the Near Eastern vassal treaty, especially th
 
 **Moral sense:**
 1. We cannot fight our spiritual warfare against sin without God.
+# Chapter 2
+**Key themes:**
+1. Israel wandered in the desert for forty years, and in the mean time, passed through the lands of Esau, Moab, and Ammon. After the whole generation of men fit for war died, God commanded them to take land, starting with Sihon the Amorite, king of Heshbon.
+2. The Lord has blessed other people and has given them land, which Israel should not take. Esau got Mount Seir; The sons of Lot (Moab) got Ar and the land of the sons of Ammon;
+
