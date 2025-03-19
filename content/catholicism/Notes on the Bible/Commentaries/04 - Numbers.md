@@ -29,3 +29,7 @@ It is called Numbers because it starts by numbering the people of Israel. It con
 1. Leprous people can’t stay inside the camp.
 2. Whenever a person commits a sin, he shall confess it and pay restitutions with a fifth added.
 3. Ritual of husband jealousy that brings a curse upon the women if they have committed adultery. In establishes a trial, where the defendant (the wife) is assumed to be innocent, unless a miracle happens (getting bad because of drinking holy water with dust).
+# Chapter 6
+**Key themes:**
+1. Establishes the law for making the vow of Nazirite, a vow of separation to God. During the vow, the person cannot drink wine and strong drink or any produce from the grapevine, and cannot approach dead bodies.
+2. Num 6:22-27 establishes the ritual for blessing.

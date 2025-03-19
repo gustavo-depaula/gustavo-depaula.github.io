@@ -40,3 +40,10 @@ In structure, it closely resembles the Near Eastern vassal treaty, especially th
 # Chapter 5
 **Key themes:**
 1. Repeats the telling of the Ten Commandments, and how the people asked Moses to be a mediator between them and the Lord.
+# Chapter 6
+**Key themes:**
+1. The great commandment (Deut 6:4-5): *"The Lord our God is one Lord; and you shall love the Lord your God with all your heart, and with all your soul, and with all your might"*.
+2. Be careful to not forget the Lord in the midst of material success, especially achieved with the divine help.
+3. Instructions on explaining to future generations why we keep the commandments. (Deut 6:20-25)
+
+It would be interesting to have a paragraph on explaining the Gospel in a succinct way.

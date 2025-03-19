@@ -134,6 +134,10 @@ Some notes:
 - God's time is different from the creation time (Ps 90:4)
 - Number our days: reflect on our finitude to gain wisdom (Ps 90:12)
 - Being satisfied with God love leads to lasting happiness (Ps 90:14)
+# Psalm 91
+A Psalm exalting God as the protector and refugee for everyone who trusts in Him.
+
+Ps 91:2 *"My refuge and my fortress; my God, in whom I trust."*
 # Psalm 104
 
 # Psalm 136
@@ -156,3 +160,6 @@ Contrasts God's power, that is in heaven and does whatever He wants (Ps 115:3), 
 
 **Ps 119:176**
 *“I have gone astray like a lost sheep; seek thy servant, for I do not forget thy commandments.“*
+
+**Ps 91:2**
+*"My refuge and my fortress; my God, in whom I trust."*
