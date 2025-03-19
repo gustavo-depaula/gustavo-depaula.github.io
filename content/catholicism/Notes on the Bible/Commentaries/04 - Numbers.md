@@ -24,3 +24,8 @@ It is called Numbers because it starts by numbering the people of Israel. It con
 # Chapter 4
 **Key themes:**
 1. Numbering of the Levite families (Kohath, Gershon, Merari) and their responsibilities. Each Levite served from 30 yo to 50 yo.
+# Chapter 5
+**Key themes:**
+1. Leprous people can’t stay inside the camp.
+2. Whenever a person commits a sin, he shall confess it and pay restitutions with a fifth added.
+3. Ritual of husband jealousy that brings a curse upon the women if they have committed adultery.
