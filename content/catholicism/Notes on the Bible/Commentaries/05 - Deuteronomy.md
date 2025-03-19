@@ -32,3 +32,8 @@ In structure, it closely resembles the Near Eastern vassal treaty, especially th
 1. The conquest of Og, the King of Bashan, destroying every city, men, women, and children.
 2. Moses gives the conquered land to the Reubenites, the Gadites, and to Manasseh.
 3. Moses asks to God to go to the promised land, but God denies him (do not know the exact reason), but allows him to see the land standing upon a hill, and commands him to not ask anymore.
+# Chapter 4
+**Key themes:**
+1. Following the Lord is wise and good. Moses prophesy an apostasy that will lead to Israel being scattered among the rival nations, but if they obey God again, as He is merciful, He will forgive them.
+2. Reason for the graven image commandment (Dt 4:15-16): *“Since you saw no form, …”*. Thus, the Incarnation changes this.
+3. Didn’t understand the cities of Dt 4:41-43.

@@ -125,6 +125,8 @@ A Psalm of praise, exalting God, and how good it is to have God’s presence in 
 Starts by recognizing how the Lord was favorable in the past, restoring the fortunes of Jacob, forgiving iniquity and sin, and withdrawing His wrath. Then, asks for God to do it again, contemplating the good results of it, and ends in a hopeful feeling.
 # Psalm 87
 A Psalm praising Zion, the city of God. I don’t understand “this one was born there”.
+# Psalm 88
+The Psalmist is in the depths of despair, but perseveres in prayer. He is anguished that the Lord let him (makes him) suffer.
 # Psalm 104
 
 # Psalm 136
