@@ -28,4 +28,4 @@ It is called Numbers because it starts by numbering the people of Israel. It con
 **Key themes:**
 1. Leprous people can’t stay inside the camp.
 2. Whenever a person commits a sin, he shall confess it and pay restitutions with a fifth added.
-3. Ritual of husband jealousy that brings a curse upon the women if they have committed adultery.
+3. Ritual of husband jealousy that brings a curse upon the women if they have committed adultery. In establishes a trial, where the defendant (the wife) is assumed to be innocent, unless a miracle happens (getting bad because of drinking holy water with dust).

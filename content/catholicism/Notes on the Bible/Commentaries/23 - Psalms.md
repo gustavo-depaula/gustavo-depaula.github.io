@@ -127,6 +127,13 @@ Starts by recognizing how the Lord was favorable in the past, restoring the fort
 A Psalm praising Zion, the city of God. I don’t understand “this one was born there”.
 # Psalm 88
 The Psalmist is in the depths of despair, but perseveres in prayer. He is anguished that the Lord let him (makes him) suffer.
+# Psalm 90
+A Psalm reflecting God's creative power, and might. And asking for God to remove the people's affliction.
+
+Some notes:
+- God's time is different from the creation time (Ps 90:4)
+- Number our days: reflect on our finitude to gain wisdom (Ps 90:12)
+- Being satisfied with God love leads to lasting happiness (Ps 90:14)
 # Psalm 104
 
 # Psalm 136
