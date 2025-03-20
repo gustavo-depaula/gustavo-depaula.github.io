@@ -33,3 +33,7 @@ It is called Numbers because it starts by numbering the people of Israel. It con
 **Key themes:**
 1. Establishes the law for making the vow of Nazirite, a vow of separation to God. During the vow, the person cannot drink wine and strong drink or any produce from the grapevine, and cannot approach dead bodies.
 2. Num 6:22-27 establishes the ritual for blessing.
+# Chapter 7
+**Key themes:**
+1. After the construction of the tabernacle was finished, the leaders of each tribe (12) make offerings for the tabernacle.
+2. Moses encounter God’s voice coming from the mercy seat above the ark of the covenant.

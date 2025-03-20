@@ -47,3 +47,15 @@ In structure, it closely resembles the Near Eastern vassal treaty, especially th
 3. Instructions on explaining to future generations why we keep the commandments. (Deut 6:20-25)
 
 It would be interesting to have a paragraph on explaining the Gospel in a succinct way.
+# Chapter 7
+**Key themes:**
+1. When Israel enters the promised land, they must utterly destroy the 7 great rival nations that are bigger than them. There can be no negotiation or marriage, as they will lead their descendants astray from God.
+2. The Lord has chosen Israel not because they where a great people, in fact, they were the smallest, but because the Lord loves them.
+3. God is faithful to those who keep His commandments.
+
+**Allegorical sense:**
+1. We must destroy and root out sin from our life. The seven great rival nations are a prefiguration of the seven capital sins. (Deut 7:1-5)
+2. It is not because of our own merit that God comes to rescue us, but because of love. It is because of His love that we are redeemed from the bondage of sin. (Deut 7:6-11)
+3. It is not by our own power that we defeat sin, but through divine grace and help.
+4. Sanctification and the battle against sin are a gradual process, be careful to not fight too many things at once, lest we be overwhelmed by them. (Deut 7:22)
+5. Avoid occasions of sin. (Deut 7:26)

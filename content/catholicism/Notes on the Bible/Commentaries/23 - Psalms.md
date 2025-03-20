@@ -138,6 +138,8 @@ Some notes:
 A Psalm exalting God as the protector and refugee for everyone who trusts in Him.
 
 Ps 91:2 *"My refuge and my fortress; my God, in whom I trust."*
+# Psalm 92
+A Psalm praising God because He is good and mighty, and has delivered justice to the Psalmist, exalting him and defeating his enemies.
 # Psalm 104
 
 # Psalm 136
