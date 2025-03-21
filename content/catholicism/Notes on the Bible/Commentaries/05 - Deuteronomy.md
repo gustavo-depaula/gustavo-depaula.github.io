@@ -59,3 +59,12 @@ It would be interesting to have a paragraph on explaining the Gospel in a succin
 3. It is not by our own power that we defeat sin, but through divine grace and help.
 4. Sanctification and the battle against sin are a gradual process, be careful to not fight too many things at once, lest we be overwhelmed by them. (Deut 7:22)
 5. Avoid occasions of sin. (Deut 7:26)
+# Chapter 8
+**Key themes:**
+1. A sermon on how God has taken care of the people, and how He is delivering them to “dream” promised land. The people should be faithful to God, and not forget Him when they have abundant material wealth, lest they perish like their enemies.
+
+**Moral sense:**
+1. It is God that gives us the power to get wealth, it is not by our own hands. Be thankful and faithful.
+
+**Allegorical sense:**
+1. Promised land as a prefiguration of heaven, a land *“in which you will lack nothing”* (Deut 8:9)

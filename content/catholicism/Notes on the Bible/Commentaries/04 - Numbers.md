@@ -37,3 +37,12 @@ It is called Numbers because it starts by numbering the people of Israel. It con
 **Key themes:**
 1. After the construction of the tabernacle was finished, the leaders of each tribe (12) make offerings for the tabernacle.
 2. Moses encounter God’s voice coming from the mercy seat above the ark of the covenant.
+# Chapter 8
+**Key themes:**
+1. The Levites were taken in place of all the firstborns, as God had consecrated the firstborns to Him in the Passover in Egypt.
+2. The Lord commanded Moses to cleanse and purify the Levites to consecrate them to service in the tabernacle.
+# Chapter 9
+**Key themes:**
+1. Ritually unclean people in the time of the Passover (14th day of the 1st month) keep the Passover on the 14th day of the second month, with the same statues.
+2. Whoever refuses to take part in the Passover sacrifice is cut off from the people of God.
+3. The Lord guided Israel through his presence in the cloud and fire over the tabernacle. He guided them by staying on top of the tabernacle to keep the Israel encamped where it was or moving to where Israel should move.
