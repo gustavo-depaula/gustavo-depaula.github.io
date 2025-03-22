@@ -68,3 +68,7 @@ It would be interesting to have a paragraph on explaining the Gospel in a succin
 
 **Allegorical sense:**
 1. Promised land as a prefiguration of heaven, a land *“in which you will lack nothing”* (Deut 8:9)
+# Chapter 9
+**Key themes:**
+1. The Lord is driving the enemy nations out the promised land not because of Israel’s righteousness, but because of the nations’ iniquity. In fact, Israel is a stubborn people that have disobeyed the Lord many times.
+2. After the molten calf incident, Moses stayed 40 days and nights without bread and without water because of their sin, and prayed for Israel and Aaron, interceding for them.

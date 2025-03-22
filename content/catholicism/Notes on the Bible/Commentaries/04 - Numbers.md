@@ -46,3 +46,7 @@ It is called Numbers because it starts by numbering the people of Israel. It con
 1. Ritually unclean people in the time of the Passover (14th day of the 1st month) keep the Passover on the 14th day of the second month, with the same statues.
 2. Whoever refuses to take part in the Passover sacrifice is cut off from the people of God.
 3. The Lord guided Israel through his presence in the cloud and fire over the tabernacle. He guided them by staying on top of the tabernacle to keep the Israel encamped where it was or moving to where Israel should move.
+# Chapter 10
+**Key themes:**
+1. The Lord commands Moses to build two silver trumpets that serve to gather the people and the leaders of Israel.
+2. The Cloud guides them to leave the wilderness of Sinai and go to the wilderness of Paran.

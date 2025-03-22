@@ -1,7 +1,8 @@
 # Psalm 1
 
 # Psalm 2
-
+# Psalm 10
+A Psalm questioning why God lets the wicked prosper. The wicked do not obey God, and think their wickedness shall not be punished. The Psalm ends recognizing how the Lord will help the oppressed and asking God to punish the wicked.
 # Psalm 16
 
 **Moral sense:**
@@ -169,3 +170,5 @@ Contrasts God's power, that is in heaven and does whatever He wants (Ps 115:3), 
 
 **Ps 91:2**
 *"My refuge and my fortress; my God, in whom I trust."*
+
+**Ps 10:4** *“In the pride of his countenance the wicked does not seek him; all his thoughts are, “There is no God””*
