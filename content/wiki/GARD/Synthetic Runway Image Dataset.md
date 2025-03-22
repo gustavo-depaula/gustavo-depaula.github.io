@@ -135,15 +135,13 @@ The proposed research question begs the question of what constitutes a "suitable
 
 On earlier prototypes, several diffusion techniques such as prompt engineering, prompt weighting, unconditional image generation, inpainting and textual inversion were tried. Most of them failed to, standalone, generate realistic runway images with detailed and accurate markings. The most successful attempt was using ControlNet with an input canny edge, alongside well-crafted prompts to guide the text-to-image model. Because the canny edge was extracted from an existing runway image, the generated image faithfully respected the runway shape, position, markings and texture. Thus, the data augmentation pipeline is based around using a text-to-image diffusion model with ControlNet.
 
-The data augmentation pipeline is composed of five separate modules, that can each be independently developed and improved, or totally replaced without affecting the overall functioning of the pipeline. This modularity and separation of concerns is good software engineering practice and aids on future research developing on this project.
+The data augmentation pipeline is composed of four separate modules, that can each be independently developed and improved, or totally replaced without affecting the overall functioning of the pipeline. This modularity and separation of concerns is good software engineering practice and aids on future research developing on this project.
 
-**Template image selection module**: this step selects the "template images" that will be used in the pipeline. The template images are existing images in public datasets that are used to extract the overall structure of the image containing the runway to be used in the image generation step. Ideal template images have clear visibility of the runway and the surrounding background.  The output of this module is a folder with pairs of image files and label files. This module could be automated by using a combination of a runway detection software to filter ambiguous images and image description software to filter bad weather or bad lighting conditions. Or, this module could be done with manual help with a tool that allowed the human to either accept or reject an image.
+**Template image selection module**: this step selects the "template images" that will be used in the pipeline. The template images are existing images in public datasets that are used to extract the overall structure of the image containing the runway to be used in the image generation step. Ideal template images have clear visibility of the runway and the surrounding background.  The output of this module is a folder with pairs of image files and label files.
 
 **Edge extraction module**: this step uses the template images as input, processes them, and outputs canny edge images, to be used as inputs for ControlNet, alongside the according label for that image.
 
 **Base Image generation module**: this step uses as inputs the canny edges, a list of text prompts, and a number of how many images should be generated for each pair of canny edge and prompt. It then uses a text-to-image model with ControlNet to generate base images. These images should be, similarly to the template ones, images with clear visibility of the runway and its surroundings. Thus, although we expect high-quality images as output, it will not be a diverse set of images. This module also outputs the labels for each image, adding metadata of what model, seed, and prompt was used.
-
-**Filtering module**: this step filters out the bad images generated in the previous module. Similarly to the template selection module, it can be done manually or automated by a runway detection tool.
 
 **Variant image generation module**: this module uses as input the filtered base images and a list of "diversity prompts". These diversity prompts are text prompts designed to be an input to an image-to-image model, so that the base dataset generated can be expanded to have more diversity in terms of background scenery, weather, and lighting conditions.
 
@@ -163,165 +161,281 @@ As it is not the focus of this project building a new architecture for runway se
 
 Using a pre-trained segmentation model, comparisons will be made between the performance of training on this new synthetic dataset and of existing datasets, and the resulting performance when detecting a real images dataset. Also helping in assessing the realism of the images in the synthetic dataset, the accuracy of a model trained on an existing dataset trying to detect runways on the synthetic dataset will be reported.
 
+# Implementation
+
+## Pipeline
+
+The pipeline is implemented through four Jupyter notebooks, one for each module. Additionally, a tool to help in filtering images is implemented in a standalone Python Script.
+### Template image selection module
 
+The template image selection module contains an adapter function that reads images from the public LARD dataset [@ducoffe_lard_2023], generate JSON label files, and puts the image-label files pairs into the output directory. The LARD dataset is composed of several different folders containing both synthetic and real images. It has two real images folders: *Nominal cases* and *Edge cases*, the latter being composed of images with poor runway visibility.
 
-# Old Design
+Given that the template images are used to extract canny edges, it is better to use images with clear runway and surrounding area visibility, thus the *Nominal cases* folder, with 1500 images, was chosen.
 
-## Methodology
+The images are then processed to be squared images, as they stable diffusion naturally works with square images. The runway is horizontally centered so as to not be out of frame when cropping into a square. The following code does this:
 
-The background research has shown the importance of datasets for researchers working on the field of detecting runways for the task of automated aircraft vision-based landing. Real-image datasets are too small to be used in deep-learning model training. Synthetic datasets bridge the gap of data availability and use simulated images from programs such as X-Plane, Microsoft Flight Simulator and Google Earth to generate the runway images.
-
-This project's primary research question is how can a suitable synthetic image dataset be built for computational vision tasks without the need of images extracted from simulators or similar. To answer this question, the project uses the field of vision-based landing and builds a synthetic runway image dataset.
-
-The primary users of this project are researchers that use the dataset provided in this project to build models for runway detection. Secondary users might be researchers interested in synthesizing their own datasets for computational vision tasks such as classification or segmentation.
-
-The proposed research question begs the question of what constitutes a "suitable synthetic image dataset". Here, we rank the following characteristics that make an image dataset suitable:
-
-1. **Human-judged realism**: humans subjectively judge the images as credible and realistic. When comparing side-by-side the images of the generated dataset with other datasets, the perceived quality of the images are the same or better.
-2. **Detection by existing models**: fine-tuned models on available datasets can detect the presence and segmentation of the desired data (runways in this project) in the images.
-3. **Data diversity**: the dataset has good data diversity, including edge cases and several data variations.
-4. **Model training**: an existing architecture can be trained on the dataset and achieve a reasonable performance or a pre-trained model can be fine-tuned and have their performance improved.
-
-### Hypothesis and experiments
-
-The emergence of diffusion models for image generation creates a golden opportunity to apply this state-of-the-art technique to the problem at hand. Thus, the project will evaluate the following hypothesis: _"Can diffusion models generate a suitable runway image dataset?"_. This novel idea would be ground-breaking for the runway detection and segmentation field, because it would mean that researchers would be able to use existing techniques in the field of image generation such as _inpainting_, _DreamBooth_, and _LoRAs_ to generate their own extensive datasets with images in diverse, specific and complex scenarios.
-
-#### Suitable image generation
-
-To evaluate the hypothesis, a Python project using the [_Diffusers_](https://huggingface.co/docs/diffusers/en/index) library will be written. The first part of the project will evaluate what main techniques can be used to generate suitable images: Unconditional image generation, text-to-image generation and image-to-image generation.
-
-Secondary to the issue of image generation is the question if diffusion models are able to generate diverse, specific and complex scenarios, such as scenes that vary in relation to runway orientation, weather conditions (e.g., fog, rain, snow), lighting (e.g., dusk, dawn, night, heavy overcast), and background scenery (e.g., airport buildings, natural terrain, distant cityscapes),
-
-##### Unconditional image generation
-
-Unconditional image generation is a good starting point because it allows generation of images that look like those in the training dataset in a simple manner. In the context of generating runway images, we can train models using two approaches:
-
-- Train with images of runways in their background scenery, with, for example, the airport buildings and the terrain;
-- Train with cropped images that contain only or primarily the runway;
-
-The hypothesis to be explored here is if it's possible to generate suitable images when training with the original images, because there is a possibility that the model doesn't learn the main concept of the runway and just learns to generate scenery that is found around the runway.
-
-Training with cropped images has a better chance for the model to learn the concept and features of a runway, but it is more limited in the usefulness, as it would require other techniques, such as _Outpainting_, that extends the original image beyond its original boundaries, to generate a complete and realistic image for the dataset.
-
-##### Text-to-image generation
-
-Text-to-image generates an image from a text description, also known as _prompt_. Text-to-image generation is the most powerful and adaptable technique because it would allow the extension of the dataset by generating new custom images using text prompts.
-
-The simplest way to explore the question is to start with _prompt engineering_. Prompt engineering is the technique to tweak and try different text prompts to guide the image generation process.
-
-It is unlikely that prompt engineering alone will be able to generate suitable images for the dataset. In that case, other techniques will need to be tested:
-
-1. **Prompt weighting**: prompt weighting is a technique that emphasize or de-emphasize certain parts of the text prompts by manipulating their embedding values. This allows for more control over the generated image as the model will focus more on certain concepts.
-2. **Textual inversion**: fine-tunes the text embedding of the model to learn a new concept.
-3. **DreamBooth**: fine-tunes the whole model to learn how to generate contextualized image of a given subject.
-
-##### Image-to-image generation
-
-Image-to-image generation is similar to text-to-image, but in addition to passing a text prompt, an image is also passed as the starting point for the diffusion process. The two techniques selected here to be explored are:
-
-1. **ControlNet**: provides structural guidance to shape the generation of an image. It can be a pose skeleton or segmentation masks, for example, that will have their information retained and use to guide de de-noising process. ControlNet can be used to generate images in a way where the specific position of the runway is determined beforehand.
-2. **Inpainting**: Inpainting modifies an existing image. It takes a mask that shows where the model should change the image. The model then tries to generate the content in the masked out area consistent with the surrounding pixels and the given prompt. It can be used to transform a scenery image into a runway image.
-
-And because image-to-image also uses text-to-image, there's the possibility to use techniques such as Prompt weighting, textual inversion and DreamBooth alongside ControlNet and Inpainting for better performance.
-
-Another technique that could be further developed in another project would be to use image-to-image generation to extend existing datasets. For example, the LARD datasets doesn't have different weather conditions for the images. Thus, we could use image-to-image generation to add different weather conditions (e.g., fog, rain, snow).
-
-## Evaluation
-
-The evaluation of the synthetic runway image dataset will be both qualitative and quantitative, focusing on the key characteristics defined in the report: realism, detectability by existing models, data diversity, and potential to improve model performance.
-
-**Human-Judged Realism**:
-
-1. **Approach**: Conduct a small-scale human evaluation. Recruit a few peers to rate the realism of a random sample of generated images compared to a sample of images from established datasets (e.g., LARD or BARS).
-2. **Metrics:** Rate images on a Likert scale (1–5) for realism.
-3. **Feasibility:** Small-scale user study with at least 5 evaluators, each rating at least 20 images.
-
-**Detection by Existing Models**:
-
-1. **Approach**: Take a pre-trained runway detection model (e.g., a model pre-trained on LARD or a simple ResNet50 classifier) and test it on a subset of the synthetic dataset.
-2. **Metrics**: Accuracy, Precision, Recall, and F1-score for runway detection on the synthetic images.
-3. **Feasibility**: This could be done by fine-tuning a lightweight classifier if no pre-trained model is readily available.
-
-**Data Diversity**
-
-1. **Approach:** Qualitatively check scenarios: generate images under different conditions (weather, lighting, background) and visually inspect variety.
-2. **Metrics**: Define a small taxonomy of conditions to be covered such as weather (Clear, Fog, Rain, Snow), lighting (Day, Dusk/Dawn, Night), and background (Urban, Rural, Coastal, Mountainous) and report the number of images in each category.
-
-If time permits, there could be a quantitative metric:
-
-1. **Approach:** Use embedding-based diversity metrics (e.g., CLIP embeddings) to measure intra-dataset variability.
-2. **Metrics**: Calculate mean pairwise similarity between image embeddings; lower similarity implies greater diversity.
-
-**Model training**:
-
-1. **Approach**: (If time permits) Train or fine-tune a basic runway detection or segmentation model.
-2. **Metrics**: Comparison in accuracy and segmentation metrics.
-3. **Feasibility**: Due to time constraints, this may be done at a small scale.
-4. **Critique**: There is the possibility that accuracy metrics decrease when training with the new dataset. If the images in the dataset closely mimic reality, it could be the case that performance decreases because existing models are not suitable for real-world challenges.
-
-
-# Prototype
-
-To demonstrate the feasibility of the project, a small-scale dataset is produced using Unconditional Image Generation. Usually, in image generation models, there are inputs that guide the image generation process such as a prompt or initial starting image. This is not the case in unconditional generation, where the model starts from random noise and has no guidance. The result is that after training, the model should output images that look like the dataset it was trained on.
-
-The training dataset was the FS2020 dataset. It was chosen because it has realistic images in diverse scenarios, that were subjectively judged as more aesthetic pleasing than the other datasets. It is also the easier to download as it is hosted on Kaggle.
-
-## How diffusion works
-
-The model for image generation used in this prototype is a Denoising Diffusion Probabilistic Model presented in @ho_denoising_2020. Diffusion models work by progressively adding noise to an image (called the forward process) and then training a network that learns how to remove noise from the image (the reverse process).
-
-![Diffusion forward process](./figures/noise_to_image.png)
-
-The intuition of Diffusion models is that, if a model can be trained to predict the noise in an image at a timestep, we can start at pure noise, then repeatedly call this model and remove the noise from the image, at each step making a less noisy image.
-
-## U-Net
-
-In ***"U-Net: Convolutional Networks for Biomedical Image Segmentation"*** [@ronneberger_u-net_2015], the authors introduced the U-Net architecture for image segmentation. The U-Net is composed of two parts: an encoder and a decoder. The encoder transforms the image into a compressed form that retains essential features. This compressed data is called a "latent". The decoder can then operate on this latent and output some data related to the input data. In the original paper, they used the U-Net to extract biomedical segmentation data. In Diffusion models, the U-Net is used as the model that predicts the noise from an image.
-
-![Figure from @ronneberger_u-net_2015](./figures/unet_architecture.png)
-
-## Training
-
-Before training, the dataset was preprocessed by applying four operations: resizing to 128x128 pixels, random horizontal flipping, transforming to Pytorch Tensor and normalizing the tensor values.
-
-![Images before and after preprocessing](./figures/preprocessed_images.png)
-
-Following the same methodology as in the DDPM [@ho_denoising_2020] paper, the  `UNet2DModel` from Diffusers was chosen. The model was trained for 1000 epochs, with batch size of 16 and using a AdamW optimizer. A `DDPMScheduler` of 1000 timesteps was used, meaning that in training, there were 1000 possible variations of progressive noise added to the images.
-
-## Results
-
-A dataset of 256 images with the resolution of 128x128 was generated. As the goal of the prototype was to evaluate the feasibility of the research project, it is evaluated by two characteristics: subjective human criticism and data diversity.
-
-For data diversity, a small taxonomy is used and the number of images in each category is reported:
-
-
-
-| Class      | Subclass                  | Image count |
-| ---------- | ------------------------- | ----------- |
-| Weather    | Clear                     | 116         |
-|            | Fog                       | 128         |
-|            | Rain                      | 0           |
-|            | Snow                      | 12          |
-| Lighting   | Day                       | 213         |
-|            | Dusk/Dawn                 | 25          |
-|            | Night                     | 18          |
-| Background | Urban                     | 13          |
-|            | Rural                     | 55          |
-|            | Coastal                   | 30          |
-|            | Mountainous               | 7           |
-|            | Unable to detect          | 30          |
-|            | Too close to runway       | 21          |
-| Presence   | Runway clearly detectable | 90          |
-|            | Hard to detect runway     | 11          |
-|            | No runway in image        | 155         |
-
-The images (Figure 4) demonstrate the feasibility of the project: Diffusion models are in fact capable of generating suitable images for a runway dataset. The trained model was able to generate runway images with rich and diverse scenery. The model is even capable of generating images at night, a limitation of the synthetic images in the LARD [@ducoffe_lard_2023] dataset.
-
-Still, there are challenges to be addressed further in the research project. The images have a low-resolution (128x128), some images do not contain a runway, there's too much fog in a lot of images that make the runways unrecognizable, the demarcations and numbers in the runway should follow a specific pattern observed in real runways and the dataset itself needs to be larger. And most importantly, as it uses unconditional image generation, it's not possible to specify desired characteristics to generate an image.
-
-\newpage
-
-![Images 192-256](./figures/unconditional_datagrid_4.png)
+```py
+xs = [p[0] for p in pts]
+ys = [p[1] for p in pts]
+min_x, max_x = min(xs), max(xs)
+min_y, max_y = min(ys), max(ys)
+
+# Vertical crop is the entire height
+top = 0
+bottom = H
+
+# Horizontal positioning for H-wide crop
+center_x = (min_x + max_x) / 2.0
+ideal_left = int(round(center_x - (H / 2)))
+left = max(0, min(ideal_left, W - H))
+right = left + H
+
+cropped_img = img.crop((left, top, right, bottom))
+```
+
+Then, the new shifted runway corners' key-points are computed to build a JSON label:
+
+```py
+shifted_pts = [(p[0] - left, p[1] - top) for p in pts]
+
+# Build label
+image_label = ImageLabel(
+	dataset="LARD/LARD_test_real_nominal",
+	sourceImage=os.path.basename(image_path),
+	runwayLabel=shifted_pts
+)
+```
+
+Finally, the image label is converted to JSON and it and the cropped images are saved to the output folder.
+### Edge extraction module
+
+The edge extraction module contains a generator function that take an input directory, and output a directory with corresponding canny edge images with a 1024x1024 resolution. The generator function uses a image processor from a ControlNet Auxiliar library to generate the canny edges, and resizes to the desired resolution:
+
+```py
+from controlnet_aux.processor import Processor
+
+processor = Processor(
+	'canny',
+	{
+		"detect_resolution": 756,
+		"image_resolution": 1024
+	}
+)
+
+pil_in = Image.open(image_path).convert("RGB")
+canny_pil = processor(pil_in, to_pil=True).resize((1024, 1024))
+
+```
+
+To help in the image generation process, a polygon is drawn into the image to delimiter the area of the runway:
+
+```py 
+cv2.polylines(
+	canny_array,
+	[corners_sorted.astype(np.int32)],
+	isClosed=True,
+	color=(255, 255, 255),
+	thickness=2
+)
+```
+
+Finally, the corners are scaled to this new image resolution, and saved to the new label file:
+
+```py
+orig_h, orig_w = image_bgr.shape[:2]
+corners_array = np.array(runway_corners, dtype=np.float32)
+corners_array[:, 0] *= (1024.0 / orig_w)
+corners_array[:, 1] *= (1024.0 / orig_h)
+```
+### Base Image generation module
+
+```py
+controlnet = ControlNetModel.from_pretrained(
+    "diffusers/controlnet-canny-sdxl-1.0", torch_dtype=torch.float16
+)
+
+pipeline = StableDiffusionXLControlNetPipeline.from_pretrained(
+    "lykon/dreamshaper-xl-v2-turbo",
+    torch_dtype=torch.float16,
+    variant="fp16",
+    controlnet=controlnet
+).to("cuda")
+pipeline.scheduler = DPMSolverMultistepScheduler.from_config(pipeline.scheduler.config, algorithm_type="sde-dpmsolver++", use_karras_sigmas=True)
+
+pipeline.enable_model_cpu_offload()
+```
+
+
+```py
+base_prompt = "photo of airport runway, aerial view, 4k, cinematic film still, realistic, beautiful landscape around, high-contrast runway lines"
+
+base_neg = "airplane, ugly, low-quality, ugly background, ugly airstrip, deformed, dark, noisy, blurry, low contrast, missing lines, unrealistic, drawing, objects on runway"
+
+modifiers = {
+    "rain": (
+        "+raining +storm +wet",
+        "-dark -noisy -blurry",
+    ),
+    "fog": (
+        "+(harsh fog) +mist +haze",
+        "-dark -noisy -blurry",
+    ),
+    "snow": (
+        "+snowing",
+        "",
+    ),
+    "dusk": (
+        "+(at dusk)",
+        "",
+    ),
+    "dawn": (
+        "+(at dawn)",
+        "",
+    ),
+    "night": (
+        "+(at night)",
+        "-dark",
+    )
+}
+
+```
+
+```py
+generate_base_images(
+    "p_FilteredCannyEdges",
+    "p_BaseImages",
+    prompt_pairs=[
+        apply_modifiers("day", [], 5),
+        apply_modifiers("night", ["night"], 5),
+        apply_modifiers("dusk", ["dusk"], 1),
+        apply_modifiers("dawn", ["dawn"], 1),
+        apply_modifiers("fog", ["fog"], 1),
+        apply_modifiers("fog+night", ["night", "fog"], 1),
+        apply_modifiers("rain", ["rain"], 1),
+        apply_modifiers("rain+night", ["night", "rain"], 1),
+        apply_modifiers("snow", ["snow"], 1),
+        apply_modifiers("snow+night", ["night", "snow"], 1),
+    ],
+    model_name="sdxl-dreamshaperxl",
+    # show=True
+)
+```
+
+### Variant image generation module
+
+To generate variant images, we run three pipelines: a positional variant augmentation, outpainting borders, and weather occlusion effects.
+
+The first pipeline uses the *Albumentations* [TODO: cite] library to run three transformations: randomly horizontally flip images, padding images with a border (to make it look like the runway is more distant), and slight random rotation from -25 degrees to 25 degrees. 
+
+```py
+pipeline = A.ReplayCompose(
+    [
+        A.HorizontalFlip(p=0.5),
+        A.CropAndPad(
+            px=((51, 410),  # top
+                (51, 410),  # bottom
+                (51, 410),  # left
+                (51, 410)), # right
+            keep_size=False,
+            p=1.0
+        ),
+        A.Affine(rotate=(-25, 25), p=1.0),
+    ],
+    keypoint_params=A.KeypointParams(format='xy', remove_invisible=False)
+)
+```
+
+![[albumentations.png]]
+
+The positional variant pipeline generates images with black borders, and the second pipeline uses the *inpainting* technique to extend the original image into the black border. First, inpainting is done using OpenCV filling the black border with colors that look from the nearby image region. Then, a Stable Dfifusion model is used to improve the border to blend in better with the original image.
+
+The algorithm used to in the first inpaint is the algorithm proposed by Alexandru Telea [cite], implemented by OpenCV through the `cv2.inpaint` method with the `cv2.INPAINT_TELEA` flag:
+
+```py
+mask = np.all(image == 0, axis=2).astype(np.uint8) * 255
+kernel = np.ones((3, 3), np.uint8)
+mask = cv2.dilate(mask, kernel, iterations=4)
+image = Image.fromarray(cv2.cvtColor(cv2.inpaint(image, mask, 3, cv2.INPAINT_TELEA), cv2.COLOR_BGR2RGB))
+```
+
+TODO: Put image here:
+
+After this initial inpainting, a Stable Diffusion XL Inpainting pipeline is used to process the image. The original prompt and negative prompt used to generate the base image is used here, along with a blurred mask so that the image blends better with the border.
+
+*Inpainting modifies an existing image. It takes a mask that shows where the model should change the image. The model then tries to generate the content in the masked out area consistent with the surrounding pixels and the given prompt. It can be used to transform a scenery image into a runway image.*
+
+```py
+pipe = StableDiffusionXLInpaintPipeline.from_pretrained(
+    "lykon/dreamshaper-xl-lightning",
+    torch_dtype=torch.float16,
+    variant="fp16",
+).to("cuda")
+pipe.scheduler = DPMSolverMultistepScheduler.from_config(pipe.scheduler.config)
+
+# [...]
+
+mask = pipe.mask_processor.blur(Image.fromarray(mask), blur_factor=75)
+
+result = pipe(
+	prompt=data["prompt"],
+	negative_prompt=data["negative_prompt"],
+	image=image,
+	mask_image=mask,
+	strength=0.8,
+	generator=generator,
+	
+	num_inference_steps=30,
+	guidance_scale=2,
+).images[0]
+```
+
+The third, and final pipeline reads the images outputted by the last pipeline and creates a new separate folder with the same images, but augmented with weather occlusion effects done by the `imgaug` library (TODO: cite). Effects are added depending on the variant used to generate the base images:
+- Clouds for pure "day/night/dusk/dawn" base images
+- Fog for "fog" base images
+- Rain for "rain" base images
+- Snowflakes for "snow" base images
+
+The imgaug library have these effects built in:
+
+```py
+if variant in ["day", "night", "dusk", "dawn"]:
+	aug = iaa.SomeOf((1, 2), [
+		iaa.CloudLayer(...),
+		iaa.CloudLayer(...),
+	])
+	image = aug(image=image)
+	applied_effects.append("clouds")
+elif variant in ["fog", "fog+night"]:
+	aug = iaa.CloudLayer(...)
+	image = aug(image=image)
+	applied_effects.append("fog")
+elif variant in ["rain", "rain+night"]:
+	aug = iaa.Rain(drop_size=(0.1, 0.2), speed=(0.01, 0.05))
+	image = aug(image=image)
+	applied_effects.append("light_rain")
+elif variant in ["snow", "snow+night"]:
+	aug = iaa.Snowflakes(flake_size=(0.1, 0.3), speed=(0.01, 0.05))
+	image = aug(image=image)
+	applied_effects.append("snowflakes")
+```
+
+After each augmentation pipeline, the label JSON file is enriched with enough information to ensure the process reproducibility, along with the random seeds used in the process.
+### Filtering Tool
+
+To aid in selecting which images to use as template images, a manual filtering tool was written as a python script using OpenCV. This tool read images from a directory and allows the user to press "Space" to select an image and "X" to discard them. The selected images are copied into a new directory, and progress is written to a log file so that it is possible to close the tool and open again without having to restart the process all over again.
+
+Because I had limited time, template images were filtered using this heuristic:
+1. Use all images from `LARD_test_real_nominal` as template images, and pass them through the extract canny edge and base image generation modules, generating one daylight base image per template image.
+2. Then, use the filtering tool to select which base images had easily recognizable runways with consistent markings and structure.
+3. In the end, 361 images were selected, and then only these canny edges were used to generate all images in the final dataset.
+
+## Generated images
+
+
+
+# Evaluation
+
+# Conclusion
 
 
 # References
