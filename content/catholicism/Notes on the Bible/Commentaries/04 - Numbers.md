@@ -50,3 +50,19 @@ It is called Numbers because it starts by numbering the people of Israel. It con
 **Key themes:**
 1. The Lord commands Moses to build two silver trumpets that serve to gather the people and the leaders of Israel.
 2. The Cloud guides them to leave the wilderness of Sinai and go to the wilderness of Paran.
+# Chapter 11
+**Key themes:**
+1. The people complained about their misfortune; The people started complaining asking for meat, instead of only eating Manna.
+2. Moses complains that he has all the burden of dealing with the Israelites.
+3. The Lord promises that He will give meat to the people; the Lord appoints seventy elders to help Moses.
+4. Two other elders not appointed by Moses receive the Spirit and start prophesying, Joshua tells this to Moses, and Moses responds by saying that the Lord wanted everyone to be a prophet.
+
+**Questions:**
+1. What does it mean to prophesy?
+# Chapter 12
+**Key themes:**
+1. Miriam and Aaron spoke out against Moses because of his marriage with a Cushite (Ethiopian) woman, and questioning his authority. Because of this overstep in authority, envy, and pride, Miriam is punished with leprosy. Moses intercedes and God makes she stay outside the camp for 7 days.
+# Chapter 13
+**Key themes:**
+1. Spies are sent to the land of Canaan, and they come back reporting it is a great land with great fruits, but with a strong people inhabiting it.
+2. (Don’t understand this part v32-33) They say to the people of Israel that it is a land that devours its inhabitants and is populated with the Nephilim (the sons of Anak, that comes from the Nephilim).

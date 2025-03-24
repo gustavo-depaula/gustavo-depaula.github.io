@@ -22,6 +22,8 @@ A Psalm questioning why God lets the wicked prosper. The wicked do not obey God,
 
 # Psalm 19
 
+# Psalm 33
+A Psalm praising God’s might, righteousness, and justice. Our heart is glad because we trust in Him. Our hope is in Him.
 # Psalm 44
 
 It is composed of two parts:
@@ -145,6 +147,8 @@ A Psalm praising God because He is good and mighty, and has delivered justice to
 A Psalm on Divine Sovereignty. God is eternal and rules the creation. His power is greater than the mighty natural forces (floods, sea, thunder, etc…).
 
 *”Thy decrees are very sure”* (Ps 93:5) (highlights sovereignty of divine decrees)
+# Psalm 94
+A Psalm asking for Divine judgement on the wicked. The psalmist is certain that the Lord will stop the iniquity, and puts his trust and refuge in the Lord.
 # Psalm 104
 
 # Psalm 136

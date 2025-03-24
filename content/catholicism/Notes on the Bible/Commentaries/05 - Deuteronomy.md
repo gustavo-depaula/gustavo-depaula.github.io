@@ -72,3 +72,14 @@ It would be interesting to have a paragraph on explaining the Gospel in a succin
 **Key themes:**
 1. The Lord is driving the enemy nations out the promised land not because of Israel’s righteousness, but because of the nations’ iniquity. In fact, Israel is a stubborn people that have disobeyed the Lord many times.
 2. After the molten calf incident, Moses stayed 40 days and nights without bread and without water because of their sin, and prayed for Israel and Aaron, interceding for them.
+# Chapter 10
+**Key themes:**
+1. The Lord gives Moses a new set of stone tables.
+2. The summary of the law: love and serve the Lord with all your heart and with all your soul.
+
+**Allegorical sense:**
+1. Circumcision as prefiguration of baptism (Deut 10:16). Circumcision as a type of cleansing: *“Circumcise therefore the foreskin of your heart, and be no longer stubborn”*.
+# Chapter 11
+**Key themes:**
+1. A sermon that the people should keep all of the Lord’s commandments.
+2. Establishes a blessing for obedience and a curse for disobedience.
