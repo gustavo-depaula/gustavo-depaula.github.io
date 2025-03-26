@@ -83,3 +83,25 @@ It would be interesting to have a paragraph on explaining the Gospel in a succin
 **Key themes:**
 1. A sermon that the people should keep all of the Lord’s commandments.
 2. Establishes a blessing for obedience and a curse for disobedience.
+
+# Chapter 12
+**Key themes:**
+1. The Israelites should destroy the temples to idols, and be careful to only sacrifice in altars to the Lord. They should only offer offerings in the place the Lord has commanded, not anywhere.
+2. The people can eat as much flesh as they want, but they cannot drink the blood, for the blood is the life.
+3. The Israelites should not serve the gods of the Canaanites or repeat what they did to serve. They should serve the Lord as He has commanded. Some of the Canaanites even practiced child sacrifice.
+4. Be careful to follow what the Lord has commanded, don't add or subtract from it.
+
+**Questions:**
+1. *"for the blood is the life"*. Why? Why they cannot eat it? Is it possible to be a eucharistic reference?
+# Chapter 13
+**Key themes:**
+1. If a prophet or dreamer does wonder and signs, but asks to follow another god, it is a trial and a temptation, and one should not follow him.
+2. Death penalty for idolatry and incentivizing people for idolatry.
+3. If there is people spreading idolatry in a city under control of the people, that city shall be utterly destroyed and the inhabitants (all of them?) killed.
+# Chapter 14
+**Key themes:**
+1. *"You shall not cut yourselves or make any baldness on your foreheads for the dead"* Tattos? Shaving?
+2. Regulations on clean/unclean animals.
+3. You can sell unclean animals to the foreigner.
+4. Rejection of pagan rituals (boiling a goat in his mother's milk)
+5. Regulations on tithe, on when you can eat the tithe, and when the levite, the fatherless and the sojourner is offered the tithe to eat. The Lord bless the work of the hand of those who tithe.

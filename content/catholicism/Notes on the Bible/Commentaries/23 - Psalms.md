@@ -149,6 +149,10 @@ A Psalm on Divine Sovereignty. God is eternal and rules the creation. His power 
 *”Thy decrees are very sure”* (Ps 93:5) (highlights sovereignty of divine decrees)
 # Psalm 94
 A Psalm asking for Divine judgement on the wicked. The psalmist is certain that the Lord will stop the iniquity, and puts his trust and refuge in the Lord.
+# Psalm 95
+A Psalm praising praising the Lord and calling to worship him. Themes of joyfulness and thanksgiving to God, our maker and our savior. Call to conversion, and not hardening our own hearts, like the people of Israel did, testing God and not trusting in Him, even after seeing his works.
+# Psalm 96
+A praising Psalm that calls to ascribe greatness and glory to God, the one true god, as the other gods are idols. But God is the one that made the world, and the nature glorify him by its existence (Ps 96:11-12). A call to spread God's word, declaring His glory and telling the story of salvation. The Lord reigns and will judge the earth and its people with *His truth*.
 # Psalm 104
 
 # Psalm 136

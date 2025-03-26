@@ -66,3 +66,19 @@ It is called Numbers because it starts by numbering the people of Israel. It con
 **Key themes:**
 1. Spies are sent to the land of Canaan, and they come back reporting it is a great land with great fruits, but with a strong people inhabiting it.
 2. (Don’t understand this part v32-33) They say to the people of Israel that it is a land that devours its inhabitants and is populated with the Nephilim (the sons of Anak, that comes from the Nephilim).
+
+# Chapter 14
+**Key themes:**
+1. Upon hearing the evil report, the people of Israel complain that the Lord brought them to the wilderness, and conspire to elect a captain and go back to Egypt. Joshua and Caleb stood faithful to God, and the people wanted to stone them.
+2. Moses intercedes in behalf of the people so that the Lord doesn't abandon them.
+3. The rebels won't get into the promised land, and because of their iniquity, they will dwell in the wilderness for 40 years, until all of them die.
+4. After this, they rebel again and try to conquer the promised land by themselves. Moses opposes and says to them to not do it, but they do it anyway, and get slaughtered by the Amalekites and Canaanites.
+
+**Moral sense:**
+1. In our own battle against sin and towards sainthood, if we fail to follow God and fight our battles, there will be consequences for our children, and they will have to pick up where we left off.
+# Chapter 15
+**Key themes:**
+1. Rules for sin offerings. Applies for natives and sojourners.
+2. If someone sins "with a high hand", wittingly, he shall be cut off from the people.
+3. Death penalty for working on the sabbath.
+4. Tassels on clothes, so that the people remember to be faithful the their commandments, and not follow their own hearts and eyes.
