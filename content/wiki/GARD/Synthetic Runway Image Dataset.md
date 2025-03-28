@@ -485,7 +485,7 @@ These are positive results, clearly showing that the data augmentation process i
 
 ## Extrinsic evaluation
 
-For extrinsic evaluation, several pre-trained segmentation models are fine tuned, comparing their performance when trained exclusively on the synthetic images of LARD [@ducoffe_lard_2023] and when trained on the project's datasets.
+Following the methodology of [@voetman_big_2023], for extrinsic evaluation, several pre-trained segmentation models are fine tuned, comparing their performance when trained exclusively on the synthetic images of LARD [@ducoffe_lard_2023] and when trained on the project's datasets.
 
 To validate the performance of the trained models, the human-labeled real images of the LARD dataset are used. The real images of LARD are divided into two folders: *"nominal cases"* and *"edge cases"*, the latter with poor runway visibility.
 
@@ -495,16 +495,27 @@ There are two tasks YOLO reports metrics for: detection, where it compares bound
 
 ... insert table here
 
+## Discussion
 
 
-## The good, the bad, and the ugly
+rewrite: Some limitations of this testing: there might be benefits of mixing the datasets as each one has distinct characteristics and a more general dataset might be better. Because the generated images were based on sample of the nominal dataset, it might be biased, although because of the low, but positive, correlation the effects might not be that big/
 
-
-
-criticize using lard nominal
 
 
 # Conclusion
+
+
+
+
+# Titles
+Landing in the Latent Space: Building Labeled Synthetic Runway Datasets with Diffusion Models
+
+
+GARD - Gustavo's Awesome Runway Dataset - dataset
+Canny2Concrete Pipeline: A Modular Pipeline for Synthetic Dataset Creation
+
+From Canny to Concrete
+
 
 
 # References
