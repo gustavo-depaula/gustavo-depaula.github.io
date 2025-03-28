@@ -165,7 +165,7 @@ Using a pre-trained segmentation model, comparisons will be made between the per
 
 ## Pipeline
 
-The pipeline is implemented through four Jupyter notebooks, one for each module. Additionally, a tool to help in filtering images is implemented in a standalone Python Script.
+The pipeline is implemented through four Jupyter notebooks, one for each module.
 ### Template image selection module
 
 The template image selection module contains an adapter function that reads images from the public LARD dataset [@ducoffe_lard_2023], generate JSON label files, and puts the image-label files pairs into the output directory. The LARD dataset is composed of several different folders containing both synthetic and real images. It has two real images folders: *Nominal cases* and *Edge cases*, the latter being composed of images with poor runway visibility.
@@ -249,6 +249,14 @@ corners_array[:, 1] *= (1024.0 / orig_h)
 ```
 ### Base Image generation module
 
+This is the most important module of pipeline, everything depends on the quality of the base images generated in this step. To generate the images, the `diffusers` (TODO: CITE) is used, as it provides a series of utilities and constructs to be used in the task of generating images with diffusion models.
+
+The classes one is going to need from `diffusers` depend on what model they are using. The DreamShaper (TODO: cite) is a general purpose Stable Diffusion model, aiming to rival other general purpose models such as DALL-E and Midjourney. Of the several models and pipelines that were tried during this project, it was chosen because of its image quality, faithfulness to the prompt, and ability to construct diverse scenarios, ranging from different lighting and weather conditions.
+
+From the DreamShaper family, the chosen model was the DreamShaper XL version, that is capable of producing 1024x1024 images, as it is based on Stable Diffusion XL. This higher quality was needed for the generation of finer details such as runway markings.
+
+From that decision, all the rest are corollary. For the ControlNet model, the pre-trained canny edge based offered by `diffusers` for Stable Diffusion XL was chosen. And the recommended scheduler configuration by DreamShaper was used.
+
 ```py
 controlnet = ControlNetModel.from_pretrained(
     "diffusers/controlnet-canny-sdxl-1.0", torch_dtype=torch.float16
@@ -265,6 +273,11 @@ pipeline.scheduler = DPMSolverMultistepScheduler.from_config(pipeline.scheduler.
 pipeline.enable_model_cpu_offload()
 ```
 
+A really important part of generative models is *prompt engineering*: crafting an input prompt that achieves the desired results. Diffusion models accept both a *prompt* as well as a *negative prompt*. The model tries to produce what is included in the prompt and avoids what is in the negative prompt.
+
+Crafting the prompt is a task of trial and error until satisfactory results are achieved. To help in this task, it is usually advised to look at prompts that were used to generate the images in the examples page of the model. Through there, it is possible to get keywords that the model reacts to, such as "cinematic film still" and "realistic", or "ugly" and "deformed".
+
+As the project needed to create images in diverse scenarios, two base prompts are defined. These base prompts create daylight images with no weather adversity. And then, we have a dictionary of modifiers: lists of words that need to be added or removed from the base prompts to arrive at the desired scenario.
 
 ```py
 base_prompt = "photo of airport runway, aerial view, 4k, cinematic film still, realistic, beautiful landscape around, high-contrast runway lines"
@@ -297,14 +310,15 @@ modifiers = {
         "-dark",
     )
 }
-
 ```
+
+Then, given these definitions, a special function (`apply_modifiers`) can receive the desired variant and construct the final prompt and negative prompt. This function also receives how many images should be generated for that prompt pair, and it returns a data structure that can be passed to the  `generate_base_images` function, that uses the prompt pairs to generate and save the images.
 
 ```py
 generate_base_images(
-    "p_FilteredCannyEdges",
-    "p_BaseImages",
-    prompt_pairs=[
+    "p_FilteredCannyEdges", # input
+    "p_BaseImages", # output directory
+    prompt_pairs=[ # images to generate
         apply_modifiers("day", [], 5),
         apply_modifiers("night", ["night"], 5),
         apply_modifiers("dusk", ["dusk"], 1),
@@ -420,7 +434,7 @@ elif variant in ["snow", "snow+night"]:
 ```
 
 After each augmentation pipeline, the label JSON file is enriched with enough information to ensure the process reproducibility, along with the random seeds used in the process.
-### Filtering Tool
+## Filtering Tool
 
 To aid in selecting which images to use as template images, a manual filtering tool was written as a python script using OpenCV. This tool read images from a directory and allows the user to press "Space" to select an image and "X" to discard them. The selected images are copied into a new directory, and progress is written to a log file so that it is possible to close the tool and open again without having to restart the process all over again.
 
@@ -429,11 +443,66 @@ Because I had limited time, template images were filtered using this heuristic:
 2. Then, use the filtering tool to select which base images had easily recognizable runways with consistent markings and structure.
 3. In the end, 361 images were selected, and then only these canny edges were used to generate all images in the final dataset.
 
+## The final datasets
+
+In the published dataset, there are three datasets:
+1. `BaseImages`, containing 6498 images, 18 variations for each 361 canny edge images.
+2. `VariantImages`, containing 19494 images, 3 variations for each base image. These are the variants before the application of weather effects that create runway occlusion.
+3. `VariantImagesWithOcclusion`, containing 19494 images also, one for each image in variant images.
+
+For each image, that are 4 files associated with it:
+1. A `.png` file with the image itself.
+2. A `.json` file with the label of the image.
+3. A `.mask.png` file with a segmentation mask (black in the background, white on the runway).
+4. A `.txt` label file adapted to be used for training detection and segmentation models with YOLO, out of the box.
+
+The JSON label file carries not only the runway label, but all the information required to reproduce that specific image, such as the prompts and seed used in the diffusion step, what variant it is, what positional transformations were applied, and what occlusion effects were applied.
+
+This metadata is very helpful because it allows for image classification (such as selecting all snow images) and image reconstruction. For example, when assembling the dataset, I forgot to scale the runway keypoints in the diffusion outpaint stage, so all the labels in the variant dataset were wrong. But because I had kept the `albumentations` replay configuration, I was able to reconstruct all the labels without re-generating the images. It also allows for easy replication in peer reviews.
+
+In each directory, there are also `train.txt`, `test.txt`, and `val.txt` files, splitting the dataset randomly in 80/10/10 proportions. Because generated images that have the same source canny edge might share a lot of structure, thus leaking testing sample information into the training sample, the split takes the source image into account.
+
 ## Generated images
 
+Randomly chosen three template images.
 
+- Template Image | Canny Edge
+- Base Images
+- Variant Images
+- Variant Images with occlusion
 
 # Evaluation
+
+## Intrinsic evaluation
+
+The chosen metric for intrinsic evaluation was SSIM (Structural similarity index measure) [TODO: CITE]. SSIM evaluates how similar two images are from each other. A SSIM of 1 indicates perfect similarity (the image with itself), a score of 0 indicates no similarity, and a score of -1 is perfect anti-correlation.
+
+It is hard to define what a good SSIM value would be, because, for example, a realistic and high-quality background that was significantly different from the original image would penalize the SSIM score, while not being a bad thing per se. On the other hand, because we generate the new image based on the canny edge structure from the template image, we should expect a positive correlation, if the generation process is working as intended.
+
+.... insert results here
+
+These are positive results, clearly showing that the data augmentation process is working as intended. The generated images are positively correlated with the template images (expected for a data augmentation pipeline), while as diversity is added, the similarity significantly drops.
+
+## Extrinsic evaluation
+
+For extrinsic evaluation, several pre-trained segmentation models are fine tuned, comparing their performance when trained exclusively on the synthetic images of LARD [@ducoffe_lard_2023] and when trained on the project's datasets.
+
+To validate the performance of the trained models, the human-labeled real images of the LARD dataset are used. The real images of LARD are divided into two folders: *"nominal cases"* and *"edge cases"*, the latter with poor runway visibility.
+
+Three pre-trained models from the YOLO v11 family are fine-tuned: YOLO11n (*n* for nano), YOLO11s (*s* for small), and YOLO11m (*m* for medium). The larger models YOLO11l and YOLO11x weren't trained because of hardware constraints.
+
+There are two tasks YOLO reports metrics for: detection, where it compares bounding boxes, and segmentation, where it compares segmentation masks.
+
+... insert table here
+
+
+
+## The good, the bad, and the ugly
+
+
+
+criticize using lard nominal
+
 
 # Conclusion
 
