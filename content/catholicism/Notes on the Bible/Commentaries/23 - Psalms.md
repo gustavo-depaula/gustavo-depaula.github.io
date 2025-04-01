@@ -153,6 +153,8 @@ A Psalm asking for Divine judgement on the wicked. The psalmist is certain that 
 A Psalm praising praising the Lord and calling to worship him. Themes of joyfulness and thanksgiving to God, our maker and our savior. Call to conversion, and not hardening our own hearts, like the people of Israel did, testing God and not trusting in Him, even after seeing his works.
 # Psalm 96
 A praising Psalm that calls to ascribe greatness and glory to God, the one true god, as the other gods are idols. But God is the one that made the world, and the nature glorify him by its existence (Ps 96:11-12). A call to spread God's word, declaring His glory and telling the story of salvation. The Lord reigns and will judge the earth and its people with *His truth*.
+# Psalm 97
+A Psalm praising God's reign over all the nature and Him as a supreme judge, that punishes evil and wickedness and protects His saints and gives joy to the righteous in heart. Again, the theme of God's might represented as natural forces (clouds, fire, lightnings, mountains, heavens, )
 # Psalm 104
 
 # Psalm 136

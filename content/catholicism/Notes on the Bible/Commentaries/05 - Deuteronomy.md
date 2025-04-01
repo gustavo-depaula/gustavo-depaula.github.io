@@ -105,3 +105,31 @@ It would be interesting to have a paragraph on explaining the Gospel in a succin
 3. You can sell unclean animals to the foreigner.
 4. Rejection of pagan rituals (boiling a goat in his mother's milk)
 5. Regulations on tithe, on when you can eat the tithe, and when the levite, the fatherless and the sojourner is offered the tithe to eat. The Lord bless the work of the hand of those who tithe.
+# Chapter 15
+**Key themes:**
+1. Sabbatical year:
+	1. Every creditor releases the lent to their neighbors (v1-3)
+	2. Release Hebrew slaves (v12-18)
+2. Care for the poor (Deut 15:7-11)
+	1. The Lord bless those who give freely
+3. Sacrifice the firstling of the flock for the Lord (v19-23)
+	1. Eating as sacrifice
+# Chapter 16
+**Key themes:**
+1. Passover should be kept in the month of Abib. The place of sacrifice is determined by God. Eat unleavened bread for seven days.
+2. Feast of weeks, a freewill offering to the Lord according to the blessing He has given you.
+3. Feast of booths, for seven days, God will bless the produce and the work of their hands.
+4. All offerings should be given according to ability (v17).
+5. Appointment of judges:
+	1. They shall not pervert justice
+	2. They shall not show partiality
+	3. They shall not take a bribe
+	4. They shall follow only justive
+6. Worship rules:
+	1. Don't plan trees as Asherah: _Asherah_ was a Canaanite fertility goddess
+	2. Prohibition on using pillars as object of worship. Ancient Near Eastern used pillars as worship objects, Jacob used it in Gen 28:18, but because now Israel was surrounded by pillars used by idolatry, it is forbidden.
+
+# Reference
+
+**Deut 15:19-23**
+*"All the firstling males that are born of your herd and flock you shall consecrate to the Lord your God; you shall do no work with the firstling of your herd, nor shear the firstling of your flock. You shall eat it, you and your household, before the Lord your God year by year at the place which the Lord will choose. But if it has any blemish, if it is lame or blind, or has any serious blemish whatever, you shall not sacrifice it to the Lord your God."* ^3c666d

@@ -82,3 +82,10 @@ It is called Numbers because it starts by numbering the people of Israel. It con
 2. If someone sins "with a high hand", wittingly, he shall be cut off from the people.
 3. Death penalty for working on the sabbath.
 4. Tassels on clothes, so that the people remember to be faithful the their commandments, and not follow their own hearts and eyes.
+# Chapter 16
+**Key themes:**
+1. A assembly of 250 leaders of the congregation, led by Korah (Levi), Dathan and Abiram (Eliab), On (Reuben), rebel against Moses and Aaron.
+2. Korah is punished by being swallowed into the ground with all his things and men that belonged to him.
+3. The congregation rebels against Moses and Aaron because of Korah's death, and the Lord plagues the people, but Aaron makes atonement by offering incense and the plague stops.
+
+Highlights sacrifice as a way of appeasing divine wrath.

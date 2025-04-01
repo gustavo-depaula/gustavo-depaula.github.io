@@ -6,6 +6,8 @@ Can't eat the passover sacrifice if the person is unclean, just as can't commune
 Some sacrifices require the eating of the sacrificed animal:
 ![[02 - Exodus#^e3fc7f]]
 ![[53 - 1 Corinthians#^abfcf2]]
+![[05 - Deuteronomy#^3c666d]]
+
 
 
 
@@ -17,3 +19,7 @@ Just as the Old Covenant is instituted with the real blood of the animals that w
 
 The new Covenant is established with the blood of Jesus, by transubstantiation, in the Last Supper:
 ![[53 - 1 Corinthians#^3b5ad7]]
+
+
+
+
