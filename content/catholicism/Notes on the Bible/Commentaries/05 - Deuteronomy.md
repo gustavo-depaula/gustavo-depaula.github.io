@@ -128,7 +128,17 @@ It would be interesting to have a paragraph on explaining the Gospel in a succin
 6. Worship rules:
 	1. Don't plan trees as Asherah: _Asherah_ was a Canaanite fertility goddess
 	2. Prohibition on using pillars as object of worship. Ancient Near Eastern used pillars as worship objects, Jacob used it in Gen 28:18, but because now Israel was surrounded by pillars used by idolatry, it is forbidden.
-
+# Chapter 17
+**Key themes:**
+1. Prohibition of animal offering if there is any blemish.
+2. Death penalty for idolatry. There has to be multiple witnesses, and if condemned, the witnesses should be the first to cast stones.
+3. The people should submit to the authority of priests and judges in their decisions.
+4. Israel will ask for a King and God will give them. But the King should be a virtuous man, not multiplying wives, gold, or leading the people back to Egypt. The king should have a copy of the law and read it everyday.
+# Chapter 18
+**Key themes:**
+1. The priests have no inheritance, they live by God’s providence. And the people should receive them at their homes and do their offerings as the law says.
+2. Prohibition on human/child sacrifice and occultist practices.
+3. Prophecy about God raising future prophets, also a messianic prophecy. If the prophet prophesy and the word doesn’t come to pass, he isn’t a real prophet.
 # Reference
 
 **Deut 15:19-23**
