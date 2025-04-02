@@ -89,10 +89,13 @@ It is called Numbers because it starts by numbering the people of Israel. It con
 3. The congregation rebels against Moses and Aaron because of Korah's death, and the Lord plagues the people, but Aaron makes atonement by offering incense and the plague stops.
 
 Highlights sacrifice as a way of appeasing divine wrath.
-
 # Chapter 17
 **Key themes:**
 1. God gives a sign to stop the people from questioning the leadership of Aaron, by sprouting his rod among all the leaders’ rods.
 
 **Questions:**
 1. Didn’t understand v12-13
+# Chapter 18
+**Key themes:**
+1. The Levites have received the gift to serve the people in the sanctuary, and only them shall do it. It ia grave sin for anyone else to do it.
+2. The Levites have no inheritance, but God has given them all the tithes to them. The priests have to offer tithes on the tithes they receive, and deliver them to Aaron.
