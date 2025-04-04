@@ -157,6 +157,8 @@ A praising Psalm that calls to ascribe greatness and glory to God, the one true 
 A Psalm praising God's reign over all the nature and Him as a supreme judge, that punishes evil and wickedness and protects His saints and gives joy to the righteous in heart. Again, the theme of God's might represented as natural forces (clouds, fire, lightnings, mountains, heavens)
 # Psalm 98
 God as a victorious king, who is loving and faithful to Israel. The whole world should sing for Him, as He comes to judge the world with righteousness and equity.
+# Psalm 99
+God reigns as a mighty King over all creation and executes justice. He is a forgiving God, but also an avenger of wrongdoing.
 # Psalm 104
 
 # Psalm 136

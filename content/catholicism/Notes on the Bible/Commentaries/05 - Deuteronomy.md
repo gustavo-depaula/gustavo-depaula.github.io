@@ -139,6 +139,10 @@ It would be interesting to have a paragraph on explaining the Gospel in a succin
 1. The priests have no inheritance, they live by God’s providence. And the people should receive them at their homes and do their offerings as the law says.
 2. Prohibition on human/child sacrifice and occultist practices.
 3. Prophecy about God raising future prophets, also a messianic prophecy. If the prophet prophesy and the word doesn’t come to pass, he isn’t a real prophet.
+# Chapter 20
+**Key themes:**
+1. It is by God’s help that Israel shall win its battles.
+2. When warring against the Canaanite people, they should be utterly destroyed. The others, peace terms should be offered, where they will do forced labor. If they don’t agree, the males are killed, and the rest are taken as spoil.
 # Reference
 
 **Deut 15:19-23**
