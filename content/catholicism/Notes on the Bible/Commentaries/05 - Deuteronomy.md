@@ -143,6 +143,16 @@ It would be interesting to have a paragraph on explaining the Gospel in a succin
 **Key themes:**
 1. It is by God’s help that Israel shall win its battles.
 2. When warring against the Canaanite people, they should be utterly destroyed. The others, peace terms should be offered, where they will do forced labor. If they don’t agree, the males are killed, and the rest are taken as spoil.
+# Chapter 21
+**Key themes:**
+1. Provisions for what to do when encountering a slayed man with no witnesses to what happened.
+2. Rules of what to do when marrying a foreigner woman that was taken as a captive. She shall have time to mourn the death of her family, she shall not be a slave or sold as property.
+3. A man with two wives shall not give preference to the son of the loved one.
+4. Death punishment for rebellious children.
+5. It defiles the land to not bury on the same day a man killed by the death penalty.
+
+**Moral sense:**
+1. The captive woman shaving her head was a ritual of cutting away her past life in preparation for her new life in Israel. St Jerome says that we are permitted to embrace any secular wisdom as long as we cut away anything offensive to Christian truth.
 # Reference
 
 **Deut 15:19-23**

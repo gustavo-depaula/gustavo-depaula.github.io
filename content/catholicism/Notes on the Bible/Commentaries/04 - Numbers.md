@@ -99,3 +99,16 @@ Highlights sacrifice as a way of appeasing divine wrath.
 **Key themes:**
 1. The Levites have received the gift to serve the people in the sanctuary, and only them shall do it. It ia grave sin for anyone else to do it.
 2. The Levites have no inheritance, but God has given them all the tithes to them. The priests have to offer tithes on the tithes they receive, and deliver them to Aaron.
+# Chapter 19
+**Key themes:**
+1. Offering for the removal of sin by sacrificing a spotless heifer, made by Eleazar the priest.
+2. Provisions for the water of impurity, that cleanses people of ritual uncleanliness.
+# Chapter 20
+**Key themes:**
+1. The people rebel again, because in Meribah they did not have water to drink.
+2. God commanded Moses to tell the rock to yield its water, but Moses hit the rock with his rod (twice), thus not believing the Lord. Because of this, Moses will not enter the promised land, and Aaron is replaced by Eleazar, and dies after.
+3. Edom (Esau) doesn’t let Israel pass by its kingdom.
+
+**Allegorical sense:**
+1. The rock is figure of Christ. What does the water simbolizes? Life, perhaps?
+2. Perhaps not only disobedience was Moses’ fault, but also hitting Christ to get what he wanted the way he wanted to do.
