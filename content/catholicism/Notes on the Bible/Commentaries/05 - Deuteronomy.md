@@ -173,6 +173,26 @@ It would be interesting to have a paragraph on explaining the Gospel in a succin
 
 **Moral sense:**
 1. Be careful to the vows you make to the Lord, because it is a sin to breach it.
+# Chapter 24
+**Key themes:**
+1. If a man divorces his wife, and she marries (and consummates) another man, the first husband cannot take her back again if the other husband divorces her or dies.
+2. A man cannot go to war if he is newly married, he must stay one year with his wife, to be happy. (v. 5)
+3. A person cannot be found guilt by the mistakes of his parents or children. (v. 16)
+4. Provisions on not doing injustice to the poor, servants, fatherless, widows, and fellow brethren.
+# Chapter 25
+**Key themes:**
+1. Beatings as punishments for crimes must be proportional to the offense, after the trial has concluded the man is guilty.
+2. Laws on Levirate marriage.
+3. v13-17, saying of two weights, two measures. 
+4. Vengeance against Israel's enemies because of Amalek? v17-19.
+
+**Questions:**
+1. What cultural significance does a woman seizing a man by his private part has (during a fight with another man)?
+	1. Putting her husband in a submission position?
+
+**Moral sense:**
+1. Death punishment is not prescribed for not wanting to take the wife in a Levirate marriage. This points to Onan's sin being of wasting his seed.
+2. Be just and act honestly.
 # Reference
 
 **Deut 15:19-23**

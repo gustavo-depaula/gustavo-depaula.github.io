@@ -169,6 +169,8 @@ It seems that it mixes the psalmist personal afflictions with Israel’s redempt
 
 # Psalm 105
 A praising psalm that recounts the story of Israel from Abraham to Moses.
+# Psalm 106
+A praising psalm recounting Israel's sin and misery, and even how in the midst of brokenness and disobedience, the Lord stayed at Israel's side.
 # Psalm 136
 
 # Psalm 114

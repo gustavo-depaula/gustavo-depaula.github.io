@@ -128,7 +128,6 @@ Highlights sacrifice as a way of appeasing divine wrath.
 
 **Questions:**
 1. What is the Book of the Wars of the Lord
-
 # Chapter 22
 **Key themes:**
 1. The story of Balaam and his donkey.
@@ -138,3 +137,6 @@ Highlights sacrifice as a way of appeasing divine wrath.
 	1. False piety? In the exterior he said he would not go even if they gave him a house of gold and silver (v18), but still wanted to go.
 	2. The Angel doesn't punish him, only warns him.
 	3. St Peter will later talk about this story in 2 Peter 2:15
+# Chapter 23
+**Key themes:**
+1. Balak leads Balaam and sets up altars to him, so he can curse Israel. But each time, Balaam only does what the Lord has said, and does not curse Israel.
