@@ -112,3 +112,20 @@ Highlights sacrifice as a way of appeasing divine wrath.
 **Allegorical sense:**
 1. The rock is figure of Christ. What does the water simbolizes? Life, perhaps?
 2. Perhaps not only disobedience was Moses’ fault, but also hitting Christ to get what he wanted the way he wanted to do.
+# Chapter 21
+**Key themes:**
+1. The king of a Arad, a Canaanite fought against Israel, and when they promised to utterly destroy their cities, God gave over the Canaanites to them.
+2. The Israelites became impatient while going around Edom, and murmured against God and against Moses. God punished them by sending fiery serpents.
+3. Moses prayed for the people, and God commanded him to make a fiery serpent, so that people that were bitten by a snake could look at the snake and be cured.
+4. The Amorites and Bashan attacked Israel and Israel won and settled in their cities.
+
+**Allegorical sense:**
+1. The serpent is a type of Christ (Jn 3:14), set up on a pole, and everyone who sees it (believes it) shall live (is cured / is saved).
+
+**Moral sense:**
+2. God concedes the prayers that align with His plan for us.
+3. Sometimes God punishes us as a lesson, so that we may suffer here and not in the eternal life.
+
+**Questions:**
+1. What is the Book of the Wars of the Lord
+

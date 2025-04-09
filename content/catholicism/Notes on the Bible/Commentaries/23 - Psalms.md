@@ -161,6 +161,10 @@ God as a victorious king, who is loving and faithful to Israel. The whole world 
 God reigns as a mighty King over all creation and executes justice. He is a forgiving God, but also an avenger of wrongdoing.
 # Psalm 100
 A thanksgiving Psalm, not for any good He has done particularly, but because He has created us and is good, loving and faithful.
+# Psalm 102
+It starts by asking for God’s intercession, for Him to hear his cry. Then, the psalmist exposes his dire situation, where he recognizes his finitude, fragility and mortality. Then, he contrasts his own insignificance with God’a greatness, that is timeless and survives all generations. The psalmist praises the Lord for having looked down from heaven and having created the earth.
+
+It seems that it mixes the psalmist personal afflictions with Israel’s redemption.
 # Psalm 104
 
 # Psalm 136

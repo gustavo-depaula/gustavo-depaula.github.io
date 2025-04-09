@@ -153,6 +153,13 @@ It would be interesting to have a paragraph on explaining the Gospel in a succin
 
 **Moral sense:**
 1. The captive woman shaving her head was a ritual of cutting away her past life in preparation for her new life in Israel. St Jerome says that we are permitted to embrace any secular wisdom as long as we cut away anything offensive to Christian truth.
+# Chapter 22
+**Key themes:**
+1. You shall not withhold help to your brother when dealing with lost things or his cattle.
+2. Prohibition on cross dressing (v5).
+3. You shall not sow a field with two kinds of seeds or clothes with mingled stuff.
+4. Provisions on what to do when a husband accuses his newly wed wife of not being a virgin.
+5. Provisions on what to do when a man lies with a virgin outside of marriage, be her single or betrothed. 
 # Reference
 
 **Deut 15:19-23**
