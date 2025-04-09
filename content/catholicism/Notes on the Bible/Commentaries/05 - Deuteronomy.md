@@ -159,7 +159,20 @@ It would be interesting to have a paragraph on explaining the Gospel in a succin
 2. Prohibition on cross dressing (v5).
 3. You shall not sow a field with two kinds of seeds or clothes with mingled stuff.
 4. Provisions on what to do when a husband accuses his newly wed wife of not being a virgin.
-5. Provisions on what to do when a man lies with a virgin outside of marriage, be her single or betrothed. 
+5. Provisions on what to do when a man lies with a virgin outside of marriage, be her single or betrothed.
+# Chapter 23
+**Key themes:**
+1. Rules on who cannot enter the assembly of the Lord: eunuchs, bastards, ammonites and moabites.
+2. Israel should not abhor Edomites, because they are their brothers, and Egyptians, because they sojourned in their lands.
+3. Prohibition on lending with interest to Israelites.
+4. Prohibition on returning slaves that escaped their masters.
+5. When you make a vow to the Lord, it is a sin to not do it.
+
+**Questions:**
+1. What is a cult prostitute?
+
+**Moral sense:**
+1. Be careful to the vows you make to the Lord, because it is a sin to breach it.
 # Reference
 
 **Deut 15:19-23**

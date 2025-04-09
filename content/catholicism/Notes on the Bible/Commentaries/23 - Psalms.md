@@ -167,6 +167,8 @@ It starts by asking for God’s intercession, for Him to hear his cry. Then, the
 It seems that it mixes the psalmist personal afflictions with Israel’s redemption.
 # Psalm 104
 
+# Psalm 105
+A praising psalm that recounts the story of Israel from Abraham to Moses.
 # Psalm 136
 
 # Psalm 114
