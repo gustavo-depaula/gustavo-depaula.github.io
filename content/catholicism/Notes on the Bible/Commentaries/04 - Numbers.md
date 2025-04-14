@@ -140,3 +140,13 @@ Highlights sacrifice as a way of appeasing divine wrath.
 # Chapter 23
 **Key themes:**
 1. Balak leads Balaam and sets up altars to him, so he can curse Israel. But each time, Balaam only does what the Lord has said, and does not curse Israel.
+# Chapter 24
+**Key themes:**
+1. The oracles of Balaam are blessings to Israel, and reveal the destruction of the Canaanites. Balak gets angry with Balaam, but he only prophesy what God lets him.
+# Chapter 25
+**Key themes:**
+1. Israel started worshipping Baal and committing sexual immorality with the Moabites and the Midianites. The wrath of the Lord is kindled against Israel because of it.
+2. The plague (where it started?) is stopped after Phinehas son of Elezar kills a Israelite and the Midianite woman that he was engaging in sexual immorality, it seems that maybe publicly (*in the sight of Moses and of all the children of Israel*), during a time of mourning (*“weeping before the door of the tabernacle”*), near the tabernacle.
+
+**Questions:**
+1. Significant changes in translation between RSV-CE and Doauy-Rheims…

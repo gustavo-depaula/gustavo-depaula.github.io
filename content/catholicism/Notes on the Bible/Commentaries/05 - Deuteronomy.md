@@ -193,6 +193,14 @@ It would be interesting to have a paragraph on explaining the Gospel in a succin
 **Moral sense:**
 1. Death punishment is not prescribed for not wanting to take the wife in a Levirate marriage. This points to Onan's sin being of wasting his seed.
 2. Be just and act honestly.
+# Chapter 26
+**Key themes:**
+1. Ritual of offering the tithe. Remembers the redemption story from Egypt in the vocal prayer.
+2. The tithe is given to the Levite, the sojourner, the fatherless, and the widow.
+
+**Questions:**
+2. (v14) seems to imply no offerings to the dead, at least no tithing to the dead.
+
 # Reference
 
 **Deut 15:19-23**
