@@ -147,6 +147,14 @@ Highlights sacrifice as a way of appeasing divine wrath.
 **Key themes:**
 1. Israel started worshipping Baal and committing sexual immorality with the Moabites and the Midianites. The wrath of the Lord is kindled against Israel because of it.
 2. The plague (where it started?) is stopped after Phinehas son of Elezar kills a Israelite and the Midianite woman that he was engaging in sexual immorality, it seems that maybe publicly (*in the sight of Moses and of all the children of Israel*), during a time of mourning (*“weeping before the door of the tabernacle”*), near the tabernacle.
+# Chapter 26
+**Key themes:**
+1. A new census done in the plains of Moab.
+2. Land inheritance will be proportional to tribe size. The Levites don’t get land inheritance. God and his providence is their inheritance.
+3. There were no one that was in the wilderness (in the first census), as they died and the Lord said that they would die in the wilderness. Only Caleb son of Jephunneh and Joshua the son of Nun.
+
+**Noteworthy:**
+1. God killed Korah because of his rebellion, but did not kill his sons.
 
 **Questions:**
 1. Significant changes in translation between RSV-CE and Doauy-Rheims…

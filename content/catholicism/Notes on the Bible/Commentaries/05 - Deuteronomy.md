@@ -200,7 +200,9 @@ It would be interesting to have a paragraph on explaining the Gospel in a succin
 
 **Questions:**
 2. (v14) seems to imply no offerings to the dead, at least no tithing to the dead.
-
+# Chapter 27
+**Key themes:**
+1. Curses for breaking the commandments and statues. Cursed be he who makes idols, dishonors his parents, steals, misleads and frauds the helpless, commits incest, bestiality, murders, takes bribe to murder, and finally, who does not do the law.
 # Reference
 
 **Deut 15:19-23**

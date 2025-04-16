@@ -173,6 +173,8 @@ A praising psalm that recounts the story of Israel from Abraham to Moses.
 A praising psalm recounting Israel's sin and misery, and even how in the midst of brokenness and disobedience, the Lord stayed at Israel's side.
 # Psalm 107
 A psalm thanking God for deliverance from evil. (there could be a better description here…)
+# Psalm 111
+A psalm praising God and his works. His work is full of honor and majesty, his precepts are trustworthy, and the fear of the Lord is the beginning of wisdom.
 # Psalm 136
 
 # Psalm 114
