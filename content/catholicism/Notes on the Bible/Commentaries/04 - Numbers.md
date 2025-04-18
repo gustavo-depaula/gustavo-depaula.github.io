@@ -158,3 +158,10 @@ Highlights sacrifice as a way of appeasing divine wrath.
 
 **Questions:**
 1. Significant changes in translation between RSV-CE and Doauy-Rheims…
+# Chapter 27
+**Key themes:**
+1. Daughters gets inheritance if the father doesn’t have any son.
+2. Joshua is appointed as Moses’ successors.
+
+**Allegorical sense:**
+1. Joshua’s appointment foreshadow new covenant’s priesthood, where there is apostolic succession through laying of hands, and it communicates authority and responsibility.
