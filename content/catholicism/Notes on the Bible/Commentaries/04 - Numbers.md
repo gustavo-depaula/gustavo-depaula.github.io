@@ -165,3 +165,7 @@ Highlights sacrifice as a way of appeasing divine wrath.
 
 **Allegorical sense:**
 1. Joshua’s appointment foreshadow new covenant’s priesthood, where there is apostolic succession through laying of hands, and it communicates authority and responsibility.
+# Chapter 28
+**Key themes:**
+1. Rules on habitual offerings the people of God should make: continual burnt offerings, sabbath offering, beginning of the month offerings, passover offerings, day of the first fruits offerings.
+	1. All of them include male lambs, fine flour, and drink offerings. For sin offering, a goat is sacrificed.
