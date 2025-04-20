@@ -207,11 +207,11 @@ It would be interesting to have a paragraph on explaining the Gospel in a succin
 **Key themes:**
 1. The Lord attaches temporal blessings to following the commandments: blessed shall be the fruit of the body, fruit of the ground, fruit of the beasts, and increase of cattle. There will be plenty of rain.
 2. The Lord also attaches temporal curses to breaking and not following the commandments. It foreshadows the suffering Israel will bear when it forsakes the Lord (I don’t know when, but it will happen).
+3. The main curse for not following the commandments and statues is the demise of the people and slavery again to a foreign nation.
 
 **Moral sense:**
 1. Just a coincidence, but *“and if you do not turn aside from any of the words which I command you this day, to the right hand or to the left”* (v14) fits really well in today’s divisive political climate. It also shows how errors can be made in opposite directions.
 2. Disobeying the Lord can lead to cuckolding: *“You shall betroth a wife, and another man shall lie with her”* (Deut 28:30)
-3. 
 # Reference
 
 **Deut 15:19-23**

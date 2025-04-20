@@ -175,8 +175,8 @@ A praising psalm recounting Israel's sin and misery, and even how in the midst o
 A psalm thanking God for deliverance from evil. (there could be a better description here…)
 # Psalm 111
 A psalm praising God and his works. His work is full of honor and majesty, his precepts are trustworthy, and the fear of the Lord is the beginning of wisdom.
-# Psalm 136
-
+# Psalm 112
+A psalm blessing the upright man, and how his righteousness and generosity endure forever, while the wicked man accomplishes nothing.
 # Psalm 114
 The Psalmist refers to several miracles performed by God in Israel’s liberation of Egypt, while using a prosopopeia, asking the inanimate objects why they did the miracle.
 # Psalm 115
@@ -185,7 +185,7 @@ Contrasts God's power, that is in heaven and does whatever He wants (Ps 115:3), 
 **Key themes:**
 1. Damn, this guy *really* loves the Law!!
 2. TODO: I'll have to revisit this Psalm, it is great and profound, and with a quick research I have already seen too much that I need to digest and dig deeper.
-
+# Psalm 136
 
 ---
 # Reference
