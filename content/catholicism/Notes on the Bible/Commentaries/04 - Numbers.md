@@ -169,3 +169,44 @@ Highlights sacrifice as a way of appeasing divine wrath.
 **Key themes:**
 1. Rules on habitual offerings the people of God should make: continual burnt offerings, sabbath offering, beginning of the month offerings, passover offerings, day of the first fruits offerings.
 	1. All of them include male lambs, fine flour, and drink offerings. For sin offering, a goat is sacrificed.
+# Chapter 29
+**Key themes:**
+1. Offerings to be done in the holy days of Trumpets (1st day of 7th month), Atonement (15th day), and the feast of Tabernacles (15th-22nd days).
+# Chapter 30
+**Key themes:**
+1. Men should not break vows or pledges they make.
+2. When a woman is under the leadership of a man, such as a daughter is her father’s house or a wife, the father or husband has the responsibility for any promise or vow a woman makes. Therefore, on the day he hears the promise, he can either make it void or establish it. 
+# Chapter 31
+**Key themes:**
+1. The Lord exact justice against the Midianites, by sending Israel to war against them. Not only the men were killed, but Moses commanded the army to kill the adult women, as they were wicked and the reason “the plague” afflicted Israel.
+
+**Questions:**
+1. Tough chapter.
+2. What the Midianites have done to deserve having them destroyed?
+3. What exactly was and the reasons for “the plague” that afflicted Israel? (also seen in Chapter 25)
+
+**Allegorical notes:**
+1. In the fight against sin, we should root out all of the occasions of sin and attachments that might lead to sin (represented here by the Midianite women).
+# Chapter 32
+**Key themes:**
+1. The sons of Reuben and the sons of Gad ask to settle in the land of Gad and Gilead (east of the Jordan, conquered from the Amorites, Numbers 21:32), because it was a good land for cattle.
+2. This sparked a controversy with Moses, because it implied that the Reubenites and Gadites would not fight for the promised land, just as the spies that went to the Land in the beginning of the desert wanderings.
+3. Then, they made an oath that they would be on the frontlines (v. 17) and would only return to their homes after Israel conquered their land.
+4. Thus, Moses gave to the Reubenites, the Gadites, and to the half-tribe of Manasseh the kingdoms of Sihon (Amorites) and Og (Bashan).
+# Chapter 33
+**Key themes:**
+1. Recounts Israel 40-year wandering, and the name of the places where they have been.
+2. Aaron died in the 40th year, with 123 years.
+3. The Lord said that if the people do not drive out the Canaanites out of the land, He will do to the Israelites as they should have done.
+# Chapter 34
+**Key themes:**
+1. Boundaries of the promised land in Canaan.
+2. Who will divide the land: Eleazar and Joshua, along with leaders of the nine tribes and the half-tribe (the tribes of Israel excluding Reuben, Gad and Manasseh, as they will have land eastward of the Jordan).
+# Chapter 35
+**Key themes:**
+1. In the midst of the land of the tribes, 42 cities shall be given to the Levites along with land around for pasture. The 6 refuge cities shall also be given to the Levites.
+2. Ordinances for the congregation to discern between a murderer and an unintentional manslayer.
+3. Statues for the usage of the refuge cities by manslayers.
+# Chapter 36
+**Key themes:**
+1. Inheritance shall not be transferred between tribes of Israel. Thus, daughters that received inheritance because there was no son, must marry men of the same tribe.
