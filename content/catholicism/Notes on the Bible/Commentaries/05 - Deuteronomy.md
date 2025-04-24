@@ -212,6 +212,35 @@ It would be interesting to have a paragraph on explaining the Gospel in a succin
 **Moral sense:**
 1. Just a coincidence, but *“and if you do not turn aside from any of the words which I command you this day, to the right hand or to the left”* (v14) fits really well in today’s divisive political climate. It also shows how errors can be made in opposite directions.
 2. Disobeying the Lord can lead to cuckolding: *“You shall betroth a wife, and another man shall lie with her”* (Deut 28:30)
+# Chapter 29
+**Key themes:**
+1. One of the final sermons of Moses, briefly recounting the difficulties of the desert wanderings and the covenant the Lord is establishing with the people, and the curses for not following the commandments and statues.
+
+**Notes:**
+1. **Deut 29:4** Theme of *"eyes to see"*, *"ears to hear"*, that is also seen in the gospels. Is it the light/gift of faith? 
+2. Verse 5/6: Change of speaker?
+3. Deut 29:29 *"The secret things belong to the Lord our God;"* the mysteries, the unknown path of God's providence
+# Chapter 30
+**Key themes:**
+1. Continuing Moses' sermon. Foretells Israel disobedience and the curses scattering the people among the rival nations. But, it also foretells restoration by following God's ways.
+
+**Allegorical sense:**
+1. God restoring ourselves after severing communion with God by disobeying Him (Deut 30:3) is a foreshadowing of the sacrament of reconciliation.
+2. Deut 30:6 Circumcision as foreshadowing baptism, as circumcision of the flesh is only a sign of the internal circumcision of the heart.
+
+**Moral sense:**
+1. Deut 30:11-14 God asks us only what is possible, and gives us the means to know what to do and how to do it.
+# Chapter 31
+**Key themes:**
+1. Moses reveals to the people that he will not cross the Jordan, as the Lord commanded.
+2. Moses wrote the law and gave them to the Levites, so that they would teach future generations about the law.
+3. The Lord tells Moses that the people will disobey Him, and will commit idolatry with the gods of the nations of the land, and will suffer great hardships and evil because of it.
+# Chapter 32
+**Key themes:**
+1. God gives the song Moses should teach to the Israelites so that...
+
+**Allegorical sense:**
+1. Deut 32:4 *"The Rock"* reminds me of Peter's confession of faith.
 # Reference
 
 **Deut 15:19-23**
