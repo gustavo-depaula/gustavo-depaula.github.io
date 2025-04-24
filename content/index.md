@@ -6,9 +6,9 @@ title: Welcome!
 
 I am building this site to share my ideas and talk about things that I like. It is under heavy construction!
 
-![Under Construction](gifs/underconstruction.gif)
-![Worker Constructing](gifs/workerconstructing.gif)
-![Area Under Construction](gifs/areaunderconstruction.gif)
+![Under Construction](content/attachments/gifs/underconstruction.gif)
+![Worker Constructing](content/attachments/gifs/workerconstructing.gif)
+![Area Under Construction](content/attachments/gifs/areaunderconstruction.gif)
 
 ## Pages
 
@@ -70,7 +70,7 @@ Here's a list of topics I'm interested in:
 **"When The Heart Is Young" (1902)**  
 John William Godward (1861-1922) 🇬🇧
 
-![When The Heart Is Young](images/godward.jpg)
+![When The Heart Is Young](content/attachments/images/godward.jpg)
 
 Download it here: [Artvee](https://artvee.com/dl/when-the-heart-is-young/)
 
@@ -168,4 +168,4 @@ Maybe:
 
 Yes, I do! This one was found in "Parque da Água Branca", São Paulo.
 
-![Majestic Duck](images/majestic-duck.jpeg)
+![Majestic Duck](content/attachments/images/majestic-duck.jpeg)

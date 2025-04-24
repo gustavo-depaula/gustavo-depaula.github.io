@@ -12,7 +12,7 @@ publishDate: 2024-08-13T00:00:00
 
 <p style="text-align: right"><i>Gustavo de Paula<br>São Paulo, Terça-feira, 13 de Agosto de 2024 <br> Editado em: Domingo, 25 de Agosto de 2024</i></p>
 
-![Multiplicação dos pães](multiplicacao.jpg)
+![Multiplicação dos pães](public/images/multiplicacao.jpg)
 
 De alguns meses para cá, tem acontecido um fenômeno bem interessante: eu estou explorando algum assunto, talvez discutindo algum tema teológico ou da vida durante a semana, e sou surpreendido durante a Santa Missa quando as leituras e a homilia do padre tocam bem no assunto que foi tópico de inacabáveis conversas e pensamentos durante a semana. Coincidência ou providência? Um dia Ele me conta.
 
