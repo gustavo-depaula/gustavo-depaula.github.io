@@ -186,7 +186,6 @@ It would be interesting to have a paragraph on explaining the Gospel in a succin
 # Chapter 17
 
 **Key themes:**
-
 1. Prohibition of animal offering if there is any blemish.
 2. Death penalty for idolatry. There has to be multiple witnesses, and if condemned, the witnesses should be the first to cast stones.
 3. The people should submit to the authority of priests and judges in their decisions.
@@ -195,7 +194,6 @@ It would be interesting to have a paragraph on explaining the Gospel in a succin
 # Chapter 18
 
 **Key themes:**
-
 1. The priests have no inheritance, they live by God’s providence. And the people should receive them at their homes and do their offerings as the law says.
 2. Prohibition on human/child sacrifice and occultist practices.
 3. Prophecy about God raising future prophets, also a messianic prophecy. If the prophet prophesy and the word doesn’t come to pass, he isn’t a real prophet.
@@ -203,25 +201,21 @@ It would be interesting to have a paragraph on explaining the Gospel in a succin
 # Chapter 19
 
 **Key themes:**
-
 1. God gives provision for setting up cities where menslayers that unintentionally killed a person can flee to. Initially, three cities, but when the borders expand, other three should be set up. Intentional menslayers can't be in these cities.
 2. A single witness can't condemn a person. There has to be two or three witness, and they appear in front of the judge and priests. False witnesses get what they intended to do to their accused.
 
 **Questions:**
-
 1. neighbor's landmarks (?)
 
 # Chapter 20
 
 **Key themes:**
-
 1. It is by God’s help that Israel shall win its battles.
 2. When warring against the Canaanite people, they should be utterly destroyed. The others, peace terms should be offered, where they will do forced labor. If they don’t agree, the males are killed, and the rest are taken as spoil.
 
 # Chapter 21
 
 **Key themes:**
-
 1. Provisions for what to do when encountering a slayed man with no witnesses to what happened.
 2. Rules of what to do when marrying a foreigner woman that was taken as a captive. She shall have time to mourn the death of her family, she shall not be a slave or sold as property.
 3. A man with two wives shall not give preference to the son of the loved one.
@@ -229,13 +223,11 @@ It would be interesting to have a paragraph on explaining the Gospel in a succin
 5. It defiles the land to not bury on the same day a man killed by the death penalty.
 
 **Moral sense:**
-
 1. The captive woman shaving her head was a ritual of cutting away her past life in preparation for her new life in Israel. St Jerome says that we are permitted to embrace any secular wisdom as long as we cut away anything offensive to Christian truth.
 
 # Chapter 22
 
 **Key themes:**
-
 1. You shall not withhold help to your brother when dealing with lost things or his cattle.
 2. Prohibition on cross dressing (v5).
 3. You shall not sow a field with two kinds of seeds or clothes with mingled stuff.
@@ -245,7 +237,6 @@ It would be interesting to have a paragraph on explaining the Gospel in a succin
 # Chapter 23
 
 **Key themes:**
-
 1. Rules on who cannot enter the assembly of the Lord: eunuchs, bastards, ammonites and moabites.
 2. Israel should not abhor Edomites, because they are their brothers, and Egyptians, because they sojourned in their lands.
 3. Prohibition on lending with interest to Israelites.
@@ -253,17 +244,14 @@ It would be interesting to have a paragraph on explaining the Gospel in a succin
 5. When you make a vow to the Lord, it is a sin to not do it.
 
 **Questions:**
-
 1. What is a cult prostitute?
 
 **Moral sense:**
-
 1. Be careful to the vows you make to the Lord, because it is a sin to breach it.
 
 # Chapter 24
 
 **Key themes:**
-
 1. If a man divorces his wife, and she marries (and consummates) another man, the first husband cannot take her back again if the other husband divorces her or dies.
 2. A man cannot go to war if he is newly married, he must stay one year with his wife, to be happy. (v. 5)
 3. A person cannot be found guilt by the mistakes of his parents or children. (v. 16)
@@ -272,95 +260,85 @@ It would be interesting to have a paragraph on explaining the Gospel in a succin
 # Chapter 25
 
 **Key themes:**
-
 1. Beatings as punishments for crimes must be proportional to the offense, after the trial has concluded the man is guilty.
 2. Laws on Levirate marriage.
 3. v13-17, saying of two weights, two measures.
 4. Vengeance against Israel's enemies because of Amalek? v17-19.
 
 **Questions:**
-
 1. What cultural significance does a woman seizing a man by his private part has (during a fight with another man)?
-   1. Putting her husband in a submission position?
+2. 1. Putting her husband in a submission position?
 
 **Moral sense:**
-
 1. Death punishment is not prescribed for not wanting to take the wife in a Levirate marriage. This points to Onan's sin being of wasting his seed.
 2. Be just and act honestly.
 
 # Chapter 26
-
 **Key themes:**
-
 1. Ritual of offering the tithe. Remembers the redemption story from Egypt in the vocal prayer.
 2. The tithe is given to the Levite, the sojourner, the fatherless, and the widow.
 
 **Questions:** 2. (v14) seems to imply no offerings to the dead, at least no tithing to the dead.
 
 # Chapter 27
-
 **Key themes:**
-
 1. Curses for breaking the commandments and statues. Cursed be he who makes idols, dishonors his parents, steals, misleads and frauds the helpless, commits incest, bestiality, murders, takes bribe to murder, and finally, who does not do the law.
 
 # Chapter 28
-
 **Key themes:**
-
 1. The Lord attaches temporal blessings to following the commandments: blessed shall be the fruit of the body, fruit of the ground, fruit of the beasts, and increase of cattle. There will be plenty of rain.
 2. The Lord also attaches temporal curses to breaking and not following the commandments. It foreshadows the suffering Israel will bear when it forsakes the Lord (I don’t know when, but it will happen).
 3. The main curse for not following the commandments and statues is the demise of the people and slavery again to a foreign nation.
 
 **Moral sense:**
-
 1. Just a coincidence, but _“and if you do not turn aside from any of the words which I command you this day, to the right hand or to the left”_ (v14) fits really well in today’s divisive political climate. It also shows how errors can be made in opposite directions.
 2. Disobeying the Lord can lead to cuckolding: _“You shall betroth a wife, and another man shall lie with her”_ (Deut 28:30)
 
 # Chapter 29
 
 **Key themes:**
-
 1. One of the final sermons of Moses, briefly recounting the difficulties of the desert wanderings and the covenant the Lord is establishing with the people, and the curses for not following the commandments and statues.
 
 **Notes:**
-
 1. **Deut 29:4** Theme of _"eyes to see"_, _"ears to hear"_, that is also seen in the gospels. Is it the light/gift of faith?
 2. Verse 5/6: Change of speaker?
 3. Deut 29:29 _"The secret things belong to the Lord our God;"_ the mysteries, the unknown path of God's providence
 
 # Chapter 30
-
 **Key themes:**
-
 1. Continuing Moses' sermon. Foretells Israel disobedience and the curses scattering the people among the rival nations. But, it also foretells restoration by following God's ways.
 
 **Allegorical sense:**
-
 1. God restoring ourselves after severing communion with God by disobeying Him (Deut 30:3) is a foreshadowing of the sacrament of reconciliation.
 2. Deut 30:6 Circumcision as foreshadowing baptism, as circumcision of the flesh is only a sign of the internal circumcision of the heart.
 
 **Moral sense:**
-
-1. Deut 30:11-14 God asks us only what is possible, and gives us the means to know what to do and how to do it.
-
+3. Deut 30:11-14 God asks us only what is possible, and gives us the means to know what to do and how to do it.
 # Chapter 31
-
 **Key themes:**
-
 1. Moses reveals to the people that he will not cross the Jordan, as the Lord commanded.
 2. Moses wrote the law and gave them to the Levites, so that they would teach future generations about the law.
 3. The Lord tells Moses that the people will disobey Him, and will commit idolatry with the gods of the nations of the land, and will suffer great hardships and evil because of it.
 
 # Chapter 32
-
 **Key themes:**
+1. God gives the song Moses should teach to the Israelites so that it is a witness of what happens to them when they turn their backs to God and commit idolatry by worshipping false gods.
+2. Moses death is foretold by God.
 
-1. God gives the song Moses should teach to the Israelites so that...
+**Notes:**
+1. Deut 32:39 *"There is no god beside me"*
 
 **Allegorical sense:**
-
 1. Deut 32:4 _"The Rock"_ reminds me of Peter's confession of faith.
+# Chapter 33
+**Key themes:**
+1. Final blessing from Moses to the people of Israel
 
+**Questions:**
+1. It seems that not all tribes are mentioned, and some families which are not tribes are mentioned.
+# Chapter 34
+**Key themes:**
+1. Moses dies after going up the Mount Nebo, as the Lord had told him, after seeing the promised land. God buried him in a place nobody knows where is it. The chapter and the book ends with an epilogue of how great a prophet Moses was.
 # Reference
 
 **Deut 15:19-23**
