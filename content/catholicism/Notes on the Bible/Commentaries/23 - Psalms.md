@@ -177,15 +177,40 @@ A psalm thanking God for deliverance from evil. (there could be a better descrip
 A psalm praising God and his works. His work is full of honor and majesty, his precepts are trustworthy, and the fear of the Lord is the beginning of wisdom.
 # Psalm 112
 A psalm blessing the upright man, and how his righteousness and generosity endure forever, while the wicked man accomplishes nothing.
+# Psalm 113
+A psalm praising the Lord and the name of the Lord. No one is like the Lord, who is able to look down upon the earth and the heavens, and lift up the poor and the needy.
 # Psalm 114
 The Psalmist refers to several miracles performed by God in Israel’s liberation of Egypt, while using a prosopopeia, asking the inanimate objects why they did the miracle.
 # Psalm 115
 Contrasts God's power, that is in heaven and does whatever He wants (Ps 115:3), with the idols that have eyes but do not see, ears but do not hear, etc..., that are impotent, that have no power. And all of the ones that make and trust idols are impotent as them.
+# Psalm 116
+A thanksgiving psalm for salving the psalmist's life.
+
+Trusting in the Lord, even in hard times. Remembers Job's cry.
+> *I kept my faith, even when I said,*  
+     *“I am greatly afflicted”;*  
+> *I said in my consternation,*  
+     *“Men are all a vain hope.”*
+
+Eucharistic prefiguration? Eucharist as sacrifice of thanksgiving:
+> *I will lift up the cup of salvation*  
+     *and call on the name of the Lord,*
+# Psalm 117
+A really small psalm, praising the Lord, for his great love and faithfulness.
 # Psalm 119
 **Key themes:**
 1. Damn, this guy *really* loves the Law!!
 2. TODO: I'll have to revisit this Psalm, it is great and profound, and with a quick research I have already seen too much that I need to digest and dig deeper.
+# Psalm 120
+A psalm praying for deliverance from liars and deceitful people, and that while he (the psalmist) is for peace, he lives around those who hate peace.
+# Psalm 121
+A psalm trusting God as his protection and help in all evil, for all the time.
+
+*Adjutorium nostrum in nomine Domine* ***Que fecit celis et terrae*** comes from here? No, it comes from Psalm 124
 # Psalm 136
+
+# TODO
+- Psalm 118
 
 ---
 # Reference
