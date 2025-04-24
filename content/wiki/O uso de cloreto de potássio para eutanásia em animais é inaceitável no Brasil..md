@@ -14,8 +14,8 @@ No "GUIA BRASILEIRO DE BOAS PRÁTICAS PARA A EUTANÁSIA DE ANIMAIS" do CFMV diz:
 
 Referências:
 
-![[CFMV_resolucao_1000-2012_eutanasia_animais.pdf]]
+![[public/reference/CFMV_resolucao_1000-2012_eutanasia_animais.pdf]]
 Fonte original: https://www.ufrgs.br/bioetica/resolucao_1000-2012%20CFMV.pdf
 
-![[CFMV_resolucao_1000-2012_eutanasia_animais.pdf]]
+![[public/reference/CFMV_resolucao_1000-2012_eutanasia_animais.pdf]]
 Fonte original: https://www.forp.usp.br/wp-content/uploads/2019/07/guiamv.pdf
