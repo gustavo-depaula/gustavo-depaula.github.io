@@ -1,0 +1,1 @@
+Novel idea of connecting Joshua 9 and Luke 16:1-13

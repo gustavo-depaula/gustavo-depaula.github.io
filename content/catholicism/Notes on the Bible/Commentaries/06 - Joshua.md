@@ -42,9 +42,23 @@ Joshua, the successor of Moses, leads the Israelites to the promised land, throu
 2. When Israel found out the truth, they didn’t break the oath, and did not killed them, but they became servants to Israel.
 
 Allegorical sense:
-1. The lazy servant that forgives debts
-2. Purgatory
-3. Imperfect contrition / motives, better than fighting against
+1. The Gibeonites‘ actions remember the Parable of the Unjust Steward, that uses dishonesty (the Gibeonites lying about their true origin / the steward forgiving the debts of his master’s debtors). Both of them are self-centered and use morally dubious means to achieve it. 
+2. At the same time, it also shows how God accepts even our imperfect contrition and egotistic motives when approaching Him, if we are at least sincere in our desire to do so. The Gibeonites refusal to plot against Israel and instead seeking reconciliation also shows this, they recognize that is better to be alongside Israel than to fight God’s will.
+3. The Gibeonites period as servants can be seen as a figure of purgatory, where the Gibeonites are paying the consequences of their wickedness, but are spared from eternal destruction. 
+# Chapter 10
+**Key themes:**
+1. The Amorites form a coalition to attack Gibeon, which was a big city. The Gibeonites ask for help and Israel destroy the invaders. Joshua kills their kings (5).
+2. Then, Israel conquer a ton of cities: Makkedah, Libnah, Lachish, Gezer, etc…
+# Chapter 11
+**Key themes:**
+1. More kings make a coalition to fight Israel, but because the Lord was with Israel, they defeated and utterly destroyed all of them.
+# Chapter 12
+**Key themes:**
+1. List of the kings and the land that Moses and Joshua conquered. Joshua conquered a total of 31 kings.
+
 # Reference
 **Joshua 1:9**
 *”Be strong and of good courage; be not frightened, neither be dismayed; for the Lord your God is with you wherever you go.”*
+
+**Josuha 11:15**
+*“As the Lord had commanded Moses his servant, so Moses commanded Joshua, and so Joshua did; he left nothing undone of all that the Lord had commanded Moses.”*
