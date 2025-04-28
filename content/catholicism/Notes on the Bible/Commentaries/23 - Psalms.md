@@ -207,6 +207,8 @@ A psalm praying for deliverance from liars and deceitful people, and that while 
 A psalm trusting God as his protection and help in all evil, for all the time.
 
 *Adjutorium nostrum in nomine Domine* ***Que fecit celis et terrae*** comes from here? No, it comes from Psalm 124
+# Psalm 123
+The psalmist recognizes his position of servitude towards God and asks for mercy, because he/they are being objects of contempt of the rich and proud. Symbolizes the oppression the godless inflict upon the faithful.
 # Psalm 136
 
 # TODO

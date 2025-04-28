@@ -1,0 +1,1 @@
+The harlot lies in Joshua 2:4-5 to protect the Israeli spies.
