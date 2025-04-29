@@ -209,10 +209,24 @@ A psalm trusting God as his protection and help in all evil, for all the time.
 *Adjutorium nostrum in nomine Domine* ***Que fecit celis et terrae*** comes from here? No, it comes from Psalm 124
 # Psalm 123
 The psalmist recognizes his position of servitude towards God and asks for mercy, because he/they are being objects of contempt of the rich and proud. Symbolizes the oppression the godless inflict upon the faithful.
+# Psalm 125
+A psalm recognizing the strength of those who put their faith in God, and how God protects his people like the mountains surrounding Jerusalem.
+# Psalm 126
+The psalmist express happiness because God has restored its people, and caused them to be joyful because of it.
+# Psalm 128
+The psalm blesses those who fear the Lord, and promises peace and happiness in this temporal life, especially concerning family matters like fertility and healthy children. (Figure of fruitful vine and olive shoots)
+# Psalm 129
+The psalmist expresses relief that while he/Israel has been oppressed, they have been delivered from evil-evil has not prevailed and the Lord has exacted justice against the wicked.
+# Psalm 130
+A penitential psalm. No one would stand with the Lord marked our iniquities. But through and with the Lord, we can have steadfast love and plenteous redemption.
+# Psalm 131
+Hope in the Lord brings calmness and peace for the soul.
+# Psalm 132
 # Psalm 136
 
 # TODO
 - Psalm 118
+- 132
 
 ---
 # Reference
