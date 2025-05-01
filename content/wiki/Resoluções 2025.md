@@ -101,3 +101,26 @@ Escrevendo isso no dia 5 de Março.
 		3. Rezar para pessoas que eu não gosto, todo dia.
 
 "Planner" que encontrei: [[Quaresma2025.pdf]]
+
+# Março e Abril (+ Quaresma)
+**Indo bem:**
+1. Entreguei meu final project! Faculdade over. https://github.com/gustavo-depaula/GARD
+2. Objetivo \[Segredo\] conquistado! Estou noivo.
+3. Fui na nutricionista e estou seguindo o plano, também comecei na semana passada a fazer academia. Meta 4x na semana.
+4. Estou melhorando bastante minha rotina do sono. Estou conseguindo dormir/acordar em horários consistentes.
+5. Curso de noivos terminado, Igreja e local de festas já reservados.
+6. Crisma no dia 5/7!
+7. Estou fazendo doações recorrentes para as paróquias que visito e para a Escola Sagrada Família de Nazaré.
+
+**Mais ou menos:**
+1. Bastante pelo fim da faculdade, minha rotina ficou toda bagunçada. Estou agora reajustando os eixos.
+2. Ler a bíblia: Estou bem atrasado, mas agora que a faculdade acabou estou conseguindo voltar ao ritmo. Mas mesmo depois que terminou a faculdade fiquei muitos dias sem fazer e piorou o atraso. Estou acho que 30 a 40 dias atrasado.
+
+**Quaresma:**
+1. Bem, fui muito ambicioso nas minhas penitências. A mais difícil, de longe, foi rezar para pessoas que eu não gosto. Essa fui largada algumas semanas a dentro. As outras de vida de oração, também não foram muito bem: não rezei o terço todo dia, e só lembrei agora que vi que tinha feito o propósito de rezar a liturgia das horas.
+2. Já nas penitências morais, tive melhor sucesso com a diminuição do uso das redes sociais, apesar que quebrei a regra em muitos dias. Mas fez muito bem. Reclamei bastante porém, muito difícil essa penitência também. Também não andei com dinheiro no bolso para esmolas. Acabei procrastinando sacar dinheiro.
+3. Nas penitências materiais, tive mais sucesso. Consegui cortar doces e guloseimas, e fazer os jejuns (quarta sem almoço, sexta sem carne). O que mais custou, incrivelmente foi a sexta sem carne. Pra mim foi mais difícil do que o de doces ou ficar sem almoçar. Este último, de ficar sem almoçar, foi contra-indicado pelo meu diretor espiritual, então não devo mais fazê-lo. Já o banho gelado, fui excessivamente ambicioso. Já na quarta semana perdi um dia, e na última, que deveria tomar banho gelado todos os dias, simplesmente não consegui. Acordei na segunda e estava 12-14 graus e simplesmente desisti.
+4. Aprendizados: Ser mais modesto nos propósitos, e perseverar neles. Espero melhorar bastante na próxima quaresma, principalmente nos temas de caridade (tanto espiritual quanto corporal).
+
+**Indo mal:**
+1. Quase todo o resto do pessoal e religioso: não estou indo à Missa múltiplas vezes por semana, rotina de oração bagunçada, não fiz nenhuma visita ao santíssimo sacramento, e também não ando conversando com Deus a partir da oração mental. Também não marquei outros médicos.
