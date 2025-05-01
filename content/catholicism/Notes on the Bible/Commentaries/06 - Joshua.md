@@ -55,7 +55,14 @@ Allegorical sense:
 # Chapter 12
 **Key themes:**
 1. List of the kings and the land that Moses and Joshua conquered. Joshua conquered a total of 31 kings.
-
+# Chapter 13
+**Key themes:**
+1. Joshua is old.
+2. Recaps Israel conquests until now, and what is left to conquer.
+3. Recaps the division of the land east of the Jordan.
+4. Balaam is dead.
+# Chapter 14
+**Key themes:**
 # Reference
 **Joshua 1:9**
 *”Be strong and of good courage; be not frightened, neither be dismayed; for the Lord your God is with you wherever you go.”*
