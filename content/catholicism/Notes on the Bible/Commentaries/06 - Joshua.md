@@ -63,6 +63,60 @@ Allegorical sense:
 4. Balaam is dead.
 # Chapter 14
 **Key themes:**
+1. Inheritance of Hebron to Caleb, son of Jephunneh. (Don't remember this being promised to him)
+# Chapter 15
+**Key themes:**
+1. Inheritance of land given to Judah.
+2. Othniel son of Kenaz (brother of Caleb (Kenaz or Othniel?)) receives Caleb's daughter (Achsah) as wife, as Caleb promised to give her in marriage to anyone that "smites Kiriath-sepher".
+3. The Jebusites (inhabitants of Jerusalem) could not be driven out by the people of Judah, so they live together in Jerusalem.
+# Chapter 16
+**Key themes:**
+1. Inheritance of land given to Ephraim (Joseph).
+2. Ephraim did not drive out the Canaanites living in Gezer. So the Canaanites dwell in the midst of Ephraim, but have become slaves to do forced labor.
+# Chapter 17
+**Key themes:**
+1. Inheritance of land given to Manasseh (Joseph).
+2. Manasseh could not take possession of some cities because of the Canaanites, but when they became stronger, they put the Canaanites to forced labor (and did not utterly drive them out).
+3. The tribe of Joseph (Ephraim + Manasseh) ask Joshua for more land, as they are a numerous people. Joshua gives them land, but there are still Canaanites there that have to be driven out. 
+# Chapter 18
+**Key themes:**
+1. Joshua sends out men to describe the remaining land so he can divide it up to give inheritance to the remaining seven tribes.
+2. Inheritance of land given to Benjamin.
+3. Jerusalem is also called Jebus, that's why the inhabitants are known as Jebusites.
+# Chapter 19
+**Key themes:**
+1. Inheritance given to Simeon. It was in the midst of Judah, because the inheritance given to Judah was too large for them. Simeon becomes part of the territory of Judah.
+2. Inheritance given to Zebulun.
+3. Inheritance given to Issachar.
+4. Inheritance given to Asher.
+5. Inheritance given to Naphtali.
+6. Inheritance given to Dan. They renamed a city called Leshem to Dan.
+7. The people of Israel gave a city to Joshua, Timnhath-serah, in the country of Ephraim. He rebuilt the city and settled in it.
+
+# Chapter 20
+**Key themes:**
+1. Appointment of the cities of refuge.
+# Chapter 21
+**Key themes:**
+1. Cities given to the Levites in the midst of the tribes. They also get the cities of refuge.
+2. Joshua 21:44 *"not one of all their enemies had withstood them"*, but it clearly speaks of Canaanites still leaving among them. So, what gives?
+3. God gives rest after the conquer.
+4. God has fulfilled its promises.
+
+**Questions:**
+3. Hebron is given to the Levites, but the fields of the city and its villages had been given to Caleb (?), didn't understand how it works. 
+# Chapter 22
+**Key themes:**
+1. The eastern tribes are released to go back to their homes.
+2. They built an altar on the way, and the other tribes are scandalized by this, because they thought it was an act of disobedience, as there could be only one altar, in the tent of meeting.
+3. They were prepared to go to war because of this, but first, they tried diplomacy, and the eastern tribes explained that it wasn't an altar to offer sacrifices, just for remembrance that they also were a part of the people of the Lord.
+# Chapter 23
+**Key themes:**
+1. Joshua is old, and about to die, and Israel shall continue its mission of driving back the people in the promise land, and being faithful to God's covenant, and not mixing with the Canaanite people and serving their gods.
+# Chapter 24
+**Key themes:**
+1. Joshua's last speech, recounting all that the Lord had done for Israel, and calling the people to serve the Lord alone, and not any other gods. The people confirm that they want to serve the Lord only.
+2. Joshua dies. Eleazar dies. The people bury the bones of Joseph they brought from Egypt on Shechem.
 # Reference
 **Joshua 1:9**
 *”Be strong and of good courage; be not frightened, neither be dismayed; for the Lord your God is with you wherever you go.”*
