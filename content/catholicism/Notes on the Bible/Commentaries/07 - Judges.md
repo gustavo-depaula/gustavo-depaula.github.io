@@ -37,3 +37,16 @@ Allegorically, just as winning the temptations make us stronger and more holy, t
 # Chapter 4
 **Key themes:**
 1. Jabin king of Canaan dominates for 20 years.
+2. Deborah, a prophetess was the judge. She sent Barak son of Abinoam to build an army to fight Sisera, the leader of the army of Jabin. The Lord would give the army into Barak’s hand, but Sisera would be defeated by a woman’s hand.
+3. Barak defeats the army, but Sisera flees to the tent of Jael, wife of Heber the Kenite.
+4. Jael seems to welcome him, but kills him driving a peg through his temples with a hammer.
+
+**Questions:**
+1. Why would Jael kill Sisera?
+# Chapter 5
+**Key themes:**
+1. Song of Deborah that tells the story of her period as judge and the overthrow of Jabin as ruler of the Hebrews.
+2. Peace lasted for 40 years.
+# Chapter 6
+**Key themes:**
+1. 
