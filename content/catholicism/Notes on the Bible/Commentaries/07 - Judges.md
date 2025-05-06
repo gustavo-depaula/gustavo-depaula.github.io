@@ -49,4 +49,24 @@ Allegorically, just as winning the temptations make us stronger and more holy, t
 2. Peace lasted for 40 years.
 # Chapter 6
 **Key themes:**
+1. Midian conquer Israel for 7 years.
+2. Gideon, later renamed to Jerubbaal (let Baal contend against him) is called to deliver Israel from the midianites.
+3. He destroys an altar to Baal and an Asherat and builds an altar to God instead.
+4. He calls men from Manasseh, Asher, Zebulun, and Naphtali, and they follow him.
+# Chapter 7
+**Key themes:**
+1. There were a lot of men in Gideon’s army, and the Lord said that they would think they won because of their strength. So the Lord instructs Gideon to send some men home, so that the Midianites’ defeat would be clearly seen as sign from God.
+2. Thus, with only 300 men, Gideon is able to defeat the Midianites.
+
+Judges 7:6-8 Has the 300 of Sparta copied this?
+# Chapter 8
+**Key themes:**
+1. Gideon hunts the final army and kings of the Midianites, Zebah and Zalmunna.
+2. After liberating the Israelites, they had 40 years of rest. They asked for Gideon to establish a hereditary rule over them, but he denies it.
+3. After Gideon dies, they do idolatry again, worshiping Baal-berith.
+4. Gideon has 70 children, one of them Abimelech, born out of a concubine.
+
+Baal-berith is a kind of Baal?
+# Chapter 9
+**Key themes:**
 1. 
