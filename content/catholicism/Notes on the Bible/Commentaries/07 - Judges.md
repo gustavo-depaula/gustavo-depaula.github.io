@@ -69,10 +69,16 @@ Judges 7:6-8 Has the 300 of Sparta copied this?
 Baal-berith is a kind of Baal?
 # Chapter 9
 **Key themes:**
-
+1. Abimelech becomes king with the support of Shechem.
+2. Abimelech kills all his brothers, except for Jotham, who was hiding.
+3. The curse of Jotham on Abimelech and Shechem and Beth-millo.
+4. The reign lasted 3 years.
+5. Wars and slaughter promoted by Abimelech and his death (woman throws a rock on his head).
 # Chapter 10
 **Key themes:**
-
+1. New Judges: Tola son of Puah, Issachar, 23 years; Jair the Gileadite, 22 years.
+2. Idolatry again.
+3. Oppression from the Philistines and the Ammonites.
 # Chapter 11
 **Key themes:**
 1. Jephthah, son of Gilead, was a bastard son born of a harlot. And because of this, he was expelled from his home.
