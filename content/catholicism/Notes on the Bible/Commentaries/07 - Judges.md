@@ -69,4 +69,23 @@ Judges 7:6-8 Has the 300 of Sparta copied this?
 Baal-berith is a kind of Baal?
 # Chapter 9
 **Key themes:**
-1. 
+
+# Chapter 10
+**Key themes:**
+
+# Chapter 11
+**Key themes:**
+1. Jephthah, son of Gilead, was a bastard son born of a harlot. And because of this, he was expelled from his home.
+2. Through hardships, he became a mighty warrior.
+3. When the Ammonites were attacking Israel, the elders of Gilead went to Jephthah for help. He resents this because they hated him before, but they make a covenant: if Jephthah defeats the Ammonites, he will rule over Gilead.
+4. Jephthah made a vow to the Lord if He delivers the Ammonites into his hand (Judges 11:30-31): to offer to the Lord, in a burnt offering whoever (*who*, not *what*) first pass through his house’s door when he comes back.
+5. Jephthah defeats the Ammonites.
+6. When he comes back, his daughter, his only child passes through the door.
+7. The daughter spends two months bewailing her virginity, mourning the fact of her motherlessness.
+8. Jephthah “did to her according to his vow” (v. 39)
+
+**Questions:**
+1. What happened to the daughter?
+	1. Likely offered in sacrifice. But not in God’s will, as this was incentivized by the pagan practices of the time, and the Lord had already utterly prohibited and despised it. Even though Jephthah is the protagonist of the story, this wasn’t and should not be interpreted as condoning human sacrifice.
+	2. Another likely answer would be her total consecration to the Lord as a virgin. This would explain the mentioning of her virginity and her mourning it. This would also fulfill Jephthah vow of making the Lord’s whoever passed the door. This would require, however, an explanation of how the burnt offering vow was fulfilled.
+	3. This tragic story shows the pervasive and destructive effects of idolatry, and shows how even worship and thanksgiving to the Lord can be misdirected.
