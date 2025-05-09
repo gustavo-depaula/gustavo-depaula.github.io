@@ -1,0 +1,1 @@
+In Judges 13, they regard seeing the Angel of the Lord as seeing the Lord.

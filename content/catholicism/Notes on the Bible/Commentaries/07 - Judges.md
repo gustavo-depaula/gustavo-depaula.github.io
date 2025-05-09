@@ -95,3 +95,15 @@ Baal-berith is a kind of Baal?
 	1. Likely offered in sacrifice. But not in God’s will, as this was incentivized by the pagan practices of the time, and the Lord had already utterly prohibited and despised it. Even though Jephthah is the protagonist of the story, this wasn’t and should not be interpreted as condoning human sacrifice.
 	2. Another likely answer would be her total consecration to the Lord as a virgin. This would explain the mentioning of her virginity and her mourning it. This would also fulfill Jephthah vow of making the Lord’s whoever passed the door. This would require, however, an explanation of how the burnt offering vow was fulfilled.
 	3. This tragic story shows the pervasive and destructive effects of idolatry, and shows how even worship and thanksgiving to the Lord can be misdirected.
+# Chapter 12
+**Key themes:**
+1. The Ephraimites got angry at Jephthah because he entered in their territory to defeat the Ammonites. Jephthah won the battle.
+2. Origin of “Shibboleth”, the Epharimites couldn’t pronounce “sh” sound, identifying them to Jephthah’s army.
+3. Jephthah judged Israel for 6 years; Elon for 10 years; Abdon 8 years;
+# Chapter 13
+**Key themes:**
+1. Domination by the Philistines for 40 years.
+2. Annunciation of Samson’s conception to Manoah and his wife. Samson would be a Nazirite from birth.
+# Chapter 14
+**Key themes:**
+1. 
