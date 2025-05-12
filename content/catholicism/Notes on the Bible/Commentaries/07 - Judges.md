@@ -106,4 +106,47 @@ Baal-berith is a kind of Baal?
 2. Annunciation of Samson’s conception to Manoah and his wife. Samson would be a Nazirite from birth.
 # Chapter 14
 **Key themes:**
-1. 
+1. Samson marries with a Philistine woman. He leaves her after she betrays him by telling her countrymen the solution for the riddle.
+2. Samson is not a “good guy”:
+	1. Touches animal carcass, making him ritually impure, and gives honey from the lion’s carcass to his family, without telling them.
+	2. Killed 30 men to pay the debt of the riddle solution.
+	3. Abandons his wife.
+# Chapter 15
+**Key themes:**
+1. Samson tries to take his wife that he abandoned and was given to his best man.
+2. Samson destroys the Philistines’ plantations.
+3. Samson defeats the Philistines’ army.
+# Chapter 16
+**Key themes:**
+1. Samson is seduced by Delilah, telling her the secret of his strength, that was in his hair, and the fact that he never cut the hair because of the Nazirite vow. While he’s asleep, she cuts his hair and gives him to the Philistines.
+2. Samson is tied to the house pillars where a lot of men and women of the Philistines, including all the lords, were. He is able to destroy the house by collapsing the pillars, killing all the people and himself in the process.
+3. Judged Israel for 20 years
+
+**Questions:**
+1. The hair is an allegory to what?
+2. Why Samson is not doubtful of Dalilah’s questions?
+	1. Was it lust?
+# Chapter 17
+**Key themes:**
+1. Micah, an Ephraimite, returned to his mother the silver he has stolen from her.
+2. Upon receiving back her money, the mother felt blessed, and decided to worship the Lord by making molten and graven images.
+3. Micah put the images in a shrine and installed one of his sons as a priest.
+4. A Levite from Bethlehem goes to Micah, and Micah offers money in exchange for the Levite being his personal priest.
+
+**Allegorical sense:**
+1. Necessity of a temporal head to lead the people, in the figure of a King (Judges 17:6). In the Church, this figure is the pope. 
+# Chapter 18
+**Key themes:**
+1. The Danites were without inheritance, with no land to dwell in. 
+2. They steal the idols of Micah and hire the Levite for themselves. Jonathan the son of Gershom, son of Moses and his sons become priests to the tribe of Dan.
+	1. Is Jonathan the name of the Levite from Bethlehem?
+3. They conquer Laish and rename it to Dan.
+
+**Questions:**
+1. Was this in the time of Judges or Joshua?
+	1. Has to be Judges, perhaps? Because it says there was no king.
+
+---
+
+# Reference
+**Judges 17:6** *In those days there was no king in Israel; every man did what was right in their own eyes.*
