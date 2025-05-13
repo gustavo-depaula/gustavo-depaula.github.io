@@ -145,6 +145,22 @@ Baal-berith is a kind of Baal?
 **Questions:**
 1. Was this in the time of Judges or Joshua?
 	1. Has to be Judges, perhaps? Because it says there was no king.
+# Chapter 19
+- “In those days, when there was no king”: indicative of time, but also moral decay.
+- A Levite has a fight with his concubine and she goes back to her father’s home. He goes to Bethlehem to bring her back.
+- On their way back, they (the master, the concubine, the servant) stay at Gibeah (Benjamin).
+- Judges 19:20–29 mirrors almost exactly Lot’s story with the angels: the host offers his virgin daughter and the concubine in place of abusing the guest. But the men refuse.
+- The man gives them his concubine and they abuse her all night until dawn. In the morning he gets her and brings her body back home, where he quarters her with a knife and sent her pieces throughout all of Israel.
+# Chapter 20
+- Israel recognizes the brutal crime that happened and wanted to do justice to the men that abused the concubine.
+- But the Benjaminites defended them, so they went to war over it. Israel struggled and lost battles, but ultimately won.
+# Chapter 21
+- Congregation of Israel regarding Benjamin.
+- Benjamin can’t take wives from Israel, but from Shiloh.
+- Didn’t understand the Jabesh-gilead affair.
+
+
+
 
 ---
 
