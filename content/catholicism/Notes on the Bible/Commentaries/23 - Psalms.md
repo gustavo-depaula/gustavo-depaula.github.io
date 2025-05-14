@@ -224,6 +224,8 @@ Hope in the Lord brings calmness and peace for the soul.
 # Psalm 132
 # Psalm 136
 
+# Psalm 149
+A praising Psalm that can be divided into two parts. The first is vv. 1-3 that purely praises the Lord, and the second is vv. 4-9, about how the faithful people of Israel shall execute judgement through the sword on the nations.
 # TODO
 - Psalm 118
 - 132
