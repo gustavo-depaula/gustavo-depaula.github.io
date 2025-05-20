@@ -77,3 +77,7 @@ It is a poem of a father speaking to his son, teaching what he learned from his 
 The wicked carry the burden of their misdeeds and are restless, without peace, because of it. The righteous have peace of mind and that peace increases over time, like the light of the sun in dawn.
 ## Verses 4:20-27
 To keep being in the path of righteousness, you have to keep all your senses away from wickedness: your heart (what you value most), your mouth and ears (what you hear and talk), eyes (your gaze), your feet (where you heading to).
+
+# Chapter 5 
+## Verses 5:1-6
+Warns against *"loose"* (RSV-CE) / *"wanton"* / *"prostitute"* (DR) women. May be understood as prostitutes or a sexually promiscuous woman. Her lips and speech is like honey, but in the end she'll lead to "Sheol", as she does not follow the path of life.
