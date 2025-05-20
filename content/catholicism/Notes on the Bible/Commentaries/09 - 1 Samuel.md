@@ -38,4 +38,17 @@ Although Elkanah was Ephraimite by residence, he was a Levite by blood.
 2. What did the people at Beth-shemesh did with the golden figures?
 # Chapter 7
 **Key themes:**
-1. 
+1. After the slaughter of Beth-shemesh, the Ark is sent to Kiriath-jearim, to stay in the house of Abinadab, with Eleazar being responsible for it. It stayed there 20 years. Story of the Ark continues at 2 Samuel 6.
+2. Samuel convinces Israel to leave the idols (Baals and Ashtaroth) to serve the Lord alone.
+3. The people is united in Mizpah to ask forgiveness for sins, and for Samuel to pray over them.
+4. The Philistines attack Israel at Mizpah, but through the Lord's intercession, Israel wins, and liberates its cities from the dominance of the Philistines.
+5. There was peace between Israel and the Amorites.
+
+**Questions:**
+1. What does it mean to say that "Samuel judged Israel" (1 Samuel 7:15-17)
+# Chapter 8
+**Key themes:**
+1. Samuel appoints his sons as judges, but they are wicked and do not follow the path of Samuel.
+2. Because Samuel is now old, and his sons are wicked, the Elders ask for a king to be appointed.
+3. The Lord commands Samuel to do as the Elders ask, for they *"have not rejected you, but they have rejected me from being king over them."* (1 Samuel 8:7)
+4. Samuel warns the people giving the "cons" of having a king, an anti-monarchical speech. But the people still wanted a king, so God commands Samuel to appoint a king.
