@@ -27,3 +27,15 @@ Although Elkanah was Ephraimite by residence, he was a Levite by blood.
 **Key themes:**
 1. The Philistines put the Ark in the House of Dagon - Dagon being an idol and the House some sort of temple. Every morning, while the Ark stayed there, Dagon appeared on the ground, broken.
 2. The people of the city were inflicted with tumors wherever the Ark was, so the Philistines decided (or just thought about it?) to return the Ark.
+# Chapter 6
+**Key themes:**
+1. The Philistines sent back the Ark of the Covenant along with a burnt offering of golden figures.
+2. It arrived in Beth-shemesh, and people offered the cows which the Ark was on as burnt offering.
+3. Some men are killed for looking into the Ark, in breach of the law (Num 4:20).
+
+**Questions:**
+1. What are these five golden tumors and five golden mice? Idols?
+2. What did the people at Beth-shemesh did with the golden figures?
+# Chapter 7
+**Key themes:**
+1. 
