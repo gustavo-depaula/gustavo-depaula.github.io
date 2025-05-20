@@ -15,3 +15,15 @@ Although Elkanah was Ephraimite by residence, he was a Levite by blood.
 
 **Moral sense:**
 1. We need to put ourselves close to the Lord to be able to hear His voice, just Samuel heard the Lord when he was sleeping within the temple.
+# Chapter 4
+**Key themes:**
+1. Israel fights with the Philistines. After losing a battle, they bring out the Ark of the Covenant with them. But still, they lost, and the Ark was captured.
+2. The sons of Eli are slain in the battle. Eli died when he heard of the news.
+
+**Moral sense:**
+1. Do not use God just as a tool to get whatever temporal goods you want. Truly holy objects and God Himself can become idols in our hearts.
+2. The Philistines showed more reverence and feared the Lord more than the Israelites.
+# Chapter 5
+**Key themes:**
+1. The Philistines put the Ark in the House of Dagon - Dagon being an idol and the House some sort of temple. Every morning, while the Ark stayed there, Dagon appeared on the ground, broken.
+2. The people of the city were inflicted with tumors wherever the Ark was, so the Philistines decided (or just thought about it?) to return the Ark.

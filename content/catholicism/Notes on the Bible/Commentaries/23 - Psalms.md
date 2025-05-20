@@ -226,6 +226,8 @@ Hope in the Lord brings calmness and peace for the soul.
 
 # Psalm 149
 A praising Psalm that can be divided into two parts. The first is vv. 1-3 that purely praises the Lord, and the second is vv. 4-9, about how the faithful people of Israel shall execute judgement through the sword on the nations.
+# Psalm 150
+A praising psalm. Also can be divided into two parts: Where and for what to praise the Lord (vv. 1-2) and what (instruments, sounds) to pray the Lord with (vv. 3-6).
 # TODO
 - Psalm 118
 - 132
