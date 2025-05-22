@@ -80,4 +80,6 @@ To keep being in the path of righteousness, you have to keep all your senses awa
 
 # Chapter 5 
 ## Verses 5:1-6
-Warns against *"loose"* (RSV-CE) / *"wanton"* / *"prostitute"* (DR) women. May be understood as prostitutes or a sexually promiscuous woman. Her lips and speech is like honey, but in the end she'll lead to "Sheol", as she does not follow the path of life.
+Warns against *"loose"* (RSV-CE) / *"wanton"* / *"prostitute"* (DR) / *"unfaithful"* women. May be understood as prostitutes or a sexually promiscuous woman. Her lips and speech is like honey, but in the end she'll lead to "Sheol", as she does not follow the path of life.
+## Verses 5:7-14
+Highlights the dangers of relating with this sort of woman: losing your youth to vice, being harmed by the husband of the adulteress, losing the fruit of your labor to others, illness gained because of your vices. And finally: regretting, at the end of your life, how you did not live a virtuous life with discipline, and this has cost you a lot.

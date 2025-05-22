@@ -32,3 +32,24 @@
 3. Nicodemus goes to Jesus.
 4. *“Unless one is born of water and the Spirit”*: matter is important in the sacrament.
 5. John the Baptist recognizes his place as an important prophet, but less than Jesus.
+# Chapter 4
+**Key themes:**
+1. Talk at the well with the Samaritan woman.
+2. Jesus heals the officer's son. (second sign)
+# Chapter 5
+**Key themes:**
+1. Jesus heals a man who had been sick for 38 years, on the sabbath.
+2. The scriptures point and talk about the Son, Jesus.
+3. Jesus as the Lord: He is Lord over the sabbath, He judges perfectly, His will is one with the Father.
+
+**To do:**
+1. (v18) *"but also called God his Father, making himself equal with God"* Trinitarian philosophy here.
+# Chapter 6
+**Key themes:**
+1. Jesus multiples the bread to feed the multitude of five thousand.
+2. Jesus walks on the water to reach the disciples boat. The sea rose because of a strong wind. Jesus as Lord over the natural forces.
+3. Eucharistic discourse: Jesus' flesh is the bread come down from heaven, prefigured by the Manna of the wilderness.
+4. Revelation that one of the twelve will betray Jesus (Judas Iscariot)
+
+**Question:**
+1. What does *"It is the spirit that gives life, the flesh is of no avail"* mean? And does it contradict eucharistic real presence?
