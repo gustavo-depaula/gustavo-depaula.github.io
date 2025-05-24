@@ -83,3 +83,5 @@ To keep being in the path of righteousness, you have to keep all your senses awa
 Warns against *"loose"* (RSV-CE) / *"wanton"* / *"prostitute"* (DR) / *"unfaithful"* women. May be understood as prostitutes or a sexually promiscuous woman. Her lips and speech is like honey, but in the end she'll lead to "Sheol", as she does not follow the path of life.
 ## Verses 5:7-14
 Highlights the dangers of relating with this sort of woman: losing your youth to vice, being harmed by the husband of the adulteress, losing the fruit of your labor to others, illness gained because of your vices. And finally: regretting, at the end of your life, how you did not live a virtuous life with discipline, and this has cost you a lot.
+## Verses 5:15-23
+What is the alternative then? *“Drink water from your own cistern, flowing water from your own well”*. In other words, be faithful to the *“wife of your youth”*. Also, don’t let *“your springs be scattered abroad*, i.e. lost children in the world, let them be yours, for you to take care, and not have your *“streams of water in the streets”*. The Lord watches the ways of men, and the wicked die because of their lack of discipline.

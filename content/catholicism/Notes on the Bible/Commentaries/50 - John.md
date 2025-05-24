@@ -53,3 +53,29 @@
 
 **Question:**
 1. What does *"It is the spirit that gives life, the flesh is of no avail"* mean? And does it contradict eucharistic real presence?
+# Chapter 7
+**Key themes:**
+1. The Jews want to arrest and kill Jesus.
+2. The people themselves are mixed, some want to arrest him, others think He is a good man, and others question themselves if He is the Christ.
+3. Jesus’ teachings in the feast of the tabernacles:
+	1. Jesus’ teaching is from God
+	2. Hypocrisy of those who condemn Jesus for healing on the sabbath, but they circumcise on the sabbath.
+	3. Jesus foretells His ascension.
+	4. Those who believe will receive the Spirit, and the Spirit is rivers of running water. *Out of his heart shall flow rivers of running water*: prefigures the water from the side of Christ in the cross.
+
+**Questions:**
+1. If Jesus had to learn how to do human things, did He has to learn the divine truths also (for His teaching) also?
+# Chapter 8
+**Key themes:**
+1. Parable of the adulteress.
+2. Wow
+3. *“Before Abraham, I was”*.
+4. Jesus proceeds and is sent by the Father.
+5. Who commits sin is a slave to sin.
+# Chapter 9
+**Key themes:**
+1. Jesus gives sight to a blind man, using clay. Connection to the creation of man.
+2. Jesus seems to be rebutting the thesis of hereditary divine punishment for sin.
+3. Big theme “open the eyes”. When the man opened his eyes, he is able to say “He is a prophet!” (John 9:17)
+4. John 9:38 the cured man believed and “worshipped” Jesus.
+5. John 9:40-41 There’s guilt for those who see but deny Christ.
