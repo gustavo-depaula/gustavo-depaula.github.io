@@ -79,3 +79,16 @@
 3. Big theme “open the eyes”. When the man opened his eyes, he is able to say “He is a prophet!” (John 9:17)
 4. John 9:38 the cured man believed and “worshipped” Jesus.
 5. John 9:40-41 There’s guilt for those who see but deny Christ.
+# Chapter 10
+**Key themes:**
+1. Jesus is the good shepherd.
+2. v17, prefiguration of the resurrection.
+3. The Jews wanted to stone Jesus for blasphemy, for making himself God.
+# Chapter 11
+**Key themes:**
+1. Martha confesses that Jesus is the son of God.
+2. Resurrection of Lazarus.
+3. The high priests and the Pharisees worry that if people believe in Jesus, the Romans would destroy the temple and the nation. But Caiaphas prophesied that Jesus should die for the nation, and to unite the children of God.
+# Chapter 12
+**Key themes:**
+1. Entrance of Jesus in Jerusalem a week before Passover. (Palm Tree Sunday)

@@ -85,3 +85,6 @@ Warns against *"loose"* (RSV-CE) / *"wanton"* / *"prostitute"* (DR) / *"unfaithf
 Highlights the dangers of relating with this sort of woman: losing your youth to vice, being harmed by the husband of the adulteress, losing the fruit of your labor to others, illness gained because of your vices. And finally: regretting, at the end of your life, how you did not live a virtuous life with discipline, and this has cost you a lot.
 ## Verses 5:15-23
 What is the alternative then? *“Drink water from your own cistern, flowing water from your own well”*. In other words, be faithful to the *“wife of your youth”*. Also, don’t let *“your springs be scattered abroad*, i.e. lost children in the world, let them be yours, for you to take care, and not have your *“streams of water in the streets”*. The Lord watches the ways of men, and the wicked die because of their lack of discipline.
+# Chapter 6
+## Verses 6:1-5
+Warns against suretyship, and the financial imprudence that may come with it. If you end up in this situation, be quick to resolve it, with the urgency of a gazelles that runs from the hunter. Being in a financial commitment / obligation is saying under someone else’s power.
