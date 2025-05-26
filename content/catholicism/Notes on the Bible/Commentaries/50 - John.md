@@ -92,3 +92,18 @@
 # Chapter 12
 **Key themes:**
 1. Entrance of Jesus in Jerusalem a week before Passover. (Palm Tree Sunday)
+# Chapter 13
+**Key themes:**
+1. Jesus washes the feet of the disciples.
+2. Jesus reveals one of the disciples is going to betray him.
+# Chapter 14
+**Key themes:**
+1. Jesus as the only way to the Father.
+2. The Holy Spirit will be sent to be another counselor.
+3. The Holy Spirit (v.26) teaches and brings into remembrance all the things the Son taught them.
+# Chapter 15
+**Key themes:**
+1. Jesus as the true vine: we can only have true life abiding in him. The Father purifies those branches abided in the Son so they bear more fruit.
+2. Jesus elevates the commandment to love one another. Now not “as you love yourself”, but as “I have loved you”.
+3. The biggest sign of love is sacrifice.
+4. The disciples will be persecuted, because the world hates them, because they hate Christ.
