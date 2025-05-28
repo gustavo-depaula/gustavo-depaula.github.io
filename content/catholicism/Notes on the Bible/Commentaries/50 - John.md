@@ -117,3 +117,24 @@
 **Key themes:**
 1. Jesus arrest and first trial by Pilate.
 2. Peter denies Jesus 3 times.
+3. The crowd chooses to free Barabbas instead of Jesus.
+# Chapter 19
+**Key themes:**
+1. Jesus’ crucifixion.
+2. Several references *“to fulfill the scripture”*.
+3. Pilate thinks Jesus is innocent, and recognizes him as ”King of the Jews”.
+4. Jesus is brought to the tomb of Joseph of Arimathea, who was not used before.
+5. The beloved disciple (John) takes Mary as his mother.
+
+Connection between Jesus’ clothes and priestly garments (Ephod).
+# Chapter 20
+**Key themes:**
+1. Mary Madgalene as the “apostle of the apostles”: First to encounter the empty tomb and to see the risen Christ, and spread the good news to the apostles.
+2. Jesus appears to the disciples, which were in a locked house, but Thomas wasn’t there. Thomas doubts, but Christ appears a second time to him.
+3. Jesus gives the disciples the Holy Spirit, and the power to forgive and retain sins.
+4. Jesus made many other signs, which weren’t listed in this book.
+# Chapter 21
+**Key themes:**
+1. Miraculous fishing, remembering the start of Peter’s discipleship. 153 fish in the fishnet.
+2. Threefold question / proclamation of wether Peter loved Jesus, and the commandment of Jesus for Peter to *“tend to/feed my sheep/lambs”*.
+3. Proclamation to not apply the death sentence to Judas?

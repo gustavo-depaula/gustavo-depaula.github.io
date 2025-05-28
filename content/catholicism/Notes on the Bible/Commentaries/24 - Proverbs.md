@@ -92,3 +92,16 @@ Warns against suretyship, and the financial imprudence that may come with it. If
 The *“sluggard”* should learn how to be wise with the ants: they have no one watching and commanding over them, but they work hard and save for the future. If the sluggard doesn’t change his ways, poverty will surely attack him.
 ## Verses 6:12-15
 Warns against the iniquity of gossip and spreading false rumors. He has a perverted heart, and is sowing discord. Calamity will suddenly come upon him, breaking him beyond healing.
+## Verses 6:16-19
+V. 16 seems to be a literary device to emphasize the last one as being the worst of all.
+
+These are the things the Lord hates:
+1. **Haughty eyes**: Pride, contempt against another.
+2. **Lying tongue**: Liars.
+3. **Hands that shed innocent blood**: Killing, wounding. In the New Covenant, Jesus elevates the “thou shall not kill” commandment to include “interiorly” killing another person in your own heart.
+4. **Heart that devises wicked plans**: A person that not only does evil, but makes plans to do it. Premeditated, willful, purposeful crimes have increase culpability.
+5. **Feet that make haste to run to evil**: Vices that create vicious cycles, that are hard to escape.
+6. **False witness who breathes out lies**: Not only a liar, but using lies to hurt another person.
+7. **Man who sows discord among brothers**: The work of the devil. *Diabolos*: the one who divides, disunites. 
+## Verses 20-22
+Virtue and vicious cycles. When you keep the wisdom of God and practice virtues, it is easy to walk down that path. And vice-versa. Thus, the habits (virtues and vices) you build lead you and watch over you.
