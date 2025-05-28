@@ -52,3 +52,14 @@ Although Elkanah was Ephraimite by residence, he was a Levite by blood.
 2. Because Samuel is now old, and his sons are wicked, the Elders ask for a king to be appointed.
 3. The Lord commands Samuel to do as the Elders ask, for they *"have not rejected you, but they have rejected me from being king over them."* (1 Samuel 8:7)
 4. Samuel warns the people giving the "cons" of having a king, an anti-monarchical speech. But the people still wanted a king, so God commands Samuel to appoint a king.
+# Chapter 9
+**Key themes:**
+1. Providence leads Saul, son of Kish, from Benjamin, to Samuel, so that Samuel might anoint and appoint Saul as king.
+2. Repetition of theme of God choosing / having a preference for the little ones (v. 21): Saul comes from Benjamin, and from the *“humblest”* family of Benjamin
+# Chapter 10
+**Key themes:**
+1. Samuel anoints and appoints Saul as King.
+2. Saul prophesies among the prophets.
+3. Saul hides before the appointment.
+4. Samuel tells the people and writes in a book the rights and duties of Kingship.
+5. v. 6 Prefiguration of Baptism: the Spirit of God comes and makes a new man.

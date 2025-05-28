@@ -105,3 +105,9 @@ These are the things the Lord hates:
 7. **Man who sows discord among brothers**: The work of the devil. *Diabolos*: the one who divides, disunites. 
 ## Verses 20-22
 Virtue and vicious cycles. When you keep the wisdom of God and practice virtues, it is easy to walk down that path. And vice-versa. Thus, the habits (virtues and vices) you build lead you and watch over you.
+## Verses 23-35
+The commandments and teachings are the light that guide the path, while discipline is the guardrails that keep us on the path. The path is “the way of life”.
+
+v. 35 Prefigures Jesus elevating the commandments, as it reprimands lusting for a woman in our own hearts.
+
+Warns against the destructive effects of lying with another man’s wife as an act that will not go unpunished, and is despised by men, and will surely be revenged by the adulteress’ husband.
