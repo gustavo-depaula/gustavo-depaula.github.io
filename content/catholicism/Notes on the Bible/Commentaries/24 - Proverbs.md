@@ -89,4 +89,6 @@ What is the alternative then? *“Drink water from your own cistern, flowing wat
 ## Verses 6:1-5
 Warns against suretyship, and the financial imprudence that may come with it. If you end up in this situation, be quick to resolve it, with the urgency of a gazelles that runs from the hunter. Being in a financial commitment / obligation is saying under someone else’s power.
 ## Verses 6:6-11
-The *“sluggard”* should learn how to be wise with the ants: they have no one watching and commanding over them, but they work hard and save for the future. If the sluggard don’t change his ways, poverty will surely attack him.
+The *“sluggard”* should learn how to be wise with the ants: they have no one watching and commanding over them, but they work hard and save for the future. If the sluggard doesn’t change his ways, poverty will surely attack him.
+## Verses 6:12-15
+Warns against the iniquity of gossip and spreading false rumors. He has a perverted heart, and is sowing discord. Calamity will suddenly come upon him, breaking him beyond healing.

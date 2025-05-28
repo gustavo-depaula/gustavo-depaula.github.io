@@ -107,3 +107,13 @@
 2. Jesus elevates the commandment to love one another. Now not “as you love yourself”, but as “I have loved you”.
 3. The biggest sign of love is sacrifice.
 4. The disciples will be persecuted, because the world hates them, because they hate Christ.
+# Chapter 16
+**Key themes:**
+1. Jesus talks in figures about his death and resurrection.
+# Chapter 17
+**Key themes:**
+1. Jesus’ prayer for Church’s unity.
+# Chapter 18
+**Key themes:**
+1. Jesus arrest and first trial by Pilate.
+2. Peter denies Jesus 3 times.
