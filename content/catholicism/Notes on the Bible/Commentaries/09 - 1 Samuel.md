@@ -63,3 +63,15 @@ Although Elkanah was Ephraimite by residence, he was a Levite by blood.
 3. Saul hides before the appointment.
 4. Samuel tells the people and writes in a book the rights and duties of Kingship.
 5. v. 6 Prefiguration of Baptism: the Spirit of God comes and makes a new man.
+# Chapter 11
+**Key themes:**
+1. Saul unites Israel to defend Jabesh-Gilead from the Ammonites, that wanted to gouge the right eyes of the people to disgrace Israel in return for peace. 
+
+**Questions:**
+2. What is the symbolic ritual of gouging the right eyes?
+# Chapter 12
+**Key themes:**
+1. Samuel is at the end of his life and asks the people if He is in debt to anybody.
+2. He recounts the story of Israel’s liberation from Egypt, and the times of Judges, where the people sinned greatly but God rescued them.
+3. The people sinned when asking for a King, but the Lord will not turn away from them and their king if they follow the Lord.
+4. The people ask for Samuel to pray for them.
