@@ -75,3 +75,12 @@ Although Elkanah was Ephraimite by residence, he was a Levite by blood.
 2. He recounts the story of Israel’s liberation from Egypt, and the times of Judges, where the people sinned greatly but God rescued them.
 3. The people sinned when asking for a King, but the Lord will not turn away from them and their king if they follow the Lord.
 4. The people ask for Samuel to pray for them.
+# Chapter 13
+**Key themes:**
+1. Jonathan is Saul’s son.
+2. Jonathan attacks the Philistines, provoking a response and Israel is outnumbered.
+3. Samuel asks Saul for 7 days while he reaches the camp to offer the offerings to God before the battle, but he is late, and Saul offers the sacrifices in Samuel’s place.
+4. This was a grave act of disobedience and usurpation of the priestly authority. Because of this, God has chosen a new man (*“after his own heart”*) to be king.
+# Chapter 14
+**Key themes:**
+1. f
