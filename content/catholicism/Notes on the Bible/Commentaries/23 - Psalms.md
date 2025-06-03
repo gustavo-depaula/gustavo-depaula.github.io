@@ -79,6 +79,8 @@ The psalmist is asking for God’s help against his oppressor. But the important
 
 **Psalm 55:4** *“the terrors of death have fallen upon me”*: Recalls the “way of death” from Proverbs
 **Psalm 55:9** *“O Lord, confuse their tongues”*: Recalls Tower of Babel’s story.
+# Psalm 58
+A complaint against corrupt judges, that pervert justice by bring evil in their judgements. Judging is a responsibility of God. God is the ultimate judge and will deal justice to the wicked.
 # Psalm 71
 Psalm to praise God and deliver your hopes unto God because He is great, and He will not forsake us and will bring us back up. Sufferings and injustice shall not make us stop praising the Lord, because He is great. He is indeed all-powerful and all-just. Who is like Him?
 # Psalm 73
