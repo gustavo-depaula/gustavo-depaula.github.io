@@ -84,3 +84,27 @@ Although Elkanah was Ephraimite by residence, he was a Levite by blood.
 # Chapter 14
 **Key themes:**
 1. f
+
+
+
+# Chapter 17
+**Key themes:**
+1. The Philistines offer warfare by a single combat, choosing Goliath, a giant and heavily armored man to fight on their side.
+2. David, the shepherd, decides to fight for the Israelites, because no man offered himself up.
+
+**Moral sense:**
+1. God sanctified David through his daily work, preparing him for his big mission through smaller but hard challenges, having to defeat bears and lions to protect the sheeps.
+# Chapter 18
+**Key themes:**
+1. David and Jonathan make a covenant.
+2. David becomes a very successful warrior because the Lord was with him, and becomes highly esteemed among the people.
+3. Out of jealousy, Saul tries to kill David. First with a spear, but David is able to evade it twice. (But what was David reaction? Did he know that Saul was trying to kill him?)
+4. Then, he tries to kill by giving one of his  daughters as a wife to him, (How? “That she may be a snare to him”) and by sending him to battle with the Philistines, but he won all battles.
+5. David marries Michal, Saul’s daughter.
+
+**Questions:**
+1. Knitting of souls together? (Jonathan and David)
+# Chapter 19
+**Key themes:**
+1. Saul tries to kill David. First, Jonathan intercedes for him, then Michal. Finally he escapes and runs to Samuel at Ramah.
+2. Saul sent messengers to reach Samuel and David, three times, but all of the prophesied. (What does this mean exactly?) and Saul went there himself, and the Spirit of God came upon him and he also prophesied (and got naked).

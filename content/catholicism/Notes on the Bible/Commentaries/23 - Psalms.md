@@ -3,6 +3,8 @@
 # Psalm 2
 # Psalm 10
 A Psalm questioning why God lets the wicked prosper. The wicked do not obey God, and think their wickedness shall not be punished. The Psalm ends recognizing how the Lord will help the oppressed and asking God to punish the wicked.
+# Psalm 12
+The Psalm speaks of the decadent state of the society, where the people are not faithful and everyone lies. It contrasts the lying and proud tongues of men with the pure promises the Lord makes.
 # Psalm 16
 
 **Moral sense:**
@@ -81,6 +83,8 @@ The psalmist is asking for God’s help against his oppressor. But the important
 **Psalm 55:9** *“O Lord, confuse their tongues”*: Recalls Tower of Babel’s story.
 # Psalm 58
 A complaint against corrupt judges, that pervert justice by bring evil in their judgements. Judging is a responsibility of God. God is the ultimate judge and will deal justice to the wicked.
+# Psalm 59
+David’s prayer to God when Saul was trying to kill him.
 # Psalm 71
 Psalm to praise God and deliver your hopes unto God because He is great, and He will not forsake us and will bring us back up. Sufferings and injustice shall not make us stop praising the Lord, because He is great. He is indeed all-powerful and all-just. Who is like Him?
 # Psalm 73
