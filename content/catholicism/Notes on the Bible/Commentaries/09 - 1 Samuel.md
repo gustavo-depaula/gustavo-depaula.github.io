@@ -83,10 +83,21 @@ Although Elkanah was Ephraimite by residence, he was a Levite by blood.
 4. This was a grave act of disobedience and usurpation of the priestly authority. Because of this, God has chosen a new man (*“after his own heart”*) to be king.
 # Chapter 14
 **Key themes:**
-1. f
+1. TODO
+# Chapter 15
+**Key themes:**
+1. The Lord commanded Saul to fight and destroy the Amalekites, but Saul and the people don’t utterly destroy the Amalekites. Instead, they save their king and the best spoil.
+2. Because of this grave act of disobedience, the Lord will choose another king. Samuel communicates this message to Saul.
+# Chapter 16
+**Key themes:**
+1. Samuel anoints David, son of Jesse, to be the next king, and the Spirit of God comes upon him. (Looks like Chrismation).
+2. David is the youngest. His father didn’t believe it could be him.
+3. The Spirit of God departs from Saul, and an evil spirit comes upon him.
+4. David starts working for Saul, playing the lyre for him. Whenever the evil spirit was with Saul, David played the lyre, and the spirit departed.
 
-
-
+**Questions:**
+1. What does it mean to consecrate? (v. 5)
+2. *“evil spirit from God”*? (v. 15)
 # Chapter 17
 **Key themes:**
 1. The Philistines offer warfare by a single combat, choosing Goliath, a giant and heavily armored man to fight on their side.
@@ -108,3 +119,6 @@ Although Elkanah was Ephraimite by residence, he was a Levite by blood.
 **Key themes:**
 1. Saul tries to kill David. First, Jonathan intercedes for him, then Michal. Finally he escapes and runs to Samuel at Ramah.
 2. Saul sent messengers to reach Samuel and David, three times, but all of the prophesied. (What does this mean exactly?) and Saul went there himself, and the Spirit of God came upon him and he also prophesied (and got naked).
+# Reference
+**1 Samuel 16:7b**
+*“for the Lord sees not as men sees; man looks on the outward appearance, but the Lord looks on the heart.”*
