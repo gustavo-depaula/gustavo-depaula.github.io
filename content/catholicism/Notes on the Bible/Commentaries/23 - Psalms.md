@@ -238,7 +238,8 @@ A penitential psalm. No one would stand with the Lord marked our iniquities. But
 Hope in the Lord brings calmness and peace for the soul.
 # Psalm 132
 # Psalm 136
-
+# Psalm 142
+The psalm says this was when David was in the cave (but haven’t reached that point). It is a psalm asking God for the deliverance of evil, from those who persecute him.
 # Psalm 149
 A praising Psalm that can be divided into two parts. The first is vv. 1-3 that purely praises the Lord, and the second is vv. 4-9, about how the faithful people of Israel shall execute judgement through the sword on the nations.
 # Psalm 150

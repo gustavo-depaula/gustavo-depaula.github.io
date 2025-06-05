@@ -119,6 +119,9 @@ Although Elkanah was Ephraimite by residence, he was a Levite by blood.
 **Key themes:**
 1. Saul tries to kill David. First, Jonathan intercedes for him, then Michal. Finally he escapes and runs to Samuel at Ramah.
 2. Saul sent messengers to reach Samuel and David, three times, but all of the prophesied. (What does this mean exactly?) and Saul went there himself, and the Spirit of God came upon him and he also prophesied (and got naked).
+# Chapter 20
+**Key themes:**
+1. Jonathan and David show a true friendship and love for each other. They plan a scheme to know whether Saul is still trying to kill David, so that David knows if he can stay or if he should run.
 # Reference
 **1 Samuel 16:7b**
 *“for the Lord sees not as men sees; man looks on the outward appearance, but the Lord looks on the heart.”*
