@@ -9,10 +9,6 @@ description: "OUTRO LADO: Procurada, defesa do comediante alega censura e afirma
 tags:
   - "clippings"
 ---
-[![Icon App](https://f.i.uol.com.br/hunting/folha/1/common/icons/logo-folha-tempo-real-app_144px.png) Baixe o app da Folha de S.Paulo de graça BAIXAR](https://apps.apple.com/br/app/folha-de-s-paulo/id943058711)
-
-**[Lara Paiva](https://www1.folha.uol.com.br/autores/lara-paiva.shtml)**
-
 **São Paulo**
 
 O humorista [Leo Lins](https://f5.folha.uol.com.br/colunistas/tonygoes/2023/05/leo-lins-e-abominavel-mas-sera-que-deve-ser-censurado.shtml) foi condenado a oito anos e três meses de prisão por comentários considerados discriminatórios, feitos em uma apresentação de 2022 e exibida no [YouTube](https://www1.folha.uol.com.br/folha-topicos/youtube/). Cabe recurso à sentença. O processo corre na 3ª Vara Criminal Federal de São Paulo.
@@ -56,24 +52,3 @@ Vários comediantes, como [Fabio Porchat](https://www1.folha.uol.com.br/folha-to
 A defesa de Lins levou o caso ao Supremo Tribunal Federal, alegando que a decisão feria a liberdade de expressão e contrariava precedentes estabelecidos no próprio [STF](https://www1.folha.uol.com.br/folha-topicos/stf/). Em setembro de 2023, o STF suspendeu a decisão, considerando que ela ia [contra as liberdades constitucionais](https://f5.folha.uol.com.br/voceviu/2023/09/stf-suspende-decisao-que-determina-retirada-de-stand-up-de-leo-lins-das-plataformas-digitais.shtml) de manifestação do pensamento e de expressão.
 
 Segundo o relator do processo, [André Mendonça](https://www1.folha.uol.com.br/folha-topicos/andre-mendonca/), o entendimento do STF não afasta a responsabilidade civil ou penal de alguém que tenha feito comentários discriminatórios.
-
-- [Envie sua notícia](https://www1.folha.uol.com.br/enviesuanoticia/)
-- [Erramos?](https://tools.folha.com.br/feedback?url=https://www1.folha.uol.com.br/ilustrada/2025/06/leo-lins-e-condenado-a-8-anos-de-prisao-por-video-com-piadas-consideradas-preconceituosas.shtml "Comunicar erro - Site externo")
-
-#### notícias da folha no seu email
-
-#### últimas notícias## [PGR pede prisão preventiva, bloqueio de bens e inclusão de Zambelli em lista da Interpol](https://www1.folha.uol.com.br/poder/2025/06/pgr-pede-prisao-preventiva-de-carla-zambelli-apos-deputada-deixar-o-brasil.shtml)
-
-[
-
-Deputada anunciou ter deixado o Brasil após condenação no STF
-
-](https://www1.folha.uol.com.br/poder/2025/06/pgr-pede-prisao-preventiva-de-carla-zambelli-apos-deputada-deixar-o-brasil.shtml)## [No mapa da fome, por que o Brasil vive uma epidemia de obesidade?](https://www1.folha.uol.com.br/tv/2025/06/no-mapa-da-fome-por-que-o-brasil-vive-uma-epidemia-de-obesidade.shtml)
-
-[Angela Boldrini conversa com a repórter Gabriela Caseff](https://www1.folha.uol.com.br/tv/2025/06/no-mapa-da-fome-por-que-o-brasil-vive-uma-epidemia-de-obesidade.shtml)## [Haddad diz que precisa de aprovação de líderes do Congresso e adia anúncio de medidas para compensar IOF](https://www1.folha.uol.com.br/mercado/2025/06/governo-precisa-aprovar-medidas-de-compensacao-para-poder-rever-decreto-do-iof-diz-haddad.shtml)
-
-[
-
-Executivo deve apresentar novas propostas a lideranças políticas em reunião no domingo (8)
-
-](https://www1.folha.uol.com.br/mercado/2025/06/governo-precisa-aprovar-medidas-de-compensacao-para-poder-rever-decreto-do-iof-diz-haddad.shtml)
