@@ -82,6 +82,8 @@ In a specific sense, it seems to be talking about Saul and his evil doings.
 **Ps 53:1** *The fool says in his heart, “There is no God”.*
 
 The unbelievers are easily corruptible, they work evil without understanding the consequences, and become depraved. God will punish them, for whoever rejects God, God rejects them (Ps 53:5).
+# Psalm 54
+Psalm of David asking for deliverance from evil, when he was being pursued by Saul and the Ziphites told Saul where he were.
 # Psalm 55
 The psalmist is asking for God’s help against his oppressor. But the important part is that the oppression and the heavy hand is not coming from enemies, but from a (former) friend, who has betrayed him, and that is what makes it unbearable. The psalmist shows faith and hope in God and His perfect justice.
 

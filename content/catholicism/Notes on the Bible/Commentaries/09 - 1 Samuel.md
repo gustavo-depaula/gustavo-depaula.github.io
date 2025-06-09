@@ -127,7 +127,15 @@ Although Elkanah was Ephraimite by residence, he was a Levite by blood.
 1. David escapes to a cave in Adullam. When his family heard about this, they and other people followed him, and him became captain (a kind of judge?) over them (400 people).
 2. He left his family under the king of Moab, while he is going through this hardship.
 3. Saul kills Ahimelech and his house for helping David, even while he didn’t know what was happening.
-4. 
+# Chapter 23
+**Key themes:**
+1. Saul is not alone, but have men with him. They free Keilah (a city) from the Philistines.
+2. Saul pursues David.
+3. The Ziphites denounce that David is among them to Saul.
+# Chapter 24
+**Key themes:**
+
+
 # Reference
 **1 Samuel 16:7b**
 *“for the Lord sees not as men sees; man looks on the outward appearance, but the Lord looks on the heart.”*
