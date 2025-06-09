@@ -122,6 +122,11 @@ Although Elkanah was Ephraimite by residence, he was a Levite by blood.
 # Chapter 20
 **Key themes:**
 1. Jonathan and David show a true friendship and love for each other. They plan a scheme to know whether Saul is still trying to kill David, so that David knows if he can stay or if he should run.
+# Chapter 21
+**Key themes:**
+1. David goes to Nob, to Ahimelech, the priest. There, he asks for a sword, and the priest gives him the sword of Goliath.
+
+It seems to have a profound significance the taking of Goliath's sword by David. David is now wearing something of Goliath. 1 Samuel 21:8-9
 # Chapter 22
 **Key themes:**
 1. David escapes to a cave in Adullam. When his family heard about this, they and other people followed him, and him became captain (a kind of judge?) over them (400 people).
@@ -134,8 +139,7 @@ Although Elkanah was Ephraimite by residence, he was a Levite by blood.
 3. The Ziphites denounce that David is among them to Saul.
 # Chapter 24
 **Key themes:**
-
-
+1. todo
 # Reference
 **1 Samuel 16:7b**
 *“for the Lord sees not as men sees; man looks on the outward appearance, but the Lord looks on the heart.”*
