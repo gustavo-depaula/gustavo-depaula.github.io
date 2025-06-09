@@ -72,6 +72,12 @@ Psalm of praise to God for the liberation of Israel.
 
 # Psalm 50
 The outward signs of religion (sacrifices in this case) must be accompanied by an interior act of thanksgiving and prayer, and of following the commandments.
+# Psalm 52
+Because of Psalm 52, we know that Doeg, the Edomite, was the one who told Saul that David passed through the Ahimelech’s house.
+
+In a general sense, it criticizes those wicked men that do evil and destruction, and how, when they are avenged, the righteous will recognize the effects making personal wealth their refuge instead of God.
+
+In a specific sense, it seems to be talking about Saul and his evil doings.
 # Psalm 53
 **Ps 53:1** *The fool says in his heart, “There is no God”.*
 

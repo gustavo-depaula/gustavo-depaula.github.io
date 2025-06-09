@@ -122,6 +122,12 @@ Although Elkanah was Ephraimite by residence, he was a Levite by blood.
 # Chapter 20
 **Key themes:**
 1. Jonathan and David show a true friendship and love for each other. They plan a scheme to know whether Saul is still trying to kill David, so that David knows if he can stay or if he should run.
+# Chapter 22
+**Key themes:**
+1. David escapes to a cave in Adullam. When his family heard about this, they and other people followed him, and him became captain (a kind of judge?) over them (400 people).
+2. He left his family under the king of Moab, while he is going through this hardship.
+3. Saul kills Ahimelech and his house for helping David, even while he didn’t know what was happening.
+4. 
 # Reference
 **1 Samuel 16:7b**
 *“for the Lord sees not as men sees; man looks on the outward appearance, but the Lord looks on the heart.”*
