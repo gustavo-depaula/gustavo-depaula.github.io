@@ -89,6 +89,11 @@ The psalmist is asking for God’s help against his oppressor. But the important
 
 **Psalm 55:4** *“the terrors of death have fallen upon me”*: Recalls the “way of death” from Proverbs
 **Psalm 55:9** *“O Lord, confuse their tongues”*: Recalls Tower of Babel’s story.
+# Psalm 57
+A psalm about deliverance against persecution and injustice, trusting/hoping in God’s mercy.
+
+**Psalm 57:6**
+*“They set a net for my steps; my soul was bowed down. They dug a pit in my way, but they have fallen into it themselves.”*
 # Psalm 58
 A complaint against corrupt judges, that pervert justice by bring evil in their judgements. Judging is a responsibility of God. God is the ultimate judge and will deal justice to the wicked.
 # Psalm 59

@@ -139,7 +139,10 @@ It seems to have a profound significance the taking of Goliath's sword by David.
 3. The Ziphites denounce that David is among them to Saul.
 # Chapter 24
 **Key themes:**
-1. todo
+1. David has a chance to kill Saul in the cave but he doesn’t do it. Because Saul is the Lord’s anointed one.
+2. Saul recognizes David’s goodness and confesses him to be the next king of Israel, but asks him to not kill his descendants, which he agrees to.
+
+1 Samuel 24:19 connects with Jesus’ teachings in loving your enemy.
 # Reference
 **1 Samuel 16:7b**
 *“for the Lord sees not as men sees; man looks on the outward appearance, but the Lord looks on the heart.”*
