@@ -100,6 +100,8 @@ A complaint against corrupt judges, that pervert justice by bring evil in their 
 David’s prayer to God when Saul was trying to kill him.
 # Psalm 61
 A psalm confessing the Lord to be the refugee and protection of the psalmist. It gives thanks to the inheritance he has received from those who fear the name of the Lord. And it also asks for protection to the life of the king, having love and faithfulness with him.
+# Psalm 63
+A praising psalm by David. Also the theme of deliverance of persecutors.
 # Psalm 71
 Psalm to praise God and deliver your hopes unto God because He is great, and He will not forsake us and will bring us back up. Sufferings and injustice shall not make us stop praising the Lord, because He is great. He is indeed all-powerful and all-just. Who is like Him?
 # Psalm 73

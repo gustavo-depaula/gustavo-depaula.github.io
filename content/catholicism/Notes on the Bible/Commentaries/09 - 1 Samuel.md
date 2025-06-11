@@ -143,6 +143,12 @@ It seems to have a profound significance the taking of Goliath's sword by David.
 2. Saul recognizes David’s goodness and confesses him to be the next king of Israel, but asks him to not kill his descendants, which he agrees to.
 
 1 Samuel 24:19 connects with Jesus’ teachings in loving your enemy.
+# Chapter 25
+**Key themes:**
+1. Samuel dies.
+2. History of the second wife of David, Abigail. How they met and how her husband (Nabal \[which means *fool*]) died. David also took Ahinoam as wife.
+3. Saul gave Michal his daughter and wife of David to Palti the son of Laish.
+# Chapter 
 # Reference
 **1 Samuel 16:7b**
 *“for the Lord sees not as men sees; man looks on the outward appearance, but the Lord looks on the heart.”*
