@@ -154,7 +154,32 @@ It seems to have a profound significance the taking of Goliath's sword by David.
 2. David and Abishai go down to Saul's encapment and is able to enter the tent where Saul is sleeping, but they do not kill him. Instead, they steal his spear and the jar of water.
 3. In the next day, David rebuked Abner for not protecting Saul, and asks Saul why is he pursuing him.
 4. Saul recognizes he had erred and is thankful for David, and goes away.
+# Chapter 27
+**Key themes:**
+1. David escapes Saul persecution by staying outside of Israel, in the land of Gath, of King Achish.
+2. Achish, king of Gath, gives Ziklag to David.
+3. David made raids against the Geshurites, Girzites, and Amalekites, but said to Achish that he made raids against Judah.
 
+**Questions:**
+1. What is the "Negeb"?
+	1. A region of southern Judah.
+# Chapter 28
+**Key themes:**
+1. The Philistines started to prepare to go to war with Israel, and Achish called David to be his bodyguard.
+2. Samuel dies.
+3. Saul saw the Philistines' armies preparing, but the Lord would not answer him. So he went to a medium woman to do necromancy and invoke Samuel to speak with him, and Samuel rebukes him, saying that he will fall because of his disobedience.
+# Chapter 29
+**Key themes:**
+1. The rest of the Philistines don't let David fight by their side, so Achish sends David back home.
+# Chapter 30
+**Key themes:**
+1. The Amalekites raided Ziklag, taking David's wives and the people that stayed in the city.
+2. David consults with the Lord, and He says to pursue the people.
+3. David pursues, defeats the Amalekites, and gets everything back.
+# Chapter 31
+**Key themes:**
+1. The Philistines kill the sons of Saul.
+2. Saul kills himself.
 # Reference
 **1 Samuel 16:7b**
 *“for the Lord sees not as men sees; man looks on the outward appearance, but the Lord looks on the heart.”*
