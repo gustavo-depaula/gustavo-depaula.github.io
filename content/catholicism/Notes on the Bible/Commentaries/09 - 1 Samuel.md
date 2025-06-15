@@ -148,7 +148,13 @@ It seems to have a profound significance the taking of Goliath's sword by David.
 1. Samuel dies.
 2. History of the second wife of David, Abigail. How they met and how her husband (Nabal \[which means *fool*]) died. David also took Ahinoam as wife.
 3. Saul gave Michal his daughter and wife of David to Palti the son of Laish.
-# Chapter 
+# Chapter 26
+**Key themes:**
+1. The Ziphites betray David again, telling Saul where he is.
+2. David and Abishai go down to Saul's encapment and is able to enter the tent where Saul is sleeping, but they do not kill him. Instead, they steal his spear and the jar of water.
+3. In the next day, David rebuked Abner for not protecting Saul, and asks Saul why is he pursuing him.
+4. Saul recognizes he had erred and is thankful for David, and goes away.
+
 # Reference
 **1 Samuel 16:7b**
 *“for the Lord sees not as men sees; man looks on the outward appearance, but the Lord looks on the heart.”*

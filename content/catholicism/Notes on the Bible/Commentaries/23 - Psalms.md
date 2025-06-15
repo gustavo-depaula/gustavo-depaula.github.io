@@ -89,6 +89,10 @@ The psalmist is asking for God’s help against his oppressor. But the important
 
 **Psalm 55:4** *“the terrors of death have fallen upon me”*: Recalls the “way of death” from Proverbs
 **Psalm 55:9** *“O Lord, confuse their tongues”*: Recalls Tower of Babel’s story.
+# Psalm 56
+The title says that this was by David when the Philistines seized him in Gath (don't know about this yet.)
+
+A prayer of deliverance against persecution.
 # Psalm 57
 A psalm about deliverance against persecution and injustice, trusting/hoping in God’s mercy.
 
