@@ -5,6 +5,8 @@
 A Psalm questioning why God lets the wicked prosper. The wicked do not obey God, and think their wickedness shall not be punished. The Psalm ends recognizing how the Lord will help the oppressed and asking God to punish the wicked.
 # Psalm 12
 The Psalm speaks of the decadent state of the society, where the people are not faithful and everyone lies. It contrasts the lying and proud tongues of men with the pure promises the Lord makes.
+# Psalm 13
+A psalm asking for God to hear the psalmist’s prayer, but he has hope that He will, and he puts his trust in Him.
 # Psalm 16
 **Moral sense:**
 1. **Psalm 16:11** God teaches us how to live, and we become happy by following Him.
