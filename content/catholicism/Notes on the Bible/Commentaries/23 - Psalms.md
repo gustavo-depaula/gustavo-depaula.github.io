@@ -258,6 +258,7 @@ A praising psalm. Also can be divided into two parts: Where and for what to prai
 # TODO
 - Psalm 118
 - 132
+- 24-27
 
 ---
 # Reference
